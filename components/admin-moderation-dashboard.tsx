@@ -42,7 +42,9 @@ export function AdminModerationDashboard() {
     if (!selected || !endpoint) return;
     setEdit({ firstName: selected.first_name, lastName: selected.last_name, relationship: selected.relationship_to_zea, story: selected.story, photoCaption: selected.photo_caption ?? "" });
     setEditing(false);
-    void fetch(`${endpoint}/api/admin/memories/${selected.id}/audit`, { credentials: "include", cache: "no-store" }).then((response) => response.ok ? response.json() : { events: [] }).then((data: { events: AuditEvent[] }) => setAuditEvents(data.events));
+    void fetch(`${endpoint}/api/admin/memories/${selected.id}/audit`, { credentials: "include", cache: "no-store" })
+      .then((response) => response.ok ? response.json() : { events: [] })
+      .then((data) => setAuditEvents((data as { events: AuditEvent[] }).events));
   }, [selected]);
   const counts = useMemo(() => ({ total: memories.length, withPhotos: memories.filter((item) => item.photo_key).length }), [memories]);
 
