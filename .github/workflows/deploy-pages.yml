@@ -24,11 +24,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-        env:
-          NEXT_PUBLIC_BASE_PATH: /zeauddin-ahmed-archive
       - run: npx next build
-        env:
-          NEXT_PUBLIC_BASE_PATH: /zeauddin-ahmed-archive
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
