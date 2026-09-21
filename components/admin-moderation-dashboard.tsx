@@ -10,7 +10,7 @@ type Memory = {
 };
 type AuditEvent = { id: number; action: string; actor_id: string | null; details: string | null; created_at: string };
 
-const endpoint = process.env.NEXT_PUBLIC_MEMORY_API_URL ?? "";
+const endpoint = process.env.NEXT_PUBLIC_ADMIN_API_URL ?? "";
 
 export function AdminModerationDashboard() {
   const [status, setStatus] = useState("pending");

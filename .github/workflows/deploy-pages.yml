@@ -27,6 +27,7 @@ jobs:
       - run: npx next build
         env:
           NEXT_PUBLIC_MEMORY_API_URL: ${{ vars.NEXT_PUBLIC_MEMORY_API_URL }}
+          NEXT_PUBLIC_ADMIN_API_URL: ${{ vars.NEXT_PUBLIC_ADMIN_API_URL }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./out

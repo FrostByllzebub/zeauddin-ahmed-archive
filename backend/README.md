@@ -1,6 +1,6 @@
 # Private memory API
 
-This Worker is the submission boundary for the public memory-book form. It keeps GitHub Pages static while using the free Cloudflare plan for a small D1 queue and private R2 photo storage.
+The public `zeauddin-memory-api` Worker is the submission boundary for the public memory-book form. A separate `zeauddin-admin-api` Worker serves the editorial queue and is protected as a whole service by Cloudflare Access. This keeps GitHub Pages static while using the free Cloudflare plan for a small D1 queue and private R2 photo storage.
 
 ## Setup
 
@@ -8,9 +8,10 @@ This Worker is the submission boundary for the public memory-book form. It keeps
 2. Copy `wrangler.toml.example` to `wrangler.toml` locally and replace the D1 database ID.
 3. Apply the migration with `npx wrangler d1 migrations apply zeauddin-archive --remote`.
 4. Deploy with `npx wrangler deploy`.
-5. Add the Worker URL as the GitHub Actions variable `NEXT_PUBLIC_MEMORY_API_URL` and rebuild the Pages site.
-6. Create a Cloudflare Zero Trust organization on the Free plan and protect the editorial host/path with a Cloudflare Access application. Allow only the editor email.
-7. Add these Worker runtime variables before using the editorial queue: `ADMIN_EMAIL`, `ACCESS_TEAM_DOMAIN`, and `ACCESS_AUDIENCE`.
+5. Add the public Worker URL as the GitHub Actions variable `NEXT_PUBLIC_MEMORY_API_URL`.
+6. Deploy the dedicated admin Worker as `zeauddin-admin-api`, with the same D1 and private R2 bindings, and add its URL as `NEXT_PUBLIC_ADMIN_API_URL`.
+7. Create a Cloudflare Zero Trust organization on the Free plan and protect the entire admin Worker with a Cloudflare Access application. Allow only the editor email.
+8. Add these runtime variables to the admin Worker before using the editorial queue: `ADMIN_EMAIL`, `ACCESS_TEAM_DOMAIN`, and `ACCESS_AUDIENCE`.
 
 Do not commit `wrangler.toml`, API tokens, database IDs, or private R2 URLs. The public form sends only to an explicitly configured HTTPS endpoint.
 
@@ -28,7 +29,7 @@ The Worker intentionally has no public read endpoint for pending memories. A lat
 
 ## Editorial security
 
-The `/admin/` page is a static GitHub Pages shell; it never contains a database credential or admin token. Private operations are rejected unless the Worker verifies a Cloudflare Access RS256 JWT, matching its audience and the configured `ADMIN_EMAIL`. Keep the Access application in front of the admin surface and never expose the D1 or R2 bindings directly.
+The `/admin/` page is a static GitHub Pages shell; it never contains a database credential or admin token. Private operations are rejected unless the admin Worker verifies a Cloudflare Access RS256 JWT, matching its audience and the configured `ADMIN_EMAIL`. Keep the Access application in front of the entire admin Worker and never expose the D1 or R2 bindings directly. The public Worker remains open only for its validated submission and approved-public-read routes.
 
 ## Storage guardrails
 
