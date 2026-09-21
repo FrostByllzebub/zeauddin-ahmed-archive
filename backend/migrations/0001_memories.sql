@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS memories (
   relationship_to_zea TEXT NOT NULL,
   story TEXT NOT NULL,
   photo_key TEXT,
+  photo_size_bytes INTEGER,
   photo_caption TEXT,
   consent_to_publish INTEGER NOT NULL DEFAULT 0,
   consent_to_contact INTEGER NOT NULL DEFAULT 0,

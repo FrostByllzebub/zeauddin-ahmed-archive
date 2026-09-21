@@ -4,6 +4,7 @@ const PUBLIC_ORIGINS = new Set([
   "http://localhost:3000",
 ]);
 const MAX_PHOTO_BYTES = 5 * 1024 * 1024;
+const MAX_TOTAL_PHOTO_BYTES = 9 * 1024 * 1024 * 1024;
 const ALLOWED_PHOTO_TYPES = new Set(["image/jpeg", "image/png", "image/webp"]);
 
 type Env = { DB: D1Database; BUCKET: R2Bucket };
@@ -60,12 +61,16 @@ export default {
 
       const id = crypto.randomUUID();
       let photoKey: string | null = null;
+      let photoSizeBytes: number | null = null;
       if (photo && photo instanceof File && photo.size > 0) {
+        const usage = await env.DB.prepare("SELECT COALESCE(SUM(photo_size_bytes), 0) AS total FROM memories WHERE photo_key IS NOT NULL").first<{ total: number }>();
+        if ((usage?.total ?? 0) + photo.size > MAX_TOTAL_PHOTO_BYTES) return json(request, { error: "The archive photo storage limit has been reached. Please contact the editor." }, 507);
         photoKey = `memories/${id}/original.${photo.type.split("/")[1]}`;
+        photoSizeBytes = photo.size;
         await env.BUCKET.put(photoKey, photo.stream(), { httpMetadata: { contentType: photo.type }, customMetadata: { memoryId: id, caption: photoCaption } });
       }
-      await env.DB.prepare(`INSERT INTO memories (id, first_name, last_name, email, relationship_to_zea, story, photo_key, photo_caption, consent_to_publish, consent_to_contact, moderation_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'pending')`)
-        .bind(id, firstName, lastName, email, relationshipToZea, story, photoKey, photoCaption || null, consentToPublish ? 1 : 0, consentToContact ? 1 : 0).run();
+      await env.DB.prepare(`INSERT INTO memories (id, first_name, last_name, email, relationship_to_zea, story, photo_key, photo_size_bytes, photo_caption, consent_to_publish, consent_to_contact, moderation_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'pending')`)
+        .bind(id, firstName, lastName, email, relationshipToZea, story, photoKey, photoSizeBytes, photoCaption || null, consentToPublish ? 1 : 0, consentToContact ? 1 : 0).run();
       return json(request, { ok: true, message: "Your memory has been received for review." }, 201);
     } catch {
       return json(request, { error: "The submission could not be saved. Please try again later." }, 500);
