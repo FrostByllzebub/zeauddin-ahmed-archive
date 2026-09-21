@@ -9,7 +9,7 @@ The public `zeauddin-memory-api` Worker is the submission boundary for the publi
 3. Apply the migration with `npx wrangler d1 migrations apply zeauddin-archive --remote`.
 4. Deploy with `npx wrangler deploy`.
 5. Add the public Worker URL as the GitHub Actions variable `NEXT_PUBLIC_MEMORY_API_URL`.
-6. Deploy the dedicated admin Worker as `zeauddin-admin-api`, with the same D1 and private R2 bindings, and add its URL as `NEXT_PUBLIC_ADMIN_API_URL`.
+6. Deploy the dedicated admin Worker as `zeauddin-admin-api`, with the same D1 and private R2 bindings, attach the custom hostname `admin-api.zeauddinahmed.com`, and add that HTTPS URL as `NEXT_PUBLIC_ADMIN_API_URL`. Using a same-site custom hostname allows the GitHub Pages admin shell to send the Cloudflare Access session to the protected API reliably; do not use the `workers.dev` URL for browser-side admin calls.
 7. Create a Cloudflare Zero Trust organization on the Free plan and protect the entire admin Worker with a Cloudflare Access application. Allow only the editor email.
 8. Add these runtime variables to the admin Worker before using the editorial queue: `ADMIN_EMAIL`, `ACCESS_TEAM_DOMAIN`, and `ACCESS_AUDIENCE`.
 
