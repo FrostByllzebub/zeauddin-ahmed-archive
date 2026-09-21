@@ -108,6 +108,11 @@ export default {
         const result = await env.DB.prepare("SELECT id, first_name, last_name, email, relationship_to_zea, story, photo_key, photo_caption, consent_to_publish, consent_to_contact, moderation_status, moderation_note, moderated_at, moderated_by, created_at, updated_at FROM memories WHERE moderation_status = ? ORDER BY created_at DESC").bind(status).all();
         return json(request, { memories: result.results });
       }
+      const auditMatch = url.pathname.match(/^\/api\/admin\/memories\/([^/]+)\/audit$/);
+      if (request.method === "GET" && auditMatch) {
+        const result = await env.DB.prepare("SELECT id, action, actor_id, details, created_at FROM audit_events WHERE entity_type = 'memory' AND entity_id = ? ORDER BY created_at DESC, id DESC").bind(auditMatch[1]).all();
+        return json(request, { events: result.results });
+      }
       const match = url.pathname.match(/^\/api\/admin\/memories\/([^/]+)$/);
       if (!match) return json(request, { error: "Not found" }, 404);
       const memoryId = match[1];

@@ -22,6 +22,7 @@ Do not commit `wrangler.toml`, API tokens, database IDs, or private R2 URLs. The
 - `GET /api/admin/memories?status=pending` — Access-JWT-protected editorial queue.
 - `PATCH /api/admin/memories/:id` — Access-JWT-protected approve, reject, restore, or edit action.
 - `GET /api/admin/memories/:id/photo` — Access-JWT-protected private photo review.
+- `GET /api/admin/memories/:id/audit` — Access-JWT-protected audit history for the submission.
 
 The Worker intentionally has no public read endpoint for pending memories. A later authenticated editorial tool should moderate records and publish only approved, consented content.
 
