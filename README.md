@@ -1,6 +1,16 @@
-# vinext-starter
+# Zeauddin Ahmed Archive
 
-A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
+Bengali-first public archive site for columnist and writer **Zeauddin Ahmed** (`জিয়াউদ্দীন আহমেদ`).
+
+## Public preview
+
+The site is deployed from `main` with GitHub Actions and GitHub Pages:
+
+`https://frostbyllzebub.github.io/zeauddin-ahmed-archive/`
+
+The repository currently contains an evidence-safe public shell. Article records, source files, rights decisions, and editorial notes are intentionally not published until they are verified and cleared for publication.
+
+See [GITHUB_PAGES_ARCHITECTURE.md](GITHUB_PAGES_ARCHITECTURE.md) for the approved low-cost hybrid model.
 
 ## Prerequisites
 
