@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const nav = [["আর্কাইভ", "/archive"], ["প্রকাশনা", "/publications"], ["পরিচিতি", "/about"]];
+const nav = [["আর্কাইভ", "/archive"], ["স্মৃতির খাতা", "/memories"], ["পরিচিতি", "/about"]];
 
 export default function Home() {
   return <main className="site-shell">

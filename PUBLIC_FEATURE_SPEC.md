@@ -44,4 +44,6 @@ The site can grow beyond articles through three evidence-aware sections:
 - **ছবির সংগ্রহ** — historical photographs with caption, date/approximation, photographer/source, rights status, and alt text.
 - **যোগাযোগ** — a verified contact route for corrections, rights requests, and research contributions.
 
+- **স্মৃতির খাতা** — a moderated memory book where people who know Zeauddin Ahmed can share a story, explain how they know him, and optionally contribute a photograph. Contributor names and contact details remain private; a photo or story is never published without explicit permission.
+
 No biography, image caption, date, or contact address should be invented to make a page look complete.

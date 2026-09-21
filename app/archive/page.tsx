@@ -18,7 +18,7 @@ export default function ArchivePage() {
   return <main className="site-shell">
     <header className="site-header">
       <Link className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link>
-      <nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/publications">প্রকাশনা</Link><Link href="/about">পরিচিতি</Link></nav>
+      <nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav>
       <Link className="header-action" href="/">হোম <span>↗</span></Link>
     </header>
     <section className="page-wrap">
