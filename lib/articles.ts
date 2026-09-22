@@ -722,7 +722,7 @@ export const articles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-18013",
+    "slug": "brics-sommelon-o-bangladesher-koutnoitik-hisab",
     "title": "ব্রিকস সম্মেলন ও বাংলাদেশের কূটনৈতিক হিসাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
