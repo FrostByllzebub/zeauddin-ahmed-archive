@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { articles } from "../lib/articles";
 
 const nav = [["আর্কাইভ", "/archive"], ["স্মৃতির খাতা", "/memories"], ["পরিচিতি", "/about"]];
@@ -5,7 +6,7 @@ const nav = [["আর্কাইভ", "/archive"], ["স্মৃতির খ�
 export default function Home() {
   return <main className="site-shell">
     <header className="site-header">
-      <a className="brand" href="/" aria-label="জিয়ার কলাম আর্কাইভ — হোম"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></a>
+      <Link className="brand" href="/" aria-label="জিয়ার কলাম আর্কাইভ — হোম"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link>
       <nav aria-label="প্রধান নেভিগেশন">{nav.map(([label, href]) => <a key={href} href={href}>{label}</a>)}</nav>
       <a className="header-action" href="/archive">লেখা খুঁজুন <span>↗</span></a>
     </header>
