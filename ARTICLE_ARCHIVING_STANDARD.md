@@ -41,27 +41,22 @@ The local reference-library destination currently used is:
 
 ## Image standard
 
-Use a real, high-quality image that is materially relevant to the article. Do not use generated or made-up images for an archival article.
+Use a mature, high-quality archive-created editorial illustration that is materially relevant to the article. Do not use generic or decorative imagery.
 
-Preferred image sources, in order:
+Preferred image treatment:
 
-1. An image supplied by the rights holder with permission.
-2. A public-domain or openly licensed image from a reputable source, with the source page and credit recorded.
-3. Another verifiable source approved by the owner.
+1. Generate a topic-specific editorial illustration for the archive.
+2. Use the approved archival ink-and-collage system: warm ivory paper, charcoal ink, muted indigo/olive, restrained terracotta, and one Bangladesh-red accent.
+3. Keep the composition elegant and uncluttered, with one dominant metaphor and no irrelevant objects.
 
 The image must have:
 
 - A local copy in `public/articles/` with a descriptive filename.
 - `heroImage` pointing to the local copy.
-- `heroCaption` describing the image without inventing facts.
-- `imageSourceUrl` pointing to the source page.
-- `imageCredit` naming the credited creator or institution and license when available.
+- `heroCaption` identifying it as an archive-created editorial illustration.
+- `imageSourceUrl` and `imageCredit` may remain in the internal record for provenance, but are not shown in the public metadata panel for custom-generated images.
 
-For the BRICS article, the approved image record is:
-
-- Local asset: `public/articles/brics-summit-2025.jpg`
-- Source page: `https://commons.wikimedia.org/wiki/File:2025_BRICS_Summit.jpg`
-- Credit: `Prime Minister’s Office, Government of India · GODL-India`
+All 24 imported articles use local archive-created illustrations under `public/articles/custom-*.png`.
 
 ## Page layout standard
 
@@ -74,12 +69,10 @@ The approved article page uses a calm editorial/archive layout:
 - A right-hand metadata panel titled `লেখাটির পরিচিতি`.
 - Footer with archive and copyright/contact links.
 
-The metadata panel uses consistent definition-list rows. Labels and values use the same base metadata typography. The two source-related entries are also normal rows:
+The metadata panel uses consistent definition-list rows. Labels and values use the same base metadata typography. The original publication link is the only source-related row:
 
 - `মূল প্রকাশনার URL` — original article link on the right.
-- `ছবির উৎস` — image source/credit link on the right.
-
-The original publication URL remains on one line on desktop, using a slightly tighter size only when needed to fit the row. The image-source link uses the standard metadata value size. On narrow screens, source rows may stack for readability.
+The original publication URL remains on one line on desktop, using a slightly tighter size only when needed to fit the row. On narrow screens, it may wrap for readability.
 
 ## Data-entry pattern
 
