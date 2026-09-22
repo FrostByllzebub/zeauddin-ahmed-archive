@@ -5,6 +5,7 @@ export type ArchiveArticle = {
   publication: string;
   section: string;
   publishedAt: string;
+  publishedDateLabel: string;
   originalUrl: string;
   rightsStatus: "excerpt_only" | "full_text_permitted" | "metadata_only";
   summary: string;
@@ -20,6 +21,7 @@ export const articles: ArchiveArticle[] = [
     publication: "সংবাদ",
     section: "মতামত",
     publishedAt: "২০২৬-০৯-১৯",
+    publishedDateLabel: "১৯ সেপ্টেম্বর ২০২৬",
     originalUrl: "https://sangbad.net/news/18013/",
     rightsStatus: "excerpt_only",
     summary: "১৮তম ব্রিকস সম্মেলনে বাংলাদেশের অনুপস্থিতির কূটনৈতিক প্রভাব, ভারত-বাংলাদেশ সম্পর্কের বর্তমান টানাপোড়েন এবং প্রতিবেশী রাষ্ট্রের সঙ্গে বাস্তব স্বার্থে সংলাপ চালু রাখার প্রয়োজনীয়তা নিয়ে লেখকের বিশ্লেষণ।",
