@@ -12,6 +12,12 @@ type AuditEvent = { id: number; action: string; actor_id: string | null; details
 
 const endpoint = process.env.NEXT_PUBLIC_ADMIN_API_URL ?? "";
 
+function adminForm(values: Record<string, string>) {
+  const body = new URLSearchParams();
+  Object.entries(values).forEach(([key, value]) => body.set(key, value));
+  return body;
+}
+
 export function AdminModerationDashboard() {
   const [status, setStatus] = useState("pending");
   const [memories, setMemories] = useState<Memory[]>([]);
@@ -52,7 +58,7 @@ export function AdminModerationDashboard() {
     if (!selected) return;
     setLoading(true); setMessage("");
     try {
-      const response = await fetch(`${endpoint}/api/admin/memories/${selected.id}`, { method: "PATCH", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ action, moderationNote: note }) });
+      const response = await fetch(`${endpoint}/api/admin/memories/${selected.id}`, { method: "POST", credentials: "include", body: adminForm({ action, moderationNote: note }) });
       if (!response.ok) throw new Error("The moderation decision could not be saved.");
       setMessage(action === "approve" ? "Memory approved and published." : action === "reject" ? "Memory rejected and kept private." : "Memory returned to the pending queue.");
       await load();
@@ -64,7 +70,7 @@ export function AdminModerationDashboard() {
     if (!selected) return;
     setLoading(true); setMessage("");
     try {
-      const response = await fetch(`${endpoint}/api/admin/memories/${selected.id}`, { method: "PATCH", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ ...edit, moderationNote: note }) });
+      const response = await fetch(`${endpoint}/api/admin/memories/${selected.id}`, { method: "POST", credentials: "include", body: adminForm({ ...edit, moderationNote: note }) });
       if (!response.ok) throw new Error("The edited memory could not be saved.");
       setEditing(false); setMessage("Edits saved and recorded in the audit history."); await load();
     } catch (error) { setMessage(error instanceof Error ? error.message : "The edited memory could not be saved."); }

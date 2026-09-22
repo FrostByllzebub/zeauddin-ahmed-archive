@@ -116,8 +116,10 @@ export default {
       const match = url.pathname.match(/^\/api\/admin\/memories\/([^/]+)$/);
       if (!match) return json(request, { error: "Not found" }, 404);
       const memoryId = match[1];
-      if (request.method === "PATCH") {
-        const body = await request.json<{ action?: string; story?: string; firstName?: string; lastName?: string; relationship?: string; photoCaption?: string; moderationNote?: string }>();
+      if (request.method === "PATCH" || request.method === "POST") {
+        const body = request.method === "PATCH"
+          ? await request.json<{ action?: string; story?: string; firstName?: string; lastName?: string; relationship?: string; photoCaption?: string; moderationNote?: string }>()
+          : Object.fromEntries((await request.formData()).entries()) as { action?: string; story?: string; firstName?: string; lastName?: string; relationship?: string; photoCaption?: string; moderationNote?: string };
         const existing = await env.DB.prepare("SELECT id FROM memories WHERE id = ?").bind(memoryId).first();
         if (!existing) return json(request, { error: "Memory not found." }, 404);
         const now = new Date().toISOString();
