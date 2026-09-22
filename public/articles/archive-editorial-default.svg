@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">সম্পাদকীয় আর্কাইভ</title>
+  <desc id="desc">An understated editorial archive illustration with paper and ink.</desc>
+  <rect width="1600" height="900" fill="#eee8dc"/>
+  <path d="M180 170h1240v560H180z" fill="#f8f4eb" stroke="#c8bca8" stroke-width="8"/>
+  <path d="M310 310h980M310 400h760M310 490h900M310 580h690" stroke="#b7aa94" stroke-width="18" stroke-linecap="round"/>
+  <path d="M1130 190l170 170-310 310-190 40 40-190z" fill="#a84f37" opacity=".9"/>
+  <path d="M800 700l190-40-150-150z" fill="#6d7b78" opacity=".9"/>
+  <circle cx="1230" cy="270" r="34" fill="#d39b4f"/>
+</svg>
