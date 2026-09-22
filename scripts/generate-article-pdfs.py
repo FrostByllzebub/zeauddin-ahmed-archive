@@ -48,8 +48,6 @@ def original_image(article):
 
 def source_filename(article):
     ident = article_id(article)
-    if article["slug"] == "brics-sommelon-o-bangladesher-koutnoitik-hisab":
-        return "2026-09-19 - BRICS Summit and Bangladesh Diplomatic Calculus - Sangbad.pdf"
     return f"{article['publishedAt']} - Sangbad - {ident} - Zeauddin Ahmed.pdf"
 
 def paragraph_html(text):
