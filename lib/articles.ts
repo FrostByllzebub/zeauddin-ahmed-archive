@@ -26,7 +26,7 @@ export const articles: ArchiveArticle[] = [
     publishedDateLabel: "১৯ সেপ্টেম্বর ২০২৬",
     originalUrl: "https://sangbad.net/news/18013/",
     rightsStatus: "full_text_permitted",
-    heroImage: "https://sangbad.net/uploads/2026/09/Techtaranga.com_17898329933410.jpg",
+    heroImage: "/articles/brics-sommelon.jpg",
     heroCaption: "ব্রিকস সম্মেলন",
     body: [
       { heading: "ব্রিকস সম্মেলন", paragraphs: [
