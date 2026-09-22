@@ -6,6 +6,27 @@ import { articles } from "../../lib/articles";
 
 const filters = ["publication", "year", "type"] as const;
 
+function normalizeSearchText(value: string) {
+  return value.toLocaleLowerCase("bn-BD").normalize("NFC").replace(/[\u200c\u200d]/g, "").replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+}
+
+function articleSearchScore(article: (typeof articles)[number], query: string) {
+  const normalizedQuery = normalizeSearchText(query);
+  if (!normalizedQuery) return 0;
+  const bodyText = article.body.flatMap((section) => [section.heading ?? "", ...section.paragraphs]).join(" ");
+  const title = normalizeSearchText(article.title);
+  const metadata = normalizeSearchText(`${article.author} ${article.publication} ${article.section} ${article.originalUrl}`);
+  const haystack = `${title} ${metadata} ${normalizeSearchText(bodyText)}`;
+  const tokens = normalizedQuery.split(/\s+/).filter((token) => token.length > 1);
+  const matchedTokens = tokens.filter((token) => haystack.includes(token));
+  if (!matchedTokens.length) return 0;
+  let score = matchedTokens.length / Math.max(tokens.length, 1);
+  if (title.includes(normalizedQuery)) score += 12;
+  if (metadata.includes(normalizedQuery)) score += 5;
+  score += matchedTokens.filter((token) => title.includes(token)).length * 4;
+  return score;
+}
+
 export default function ArchivePage() {
   const [query, setQuery] = useState("");
   const [activeFilter, setActiveFilter] = useState<Record<string, string>>({
@@ -14,14 +35,14 @@ export default function ArchivePage() {
     type: "সব ধরনের লেখা",
   });
   const hasFilters = query.trim().length > 0 || Object.values(activeFilter).some((value) => !value.startsWith("সব"));
-  const filteredArticles = useMemo(() => articles.filter((article) => {
-    const bodyText = article.body.flatMap((section) => [section.heading ?? "", ...section.paragraphs]).join(" ");
-    const haystack = `${article.title} ${article.author} ${article.publication} ${article.section} ${article.originalUrl} ${bodyText}`.toLowerCase();
-    return haystack.includes(query.trim().toLowerCase())
+  const filteredArticles = useMemo(() => articles
+    .map((article, index) => ({ article, index, score: articleSearchScore(article, query) }))
+    .filter(({ article, score }) => (query.trim() === "" || score > 0)
       && (activeFilter.publication === "সব প্রকাশনা" || article.publication === activeFilter.publication)
       && (activeFilter.year === "সব বছর" || article.publishedAt.startsWith(activeFilter.year))
-      && (activeFilter.type === "সব ধরনের লেখা" || article.section === activeFilter.type);
-  }), [activeFilter, query]);
+      && (activeFilter.type === "সব ধরনের লেখা" || article.section === activeFilter.type))
+    .sort((a, b) => query.trim() === "" ? a.index - b.index : b.score - a.score || a.index - b.index)
+    .map(({ article }) => article), [activeFilter, query]);
   const resultLabel = useMemo(() => hasFilters ? `এই খোঁজে ${filteredArticles.length.toLocaleString("bn-BD")} লেখা` : `সূচি · ${filteredArticles.length.toLocaleString("bn-BD")} লেখা`, [filteredArticles.length, hasFilters]);
   const years = [...new Set(articles.map((article) => article.publishedAt.slice(0, 4)))].sort().reverse();
 
