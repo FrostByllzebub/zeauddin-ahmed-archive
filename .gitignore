@@ -45,3 +45,5 @@ backend/wrangler.toml
 /.codex/
 /outputs/
 /work/
+# local visual QA artifacts
+/tmp/
