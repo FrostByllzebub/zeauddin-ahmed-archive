@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "lib" / "articles.ts"
 OUTPUT = Path(r"G:\My Drive\05 Reference Library\Articles\Zeauddin Ahmed's Columns")
 EDGE = Path(r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe")
-VERSION = "0d20ec7"
+VERSION = "50ae9b4"
 
 source = SOURCE.read_text(encoding="utf-8")
 start = source.index("export const articles")
