@@ -1,3 +1,5 @@
+import { folderArticles } from "./folderArticles";
+
 export type ArchiveArticle = {
   slug: string;
   title: string;
@@ -17,7 +19,7 @@ export type ArchiveArticle = {
   authorCredit: string;
 };
 
-export const articles: ArchiveArticle[] = [
+const currentArticles: ArchiveArticle[] = [
   {
     "slug": "sangbad-448",
     "title": "মধ্যপ্রাচ্যে শক্তির রাজনীতি: প্রযুক্তি, ক্ষমতা ও মুসলিম বিশ্বের সংকট",
@@ -752,6 +754,11 @@ export const articles: ArchiveArticle[] = [
     "authorCredit": ""
   }
 ];
+
+export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles].sort((a, b) => {
+  const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
+  return dateOrder || a.title.localeCompare(b.title, "bn");
+});
 
 export function getArticle(slug: string) {
   return articles.find((article) => article.slug === slug);
