@@ -3685,13 +3685,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-manush-banche-manusher-jny",
+    "slug": "2020-08-30-manush-banche-manusher-jny",
     "title": "মানুষ বাঁচে মানুষের জন্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-08-30",
+    "publishedDateLabel": "৩০ আগস্ট ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
