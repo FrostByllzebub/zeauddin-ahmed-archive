@@ -261,7 +261,7 @@ export const folderArticles: ArchiveArticle[] = [
     "slug": "2021-11-25-shahrukh-khaner-putrer-madkaskti",
     "title": "শাহরুখ খানের পুত্রের মাদকাসক্তি",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "সাম্প্রতিক দেশকাল",
     "section": "মতামত",
     "publishedAt": "2021-11-25",
     "publishedDateLabel": "২৫ নভেম্বর ২০২১",
