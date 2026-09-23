@@ -3539,13 +3539,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-02-01-ami-bhot-diyechhi",
+    "slug": "2020-02-09-ami-bhot-diyechhi",
     "title": "আমি ভোট দিয়েছি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-02-01",
-    "publishedDateLabel": "১ ফেব্রুয়ারি ২০২০",
+    "publishedAt": "2020-02-09",
+    "publishedDateLabel": "৯ ফেব্রুয়ারি ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
