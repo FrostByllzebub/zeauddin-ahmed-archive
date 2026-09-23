@@ -3866,13 +3866,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-deshe-deshe-nipidit-sngkhyalghu",
+    "slug": "2020-01-05-deshe-deshe-nipidit-sngkhyalghu",
     "title": "দেশে দেশে নিপীড়িত সংখ্যালঘু",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-01-05",
+    "publishedDateLabel": "৫ জানুয়ারি ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
