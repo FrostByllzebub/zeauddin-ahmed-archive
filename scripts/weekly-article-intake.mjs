@@ -73,6 +73,7 @@ function catalog() {
   return [
     ...readCatalogFile("lib/articles.ts"),
     ...readCatalogFile("lib/folderArticles.ts"),
+    ...readCatalogFile("lib/additionalArticles.ts"),
   ].filter((record, index, all) => all.findIndex((item) => item.slug === record.slug) === index);
 }
 
