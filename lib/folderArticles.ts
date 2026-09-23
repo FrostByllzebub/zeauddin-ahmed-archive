@@ -3975,13 +3975,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-krona-bhyaksin-abiskar",
+    "slug": "2020-08-23-krona-bhyaksin-abiskar",
     "title": "করোনা-ভ্যাকসিন আবিস্কার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-08-23",
+    "publishedDateLabel": "২৩ আগস্ট ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
