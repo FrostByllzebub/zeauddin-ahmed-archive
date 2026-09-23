@@ -24,6 +24,7 @@ The intake file is a staging record; it is not automatically published.
 - Treat an exact title match, exact title/date match, or normalized original-URL match as a duplicate candidate. Resolve the candidate before importing anything.
 - The check compares the intake against both the 24 curated records and the folder-imported archive records. It never invents a URL or silently overwrites an existing record.
 - Run `node scripts/weekly-article-intake.mjs catalog` periodically to report duplicate title/date groups already present in the catalog.
+- The production build automatically runs `npm run validate:catalog` and blocks deployment when duplicate slugs, title/date pairs, or source URLs are present.
 - Compare the title, byline, publication, and date against the source.
 - Mark date confidence (`exact`, `approximate`, or `unknown`).
 - Keep a short evidence note explaining what was checked.
@@ -70,7 +71,7 @@ Only records marked `verified` and with a rights status other than `hold` may be
 
 1. Resolve all duplicate candidates and validation errors.
 2. Import the reviewed record with the existing folder/import tooling or the curated `lib/articles.ts` pattern; review the diff.
-3. Run `npm run build` and `npm run lint` in an isolated dependency workspace when the shared Google Drive checkout cannot install packages.
+3. Run `npm run validate:catalog`, then `npm run build` and `npm run lint` in an isolated dependency workspace when the shared Google Drive checkout cannot install packages.
 4. Run browser smoke checks: archive count, representative article navigation, direct refresh, source-link behavior, search/filter behavior, and narrow mobile layout.
 5. Publish the verified source through the Cloudflare Sites workflow only after the build and smoke checks pass.
 6. Confirm the deployed version and live URL; record the commit/deployment identifier in the editorial log.

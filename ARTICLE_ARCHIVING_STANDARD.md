@@ -144,7 +144,7 @@ The cache-busting query is only for verification; it is not part of the articleâ
 
 ## URL stability
 
-Canonical slugs are generated from the publication date and a romanized title. Older slugs are retained in an alias map and redirect to the canonical route, so standardization does not strand previously shared links. Run `node scripts/standardize-article-slugs.mjs` only as a deliberate catalog migration, then review the generated alias map and test representative legacy URLs.
+Canonical slugs are generated from the publication date and a romanized title. The archive intentionally serves canonical routes only; legacy aliases are not maintained. Run `node scripts/standardize-article-slugs.mjs` only as a deliberate catalog migration, then test representative canonical URLs.
 
 ## Established reference implementation
 

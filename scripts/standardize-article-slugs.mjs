@@ -2,7 +2,7 @@
 
 /**
  * Normalize archive slugs to YYYY-MM-DD-transliterated-title.
- * The generated alias map keeps previously published article URLs working.
+ * Legacy aliases are intentionally not generated.
  */
 import crypto from "node:crypto";
 import fs from "node:fs";
@@ -53,14 +53,12 @@ for (const file of files) {
 }
 
 const used = new Set();
-const aliases = {};
 for (const record of records) {
   const base = `${record.publishedAt}-${titleSlugOverrides[record.title] ?? transliterate(record.title)}`;
   let canonical = base;
   if (used.has(canonical)) canonical = `${base}-${hash(record.oldSlug)}`;
   used.add(canonical);
   record.newSlug = canonical;
-  if (record.oldSlug !== canonical) aliases[record.oldSlug] = canonical;
 }
 
 for (const file of files) {
@@ -73,6 +71,4 @@ for (const file of files) {
   fs.writeFileSync(absolute, source, "utf8");
 }
 
-const aliasLines = Object.entries(aliases).sort(([a], [b]) => a.localeCompare(b)).map(([oldSlug, newSlug]) => `  ${JSON.stringify(oldSlug)}: ${JSON.stringify(newSlug)},`);
-fs.writeFileSync(path.join(root, "lib", "slugAliases.ts"), `export const legacySlugMap: Record<string, string> = {\n${aliasLines.join("\n")}\n};\n`, "utf8");
-console.log(JSON.stringify({ records: records.length, changed: Object.keys(aliases).length, aliases: path.join(root, "lib", "slugAliases.ts") }, null, 2));
+console.log(JSON.stringify({ records: records.length, changed: records.filter((record) => record.oldSlug !== record.newSlug).length, aliases: false }, null, 2));

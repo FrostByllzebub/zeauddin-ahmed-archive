@@ -1,5 +1,4 @@
 import { folderArticles } from "./folderArticles";
-import { legacySlugMap } from "./slugAliases";
 
 export type ArchiveArticle = {
   slug: string;
@@ -762,9 +761,5 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
 });
 
 export function getArticle(slug: string) {
-  return articles.find((article) => article.slug === (legacySlugMap[slug] ?? slug));
-}
-
-export function getCanonicalSlug(slug: string) {
-  return legacySlugMap[slug] ?? slug;
+  return articles.find((article) => article.slug === slug);
 }
