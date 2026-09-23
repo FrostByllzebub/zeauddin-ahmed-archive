@@ -805,7 +805,7 @@ export const folderArticles: ArchiveArticle[] = [
     "slug": "2021-09-04-bhyaksin-churir-ghtna",
     "title": "ভ্যাকসিন চুরির ঘটনা",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "সাম্প্রতিক দেশকাল",
     "section": "মতামত",
     "publishedAt": "2021-09-04",
     "publishedDateLabel": "৪ সেপ্টেম্বর ২০২১",
