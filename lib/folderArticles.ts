@@ -3902,13 +3902,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-jngner-opr-astha-nei",
+    "slug": "2020-02-16-jngner-opr-astha-nei",
     "title": "জনগণের ওপর আস্থা নেই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-02-16",
+    "publishedDateLabel": "১৬ ফেব্রুয়ারি ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
