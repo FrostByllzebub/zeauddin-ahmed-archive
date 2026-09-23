@@ -2215,7 +2215,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-12-27-bagha-ytiner-bhaskry",
+    "slug": "2020-12-27-bagha-jotiner-bhaskorjo",
     "title": "বাঘা যতীনের ভাস্কর্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2224,7 +2224,7 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedDateLabel": "২৭ ডিসেম্বর ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
-    "heroImage": "/articles/2020-12-27-bagha-ytiner-bhaskry.png",
+    "heroImage": "/articles/2020-12-27-bagha-jotiner-bhaskorjo.png",
     "heroCaption": "একটি ভাঙা ভাস্কর্যের পাশে খোলা বই—ইতিহাসের স্মৃতি রক্ষার প্রতীক",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
