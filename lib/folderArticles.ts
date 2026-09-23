@@ -477,7 +477,7 @@ export const folderArticles: ArchiveArticle[] = [
     "slug": "2021-10-21-bijnapnmukt-bideshi-chyanel",
     "title": "বিজ্ঞাপনমুক্ত বিদেশি চ্যানেল",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "সাম্প্রতিক দেশকাল",
     "section": "মতামত",
     "publishedAt": "2021-10-21",
     "publishedDateLabel": "২১ অক্টোবর ২০২১",
