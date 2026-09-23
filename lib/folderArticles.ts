@@ -3720,13 +3720,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-bhaskr-rashar-mujibbrsh",
+    "slug": "2020-02-23-bhaskr-rashar-mujibbrsh",
     "title": "ভাস্কর রাশার মুজিববর্ষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-02-23",
+    "publishedDateLabel": "২৩ ফেব্রুয়ারি ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
