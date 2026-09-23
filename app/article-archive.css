@@ -2,3 +2,5 @@
 .admin-card .admin-link-row dd{max-width:none;min-width:0}.admin-card .admin-link-row a{display:block;white-space:nowrap;overflow-wrap:normal;text-align:right}@media(max-width:760px){.admin-card .admin-link-row{display:block}.admin-card .admin-link-row dd{max-width:none;text-align:left;margin-top:5px}.admin-card .admin-link-row a{white-space:normal;text-align:left}}
 .admin-card dl .admin-link-row:nth-last-child(2) a{white-space:nowrap;font-size:13px;letter-spacing:-.02em}
 .admin-card dl .admin-link-row:last-child a{font-size:15px}
+.archive-article-link{display:block;cursor:pointer}
+.archive-article-link:focus-visible{outline:3px solid #e28a72;outline-offset:6px}
