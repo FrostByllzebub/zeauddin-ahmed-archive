@@ -3761,13 +3761,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-bu-pitanor-adhikar",
+    "slug": "2020-01-26-bu-pitanor-adhikar",
     "title": "বউ পিটানোর অধিকার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-01-26",
+    "publishedDateLabel": "২৬ জানুয়ারি ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
