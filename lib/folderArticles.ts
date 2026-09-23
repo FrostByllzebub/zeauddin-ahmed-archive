@@ -3939,13 +3939,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2020-01-01-kronabhairaser-chhobl",
+    "slug": "2020-02-02-kronabhairaser-chhobl",
     "title": "করোনাভাইরাসের ছোবল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2020-01-01",
-    "publishedDateLabel": "২০২০ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2020-02-02",
+    "publishedDateLabel": "২ ফেব্রুয়ারি ২০২০",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
