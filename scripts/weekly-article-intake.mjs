@@ -79,7 +79,7 @@ function catalog() {
 function catalogDuplicateCandidates(records) {
   const groups = new Map();
   for (const record of records) {
-    const key = `${normalizeTitle(record.title)}|${record.publishedAt}`;
+    const key = `${normalizeTitle(record.title)}|${record.publishedAt}|${normalizePublication(record.publication)}`;
     if (!normalizeTitle(record.title) || !record.publishedAt) continue;
     const group = groups.get(key) ?? [];
     group.push(record);
@@ -89,6 +89,14 @@ function catalogDuplicateCandidates(records) {
 }
 
 function normalizeTitle(value) {
+  return String(value ?? "")
+    .normalize("NFKC")
+    .toLocaleLowerCase("bn")
+    .replace(/[\p{P}\p{S}\s]+/gu, "")
+    .trim();
+}
+
+function normalizePublication(value) {
   return String(value ?? "")
     .normalize("NFKC")
     .toLocaleLowerCase("bn")
@@ -130,10 +138,10 @@ function validate(record, existing) {
   if (record?.originalUrl && !/^https?:\/\//i.test(record.originalUrl)) errors.push("originalUrl must be an http(s) URL when supplied");
 
   const title = normalizeTitle(record?.title);
+  const publication = normalizePublication(record?.publication);
   const url = normalizeUrl(record?.originalUrl);
   const duplicates = existing.filter((item) =>
-    (title && normalizeTitle(item.title) === title) ||
-    (record?.publishedAt && item.publishedAt === record.publishedAt && title && normalizeTitle(item.title) === title) ||
+    (record?.publishedAt && item.publishedAt === record.publishedAt && title && normalizeTitle(item.title) === title && publication && normalizePublication(item.publication) === publication) ||
     (url && normalizeUrl(item.originalUrl) === url),
   );
   if (duplicates.length) errors.push(`duplicate candidate(s): ${duplicates.map((item) => item.slug).join(", ")}`);

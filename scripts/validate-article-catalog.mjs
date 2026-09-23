@@ -23,6 +23,7 @@ function readFile(file) {
       file,
       slug: match[1],
       title: readScalar(block, "title"),
+      publication: readScalar(block, "publication"),
       publishedAt: readScalar(block, "publishedAt"),
       originalUrl: readScalar(block, "originalUrl"),
     };
@@ -46,6 +47,10 @@ function normalizeUrl(value) {
   }
 }
 
+function normalizePublication(value) {
+  return String(value ?? "").normalize("NFKC").toLocaleLowerCase("bn").replace(/[\p{P}\p{S}\s]+/gu, "").trim();
+}
+
 function duplicateGroups(records, key) {
   const groups = new Map();
   for (const record of records) {
@@ -61,7 +66,7 @@ function duplicateGroups(records, key) {
 const records = files.flatMap(readFile);
 const checks = {
   duplicateSlugs: duplicateGroups(records, (record) => record.slug),
-  duplicateTitleDates: duplicateGroups(records, (record) => `${normalizeTitle(record.title)}|${record.publishedAt}`),
+  duplicateTitleDates: duplicateGroups(records, (record) => `${normalizeTitle(record.title)}|${record.publishedAt}|${normalizePublication(record.publication)}`),
   duplicateSourceUrls: duplicateGroups(records, (record) => normalizeUrl(record.originalUrl)),
 };
 const failures = Object.entries(checks).filter(([, groups]) => groups.length);
