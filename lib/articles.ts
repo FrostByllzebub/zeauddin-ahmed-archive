@@ -1,5 +1,5 @@
 import { folderArticles } from "./folderArticles";
-import { additionalArticles } from "./additionalArticles";
+import { legacySlugMap } from "./slugAliases";
 
 export type ArchiveArticle = {
   slug: string;
@@ -22,7 +22,7 @@ export type ArchiveArticle = {
 
 const currentArticles: ArchiveArticle[] = [
   {
-    "slug": "sangbad-448",
+    "slug": "2026-03-15-mdhyprachye-shktir-rajniti-pryukti-kshmta-o-muslim-bishber-sngkt",
     "title": "মধ্যপ্রাচ্যে শক্তির রাজনীতি: প্রযুক্তি, ক্ষমতা ও মুসলিম বিশ্বের সংকট",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -52,7 +52,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-1574",
+    "slug": "2026-04-04-jbalani-sngkter-cheye-bd-sngkt-asthahinta",
     "title": "জ্বালানি সংকটের চেয়ে বড় সংকট আস্থাহীনতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -83,7 +83,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-2635",
+    "slug": "2026-04-18-dhrmer-name-shingsta-kothay-amader-simarekha",
     "title": "ধর্মের নামে সহিংসতা: কোথায় আমাদের সীমারেখা?",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -114,7 +114,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-3164",
+    "slug": "2026-04-25-rajniti-ny-arthnitii-gurutbpurn",
     "title": "রাজনীতি নয়, অর্থনীতিই গুরুত্বপূর্ণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -146,7 +146,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-3773",
+    "slug": "2026-05-02-unnynshiler-pthe-birti-siddhanter-pechhner-prshn",
     "title": "উন্নয়নশীলের পথে বিরতি: সিদ্ধান্তের পেছনের প্রশ্ন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -177,7 +177,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-4472",
+    "slug": "2026-05-09-sngbidhan-sngshodhner-rajniti",
     "title": "সংবিধান সংশোধনের রাজনীতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -207,7 +207,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-5271",
+    "slug": "2026-05-16-shishuder-niraptta-kothay",
     "title": "শিশুদের নিরাপত্তা কোথায়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -237,7 +237,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-5986",
+    "slug": "2026-05-23-anar-kiling-sbhytar-andhkar-mukh",
     "title": "অনার কিলিং: সভ্যতার অন্ধকার মুখ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -268,7 +268,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-7105",
+    "slug": "2026-06-06-shastir-prdrshn-ny-bichar-nishchit-hok",
     "title": "শাস্তির প্রদর্শন নয়, বিচার নিশ্চিত হোক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -298,7 +298,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-7916",
+    "slug": "2026-06-13-birodhitahin-rajnitir-bipd",
     "title": "বিরোধিতাহীন রাজনীতির বিপদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -327,7 +327,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-8627",
+    "slug": "2026-06-20-sbadhin-sangbadiktar-pthe-badha-kothay",
     "title": "স্বাধীন সাংবাদিকতার পথে বাধা কোথায়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -359,7 +359,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-9440",
+    "slug": "2026-06-27-bardhkyer-ntun-bastbta",
     "title": "বার্ধক্যের নতুন বাস্তবতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -389,7 +389,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-10154",
+    "slug": "2026-07-04-kukurer-kanna-manusher-nirbta",
     "title": "কুকুরের কান্না, মানুষের নীরবতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -420,7 +420,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-10895",
+    "slug": "2026-07-12-janaja-ek-mnche-u-sb-any-mnche",
     "title": "জানাজা এক মঞ্চে, উৎসব অন্য মঞ্চে",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -450,7 +450,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-11418",
+    "slug": "2026-07-18-haddi-amar-mangs-apnar",
     "title": "হাড্ডি আমার, মাংস আপনার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -480,7 +480,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-11975",
+    "slug": "2026-07-25-abaro-ki-bhangchhe-pakistan",
     "title": "আবারও কি ভাঙছে পাকিস্তান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -510,7 +510,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-12677",
+    "slug": "2026-08-01-telapoka-firechhe-karn-ksht-shukayni",
     "title": "তেলাপোকা ফিরেছে, কারণ ক্ষত শুকায়নি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -540,7 +540,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-13399",
+    "slug": "2026-08-08-gane-gane-ggnbhedi-prtibad",
     "title": "গানে গানে গগনভেদী প্রতিবাদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -572,7 +572,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-14301",
+    "slug": "2026-08-15-arthnitir-lasher-opr-rajnitir-u-sb",
     "title": "অর্থনীতির লাশের ওপর রাজনীতির উৎসব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -603,7 +603,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-14979",
+    "slug": "2026-08-22-bhaskryer-mukh-thakbe-naki-thakbe-na",
     "title": "ভাস্কর্যের মুখ থাকবে নাকি থাকবে না",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -633,7 +633,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-15800",
+    "slug": "2026-08-29-jnggibad-niye-jatisnggher-udbeg",
     "title": "জঙ্গিবাদ নিয়ে জাতিসংঘের উদ্বেগ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -663,7 +663,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-16588",
+    "slug": "2026-09-05-niraptta-jote-yog-deoyar-age-chai-sbarther-nirmoh-hisab",
     "title": "নিরাপত্তা জোটে যোগ দেওয়ার আগে চাই স্বার্থের নির্মোহ হিসাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -694,7 +694,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "sangbad-17258",
+    "slug": "2026-09-12-boying-kenar-rajniti",
     "title": "বোয়িং কেনার রাজনীতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -725,7 +725,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "brics-sommelon-o-bangladesher-koutnoitik-hisab",
+    "slug": "2026-09-19-briks-smmeln-o-bangladesher-kutnoitik-hisab",
     "title": "ব্রিকস সম্মেলন ও বাংলাদেশের কূটনৈতিক হিসাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -756,11 +756,15 @@ const currentArticles: ArchiveArticle[] = [
   }
 ];
 
-export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles, ...additionalArticles].sort((a, b) => {
+export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles].sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
 });
 
 export function getArticle(slug: string) {
-  return articles.find((article) => article.slug === slug);
+  return articles.find((article) => article.slug === (legacySlugMap[slug] ?? slug));
+}
+
+export function getCanonicalSlug(slug: string) {
+  return legacySlugMap[slug] ?? slug;
 }

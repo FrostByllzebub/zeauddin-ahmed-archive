@@ -2,7 +2,7 @@ import type { ArchiveArticle } from './articles';
 
 export const folderArticles: ArchiveArticle[] = [
   {
-    "slug": "folder-article-4fcd55d3",
+    "slug": "2021-12-25-rohinggader-shibire-htyakand",
     "title": "রোহিঙ্গাদের শিবিরে হত্যাকাণ্ড",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -37,7 +37,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d612677d",
+    "slug": "2021-12-23-amerikake-tusht-rakha-kthin",
     "title": "আমেরিকাকে তুষ্ট রাখা কঠিন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -73,7 +73,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a8902b0a",
+    "slug": "2021-12-19-mryadapurn-pde-nyuntm-man-chai",
     "title": "মর্যাদাপূর্ণ পদে ন্যুনতম মান চাই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -111,7 +111,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2edbad26",
+    "slug": "2021-12-12-haf-bhada-o-nirapd-sdk",
     "title": "হাফ ভাড়া ও নিরাপদ সড়ক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -147,7 +147,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-43eb6aa8",
+    "slug": "2021-12-05-khaleda-jiyar-bideshe-chiki-sa",
     "title": "খালেদা জিয়ার বিদেশে চিকিৎসা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -184,7 +184,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ab519345",
+    "slug": "2021-11-28-khela-bnam-rajniti",
     "title": "খেলা বনাম রাজনীতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -222,7 +222,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-75b97760",
+    "slug": "2021-11-25-shahrukh-khaner-putrer-madkaskti",
     "title": "শাহরুখ খানের পুত্রের মাদকাসক্তি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -258,7 +258,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1a82a3ff",
+    "slug": "2021-11-21-dhrshn-mamlay-bicharker-prybekshn",
     "title": "ধর্ষণ মামলায় বিচারকের পর্যবেক্ষণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -295,7 +295,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9b62e32e",
+    "slug": "2021-11-14-dijeler-dam-o-dhrmght",
     "title": "ডিজেলের দাম ও ধর্মঘট",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -331,7 +331,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9a9e1c8e",
+    "slug": "2021-11-07-kumilla-kander-akrosh-tripuray",
     "title": "কুমিল্লা কান্ডের আক্রোশ ত্রিপুরায়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -367,7 +367,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-110e97c2",
+    "slug": "2021-10-31-bodhshuny-manush",
     "title": "বোধশূন্য মানুষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -402,7 +402,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bfcf0e24",
+    "slug": "2021-10-24-bhonta-anubhuti-chai",
     "title": "ভোঁতা অনুভূতি চাই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -438,7 +438,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9fab7d67",
+    "slug": "2021-10-21-bijnapnmukt-bideshi-chyanel",
     "title": "বিজ্ঞাপনমুক্ত বিদেশি চ্যানেল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -472,7 +472,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9869af26",
+    "slug": "2021-10-17-hay-hay-kompanir-fand",
     "title": "হায় হায় কোম্পানির ফাঁদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -509,7 +509,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4f05e104",
+    "slug": "2021-10-10-rbindrnather-chulo-lmba-chhilo",
     "title": "রবীন্দ্রনাথের চুলও লম্বা ছিলো",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -545,7 +545,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-b2dd5640",
+    "slug": "2021-10-03-sangbadikder-smpder-hisab",
     "title": "সাংবাদিকদের সম্পদের হিসাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -581,7 +581,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-506c9ec4",
+    "slug": "2021-09-26-bimanbndre-pisiar-lyab-sthapn-prsngg",
     "title": "বিমানবন্দরে পিসিআর ল্যাব স্থাপন প্রসঙ্গ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -616,7 +616,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-69d0ab41",
+    "slug": "2021-09-25-taleban-shasne-shriya-ain",
     "title": "তালেবান শাসনে শরিয়া আইন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -655,7 +655,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2a79a4b1",
+    "slug": "2021-09-18-talebander-srkar-gthn",
     "title": "তালেবানদের সরকার গঠন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -691,7 +691,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a3b908f4",
+    "slug": "2021-09-12-netibachk-khbrer-pradhany",
     "title": "নেতিবাচক খবরের প্রাধান্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -731,7 +731,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7986f711",
+    "slug": "2021-09-05-njr-mohammd-ar-primni",
     "title": "নজর মোহাম্মদ আর পরীমনি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -766,7 +766,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0c4d9332",
+    "slug": "2021-09-04-bhyaksin-churir-ghtna",
     "title": "ভ্যাকসিন চুরির ঘটনা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -805,7 +805,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7ad08789",
+    "slug": "2021-08-29-chhatr-chhatrider-mansik-abstha",
     "title": "ছাত্র-ছাত্রীদের মানসিক অবস্থা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -841,7 +841,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f027ee60",
+    "slug": "2021-08-22-dbitiy-dfay-talebani-shasn",
     "title": "দ্বিতীয় দফায় তালেবানি শাসন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -878,7 +878,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a384814b",
+    "slug": "2021-08-16-yt-dosh-nnd-ghosh",
     "title": "যত দোষ নন্দ ঘোষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -915,7 +915,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e3eb5f23",
+    "slug": "2021-08-12-arthnitir-punrgthne-bnggbndhu",
     "title": "অর্থনীতির পুনর্গঠনে বঙ্গবন্ধু",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -954,7 +954,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-16a22be4",
+    "slug": "2021-08-08-bhunifod-snggthner-biruddhe-abhiyan",
     "title": "ভুঁইফোড় সংগঠনের বিরুদ্ধে অভিযান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -992,7 +992,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9810ec87",
+    "slug": "2021-07-25-jntar-bikshobhe-ashant-kiuba",
     "title": "জনতার বিক্ষোভে অশান্ত কিউবা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1027,7 +1027,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-aebf31c1",
+    "slug": "2021-07-18-durghtnar-pr-schetnta-briddhi-pay",
     "title": "দুর্ঘটনার পর সচেতনতা বৃদ্ধি পায়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1062,7 +1062,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3842189a",
+    "slug": "2021-07-04-dhaka-bishbbidyaly-rbindrnath-ebng-birodhitar-kahini",
     "title": "ঢাকা বিশ্ববিদ্যালয়, রবীন্দ্রনাথ এবং বিরোধিতার কাহিনী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1098,7 +1098,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d58590b8",
+    "slug": "2021-06-20-sada-mner-ek-manush",
     "title": "সাদা মনের এক মানুষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1134,7 +1134,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-10c8e1a8",
+    "slug": "2021-06-18-atirikt-atirnjn",
     "title": "অতিরিক্ত-অতিরঞ্জন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1168,7 +1168,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ffb4ca5a",
+    "slug": "2021-06-13-bajet",
     "title": "বাজেট ২০২১-২০২২",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1205,7 +1205,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3e25c938",
+    "slug": "2021-06-06-israile-bhrmn-nishedhajna",
     "title": "ইসরাইলে ভ্রমণ নিষেধাজ্ঞা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1241,7 +1241,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d406c852",
+    "slug": "2021-05-30-filistin-israiler-yuddh-birti",
     "title": "ফিলিস্তিন-ইসরাইলের যুদ্ধ বিরতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1278,7 +1278,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8f7abe62",
+    "slug": "2021-05-23-hindu-na-ora-muslim-oi-jijnase-kon-jn",
     "title": "'হিন্দু না ওরা মুসলিম ওই জিজ্ঞাসে কোন জন’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1315,7 +1315,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-5cd157af",
+    "slug": "2021-05-09-iran-o-aprtirodhy-israil",
     "title": "ইরান ও অপ্রতিরোধ্য ইসরাইল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1350,7 +1350,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e125e1e9",
+    "slug": "2021-05-01-srkar-ubhy-sngkte",
     "title": "সরকার উভয় সঙ্কটে",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1386,7 +1386,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c1ca7568",
+    "slug": "2021-04-25-pdmryadar-ldai-pulish-bnam-daktar",
     "title": "পদমর্যাদার লড়াই পুলিশ বনাম ডাক্তার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1422,7 +1422,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2edbde24",
+    "slug": "2021-04-18-adipatay-bipryst-hefajte-islam-ebng-byktigt-gopniyta",
     "title": "আড়িপাতায় বিপর্যস্ত হেফাজতে ইসলাম এবং ব্যক্তিগত গোপনীয়তা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1460,7 +1460,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a1d6e43d",
+    "slug": "2021-04-11-hefajt-snggitanggn-grnthagar-ebng-agun",
     "title": "হেফাজত, সঙ্গীতাঙ্গন, গ্রন্থাগার এবং আগুন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1496,7 +1496,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-019ae03b",
+    "slug": "2021-04-04-modir-bangladesh-sfr",
     "title": "মোদির বাংলাদেশ সফর",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1533,7 +1533,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bbf70027",
+    "slug": "2021-03-28-jhumn-daser-bak-sbadhinta",
     "title": "ঝুমন দাসের বাক স্বাধীনতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1569,7 +1569,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ba0c3357",
+    "slug": "2021-03-21-transjendard-tasnubha-nusrat",
     "title": "ট্রান্সজেন্ডারড তাসনুভা-নুসরাত",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1605,7 +1605,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3d99671e",
+    "slug": "2021-03-14-dijital-ainer-bhiti",
     "title": "ডিজিটাল আইনের ভীতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1643,7 +1643,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8e90ded4",
+    "slug": "2021-02-14-miyanmare-samrik-abhyutthan",
     "title": "মিয়ানমারে সামরিক অভ্যুত্থান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1679,7 +1679,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-851d8459",
+    "slug": "2021-02-07-nirbachne-aniym",
     "title": "নির্বাচনে অনিয়ম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1715,7 +1715,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-de820de2",
+    "slug": "2021-01-31-priksha-chhada-pas",
     "title": "পরীক্ষা ছাড়া পাস",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1751,7 +1751,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0cc48a5f",
+    "slug": "2021-01-17-kyapitl-hile-hamla-markin-gntntrer-sngkt",
     "title": "ক্যাপিটল হিলে হামলা মার্কিন গণতন্ত্রের সংকট",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1785,7 +1785,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d598e953",
+    "slug": "2021-01-03-kronar-ntun-sngskrn-o-tika",
     "title": "করোনার নতুন সংস্করণ ও টিকা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1822,7 +1822,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8383bda9",
+    "slug": "2021-01-01-shhid-minar-prtibader-mnch",
     "title": "শহীদ মিনার প্রতিবাদের মঞ্চ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1858,7 +1858,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-650e1e7e",
+    "slug": "2021-01-01-shhid-jnni-jahanara-imam",
     "title": "শহীদ জননী জাহানারা ইমাম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1899,7 +1899,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-57660e48",
+    "slug": "2021-01-01-lkdaun-na-shatdaun",
     "title": "লকডাউন, না শাটডাউন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1934,7 +1934,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ed65f29b",
+    "slug": "2021-01-01-rashtriy-khetab-batil",
     "title": "রাষ্ট্রীয় খেতাব বাতিল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -1971,7 +1971,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1a8d654e",
+    "slug": "2021-01-01-mnda-edanor-saflye-bangladesh",
     "title": "মন্দা এড়ানোর সাফল্যে বাংলাদেশ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2006,7 +2006,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-64efcb48",
+    "slug": "2021-01-01-prdhanmntrir-ashryn-prklp",
     "title": "প্রধানমন্ত্রীর আশ্রয়ণ প্রকল্প",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2041,7 +2041,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-32a381c9",
+    "slug": "2021-01-01-taleban-shasne-afgan-nari",
     "title": "তালেবান শাসনে আফগান নারী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2075,7 +2075,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9d5a9972",
+    "slug": "2021-01-01-tiktk-soshyal-midiya-plyatfrm",
     "title": "টিকটক সোশ্যাল মিডিয়া প্ল্যাটফর্ম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2111,7 +2111,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3c3d277a",
+    "slug": "2021-01-01-uighur-muslimder-opr-niryatn",
     "title": "উইঘুর মুসলিমদের ওপর নির্যাতন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2146,7 +2146,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c6adbdd5",
+    "slug": "2021-01-01-adalter-prybekshne-bangladesh-byangk",
     "title": "আদালতের পর্যবেক্ষণে বাংলাদেশ ব্যাংক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2180,7 +2180,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-605fa9a4",
+    "slug": "2021-01-01-aoyami-lige-anuprbeshkari",
     "title": "আওয়ামী লীগে অনুপ্রবেশকারী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2215,7 +2215,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d4ee1962",
+    "slug": "2020-12-27-bagha-ytiner-bhaskry",
     "title": "বাঘা যতীনের ভাস্কর্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2250,7 +2250,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3642675a",
+    "slug": "2020-12-20-chor-dhreo-chor-hye-yachchhi",
     "title": "‘চোর ধরেও চোর হয়ে যাচ্ছি’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2286,7 +2286,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-b2c34691",
+    "slug": "2020-12-13-murti-bnam-bhaskry",
     "title": "মুর্তি বনাম ভাস্কর্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2321,7 +2321,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4ae0e31a",
+    "slug": "2020-12-06-sakiber-kshma-prarthna",
     "title": "সাকিবের ক্ষমা প্রার্থনা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2355,7 +2355,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d61cbeef",
+    "slug": "2020-11-29-munirujjman-asamprdayik-chetnar-prtibhu",
     "title": "মুনীরুজ্জমান  অসাম্প্রদায়িক চেতনার প্রতিভূ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2390,7 +2390,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4140302c",
+    "slug": "2020-11-22-armeniya-ajarbaijaner-yuddh",
     "title": "আর্মেনিয়া-আজারবাইজানের যুদ্ধ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2426,7 +2426,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c18b6480",
+    "slug": "2020-11-15-markin-yuktrashtrer-nirbachn",
     "title": "মার্কিন যুক্তরাষ্ট্রের নির্বাচন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2461,7 +2461,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d5ab1954",
+    "slug": "2020-11-08-unmtt-jntar-unmadna",
     "title": "উন্মত্ত জনতার উন্মাদনা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2497,7 +2497,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8b19e19a",
+    "slug": "2020-11-01-ghrina-ghrinar-jnm-dey",
     "title": "ঘৃণা ঘৃণার জন্ম দেয়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2532,7 +2532,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c5f35378",
+    "slug": "2020-10-25-allahr-duniyay-jmir-abhab-nei",
     "title": "আল্লাহর দুনিয়ায় জমির অভাব নেই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2569,7 +2569,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-109d571c",
+    "slug": "2020-10-11-dhrshne-bipryst-bangladesh",
     "title": "ধর্ষণে বিপর্যস্ত বাংলাদেশ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2604,7 +2604,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bbfbdf0a",
+    "slug": "2020-10-04-dhrshner-brbrta",
     "title": "ধর্ষণের বর্বরতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2639,7 +2639,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-14d28a35",
+    "slug": "2020-09-27-khichudi-niye-matm",
     "title": "খিচুড়ি নিয়ে মাতম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2673,7 +2673,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-379aac2d",
+    "slug": "2020-09-20-msjide-bisforn",
     "title": "মসজিদে বিস্ফোরণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2709,7 +2709,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7d839d86",
+    "slug": "2020-09-13-siti-krporeshner-sarmeyniti",
     "title": "সিটি কর্পোরেশনের সারমেয়নীতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2746,7 +2746,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0483a9ca",
+    "slug": "2020-09-06-bhart-bangladesh-chin",
     "title": "ভারত-বাংলাদেশ-চীন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2781,7 +2781,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a2625573",
+    "slug": "2020-08-17-khal-o-jlabddhtar-rajniti",
     "title": "খাল ও জলাবদ্ধতার রাজনীতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2819,7 +2819,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-b4d62896",
+    "slug": "2020-07-26-kronar-bhyaksin",
     "title": "করোনার ভ্যাকসিন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2854,7 +2854,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a4f07fca",
+    "slug": "2020-07-19-shaheder-kishori-meyeo-bibrt",
     "title": "শাহেদের কিশোরী মেয়েও বিব্রত",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2890,7 +2890,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-dcbc45bf",
+    "slug": "2020-07-12-takay-bagher-dudh-mele",
     "title": "টাকায় বাঘের দুধ মেলে",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2927,7 +2927,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1d41a95e",
+    "slug": "2020-07-05-mnda-arthnitir-kble-byangk",
     "title": "মন্দা অর্থনীতির কবলে ব্যাংক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2963,7 +2963,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-b369cb68",
+    "slug": "2020-06-28-allah-malik-kajemi",
     "title": "আল্লাহ মালিক কাজেমী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -2999,7 +2999,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a30b6236",
+    "slug": "2020-06-21-lkdaune-mansik-dushchinta",
     "title": "লকডাউনে মানসিক দুশ্চিন্তা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3035,7 +3035,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-440439d6",
+    "slug": "2020-06-14-amra-sbai-brnchora-brnbadi",
     "title": "আমরা সবাই বর্ণচোরা বর্ণবাদী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3070,7 +3070,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bea6d501",
+    "slug": "2020-05-31-pshu-pakhi-htya",
     "title": "পশু-পাখী হত্যা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3106,7 +3106,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-871e2051",
+    "slug": "2020-05-17-tratar-bhumikay-pulish-o-sshstrbahini",
     "title": "ত্রাতার ভূমিকায় পুলিশ ও সশস্ত্রবাহিনী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3141,7 +3141,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-5a15ad02",
+    "slug": "2020-05-10-gnsbasther-kit",
     "title": "গণস্বাস্থের কিট",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3176,7 +3176,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d915f6c4",
+    "slug": "2020-05-03-chiki-skder-atngk",
     "title": "চিকিৎসকদের আতঙ্ক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3211,7 +3211,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-67e4597e",
+    "slug": "2020-04-26-maolana-ansarir-janaja",
     "title": "মাওলানা আনসারীর জানাজা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3248,7 +3248,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-cdbef06b",
+    "slug": "2020-04-19-basntir-prtyabrtner-pddhbni",
     "title": "বাসন্তীর প্রত্যাবর্তনের পদধ্বনি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3283,7 +3283,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-fd3e5e64",
+    "slug": "2020-04-12-amader-chritrer-bichitr-rup",
     "title": "আমাদের চরিত্রের বিচিত্র রূপ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3317,7 +3317,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0d941a9d",
+    "slug": "2020-04-06-mrite-chahi-na-ami-sundr-bhubne",
     "title": "‘মরিতে চাহি না আমি সুন্দর ভুবনে’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3356,7 +3356,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c8cadb70",
+    "slug": "2020-03-29-kronabhairaser-kbirajgn",
     "title": "করোনাভাইরাসের কবিরাজগণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3393,7 +3393,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-95e35ab1",
+    "slug": "2020-03-22-mujibbrsh",
     "title": "মুজিববর্ষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3430,7 +3430,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-66adcdb1",
+    "slug": "2020-03-15-kronay-bishbayn-bipryst",
     "title": "করোনায় বিশ্বায়ন বিপর্যস্ত",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3464,7 +3464,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4f5f3215",
+    "slug": "2020-03-08-dillir-shahinbag",
     "title": "দিল্লির শাহীনবাগ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3499,7 +3499,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ebc61efd",
+    "slug": "2020-03-01-asusth-rajnitir-bikar",
     "title": "অসুস্থ রাজনীতির বিকার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3539,7 +3539,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-57299a30",
+    "slug": "2020-02-01-ami-bhot-diyechhi",
     "title": "আমি ভোট দিয়েছি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3574,7 +3574,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a414d34a",
+    "slug": "2020-01-01-jj-miya-mane-sajano-natk",
     "title": "‘জজ মিয়া’ মানে ‘সাজানো-নাটক’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3611,7 +3611,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0c78456b",
+    "slug": "2020-01-01-smr-bishard-soleimani",
     "title": "সমর বিশারদ সোলেইমানি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3646,7 +3646,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2fbff951",
+    "slug": "2020-01-01-rshid-haydar-tini-ekjni",
     "title": "রশীদ হায়দার-‘তিনি, একজনই’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3685,7 +3685,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bf3a9859",
+    "slug": "2020-01-01-manush-banche-manusher-jny",
     "title": "মানুষ বাঁচে মানুষের জন্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3720,7 +3720,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-280c447c",
+    "slug": "2020-01-01-bhaskr-rashar-mujibbrsh",
     "title": "ভাস্কর রাশার মুজিববর্ষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3761,7 +3761,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3f92a009",
+    "slug": "2020-01-01-bu-pitanor-adhikar",
     "title": "বউ পিটানোর অধিকার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3797,7 +3797,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e28e19c4",
+    "slug": "2020-01-01-pshu-prem-o-manbikta",
     "title": "পশু প্রেম ও মানবিকতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3831,7 +3831,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-eceab4e4",
+    "slug": "2020-01-01-ndbd-lkdaun",
     "title": "নড়বড় লকডাউন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3866,7 +3866,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e1cc46a2",
+    "slug": "2020-01-01-deshe-deshe-nipidit-sngkhyalghu",
     "title": "দেশে দেশে নিপীড়িত সংখ্যালঘু",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3902,7 +3902,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-fa220b8b",
+    "slug": "2020-01-01-jngner-opr-astha-nei",
     "title": "জনগণের ওপর আস্থা নেই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3939,7 +3939,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-71c794fb",
+    "slug": "2020-01-01-kronabhairaser-chhobl",
     "title": "করোনাভাইরাসের ছোবল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -3975,7 +3975,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-654eb6c1",
+    "slug": "2020-01-01-krona-bhyaksin-abiskar",
     "title": "করোনা-ভ্যাকসিন আবিস্কার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4012,7 +4012,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1c7be529",
+    "slug": "2019-12-29-bharter-samprdayik-pdkshep",
     "title": "ভারতের সাম্প্রদায়িক পদক্ষেপ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4049,7 +4049,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-fac7adb8",
+    "slug": "2019-12-22-angg-prtyngg-sngyojne-dhrm",
     "title": "অঙ্গ-প্রত্যঙ্গ সংযোজনে ধর্ম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4085,7 +4085,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8fc3543f",
+    "slug": "2019-12-15-angg-prtyngg-sngyojne-ain",
     "title": "অঙ্গ-প্রত্যঙ্গ সংযোজনে আইন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4121,7 +4121,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-89872d0c",
+    "slug": "2019-12-08-sdk-durghtna-o-ntun-ain",
     "title": "সড়ক দুর্ঘটনা ও নতুন আইন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4156,7 +4156,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-43b64874",
+    "slug": "2019-12-01-jnmdin-udyapne-jltrngg",
     "title": "জন্মদিন উদযাপনে ‘জলতরঙ্গ’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4191,7 +4191,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f7949952",
+    "slug": "2019-11-24-piyajer-jhanj",
     "title": "পিয়াজের ঝাঁজ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4227,7 +4227,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4d829555",
+    "slug": "2019-11-17-duhkh-prkash-o-bktby-prtyahar",
     "title": "দুঃখ প্রকাশ ও বক্তব্য প্রত্যাহার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4266,7 +4266,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2a1d9051",
+    "slug": "2019-11-10-anubhutir-khesart",
     "title": "অনুভূতির খেসারত",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4303,7 +4303,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-2-110d2050",
+    "slug": "2019-11-03-abrarer-mrityu-ebng-chhatr-rajniti-2",
     "title": "আবরারের মৃত্যু এবং ছাত্র রাজনীতি(2)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4340,7 +4340,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-1-2638484b",
+    "slug": "2019-10-27-abrarer-mrityu-ebng-chhatr-rajniti-1",
     "title": "আবরারের মৃত্যু এবং ছাত্র রাজনীতি(1)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4376,7 +4376,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-2-7373ac95",
+    "slug": "2019-10-14-juyar-asr-kyasino-2",
     "title": "জুয়ার আসর ক্যাসিনো(2)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4414,7 +4414,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-1-733994df",
+    "slug": "2019-10-06-juyar-asr-kyasino-1",
     "title": "জুয়ার আসর ক্যাসিনো(1)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4450,7 +4450,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-2-8776c5c0",
+    "slug": "2019-09-29-tajiya-michhile-pddln-2",
     "title": "তাজিয়া মিছিলে পদদলন(2)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4487,7 +4487,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-1-9ed388b7",
+    "slug": "2019-09-22-tajiya-michhile-pddln-1",
     "title": "তাজিয়া মিছিলে পদদলন(1)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4522,7 +4522,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-2-309a0735",
+    "slug": "2019-09-15-asam-kamrup-kamakhya-2",
     "title": "আসাম  কামরূপ কামাখ্যা(2)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4555,7 +4555,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-1-5f6be45c",
+    "slug": "2019-09-08-asam-kamrup-kamakhya-1",
     "title": "আসাম  কামরূপ কামাখ্যা(1)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4591,7 +4591,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-2-6cf679d7",
+    "slug": "2019-09-01-bhusbrg-khyat-kashmir-2",
     "title": "ভূস্বর্গ খ্যাত কাশ্মীর(2)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4626,7 +4626,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-1-873061b9",
+    "slug": "2019-08-25-bhusbrg-khyat-kashmir-1",
     "title": "ভূস্বর্গ খ্যাত কাশ্মীর(1)",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4662,7 +4662,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-704cf81c",
+    "slug": "2019-08-18-atngke-achhi",
     "title": "আতঙ্কে আছি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4701,7 +4701,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-092e3d88",
+    "slug": "2019-08-04-gune-ny-mane-alada",
     "title": "গুণে নয়, মানে আলাদা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4735,7 +4735,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-95e5548b",
+    "slug": "2019-07-28-priya-sahar-hyandshek",
     "title": "প্রিয়া সাহার হ্যান্ডশেক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4771,7 +4771,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a9148d1a",
+    "slug": "2019-07-23-srkarer-jbabdihita",
     "title": "সরকারের জবাবদিহিতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4806,7 +4806,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-13a1fd00",
+    "slug": "2019-07-21-bhagyban-president-ershad",
     "title": "ভাগ্যবান প্রেসিডেন্ট এরশাদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4842,7 +4842,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-23327725",
+    "slug": "2019-07-14-dhrshner-jny-shytan-dayi",
     "title": "‘ধর্ষণের জন্য শয়তান দায়ী’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4877,7 +4877,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-029abadf",
+    "slug": "2019-07-07-kshmar-ayogy-brbrta",
     "title": "ক্ষমার অযোগ্য বর্বরতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4912,7 +4912,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-49a591f2",
+    "slug": "2019-06-30-halal-nait-klab",
     "title": "হালাল নাইট ক্লাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4948,7 +4948,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bfefc507",
+    "slug": "2019-06-23-abhibasi-o-udbastu",
     "title": "অভিবাসী ও উদ্বাস্তু",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -4985,7 +4985,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-173679cc",
+    "slug": "2019-06-16-shekh-hasina-nirbhrta",
     "title": "শেখ হাসিনা নির্ভরতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5021,7 +5021,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f570dc18",
+    "slug": "2019-06-09-badti-u-padner-bidmbna",
     "title": "বাড়তি উৎপাদনের বিড়ম্বনা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5056,7 +5056,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-dbd8d281",
+    "slug": "2019-06-02-nrendr-modir-jy",
     "title": "নরেন্দ্র মোদির জয়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5092,7 +5092,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-91e57800",
+    "slug": "2019-05-26-imej-sngkte-byangk",
     "title": "ইমেজ সংকটে ব্যাংক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5128,7 +5128,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ec438cff",
+    "slug": "2019-05-19-koutuk-abhineta-anis-bhai",
     "title": "কৌতুক অভিনেতা আনিস ভাই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5163,7 +5163,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e8a01929",
+    "slug": "2019-05-12-bipnn-bhabmurti-niye-bienpi",
     "title": "বিপন্ন ভাবমূর্তি নিয়ে বিএনপি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5195,7 +5195,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1b53d9f8",
+    "slug": "2019-05-05-natker-nam-ami",
     "title": "নাটকের নাম ‘আমি’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5231,7 +5231,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-33673709",
+    "slug": "2019-04-28-bidhbngsi-atmghati-boma",
     "title": "বিধ্বংসী আত্মঘাতী বোমা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5267,7 +5267,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-021deba5",
+    "slug": "2019-04-21-dhrshker-pkshe-michhil",
     "title": "ধর্ষকের পক্ষে মিছিল!",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5303,7 +5303,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-6775314f",
+    "slug": "2019-04-14-madrasar-adhyksher-kamukta",
     "title": "মাদ্রাসার অধ্যক্ষের কামুকতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5337,7 +5337,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c4a4b9ed",
+    "slug": "2019-04-07-agun-agun",
     "title": "আগুন আগুন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5373,7 +5373,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-5154a1c4",
+    "slug": "2019-03-31-eka-ek-nari",
     "title": "একা এক নারী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5408,7 +5408,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-546f38c7",
+    "slug": "2019-03-24-upasnalye-jnggi-akrmn",
     "title": "উপাসনালয়ে জঙ্গি-আক্রমণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5448,7 +5448,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-fd4e872c",
+    "slug": "2019-03-17-chadre-moda-niraptta",
     "title": "চাদরে মোড়া নিরাপত্তা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5483,7 +5483,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-208a5966",
+    "slug": "2019-03-10-jitl-imran-khan",
     "title": "জিতল ইমরান খান!",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5519,7 +5519,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f028845e",
+    "slug": "2019-03-03-bangladesh-jamayate-islam",
     "title": "বাংলাদেশ জামায়াতে ইসলাম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5555,7 +5555,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3b4c5fa7",
+    "slug": "2019-02-03-durnitir-matra-bede-gel",
     "title": "দুর্নীতির মাত্রা বেড়ে গেল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5592,7 +5592,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f22acdab",
+    "slug": "2019-01-01-amader-tankshal",
     "title": "‘আমাদের টাঁকশাল’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5627,7 +5627,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0b3264f6",
+    "slug": "2019-01-01-soudi-meye-rahaf",
     "title": "সৌদি মেয়ে রাহাফ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5662,7 +5662,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3b1d788a",
+    "slug": "2019-01-01-shrnarthi-shibire-ayanjelina-joli",
     "title": "শরণার্থী শিবিরে অ্যাঞ্জেলিনা জোলি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5699,7 +5699,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e298d18d",
+    "slug": "2019-01-01-mjuribihin-sangbadik",
     "title": "মজুরিবিহীন সাংবাদিক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5736,7 +5736,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c4fa1a01",
+    "slug": "2019-01-01-prkiya-shastiyogy-apradh-ny",
     "title": "পরকীয়া শাস্তিযোগ্য অপরাধ নয়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5773,7 +5773,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-3612ca2f",
+    "slug": "2019-01-01-nari-oyajer-akrshniy-upjiby",
     "title": "নারী ওয়াজের আকর্ষণীয় উপজীব্য",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5809,7 +5809,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2db19c93",
+    "slug": "2019-01-01-nana-sngkte-pakistan",
     "title": "নানা সংকটে পাকিস্তান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5847,14 +5847,14 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-427755bf",
+    "slug": "2018-12-30-gonotantrik-nirbachon",
     "title": "গণতান্ত্রিক নির্বাচন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
-    "section": "মতামত",
+    "section": "উপ সম্পাদকীয়",
     "publishedAt": "2018-12-30",
     "publishedDateLabel": "৩০ ডিসেম্বর ২০১৮",
-    "originalUrl": "",
+    "originalUrl": "https://print.thesangbad.net/opinion/post-editorial/গণতান্ত্রিক+নির্বাচন-42882/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -5882,7 +5882,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-47f99e49",
+    "slug": "2018-12-23-mashrafi-bhot-prarthi",
     "title": "মাশরাফি ভোট প্রার্থী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5918,7 +5918,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-b7506c1e",
+    "slug": "2018-12-16-birprtik-taramn-bibi",
     "title": "বীরপ্রতীক তারামন বিবি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5956,7 +5956,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a37522fe",
+    "slug": "2018-12-09-aritrir-atmhtya",
     "title": "অরিত্রির আত্মহত্যা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -5992,7 +5992,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d50f535a",
+    "slug": "2018-12-02-kutniti-sima-prisima",
     "title": "কূটনীতি সীমা-পরিসীমা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6029,7 +6029,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-d20d8e3e",
+    "slug": "2018-12-01-tablig-jamater-bibhajn",
     "title": "তাবলিগ জামাতের বিভাজন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6069,7 +6069,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ba50ce26",
+    "slug": "2018-11-25-shouchagar-smachar",
     "title": "শৌচাগার সমাচার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6103,7 +6103,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1ce97786",
+    "slug": "2018-11-18-pakistaner-asiya-bibi",
     "title": "পাকিস্তানের আসিয়া বিবি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6141,7 +6141,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-449ac3d0",
+    "slug": "2018-11-04-bhu-bibaher-pkshe-okalti",
     "title": "বহু বিবাহের পক্ষে ওকালতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6178,7 +6178,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a1e13016",
+    "slug": "2018-10-28-chritrhin",
     "title": "‘চরিত্রহীন’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6216,7 +6216,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8ba00892",
+    "slug": "2018-10-21-soudider-hambda-bhab",
     "title": "সৌদিদের হামবড়া ভাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6254,7 +6254,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-017f8532",
+    "slug": "2018-10-14-yuddher-astr-dhrshn",
     "title": "যুদ্ধের অস্ত্র ধর্ষণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6291,7 +6291,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7ec6d7c3",
+    "slug": "2018-10-07-abhishpt-meye-sntan",
     "title": "অভিশপ্ত মেয়ে সন্তান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6327,7 +6327,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-5bccf51a",
+    "slug": "2018-09-30-banka-kthay-unnyn-mlin",
     "title": "বাঁকা কথায় উন্নয়ন মলিন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6363,7 +6363,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-b0e82c96",
+    "slug": "2018-09-23-jsim-uddiner-pdbi-laibreriyan",
     "title": "জসীম উদ্দিনের পদবি লাইব্রেরিয়ান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6406,7 +6406,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-0c584daf",
+    "slug": "2018-09-16-kishor-mastan",
     "title": "কিশোর মাস্তান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6451,7 +6451,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e93be2ce",
+    "slug": "2018-09-09-gnpribhne-youn-niryatn",
     "title": "গণপরিবহনে যৌন নির্যাতন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6488,7 +6488,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-63407d00",
+    "slug": "2018-09-02-grur-guntay-mrityu",
     "title": "গরুর গুঁতায় মৃত্যু",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6528,7 +6528,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e093a704",
+    "slug": "2018-08-26-alpdrshi-abu-jafr-shamchhuddin",
     "title": "অল্পদর্শী-আবু জাফর শামছুদ্দীন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6567,7 +6567,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-5b567587",
+    "slug": "2018-08-19-madrasa-shikshay-sbikriti",
     "title": "মাদরাসা শিক্ষায় স্বীকৃতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6605,7 +6605,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4104bf08",
+    "slug": "2018-08-12-ui-oyant-jastis",
     "title": "‘উই ওয়ান্ট জাস্টিস’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6642,7 +6642,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-e0f169fb",
+    "slug": "2018-08-05-beproya-gadichalk",
     "title": "বেপরোয়া গাড়িচালক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6682,7 +6682,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bc038e9e",
+    "slug": "2018-07-29-sngbad-er-bys-bchhr",
     "title": "‘সংবাদ’-এর বয়স ৬৭ বছর",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6721,7 +6721,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-48aeb4e6",
+    "slug": "2018-07-22-bangladesh-machhe-sbyngmbhr",
     "title": "বাংলাদেশ মাছে স্বয়ংম্ভর",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6761,7 +6761,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-51a99ca1",
+    "slug": "2018-07-15-grihkrmira-youndasi-ny",
     "title": "গৃহকর্মীরা যৌনদাসী নয়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6799,7 +6799,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-49885711",
+    "slug": "2018-07-08-ekjn-smart-krmodyogi-meyr",
     "title": "একজন স্মার্ট কর্মোদ্যোগী মেয়র",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6837,7 +6837,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-58637aa3",
+    "slug": "2018-07-01-hyakarder-rajtb",
     "title": "হ্যাকারদের রাজত্ব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6875,7 +6875,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-868fedf3",
+    "slug": "2018-06-24-soudi-narider-ekti-bijy",
     "title": "সৌদি নারীদের একটি বিজয়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6914,7 +6914,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-44b4d254",
+    "slug": "2018-06-19-bangladesher-prmila-kheloyad",
     "title": "বাংলাদেশের প্রমীলা খেলোয়াড়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6955,7 +6955,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a0864eec",
+    "slug": "2018-06-10-mrnnesha-iyaba",
     "title": "মরণনেশা ইয়াবা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -6994,7 +6994,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4645ff8a",
+    "slug": "2018-06-03-ma-der-grbhdharn",
     "title": "মা’দের গর্ভধারণ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7032,7 +7032,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9b14c83b",
+    "slug": "2018-05-27-pani-bidyu-gyas",
     "title": "পানি বিদ্যুৎ গ্যাস",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7079,7 +7079,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-585d6538",
+    "slug": "2018-05-20-snaipar-lkshybhedi-bnduk",
     "title": "স্নাইপার-লক্ষ্যভেদী বন্দুক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7118,7 +7118,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c3d96f92",
+    "slug": "2018-05-13-unnynshil-desh-anunnt-manush",
     "title": "উন্নয়নশীল দেশ অনুন্নত মানুষ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7157,7 +7157,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-dadb064a",
+    "slug": "2018-05-06-nirmm-nishthurta",
     "title": "নির্মম নিষ্ঠুরতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7197,7 +7197,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bfcc8f5b",
+    "slug": "2018-04-29-prbhman-sngskriti-dbitiy-prb",
     "title": "প্রবহমান সংস্কৃতি,দ্বিতীয় পর্ব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7235,7 +7235,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-892f961f",
+    "slug": "2018-04-22-prbahman-sngskriti-prthm-prb",
     "title": "প্রবাহমান সংস্কৃতি, প্রথম পর্ব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7273,7 +7273,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-933dc45a",
+    "slug": "2018-04-16-kotar-mundupat",
     "title": "কোটার মুণ্ডুপাত!",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7310,7 +7310,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7fb030a6",
+    "slug": "2018-04-08-kauke-chhad-deya-hbe-na",
     "title": "কাউকে ছাড় দেয়া হবে না",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7348,7 +7348,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-99dc9dbc",
+    "slug": "2018-04-01-sbjatik-chiki-sa",
     "title": "স্বজাতিক চিকিৎসা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7386,7 +7386,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-bc85b777",
+    "slug": "2018-03-25-bharte-kttrpnthider-jyjykar",
     "title": "ভারতে কট্টরপন্থীদের জয়জয়কার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7425,7 +7425,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-80b2f4a9",
+    "slug": "2018-03-18-day-mukti-snd",
     "title": "দায়-মুক্তি সনদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7463,7 +7463,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f53e1cf4",
+    "slug": "2018-03-11-mrityunjyi-jafr-ikbal",
     "title": "মৃত্যুঞ্জয়ী জাফর ইকবাল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7503,7 +7503,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-359c7b8d",
+    "slug": "2018-03-04-biman-atke-dil-msha",
     "title": "বিমান আটকে দিল মশা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7544,7 +7544,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-ba2c4c73",
+    "slug": "2018-01-01-feik-niuj-ayaoyard",
     "title": "‘ফেইক নিউজ অ্যাওয়ার্ড’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7588,7 +7588,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-af5b86c4",
+    "slug": "2018-01-01-shirchchhede-jllader-abhab",
     "title": "শিরচ্ছেদে জল্লাদের অভাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7630,7 +7630,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-31510864",
+    "slug": "2018-01-01-lasher-jimmi-nishiddh",
     "title": "লাশের জিম্মি নিষিদ্ধ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7672,7 +7672,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-da8e6fb8",
+    "slug": "2018-01-01-ye-deshe-amuslim-bhotar-ny",
     "title": "যে দেশে অমুসলিম ভোটার নয়",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7713,7 +7713,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7c766e78",
+    "slug": "2018-01-01-medhar-chakuri",
     "title": "মেধার চাকুরী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7754,7 +7754,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1952239b",
+    "slug": "2018-01-01-bidyu-sbhytar-mapkathi",
     "title": "বিদ্যুৎ সভ্যতার মাপকাঠি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7796,7 +7796,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-99aa0523",
+    "slug": "2018-01-01-ftoyabajir-yupkashthe-bli",
     "title": "ফতোয়াবাজির যূপকাষ্ঠে বলি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7837,7 +7837,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-1d9bf9f8",
+    "slug": "2018-01-01-gultir-jny-mrityudnd",
     "title": "গুলতির জন্য মৃত্যুদন্ড",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7876,7 +7876,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-f81dd0a0",
+    "slug": "2018-01-01-kmiuniti-pulishing",
     "title": "কমিউনিটি পুলিশিং",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7914,7 +7914,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2067ea7e",
+    "slug": "2017-12-04-sbpndrshta-anisul-hk",
     "title": "স্বপ্নদ্রষ্টা আনিসুল হক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7952,7 +7952,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-4d97ff9c",
+    "slug": "2017-10-16-sbasthyer-bideshmukhin-michhil",
     "title": "স্বাস্থ্যের বিদেশমুখিন মিছিল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -7999,7 +7999,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-8471fb2b",
+    "slug": "2017-10-04-sbasthy-khater-sbikriti",
     "title": "স্বাস্থ্য খাতের স্বীকৃতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8049,7 +8049,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-a1005d67",
+    "slug": "2017-09-17-shnir-kble-fesbuk",
     "title": "শনির কবলে ফেসবুক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8111,7 +8111,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9202718a",
+    "slug": "2017-09-10-fesbuker-shubhdik",
     "title": "ফেসবুকের শুভদিক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8165,7 +8165,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-511d9bba",
+    "slug": "2017-09-05-udbastu-rohingga",
     "title": "উদ্বাস্তু রোহিঙ্গা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8215,7 +8215,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2c3ac861",
+    "slug": "2017-08-27-chturth-bishbyuddher-mhda",
     "title": "চতুর্থ বিশ্বযুদ্ধের মহড়া!",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8257,7 +8257,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-fbad0831",
+    "slug": "2017-08-06-lobhatur-drishti",
     "title": "লোভাতুর দৃষ্টি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8308,7 +8308,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-769c716b",
+    "slug": "2017-07-29-jerujalem-o-al-aksa-msjid",
     "title": "জেরুজালেম ও আল-আকসা মসজিদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8356,7 +8356,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-edc823a6",
+    "slug": "2017-07-19-dasanudas-o-grihkrmi",
     "title": "দাসানুদাস ও গৃহকর্মী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8406,7 +8406,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-c39c1eb9",
+    "slug": "2017-06-30-bishbayn-o-bhisa-prtha",
     "title": "বিশ্বায়ন ও ভিসা প্রথা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8459,7 +8459,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-9b986afb",
+    "slug": "2017-01-01-prshn-kra-mhapap",
     "title": "প্রশ্ন করা মহাপাপ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8503,7 +8503,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-2e8b884a",
+    "slug": "2017-01-01-prkritir-prtishodh",
     "title": "প্রকৃতির প্রতিশোধ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8544,7 +8544,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-7ea4cae7",
+    "slug": "2017-01-01-kesht-betai-chor",
     "title": "কেষ্ট বেটাই চোর",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -8583,7 +8583,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "folder-article-49e5ae2c",
+    "slug": "2017-01-01-isyur-abhab-nei",
     "title": "ইস্যুর অভাব নেই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",

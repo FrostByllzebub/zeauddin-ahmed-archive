@@ -73,8 +73,19 @@ function catalog() {
   return [
     ...readCatalogFile("lib/articles.ts"),
     ...readCatalogFile("lib/folderArticles.ts"),
-    ...readCatalogFile("lib/additionalArticles.ts"),
   ].filter((record, index, all) => all.findIndex((item) => item.slug === record.slug) === index);
+}
+
+function catalogDuplicateCandidates(records) {
+  const groups = new Map();
+  for (const record of records) {
+    const key = `${normalizeTitle(record.title)}|${record.publishedAt}`;
+    if (!normalizeTitle(record.title) || !record.publishedAt) continue;
+    const group = groups.get(key) ?? [];
+    group.push(record);
+    groups.set(key, group);
+  }
+  return [...groups.values()].filter((group) => group.length > 1);
 }
 
 function normalizeTitle(value) {
@@ -170,7 +181,11 @@ const [command, file] = process.argv.slice(2);
 try {
   if (command === "template" && file) writeTemplate(file);
   else if (command === "check" && file) check(file);
-  else if (command === "catalog") console.log(JSON.stringify({ records: catalog().length }, null, 2));
+  else if (command === "catalog") {
+    const records = catalog();
+    const duplicates = catalogDuplicateCandidates(records);
+    console.log(JSON.stringify({ records: records.length, duplicateGroups: duplicates.map((group) => group.map((item) => item.slug)) }, null, 2));
+  }
   else { usage(); process.exitCode = 1; }
 } catch (error) {
   console.error(`Error: ${error.message}`);

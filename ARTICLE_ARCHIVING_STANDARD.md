@@ -10,7 +10,7 @@ The website is a long-term, readable archive of Zeauddin Ahmed’s published wri
 
 Each article entry must include:
 
-- A stable URL slug based on the article title, using transliterated Bengali or a clear romanized form.
+- A canonical URL slug in the single format `YYYY-MM-DD-transliterated-title` (for example, `2018-12-30-gonotantrik-nirbachon`).
 - The complete article text, from beginning to end, preserving the original wording and paragraph order.
 - The article title exactly as published, unless a clearly documented typographical correction is approved.
 - Author name: `জিয়াউদ্দীন আহমেদ` unless the source identifies a different byline.
@@ -141,6 +141,10 @@ The site is deployed through GitHub Pages from the `main` branch. After a conten
 5. Open the live article in Edge with a cache-busting query when necessary, for example `?v=<commit>`, and visually verify the page.
 
 The cache-busting query is only for verification; it is not part of the article’s canonical URL.
+
+## URL stability
+
+Canonical slugs are generated from the publication date and a romanized title. Older slugs are retained in an alias map and redirect to the canonical route, so standardization does not strand previously shared links. Run `node scripts/standardize-article-slugs.mjs` only as a deliberate catalog migration, then review the generated alias map and test representative legacy URLs.
 
 ## Established reference implementation
 

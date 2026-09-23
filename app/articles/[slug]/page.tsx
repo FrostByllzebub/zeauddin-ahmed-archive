@@ -1,9 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { articles, getArticle } from "../../../lib/articles";
+import { legacySlugMap } from "../../../lib/slugAliases";
 
 export function generateStaticParams() {
-  return articles.map((article) => ({ slug: article.slug }));
+  return [...articles.map((article) => ({ slug: article.slug })), ...Object.keys(legacySlugMap).map((slug) => ({ slug }))];
 }
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {

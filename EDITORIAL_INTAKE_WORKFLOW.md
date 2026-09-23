@@ -23,6 +23,7 @@ The intake file is a staging record; it is not automatically published.
 - Run `node scripts/weekly-article-intake.mjs check path\to\new-intake.json`.
 - Treat an exact title match, exact title/date match, or normalized original-URL match as a duplicate candidate. Resolve the candidate before importing anything.
 - The check compares the intake against both the 24 curated records and the folder-imported archive records. It never invents a URL or silently overwrites an existing record.
+- Run `node scripts/weekly-article-intake.mjs catalog` periodically to report duplicate title/date groups already present in the catalog.
 - Compare the title, byline, publication, and date against the source.
 - Mark date confidence (`exact`, `approximate`, or `unknown`).
 - Keep a short evidence note explaining what was checked.
