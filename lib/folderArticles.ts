@@ -1787,8 +1787,8 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-17-kyapitl-hile-hamla-markin-gntntrer-sngkt",
-    "title": "ক্যাপিটল হিলে হামলা মার্কিন গণতন্ত্রের সংকট",
+    "slug": "2021-01-17-capitol-hile-hamla-markin-gonotantrer-sankat",
+    "title": "ক্যাপিটল হিলে হামলা: মার্কিন গণতন্ত্রের সংকট",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
