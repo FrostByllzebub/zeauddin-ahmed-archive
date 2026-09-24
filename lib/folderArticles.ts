@@ -1423,7 +1423,7 @@ export const folderArticles: ArchiveArticle[] = [
   },
   {
     "slug": "2021-04-25-pdmryadar-ldai-pulish-bnam-daktar",
-    "title": "পদমর্যাদার লড়াই পুলিশ বনাম ডাক্তার",
+    "title": "পদমর্যাদার লড়াই: পুলিশ বনাম ডাক্তার",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
