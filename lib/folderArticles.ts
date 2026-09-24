@@ -1315,7 +1315,7 @@ export const folderArticles: ArchiveArticle[] = [
   },
   {
     "slug": "2021-05-23-hindu-na-ora-muslim-oi-jijnase-kon-jn",
-    "title": "'হিন্দু না ওরা মুসলিম ওই জিজ্ঞাসে কোন জন’",
+    "title": "'হিন্দু না ওরা মুসলিম? ওই জিজ্ঞাসে কোন জন?’",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
