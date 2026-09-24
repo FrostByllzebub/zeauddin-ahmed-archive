@@ -2007,13 +2007,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-mnda-edanor-saflye-bangladesh",
+    "slug": "2021-01-24-monda-edar-safolye-bangladesh",
     "title": "মন্দা এড়ানোর সাফল্যে বাংলাদেশ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-01-24",
+    "publishedDateLabel": "২৪ জানুয়ারি ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
