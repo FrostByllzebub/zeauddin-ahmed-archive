@@ -2182,13 +2182,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-adalter-prybekshne-bangladesh-byangk",
+    "slug": "2021-01-22-adaloter-porjobekkhone-bangladesh-bank",
     "title": "আদালতের পর্যবেক্ষণে বাংলাদেশ ব্যাংক",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "বাংলাদেশ প্রতিদিন",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-01-22",
+    "publishedDateLabel": "২২ জানুয়ারি ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
