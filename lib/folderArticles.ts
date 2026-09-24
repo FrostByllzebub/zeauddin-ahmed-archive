@@ -1970,13 +1970,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-rashtriy-khetab-batil",
+    "slug": "2021-02-21-rashtriyo-khetab-batil",
     "title": "রাষ্ট্রীয় খেতাব বাতিল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-02-21",
+    "publishedDateLabel": "২১ ফেব্রুয়ারি ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
