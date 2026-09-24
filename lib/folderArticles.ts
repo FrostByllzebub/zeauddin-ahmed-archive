@@ -2216,13 +2216,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-aoyami-lige-anuprbeshkari",
+    "slug": "2021-01-10-awami-lige-anuprabeshkari",
     "title": "আওয়ামী লীগে অনুপ্রবেশকারী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-01-10",
+    "publishedDateLabel": "১০ জানুয়ারি ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
