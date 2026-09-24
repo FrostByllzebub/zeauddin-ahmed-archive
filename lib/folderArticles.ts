@@ -2147,13 +2147,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-uighur-muslimder-opr-niryatn",
+    "slug": "2021-02-07-uighur-muslimder-opor-niryaton",
     "title": "উইঘুর মুসলিমদের ওপর নির্যাতন",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "বাংলাদেশ প্রতিদিন",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-02-07",
+    "publishedDateLabel": "৭ ফেব্রুয়ারি ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
