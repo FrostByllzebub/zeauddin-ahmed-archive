@@ -954,7 +954,7 @@ export const folderArticles: ArchiveArticle[] = [
     "slug": "2021-08-12-arthnitir-punrgthne-bnggbndhu",
     "title": "অর্থনীতির পুনর্গঠনে বঙ্গবন্ধু",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "সাম্প্রতিক দেশকাল",
     "section": "মতামত",
     "publishedAt": "2021-08-12",
     "publishedDateLabel": "১২ আগস্ট ২০২১",
