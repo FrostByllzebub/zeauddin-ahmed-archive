@@ -2111,13 +2111,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-tiktk-soshyal-midiya-plyatfrm",
-    "title": "টিকটক সোশ্যাল মিডিয়া প্ল্যাটফর্ম",
+    "slug": "2021-06-27-tiktok-soshyal-midiya-platform",
+    "title": "টিকটক: সোশ্যাল মিডিয়া প্ল্যাটফর্ম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-06-27",
+    "publishedDateLabel": "২৭ জুন ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
