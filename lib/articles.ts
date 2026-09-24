@@ -724,7 +724,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2026-09-19-briks-smmeln-o-bangladesher-kutnoitik-hisab",
+    "slug": "2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab",
     "title": "ব্রিকস সম্মেলন ও বাংলাদেশের কূটনৈতিক হিসাব",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -733,7 +733,7 @@ const currentArticles: ArchiveArticle[] = [
     "publishedDateLabel": "১৯ সেপ্টেম্বর ২০২৬",
     "originalUrl": "https://sangbad.net/news/18013/",
     "rightsStatus": "full_text_permitted",
-    "heroImage": "/articles/custom-brics-summit-2025.png",
+    "heroImage": "/articles/custom-brics-roundtable.png",
     "heroCaption": "আর্কাইভের জন্য তৈরি সম্পাদকীয় চিত্র",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2025_BRICS_Summit.jpg",
     "imageCredit": "Prime Minister’s Office, Government of India · GODL-India",
