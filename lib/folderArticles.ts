@@ -2042,13 +2042,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-prdhanmntrir-ashryn-prklp",
+    "slug": "2021-08-01-prdhanmntrir-ashryn-prklp",
     "title": "প্রধানমন্ত্রীর আশ্রয়ণ প্রকল্প",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-08-01",
+    "publishedDateLabel": "১ আগস্ট ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
