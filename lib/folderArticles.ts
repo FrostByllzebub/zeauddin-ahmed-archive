@@ -1858,13 +1858,13 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2021-01-01-shhid-minar-prtibader-mnch",
-    "title": "শহীদ মিনার প্রতিবাদের মঞ্চ",
+    "slug": "2021-02-28-shohid-minar-prtibader-manch",
+    "title": "শহীদ মিনার: প্রতিবাদের মঞ্চ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2021-02-28",
+    "publishedDateLabel": "২৮ ফেব্রুয়ারি ২০২১",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
