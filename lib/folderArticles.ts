@@ -5117,7 +5117,7 @@ export const folderArticles: ArchiveArticle[] = [
     "publication": "সংবাদ / Views Bangladesh",
     "section": "মতামত",
     "publishedAt": "2025-06-01",
-    "publishedDateLabel": "০১ জুন ২০২৫ (অনলাইনে Views Bangladesh-এ ৩১ মে)",
+    "publishedDateLabel": "০১ জুন ২০২৫ (অনলাইনে ৩১ মে)",
     "originalUrl": "https://viewsbangladesh.com/bn/if-interim-govt-lacks-authority-countrys-dev-will-be-hindered/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/2025-06-01-chottogram-bondor-er-terminal-bitorko.png",
