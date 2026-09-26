@@ -1041,6 +1041,42 @@ const correctedInflationArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedNationalAnthemArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-09-21-jatiyo-shongit-niye-bitorko") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["দাবী", "দাবি"],
+    ["মাধ্যেমে", "মাধ্যমে"],
+    ["সহরোওয়ার্দী", "সোহরাওয়ার্দী"],
+    ["জামায়েতে ইসলাম", "জামায়াতে ইসলাম"],
+    ["নেতৃবন্দ", "নেতৃবৃন্দ"],
+    ["সহেবেরা", "সাহেবেরা"],
+    ["অক্ষুন্ন", "অক্ষুণ্ণ"],
+    ["বেশী", "বেশি"],
+    ["উর্দূ", "উর্দু"],
+    ["কোরবানী", "কোরবানি"],
+    ["জামাতবিহীন", "জামানতবিহীন"],
+    ["পথিকৃত", "পথিকৃৎ"],
+    ["গগণ", "গগন"],
+    ["দাবীদার", "দাবিদার"],
+    ["কোলকাতা", "কলকাতা"],
+    ["দেশাত্ববোধের", "দেশাত্মবোধের"],
+    ["মাতৃভুমি", "মাতৃভূমি"],
+    ["স্বার্বভৌমত্বের", "সার্বভৌমত্বের"],
+    ["ভুমিষ্ট", "ভূমিষ্ঠ"],
+    ["মুহুর্তে", "মুহূর্তে"],
+    ["শিরীক", "শিরক"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1052,6 +1088,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedAgnikonnaArticle)
   .map(correctedJamaatArticle)
   .map(correctedInflationArticle)
+  .map(correctedNationalAnthemArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
