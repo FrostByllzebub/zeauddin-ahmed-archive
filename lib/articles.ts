@@ -785,7 +785,39 @@ const currentArticles: ArchiveArticle[] = [
   }
 ];
 
-export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles].sort((a, b) => {
+const correctedTabligArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-12-29-bibhajito-tablig-jamater-dwondwo") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ইস্তেমা", "ইজতেমা"],
+    ["বানী", "বাণী"],
+    ["মত বিরোধ", "মতবিরোধ"],
+    ["ছিলো", "ছিল"],
+    ["দাবী", "দাবি"],
+    ["বাংলাদশের", "বাংলাদেশের"],
+    ["পর্যালাচনা", "পর্যালোচনা"],
+    ["বাকী", "বাকি"],
+    ["বন্টন", "বণ্টন"],
+    ["মালয়েশীয়া", "মালয়েশিয়া"],
+    ["তাবলীগ", "তাবলিগ"],
+    ["উদ্ভুত", "উদ্ভূত"],
+    ["আত্মসমর্পনের", "আত্মসমর্পণের"],
+  ];
+  const firstBody = article.body[0];
+  if (!firstBody) return article;
+  const paragraphs = firstBody.paragraphs.map((paragraph) =>
+    replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph),
+  ) ?? [];
+  const start = paragraphs.findIndex((paragraph) => paragraph.startsWith("যে ১১ জন শুরা সদস্য বাংলাদেশে"));
+  const mergedParagraphs = start >= 0 ? [
+    ...paragraphs.slice(0, start),
+    paragraphs.slice(start, start + 6).join(""),
+    ...paragraphs.slice(start + 6),
+  ] : paragraphs;
+  return { ...article, body: [{ ...firstBody, paragraphs: mergedParagraphs }, ...article.body.slice(1)] };
+};
+
+export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles].map(correctedTabligArticle).sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
 });
