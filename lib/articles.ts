@@ -1352,6 +1352,30 @@ const correctedMahiuddinArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedBankJournalistArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-06-15-bangladesh-bank-e-sangbadikder-probesh-niye-bitorko") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["সনম্মেলন", "সম্মেলন"],
+    ["অশগহণ", "অংশগ্রহণ"],
+    ["প্রথিতদশা", "প্রথিতযশা"],
+    ["সন্মান", "সম্মান"],
+    ["যোগাড়", "জোগাড়"],
+    ["মালয়েশীয়া", "মালয়েশিয়া"],
+    ["রেজিস্ট্রার বই", "রেজিস্টার বই"],
+    ["ঘন্টাব্যাপী", "ঘণ্টাব্যাপী"],
+    ["ক্ষুন্ন", "ক্ষুণ্ণ"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1373,6 +1397,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedQuotaArticle)
   .map(correctedLeatherArticle)
   .map(correctedMahiuddinArticle)
+  .map(correctedBankJournalistArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
