@@ -1323,6 +1323,35 @@ const correctedLeatherArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedMahiuddinArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["চাকুরি", "চাকরি"],
+    ["কোলকাতা", "কলকাতা"],
+    ["সুপারিয়র", "সুপিরিয়র"],
+    ["লণ্ডনস্থ", "লন্ডনস্থ"],
+    ["বাঙ্গালী", "বাঙালি"],
+    ["ইতঃস্তত", "ইতস্তত"],
+    ["পাউণ্ড", "পাউন্ড"],
+    ["ঘন্টা", "ঘণ্টা"],
+    ["বদলী", "বদলি"],
+    ["চাকুরিচ্যুতি", "চাকরিচ্যুতি"],
+    ["মুক্তযোদ্ধার", "মুক্তিযোদ্ধার"],
+    ["গরীব", "গরিব"],
+    ["এমন কী", "এমনকি"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/নিবৃত(?!্ত)/g, "নিবৃত্ত")
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1343,6 +1372,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedSuccessArticle)
   .map(correctedQuotaArticle)
   .map(correctedLeatherArticle)
+  .map(correctedMahiuddinArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
