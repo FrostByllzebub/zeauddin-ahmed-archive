@@ -1798,6 +1798,18 @@ const correctedEconomicVotersArticle = (article: ArchiveArticle): ArchiveArticle
   };
 };
 
+const withGenerated2024Cover = (article: ArchiveArticle): ArchiveArticle => {
+  if (!article.publishedAt.startsWith("2024-")) return article;
+
+  return {
+    ...article,
+    heroImage: `/articles/custom-${article.slug}.png`,
+    heroCaption: "আর্কাইভের জন্য তৈরি সম্পাদকীয় চিত্র",
+    imageSourceUrl: "",
+    imageCredit: "জিয়ার কলাম আর্কাইভ",
+  };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1834,6 +1846,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedTransgenderArticle)
   .map(correctedGovernmentChallengeArticle)
   .map(correctedEconomicVotersArticle)
+  .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
