@@ -1775,6 +1775,29 @@ const correctedGovernmentChallengeArticle = (article: ArchiveArticle): ArchiveAr
   };
 };
 
+const correctedEconomicVotersArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-01-06-mnda-arthnitih-smpdshali-votprarthi") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["বেডেছে", "বেড়েছে"],
+    ["দায় দেনা", "দায়-দেনা"],
+    ["ইস্তেহারে", "ইশতেহারে"],
+    ["সন্মানজনকভাবে", "সম্মানজনকভাবে"],
+    ["ভোটাগণ", "ভোটারগণ"],
+  ];
+  const correct = (text: string) =>
+    replacements.reduce((result, [wrong, right]) => result.replaceAll(wrong, right), text);
+
+  return {
+    ...article,
+    title: correct(article.title),
+    body: article.body.map((section) => ({
+      ...section,
+      paragraphs: section.paragraphs.map(correct),
+    })),
+  };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1810,6 +1833,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedInflationHowToArticle)
   .map(correctedTransgenderArticle)
   .map(correctedGovernmentChallengeArticle)
+  .map(correctedEconomicVotersArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
