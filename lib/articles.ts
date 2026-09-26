@@ -1262,6 +1262,33 @@ const correctedSuccessArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedQuotaArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-07-27-kota-niye-supreme-court-er-ray") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["বিচারধীন", "বিচারাধীন"],
+    ["প্যানেল ভুক্ত", "প্যানেলভুক্ত"],
+    ["চাকুরিতে", "চাকরিতে"],
+    ["মুহুর্তে", "মুহূর্তে"],
+    ["বন্চিত", "বঞ্চিত"],
+    ["ঘুচানো", "ঘোচানো"],
+    ["মুখস্ত", "মুখস্থ"],
+    ["বন্টনের", "বণ্টনের"],
+    ["দারিদ্রের", "দারিদ্র্যের"],
+    ["চাকুরির", "চাকরির"],
+    ["জামায়েত", "জামায়াত"],
+    ["যানমালের", "জানমালের"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1280,6 +1307,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedDomesticWorkerArticle)
   .map(correctedHaniyehArticle)
   .map(correctedSuccessArticle)
+  .map(correctedQuotaArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
