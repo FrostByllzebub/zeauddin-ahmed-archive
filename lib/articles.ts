@@ -846,9 +846,35 @@ const correctedAsadArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedBharatBangladeshArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-12-15-bharat-bangladesh-shomporko") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ভবিষতে", "ভবিষ্যতে"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["সির্স্টার্স", "সিস্টার্স"],
+    ["ভীড়ছে", "ভিড়ছে"],
+    ["হিসসা", "হিস্যা"],
+    ["পারষ্পরিক", "পারস্পরিক"],
+    ["এজেণ্ডা", "এজেন্ডা"],
+    ["চাকুরিতে", "চাকরিতে"],
+    ["থাইল্যাণ্ড", "থাইল্যান্ড"],
+    ["কেন্দ্রিয়", "কেন্দ্রীয়"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
+  .map(correctedBharatBangladeshArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
