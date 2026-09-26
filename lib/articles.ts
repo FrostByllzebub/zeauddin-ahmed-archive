@@ -1618,6 +1618,33 @@ const correctedFreePalestineArticle = (article: ArchiveArticle): ArchiveArticle 
   };
 };
 
+const correctedPakistanElectionArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-02-24-pakistane-nirdharito-foler-nirbachon") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["প্রার্থি", "প্রার্থী"],
+    ["ভু্ট্টোর", "ভুট্টোর"],
+    ["পিমএলএন", "পিএমএল-এন"],
+    ["দৌড়ঝাপ", "দৌড়ঝাঁপ"],
+    ["সু্যোগ", "সুযোগ"],
+    ["যোগাড়", "জোগাড়"],
+    ["দাবী", "দাবি"],
+    ["আত্মঘাতি", "আত্মঘাতী"],
+    ["তত্বাবধায়ক", "তত্ত্বাবধায়ক"],
+  ];
+  const correct = (text: string) =>
+    replacements.reduce((result, [wrong, right]) => result.replaceAll(wrong, right), text);
+
+  return {
+    ...article,
+    title: correct(article.title),
+    body: article.body.map((section) => ({
+      ...section,
+      paragraphs: section.paragraphs.map(correct),
+    })),
+  };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1648,6 +1675,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedIndiaOutArticle)
   .map(correctedAbontikaderArticle)
   .map(correctedFreePalestineArticle)
+  .map(correctedPakistanElectionArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
