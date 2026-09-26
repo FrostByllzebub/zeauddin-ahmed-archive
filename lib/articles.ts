@@ -1523,6 +1523,34 @@ const correctedSportsDustArticle = (article: ArchiveArticle): ArchiveArticle => 
   };
 };
 
+const correctedIndiaOutArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-04-15-india-out-campaign") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["হটকারি", "হঠকারী"],
+    ["ধর্ণা", "ধরনা"],
+    ["উষ্কিয়ে", "উসকে"],
+    ["দামী", "দামি"],
+    ["ট্রাম", "ট্রাম্প"],
+    ["সাক্ষাত", "সাক্ষাৎ"],
+    ["পাণীয়", "পানীয়"],
+    ["কোলকাতা", "কলকাতা"],
+    ["উড়জাহাজ", "উড়োজাহাজ"],
+    ["জরুরী", "জরুরি"],
+  ];
+  const correct = (text: string) =>
+    replacements.reduce((result, [wrong, right]) => result.replaceAll(wrong, right), text);
+
+  return {
+    ...article,
+    title: correct(article.title),
+    body: article.body.map((section) => ({
+      ...section,
+      paragraphs: section.paragraphs.map(correct),
+    })),
+  };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1550,6 +1578,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedLalonArticle)
   .map(correctedCurrencyDevaluationArticle)
   .map(correctedSportsDustArticle)
+  .map(correctedIndiaOutArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
