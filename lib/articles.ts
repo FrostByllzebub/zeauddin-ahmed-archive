@@ -1744,6 +1744,37 @@ const correctedTransgenderArticle = (article: ArchiveArticle): ArchiveArticle =>
   };
 };
 
+const correctedGovernmentChallengeArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-01-27-sorkar-notun-challenge-purono") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ইস্তেহার", "ইশতেহার"],
+    ["উদ্ভুত", "উদ্ভূত"],
+    ["লুপে নিয়েছে", "লুফে নিয়েছে"],
+    ["সহঅবস্থান", "সহাবস্থান"],
+    ["পরষ্পরের", "পরস্পরের"],
+    ["গুণি", "গুণী"],
+    ["অকুন্ঠ", "অকুণ্ঠ"],
+    ["এ্যাণ্ড", "অ্যান্ড"],
+    ["আণ্ডার", "আন্ডার"],
+    ["যোগসাজস", "যোগসাজশ"],
+    ["জরুরী", "জরুরি"],
+    ["তপশীলি", "তফসিলি"],
+    ["জেহাদ", "জিহাদ"],
+  ];
+  const correct = (text: string) =>
+    replacements.reduce((result, [wrong, right]) => result.replaceAll(wrong, right), text);
+
+  return {
+    ...article,
+    title: correct(article.title),
+    body: article.body.map((section) => ({
+      ...section,
+      paragraphs: section.paragraphs.map(correct),
+    })),
+  };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1778,6 +1809,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedIsraelGenocideCaseArticle)
   .map(correctedInflationHowToArticle)
   .map(correctedTransgenderArticle)
+  .map(correctedGovernmentChallengeArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
