@@ -1121,7 +1121,6 @@ const correctedFloodArticle = (article: ArchiveArticle): ArchiveArticle => {
     ["ভেঙ্গে", "ভেঙে"],
     ["সিলেনিয়া", "সিলোনিয়া"],
     ["গুমতী", "গোমতী"],
-    ["কিন্ত", "কিন্তু"],
     ["ভাঙ্গে", "ভাঙে"],
     ["আবিস্কারক", "আবিষ্কারক"],
     ["লক্ষীপুর", "লক্ষ্মীপুর"],
@@ -1317,6 +1316,7 @@ const correctedLeatherArticle = (article: ArchiveArticle): ArchiveArticle => {
     paragraphs: section.paragraphs.map((paragraph) =>
       replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
         .replaceAll(/সামর্থ(?!্য)/g, "সামর্থ্য")
+        .replaceAll(/কিন্ত(?!ু)/g, "কিন্তু")
         .replaceAll(/কোন(?!ো)/g, "কোনো"),
     ),
   }));
