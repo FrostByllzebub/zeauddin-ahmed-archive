@@ -1458,6 +1458,32 @@ const correctedLalonArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedCurrencyDevaluationArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-05-18-takar-obomullayon-ki-joruri-chhilo") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["গুণি", "গুণী"],
+    ["দাবী", "দাবি"],
+    ["অর্থ বছরে", "অর্থবছরে"],
+    ["মুহুর্তে", "মুহূর্তে"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["কাঙ্খিত", "কাঙ্ক্ষিত"],
+    ["ধারনা", "ধারণা"],
+    ["ঝণের", "ঋণের"],
+    ["জরুরী", "জরুরি"],
+    ["ত্বরিৎ", "ত্বরিত"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কিন্ত(?!ু)/g, "কিন্তু")
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1483,6 +1509,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedBenzirArticle)
   .map(correctedWeakBankArticle)
   .map(correctedLalonArticle)
+  .map(correctedCurrencyDevaluationArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
