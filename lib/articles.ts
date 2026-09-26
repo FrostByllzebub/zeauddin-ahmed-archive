@@ -920,12 +920,37 @@ const correctedBankOfficersArticle = (article: ArchiveArticle): ArchiveArticle =
   return { ...article, body };
 };
 
+const correctedDemocracyArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-11-16-bangladeshe-onushrito-gonotontroer-shorup") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["প্রভুত", "প্রভূত"],
+    ["নিরব", "নীরব"],
+    ["স্বেচ্ছাচারি", "স্বেচ্ছাচারী"],
+    ["আচরনে", "আচরণে"],
+    ["বেশী", "বেশি"],
+    ["বন্টন", "বণ্টন"],
+    ["কন্ঠ", "কণ্ঠ"],
+    ["জরুরী", "জরুরি"],
+    ["গুভ গভর্নেস", "গুড গভর্ন্যান্স"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
   .map(correctedBharatBangladeshArticle)
   .map(correctedInterimGovernmentArticle)
   .map(correctedBankOfficersArticle)
+  .map(correctedDemocracyArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
