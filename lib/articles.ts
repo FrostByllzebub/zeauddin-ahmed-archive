@@ -1109,6 +1109,37 @@ const correctedAbarToraArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedFloodArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-09-07-bonyar-jonno-bharat-kototuku-dayi") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["শাপ", "সাপ"],
+    ["আটকিয়ে", "আটকে"],
+    ["মওসুমে", "মৌসুমে"],
+    ["আধারে", "আঁধারে"],
+    ["দাবী", "দাবি"],
+    ["ভেঙ্গে", "ভেঙে"],
+    ["সিলেনিয়া", "সিলোনিয়া"],
+    ["গুমতী", "গোমতী"],
+    ["কিন্ত", "কিন্তু"],
+    ["ভাঙ্গে", "ভাঙে"],
+    ["আবিস্কারক", "আবিষ্কারক"],
+    ["লক্ষীপুর", "লক্ষ্মীপুর"],
+    ["সউদি", "সৌদি"],
+    ["মহাম্মদ ইউনূস", "মুহাম্মদ ইউনূস"],
+    ["ফর্মূলায়", "ফর্মুলায়"],
+    ["জরুরী", "জরুরি"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1122,6 +1153,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedInflationArticle)
   .map(correctedNationalAnthemArticle)
   .map(correctedAbarToraArticle)
+  .map(correctedFloodArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
