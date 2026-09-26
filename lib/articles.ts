@@ -944,6 +944,29 @@ const correctedDemocracyArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedMiddleEastArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-11-02-modhyoprachyo-shongkot") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ক্ষেপনাস্ত্র", "ক্ষেপণাস্ত্র"],
+    ["দ্রোন", "ড্রোন"],
+    ["দ্রোণ", "ড্রোন"],
+    ["বাড়নোর", "বাড়ানোর"],
+    ["কামালা হ্যারিস", "কমলা হ্যারিস"],
+    ["অক্টাবরের", "অক্টোবরের"],
+    ["প্রতিশোধমুলক", "প্রতিশোধমূলক"],
+    ["আহবান", "আহ্বান"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -951,6 +974,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedInterimGovernmentArticle)
   .map(correctedBankOfficersArticle)
   .map(correctedDemocracyArticle)
+  .map(correctedMiddleEastArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
