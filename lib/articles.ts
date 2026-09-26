@@ -1015,6 +1015,32 @@ const correctedJamaatArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedInflationArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-10-12-manush-mulyosfiti-theke-rokkha-pabe-kivabe") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ধ্বস", "ধস"],
+    ["গুণি", "গুণী"],
+    ["কেন্দ্রিয়", "কেন্দ্রীয়"],
+    ["মালয়েশীয়া", "মালয়েশিয়া"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["বানী", "বাণী"],
+    ["সেকণ্ড", "সেকেন্ড"],
+    ["বৃটিশ", "ব্রিটিশ"],
+    ["মাত্রারিতিক্ত", "মাত্রাতিরিক্ত"],
+    ["গরীবদের", "গরিবদের"],
+    ["জরুরী", "জরুরি"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1025,6 +1051,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedMiddleEastArticle)
   .map(correctedAgnikonnaArticle)
   .map(correctedJamaatArticle)
+  .map(correctedInflationArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
