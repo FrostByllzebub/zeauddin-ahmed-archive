@@ -794,11 +794,13 @@ const correctedTabligArticle = (article: ArchiveArticle): ArchiveArticle => {
     ["মত বিরোধ", "মতবিরোধ"],
     ["ছিলো", "ছিল"],
     ["দাবী", "দাবি"],
+    ["ন্যাস্ত", "ন্যস্ত"],
+    ["নব্যুয়ত", "নবুয়ত"],
     ["বাংলাদশের", "বাংলাদেশের"],
     ["পর্যালাচনা", "পর্যালোচনা"],
     ["বাকী", "বাকি"],
     ["বন্টন", "বণ্টন"],
-    ["মালয়েশীয়া", "মালয়েশিয়া"],
+    ["মালয়েশীয়া", "মালয়েশিয়া"],
     ["তাবলীগ", "তাবলিগ"],
     ["উদ্ভুত", "উদ্ভূত"],
     ["আত্মসমর্পনের", "আত্মসমর্পণের"],
@@ -806,7 +808,8 @@ const correctedTabligArticle = (article: ArchiveArticle): ArchiveArticle => {
   const firstBody = article.body[0];
   if (!firstBody) return article;
   const paragraphs = firstBody.paragraphs.map((paragraph) =>
-    replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph),
+    replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+      .replaceAll(/কোন(?!ো)/g, "কোনো"),
   ) ?? [];
   const start = paragraphs.findIndex((paragraph) => paragraph.startsWith("যে ১১ জন শুরা সদস্য বাংলাদেশে"));
   const mergedParagraphs = start >= 0 ? [
