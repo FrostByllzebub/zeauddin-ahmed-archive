@@ -820,7 +820,36 @@ const correctedTabligArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body: [{ ...firstBody, paragraphs: mergedParagraphs }, ...article.body.slice(1)] };
 };
 
-export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles].map(correctedTabligArticle).sort((a, b) => {
+const correctedAsadArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-12-18-israelke-challenge-chhure-asader-poton") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["বার্থ পার্টি", "বাথ পার্টি"],
+    ["সাইপ্রাইসের", "সাইপ্রাসের"],
+    ["হিজুল্লাহকে", "হিজবুল্লাহকে"],
+    ["ইউরোপীয়", "ইউরোপীয়"],
+    ["পারষ্পরিক", "পারস্পরিক"],
+    ["পরষ্পর", "পরস্পর"],
+    ["স্বার্বভৌমত্ব", "সার্বভৌমত্ব"],
+    ["নৃশংসভাব", "নৃশংসভাবে"],
+    ["হেজবুল্লাহ", "হিজবুল্লাহ"],
+    ["পর্যদস্ত", "পর্যুদস্ত"],
+    ["সর্ব শেষ", "সর্বশেষ"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
+  .map(correctedTabligArticle)
+  .map(correctedAsadArticle)
+  .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
 });
