@@ -1235,12 +1235,10 @@ const correctedSuccessArticle = (article: ArchiveArticle): ArchiveArticle => {
   if (article.slug !== "2024-07-31-shobai-shofolotar-bhagidar-hote-chay") return article;
 
   const replacements: Array<[string, string]> = [
-    ["নিবৃত", "নিবৃত্ত"],
     ["ছাত্র লীগের", "ছাত্রলীগের"],
     ["তোষামোদী", "তোষামোদি"],
     ["রিপোর্টারা", "রিপোর্টাররা"],
     ["দাবী", "দাবি"],
-    ["ঠিকমত", "ঠিকমতো"],
     ["এক্তিয়ারে", "এখতিয়ারে"],
     ["চুড়ান্ত", "চূড়ান্ত"],
     ["পৌছায়নি", "পৌঁছায়নি"],
@@ -1248,13 +1246,15 @@ const correctedSuccessArticle = (article: ArchiveArticle): ArchiveArticle => {
     ["যোগসাজসে", "যোগসাজশে"],
     ["রিক্সাচালক", "রিকশাচালক"],
     ["মুহুর্তে", "মুহূর্তে"],
-    ["হয়ত", "হয়তো"],
     ["কোমরভাঙ্গা", "কোমরভাঙা"],
   ];
   const body = article.body.map((section) => ({
     ...section,
     paragraphs: section.paragraphs.map((paragraph) =>
       replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/নিবৃত(?!্ত)/g, "নিবৃত্ত")
+        .replaceAll(/ঠিকমত(?!ো)/g, "ঠিকমতো")
+        .replaceAll(/হয়ত(?!ো)/g, "হয়তো")
         .replaceAll(/জন্(?!য)/g, "জন্য")
         .replaceAll(/কোন(?!ো)/g, "কোনো"),
     ),
