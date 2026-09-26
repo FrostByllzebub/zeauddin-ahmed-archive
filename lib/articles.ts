@@ -1,5 +1,4 @@
 import { folderArticles } from "./folderArticles";
-import { additionalArticles } from "./additionalArticles";
 
 export type ArchiveArticle = {
   slug: string;
@@ -786,7 +785,7 @@ const currentArticles: ArchiveArticle[] = [
   }
 ];
 
-export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles, ...additionalArticles].sort((a, b) => {
+export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles].sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
 });
