@@ -5807,7 +5807,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2025-11-29-tottabdhayok-sorkar-byabosthar-punorjonmo",
+    "slug": "2025-11-29-tottabodhayok-shorkar-bebosthar-punorjonmo",
     "title": "তত্ত্বাবধায়ক সরকার ব্যবস্থার পুনর্জন্ম",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
