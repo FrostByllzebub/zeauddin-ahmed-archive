@@ -1679,6 +1679,43 @@ const correctedIsraelGenocideCaseArticle = (article: ArchiveArticle): ArchiveArt
   };
 };
 
+const correctedInflationHowToArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-02-10-mulyosphiti-kombe-kibhabe") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["কথামত", "কথামতো"],
+    ["কেন্দ্রিয়", "কেন্দ্রীয়"],
+    ["ধর্ণা", "ধরনা"],
+    ["তপশীলি", "তফসিলি"],
+    ["বেশী", "বেশি"],
+    ["পরিহারপূরক", "পরিহারপূর্বক"],
+    ["ক্ষত্রে", "ক্ষেত্রে"],
+    ["বাড়নো", "বাড়ানো"],
+    ["থাইল্যাণ্ড", "থাইল্যান্ড"],
+    ["হাজ্বীদের", "হাজিদের"],
+    ["বাবত", "বাবদ"],
+    ["অর্থ বছরে", "অর্থবছরে"],
+    ["উল্লেখিত", "উল্লিখিত"],
+    ["গরীব", "গরিব"],
+    ["বেষ্টনির", "বেষ্টনীর"],
+    ["জরুরী", "জরুরি"],
+    ["ডেভলপমেন্ট", "ডেভেলপমেন্ট"],
+    ["সউদি", "সৌদি"],
+    ["একাউন্টে", "অ্যাকাউন্টে"],
+  ];
+  const correct = (text: string) =>
+    replacements.reduce((result, [wrong, right]) => result.replaceAll(wrong, right), text);
+
+  return {
+    ...article,
+    title: correct(article.title),
+    body: article.body.map((section) => ({
+      ...section,
+      paragraphs: section.paragraphs.map(correct),
+    })),
+  };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -1711,6 +1748,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedFreePalestineArticle)
   .map(correctedPakistanElectionArticle)
   .map(correctedIsraelGenocideCaseArticle)
+  .map(correctedInflationHowToArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
