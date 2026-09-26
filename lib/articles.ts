@@ -1473,6 +1473,12 @@ const correctedCurrencyDevaluationArticle = (article: ArchiveArticle): ArchiveAr
     ["জরুরী", "জরুরি"],
     ["ত্বরিৎ", "ত্বরিত"],
   ];
+  const correctedTitle = replacements.reduce(
+    (text, [wrong, right]) => text.replaceAll(wrong, right),
+    article.title,
+  )
+    .replaceAll(/কিন্ত(?!ু)/g, "কিন্তু")
+    .replaceAll(/কোন(?!ো)/g, "কোনো");
   const body = article.body.map((section) => ({
     ...section,
     paragraphs: section.paragraphs.map((paragraph) =>
@@ -1481,7 +1487,7 @@ const correctedCurrencyDevaluationArticle = (article: ArchiveArticle): ArchiveAr
         .replaceAll(/কোন(?!ো)/g, "কোনো"),
     ),
   }));
-  return { ...article, body };
+  return { ...article, title: correctedTitle, body };
 };
 
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
