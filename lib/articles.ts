@@ -899,11 +899,33 @@ const correctedInterimGovernmentArticle = (article: ArchiveArticle): ArchiveArti
   return { ...article, body };
 };
 
+const correctedBankOfficersArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2024-11-27-bangladesh-bank-officers-welfare-council-nirbachon") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["তিরষ্কারও", "তিরস্কারও"],
+    ["সাচ্ছন্দ", "স্বাচ্ছন্দ্য"],
+    ["অঙ্গসংঠন", "অঙ্গসংগঠন"],
+    ["কর্মচারি", "কর্মচারী"],
+    ["তদুর্ধ", "তদূর্ধ্ব"],
+    ["পরষ্পর", "পরস্পর"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
   .map(correctedBharatBangladeshArticle)
   .map(correctedInterimGovernmentArticle)
+  .map(correctedBankOfficersArticle)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");
