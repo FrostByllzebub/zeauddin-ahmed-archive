@@ -8,11 +8,21 @@ const markdownPath = path.join(projectRoot, "MISSING_ORIGINAL_URL_REVIEW.md");
 const source = fs.readFileSync(sourcePath, "utf8");
 
 const records = [];
-const objectPattern = /^  \{\r?\n    "slug":\s*"([^"]+)"([\s\S]*?)(?=^  \},\r?\n  \{|^  \}\r?\n\];)/gm;
-for (const match of source.matchAll(objectPattern)) {
-  const block = match[0];
+// Imported records use two formatting variants for the slug key. Start each
+// block at its slug field; all audited scalar fields follow that field, so the
+// next slug is a safe boundary even when the body contains nested objects.
+const starts = [...source.matchAll(/(?:"slug"|slug)\s*:\s*"([^"]+)"/g)];
+for (let index = 0; index < starts.length; index += 1) {
+  const match = starts[index];
+  const blockStart = match.index;
+  const nextStart = index + 1 < starts.length ? starts[index + 1].index : source.length;
+  // Use the next record's slug as the boundary. Looking for the last `{`
+  // before it can land inside the current record's nested body object and
+  // silently discard fields such as originalUrl that appear above body.
+  const blockEnd = nextStart;
+  const block = source.slice(blockStart, blockEnd);
   const field = (name) => {
-    const value = block.match(new RegExp(`"${name}"\\s*:\\s*"((?:\\\\.|[^"\\\\])*)"`));
+    const value = block.match(new RegExp(`(?:"${name}"|${name})\\s*:\\s*"((?:\\\\.|[^"\\\\])*)"`));
     return value ? value[1].replaceAll('\\\\"', '"').replaceAll('\\\\n', "\\n") : "";
   };
   const originalUrl = field("originalUrl");
