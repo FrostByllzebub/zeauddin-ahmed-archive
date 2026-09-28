@@ -135,8 +135,19 @@
 
 ## Archive-count reconciliation snapshot — 2026-09-28
 
-- Latest addition: `2026-04-21-bharot-birodhitar-rajniti`, titled `ভারত বিরোধিতার রাজনীতি`, published in বাংলাদেশ প্রতিদিন. The complete user-provided text is recorded; no original newspaper URL was available.
-- Local working tree: **462 records**, validated by `node scripts/validate-article-catalog.mjs`; duplicate count **0**.
+- Latest addition: 2026-01-03-i-have-a-plan, titled আই হ্যাভ আ প্ল্যান, published in সংবাদ. The complete user-provided text and supplied original URL are recorded.
+- Latest addition: 2026-01-10-tramper-america-first-er-namuna, titled ট্রাম্পের ‘আমেরিকা ফার্স্ট’-এর নমুনা, published in সংবাদ. The complete user-provided text and supplied original URL are recorded.
+- Latest addition: 2026-01-17-iraner-dhormovittik-kortittobadi-shashonbebostha, titled ইরানের ধর্মভিত্তিক কর্তৃত্ববাদী শাসনব্যবস্থা চ্যালেঞ্জের মুখোমুখী, published in সংবাদ. The complete user-provided text and supplied original URL are recorded; the previous slug remains a redirect alias.
+- Latest addition: 2026-01-24-bank-dhongsher-day-kar, titled ব্যাংক ধ্বসের দায় কার?, published in সংবাদ. The complete user-provided text and supplied original URL are recorded; the previous slug remains a redirect alias.
+- Latest addition: 2026-02-01-montrir-jonno-bilashi-flat, titled মন্ত্রীর জন্য বিলাসী ফ্ল্যাট, published in সংবাদ. The complete user-provided text and supplied original URL are recorded; the previous slug remains a redirect alias.
+- Latest addition: 2026-02-07-oitihashik-nirbachone-jamayat, titled ‘ঐতিহাসিক’ নির্বাচনে জামায়াত, published in সংবাদ. The complete user-provided text and supplied original URL are recorded.
+- Latest addition: 2026-02-14-ontorborti-shorkar-jatike-ki-dil, titled অন্তর্বর্তী সরকার জাতিকে কী দিল, published in সংবাদ. The complete user-provided text and supplied original URL are recorded; the previous slug remains a redirect alias.
+- Latest addition: 2026-02-21-bnp-pass-jamat-o-pass, titled বিএনপি পাস, জামাতও পাস, published in সংবাদ. The complete user-provided text and supplied original URL are recorded; the attachment heading's ২০২৫ date conflicts with the ২০২৬ URL/context and remains flagged for confirmation. The previous slug remains a redirect alias.
+- Latest addition: 2026-02-28-july-shonod-niye-bnp-er-oshosti, titled জুলাই সনদ নিয়ে বিএনপি’র অস্বস্তি, published in সংবাদ. The complete user-provided text and supplied original URL are recorded. The previous slug remains a redirect alias.
+- Previous addition: `2026-04-21-bharot-birodhitar-rajniti`, titled `ভারত বিরোধিতার রাজনীতি`, published in বাংলাদেশ প্রতিদিন. The complete user-provided text is recorded; no original newspaper URL was available.
+- Previous addition: `2026-04-05-shartho-bikiye-deya-banijjo-chukti`, titled `স্বার্থ বিকিয়ে দেওয়া বাণিজ্য চুক্তি`, published in বাংলাদেশ প্রতিদিন. The complete user-provided text is recorded; no original newspaper URL was available.
+- Latest addition: `2026-03-07-notun-governor-oporiharjo-chilo`, titled `নতুন গভর্নর অপরিহার্য ছিল`, published in সংবাদ. The complete user-provided text and supplied original URL are recorded; the previous slug remains a redirect alias.
+- Local working tree: **473 records**, validated by `node scripts/validate-article-catalog.mjs`; duplicate count **0**.
 - Current Sites deployment: version 24, live at `https://zeauddinahmed.com`, with the new article route returning HTTP 200.
 
 ## Earlier archive-count reconciliation snapshot — 2026-09-27

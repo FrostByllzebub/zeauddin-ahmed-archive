@@ -4,6 +4,17 @@
  * the static route set and redirected by the article page at build time.
  */
 export const legacyArticleSlugs: Record<string, string> = {
+  "2026-01-17-iraner-dhormovittik-kortittobadi-shashonbyabostha": "2026-01-17-iraner-dhormovittik-kortittobadi-shashonbebostha",
+  "2026-01-24-bank-dhwosher-day-kar": "2026-01-24-bank-dhongsher-day-kar",
+  "2026-02-01-mantrir-jonno-bilasi-flat": "2026-02-01-montrir-jonno-bilashi-flat",
+  "2026-02-14-ontorborti-sorkar-jatike-ki-dil": "2026-02-14-ontorborti-shorkar-jatike-ki-dil",
+  "2026-02-21-bnp-pas-jamat-o-pas": "2026-02-21-bnp-pass-jamat-o-pass",
+  "2026-02-28-july-sonod-niye-bnpir-oshosti": "2026-02-28-july-shonod-niye-bnp-er-oshosti",
+  "2026-03-07-notun-governor-oporiharyo-chhilo": "2026-03-07-notun-governor-oporiharjo-chilo",
+  "2026-03-15-mdhyprachye-shktir-rajniti-pryukti-kshmta-o-muslim-bishber-sngkt": "2026-03-15-modhyoprachchye-shoktir-rajniti",
+  "2026-04-04-jbalani-sngkter-cheye-bd-sngkt-asthahinta": "2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota",
+  "2026-04-09-hame-shishu-mrityur-jonno-dayi-ontorborti-sorkarer-dayittojnyanhinota": "2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittojnyanhinota",
+  "2026-04-18-dhrmer-name-shingsta-kothay-amader-simarekha": "2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha",
   "2026-04-25-rajniti-ny-arthnitii-gurutbpurn": "2026-04-25-rajniti-noy-orthoniti-guruttopurno",
   "2026-05-02-unnynshiler-pthe-birti-siddhanter-pechhner-prshn": "2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno",
   "2026-05-09-sngbidhan-sngshodhner-rajniti": "2026-05-09-shongbidhan-shongshodhoner-rajniti",
