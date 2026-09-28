@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { notFound, redirect } from "next/navigation";
+import { notFound } from "next/navigation";
 import { articles, getArticle } from "../../../lib/articles";
 import { legacyArticleSlugs } from "../../../lib/articleRedirects";
 
@@ -13,8 +13,9 @@ export function generateStaticParams() {
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const replacementSlug = legacyArticleSlugs[slug];
-  if (replacementSlug) redirect(`/articles/${replacementSlug}`);
-  const article = getArticle(slug);
+  // Static export cannot emit server-side 307 responses. Render the canonical
+  // article at legacy paths so old links remain usable in the exported site.
+  const article = getArticle(replacementSlug ?? slug);
   if (!article) notFound();
 
   return <main className="site-shell">

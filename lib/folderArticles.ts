@@ -27,7 +27,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২ জানুয়ারি ২০২২ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘মেয়েটি সত্যিই খারাপ’, with the online publication context dated ১ জানুয়ারি and the printed-paper context dated ২ জানুয়ারি. The expanded post exposes the complete article text, which matches the existing archive record; no original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -57,7 +57,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Facebook public post found by exact-title search. Its caption identifies সাম্প্রতিক দেশকাল and exposes the complete article text matching this record, including the ২৪ December ২০২১ launch-fire event. The caption says ৬ January ২০২১, which conflicts with the catalog date ৬ January ২০২২ and the events described; this is recorded as a source-date discrepancy, not silently corrected. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -87,7 +87,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Facebook public post dated ৮ January ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on Sunday, and exposes the complete article text matching this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -116,7 +116,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Facebook post dated ৮ জানুয়ারি ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ৯ January, and exposes the complete article text for ‘ছেলে বনাম মেয়ে খেলোয়াড়’; the body matches this archive record, but the original newspaper URL was not exposed.",
     authorCredit: ""
   },
   {
@@ -127,7 +127,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-01-20",
     publishedDateLabel: "২০ জানুয়ারি ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/68805",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -145,7 +145,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Samprotik Deshkal source page confirms the title, author, section, and 20 January 2022 publication timestamp.",
     authorCredit: ""
   },
   {
@@ -177,7 +177,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২২ January ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ২৩ January, and exposes the complete article text for ‘আমাদের জীবন, আমাদের সন্তান’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -207,7 +207,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২৯ January ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ৩০ January, and exposes the complete article text for ‘ভিসি আসে ভিসি যায়’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -218,7 +218,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-02-03",
     publishedDateLabel: "৩ ফেব্রুয়ারি ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/69916",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -237,7 +237,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Targeted Facebook-profile searches for the catalog title ‘লুটেরা রুখো, স্বদেশ বাঁচাও’ and the shorter phrase ‘লুটেরা রুখো’ returned no public Zeauddin Ahmed Bitu post. No Facebook article-body, date, newspaper, or URL claim was inferred; the existing record remains unresolved from Facebook.",
     authorCredit: ""
   },
   {
@@ -267,7 +267,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ৫ February ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ৬ February, and exposes the complete article text for ‘ইউক্রেনে রাশিয়ার মর্যাদার লড়াই’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -299,7 +299,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১২ February ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ১৩ February, and exposes the complete article text for ‘নিঃসঙ্গ জীবন ও আত্মহত্যা’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -310,7 +310,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-02-19",
     publishedDateLabel: "১৯ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ ফেব্রুয়ারি ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/59300/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -329,7 +329,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১৯ February ২০২২ identifies দৈনিক সংবাদ and exposes the complete article text for ‘হিজাব নিয়ে বিতর্ক’. Sangbad’s publisher page confirms the matching title, author, and ১৯ February ২০২২ date.",
     authorCredit: ""
   },
   {
@@ -340,7 +340,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-02-24",
     publishedDateLabel: "২৪ ফেব্রুয়ারি ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/71468",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -360,7 +360,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Targeted Facebook-profile searches for the catalog title ‘গ্যাসের দাম বৃদ্ধির প্রস্তাব’ and the shorter phrase ‘গ্যাসের দাম’ did not expose a matching public Zeauddin Ahmed Bitu column post. Generic results were not sufficient to establish the article identity. No Facebook article-body, date, newspaper, or URL claim was inferred; the existing record remains unresolved from Facebook.",
     authorCredit: ""
   },
   {
@@ -390,7 +390,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Targeted Facebook-profile searches for the catalog title ‘মুক্তিযুদ্ধে সেইসব সংগীত-শুভার্থী’ and the shorter phrase ‘মুক্তিযুদ্ধে’ did not expose a matching public Zeauddin Ahmed Bitu column post. The shorter query returned unrelated posts and no attributable article match. No Facebook article-body, date, newspaper, or URL claim was inferred; the existing record remains unresolved from Facebook.",
     authorCredit: ""
   },
   {
@@ -401,7 +401,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-03-05",
     publishedDateLabel: "৫ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ মার্চ ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/60514/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -421,7 +421,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Facebook public post dated ৫ মার্চ ২০২২ identifies দৈনিক সংবাদ and exposes the complete article text for ‘কথা দিয়েও কেউ পাশে নেই’. Sangbad’s publisher page confirms the matching title, author, and ৫ March ২০২২ date.",
     authorCredit: ""
   },
   {
@@ -451,7 +451,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১২ March ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ১৩ March, and exposes the complete article text for ‘সড়ক-মহাসড়কে দুর্ঘটনার মহামারি’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -481,7 +481,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১৯ March ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ২০ March, and exposes the complete article text for ‘ধর্মীয় মূল্যবোধ ও নৈতিকতার সঙ্গে ধর্ষণের সম্পর্ক কী’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -512,18 +512,18 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২৬ March ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ২৭ March, and exposes the complete article text for ‘করোনায় লাভ-ক্ষতির হিসাব’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
-    slug: "2022-03-31-puraskar-batil-shobhoniya-noy",
+    slug: "2022-04-04-puraskar-batil-shobhoniya-noy",
     title: "পুরস্কার বাতিল শোভনীয় নয়",
     author: "জিয়াউদ্দীন আহমেদ",
     publication: "সাম্প্রতিক দেশকাল",
     section: "মতামত",
-    publishedAt: "2022-03-31",
-    publishedDateLabel: "৩১ মার্চ ২০২২",
-    originalUrl: "",
+    publishedAt: "2022-04-04",
+    publishedDateLabel: "৪ এপ্রিল ২০২২",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/74740",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -539,7 +539,7 @@ export const folderArticles: ArchiveArticle[] = [
       "উপযুক্ত ও যোগ্য ব্যক্তিকে পুরস্কার না দিয়ে  অপেক্ষাকৃত কম যোগ্য ব্যক্তিকে পুরস্কার দেয়া হলে পুরস্কারের মর্যাদা হ্রাস পায়।ইতঃপূর্বে সাহিত্য ক্যাটাগরিতে যারা স্বাধীনতা পুরস্কার পেয়েছেন তাদের মধ্যে উল্লেখযোগ্য কয়েকজন হচ্ছেন,  কাজী নজরুল ইসলাম, পল্লী কবি জসিম উদ্দিন, কবি শামসুর রাহমান, জহির রায়হান, আবদুল করিম সাহিত্যবিশারদ, শওকত ওসমান, শহীদুল্লাহ কায়সার, কবি ফররুখ আহমদ, অধ্যাপক মুনীর চৌধুরী।কিন্তু স্বাধীনতা পুরস্কারের মতো সর্বোচ্চ জাতীয় পুরস্কার পাওয়ার মতো সাহিত্যকর্ম আমির হামজার নেই, তার কোন বই সাহিত্য ও শিল্পের মানদণ্ডে উত্তীর্ণ নয়।এছাড়াও তিনি খুনের মামলায় যাবজ্জীবন দণ্ডপ্রাপ্ত আসামী, বিএনপি’র শাসনামলে রাজনৈতিক বিবেচনায় সাধারণ ক্ষমার আওতায় তিনি ১৯৯১ সনে মুক্তি পান।এতদসত্বেও তাকে বাছাই করার অন্যতম কারণ সম্ভবত তিনি বঙ্গবন্ধুকে নিয়ে গান রচনা করে কমিটির নজরে আসতে সমর্থ হয়েছেন।কিন্তু আমির হামজা যে জিয়াউর রহমানকে নিয়েও গান লিখেছেন তা সম্ভবত কমিটি জানতে পারেনি।যখন জানলেন তখন দেয়া পুরস্কার বাতিল করা ফরজ হয়ে গিয়েছিল।",
       "পুরস্কার দিয়ে তা বাতিল করা পুরস্কারপ্রাপ্ত ব্যক্তিদের জন্য অসন্মান ও অপমানজনক।পুরস্কার পাওয়ার পর সংশ্লিষ্ট ব্যক্তির উচ্ছ্বাস ও উদ্দীপনায় আঘাত করার অধিকার কোন পুরস্কার প্রদান কমিটির থাকার কথা নয়।রইজ  উদ্দিন এবং আমির হামজা দুইজনই বীর মুক্তিযোদ্ধা, তারা বা তাদের পক্ষে পুরস্কারের জন্য আবেদন করে তথ্য দেয়া হয়েছে, তথ্যের উপযুক্ততা এবং সত্যাসত্য যাচাই করার দায়িত্ব সংশ্লিষ্ট কমিটির।কমিটিতে বিষয় ভিত্তিক বিশেষজ্ঞ না থাকার দায় রইজ উদ্দিন বা আমির হামজা নেবেন কেন? স্বাধীনতা পুরস্কারের মতো মর্যাদাপূর্ণ পুরস্কারের জন্য কারো নাম ঘোষণার পর সমালোচনার মুখে সেই নাম প্রত্যাহার করে নিলে পুরস্কারটিকেই অসন্মান ও প্রশ্নবিদ্ধ করা হয়।একজন বীর মুক্তিযোদ্ধাকে মৃত্যুর পরে অসম্মানিত করার দায় সংশ্লিষ্ট কমিটিকে নিতে হবে।তাই আমির হামজার পুরস্কার বাতিল করার সাথে সাথে সচিব ও মন্ত্রী পর্যায়ে গঠিত সংশ্লিষ্ট কমিটি দুইটিও বাতিল করা অপরিহার্য।",
     ] }],
-    authorNote: "",
+    authorNote: "Publisher topic page for আমির হামজা lists this article as ‘পুরস্কার বাতিল শোভনীয় নয়’, dated ০৪ April ২০২২, and links to https://www.shampratikdeshkal.com/opinion/74740. The publisher metadata and article body match this record; the live archive’s older ৩১ March route is treated as an internal date/slug variant, not the original publication date.",
     authorCredit: ""
   },
   {
@@ -565,7 +565,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ক্রিস্টান কিলারের গভীর সম্পর্ক ছিলো, সুইমিংপুলে একসাথে সাঁতার কাটার ছবি পত্রিকায় ছাপা হয়েছিল।খেলাফতের তুর্কি বাদশাহদের উপপত্নী বা পতিতা পোষার কাহিনী তো আমরা ‘সুলতান সুলেমান’ সিনেমায় দেখতে পেয়েছি।মোঘল সম্রাটদের উপপত্নী রাখার কাহিনীও বাংলাদেশের সবার জানা থাকার কথা।একাত্তরে পাকিস্তান আর্মি এবং রাজাকারেরা মিলে ২ লক্ষ বাঙ্গালী নারীকে ধর্ষণ করেছে, ঐ ধর্ষকদের বিরুদ্ধে ইসলামি ঐক্যজোট কি কোন বিবৃতি দিয়েছিলো?",
       "সময় বদলানোর সাথে সাথে মানুষও বদলানোর কথা, কিন্তু কিছু মানুষ তাদের বিশ্বাসের জগদ্দল পাথরে আটকে আছে।সুন্দর-অসুন্দর, শ্লীল-অশ্লীল ব্যক্তিগত দৃষ্টিভঙ্গি সাপেক্ষ।নিজের দৃষ্টিভঙ্গি দিয়ে বিচার করে অপছন্দের সবকিছুকে ঘৃণা করার সংস্কৃতি থেকে বেরিয়ে আসা দরকার।সানি লিওন একজন ‘বেশ্যা’-  আমাদের সমাজে ‘বেশ্যা’একটা গালি; কারণ তারা অর্থের বিনিময়ে দেহ বিক্রি করে।কিন্তু অর্থের বিনিময়ে তো নথি সই হয়, চাকুরিতে নিয়োগ হয়, নমিনেশন দেয়া হয়, দলীয় পদ বিক্রি হয়, আরও কত কিছু হয়।দিল্লির নিজামুদ্দিন মারকাজের বর্তমান মুরব্বী মাওলানা সাদ কান্ধলভী বলেছেন, কুরআন শরীফ শিখিয়ে যারা বেতন গ্রহণ করেন, তাদের বেতন বেশ্যার উপার্জনের চেয়েও খারাপ।তাই প্রত্যাশা, সময় বদলানোর সাথে সাথে মানুষকে বদলাতে হবে।আমি নিশ্চিত, ইসলামী ঐক্যজোটের নেতা-কর্মীদের জিজ্ঞেস করলে অনেকেই বলবেন, সানি লিওনের পর্ণ ছবি দেখেননি।একই কথা বাংলাদেশের বেশিরভাগ মুসলমানের ক্ষেত্রেও প্রয়োজ্য।তাহলে বিষয়টি এপিডেমিক পর্যায়ের কোনো ইস্যু নয়।আর যদি ধরে নিই, গোপনে সবাই দেখে, তার মানে সানি লিওন এবং পর্ণ ছবির একটা মার্কেট আছে।মার্কেট না থাকলে মাদ্রাসার ছাত্র এবং শিক্ষকের মোবাইলে পর্ণ ছবি পাওয়া যেত না।তাই কম গুরুত্বপূর্ণ ইস্যু নিয়ে আন্দোলন করলে তার তাৎপর্য থাকে না।যারা অতীতে সানি লিওনকে দেখেনি, ইসলামি ঐক্যজোটের কড়া বিবৃতি এবং সামাজিক যোগাযোগ মাধ্যম এবং অনলাইন মিডিয়াগুলোর হৈ চৈ করার কারণে এখন তারাও সানি লিওনকে মন ভরে দেখবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২ April ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ৩ April, and exposes the complete article text for ‘সানি লিওনের ঢাকা সফর ও প্রতিবাদ সমাচার’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -594,7 +594,7 @@ export const folderArticles: ArchiveArticle[] = [
       "কোরআন বা হাদিস যা নিষিদ্ধ করেনি তা নাজায়েজ আখ্যা না দিয়ে কিছু আলেম ‘টিপ না পরা উত্তম’ বলে মতামত ব্যক্ত করেছেন।",
       "ইন্টারেস্টিং বিষয় হচ্ছে খ্রিস্টানদের কোট-প্যান্ট-টাই কিংবা ইহুদিদের জোব্বা পরলে পুরুষদের বিরুদ্ধে কেউ কোন ধর্মীয় বিধিবিধান আরোপ করেন না, আপত্তি কেবল মেয়েদের নিয়েই।",
     ] }],
-    authorNote: "",
+    authorNote: "Targeted Facebook-profile searches for the catalog title ‘টিপ সজ্জায় বাঙ্গালী নারী’ and the shorter phrase ‘টিপ সজ্জা’ did not expose a matching public Zeauddin Ahmed Bitu column post. The shorter query returned a different post titled ‘নারীর পোষাক পরার স্বাধীনতা ও কিছু প্রশ্ন’, so no identity was inferred. No Facebook article-body, date, newspaper, or URL claim was inferred; the existing record remains unresolved from Facebook.",
     authorCredit: ""
   },
   {
@@ -606,6 +606,7 @@ export const folderArticles: ArchiveArticle[] = [
     publishedAt: "2022-04-16",
     publishedDateLabel: "১৬ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ এপ্রিল ২০২২)",
     originalUrl: "",
+    authorNote: "Facebook post dated ১৬ এপ্রিল ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ১৭ April, and matches the existing title ‘শ্রীলঙ্কার মতো হবে না বাংলাদেশ’; the original newspaper URL was not exposed.",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -622,7 +623,7 @@ export const folderArticles: ArchiveArticle[] = [
       "নানাবিধ সীমাবদ্ধতা ও প্রতিবন্ধকতা সত্বেও বাংলাদেশের অর্থনৈতিক অবস্থা শ্রীলঙ্কার মতো এত দুর্বল নয়।শ্রীলঙ্কার ১১ শতাংশ মূল্যস্ফীতির তুলনায় বাংলাদেশের মূল্যস্ফীতি মাত্র ৬ শতাংশ।চলতি অর্থবছরে বাংলাদেশের জিডিপি ৬ দশমিক ৯ শতাংশ হারে বাড়তে পারে মর্মে এশীয় উন্নয়ন ব্যাংক পূর্বাভাস দিয়েছে।শ্রীলঙ্কার দুই বিলিয়ন ডলারের বিপরীতে আমাদের বৈদেশিক মুদ্রার রিজার্ভ এখনো ৪৪ বিলিয়ন ডলার।পাকিস্তানের বৈদেশিক মুদ্রার রিজার্ভ মাত্র ২১ বিলিয়ন ডলার।আন্তর্জাতিক ক্রেডিট রেটিং এজেন্সির মূল্যায়নে বাংলাদেশের ঋণমান বা ঋণ গ্রহণের সক্ষমতা সন্তোষজনক।আইএমএফ কর্তৃক নির্ধারিত ঋণ পরিশোধ সক্ষমতার সব ঝুঁকি সূচকের সর্বোচ্চ সীমার অনেক নিচে বাংলাদেশের অবস্থান।তাই আন্তর্জাতিক অঙ্গনে ঋণ পাওয়ার ক্ষেত্রে বাংলাদেশ শ্রীলঙ্কার চেয়ে অনেক বেশী গ্রহণযোগ্য।ভারত এবং চীন ঋণ সহায়তা দিয়ে শ্রীলঙ্কাকে বাঁচিয়ে রাখার চেষ্টা করছে, কিন্তু বাংলাদেশ তাদের ঋণের আবেদনে এবার সাড়া দেয়নি।আইএমএফ-এর কঠিন শর্তে ঋণ নেয়া ছাড়া শ্রীলঙ্কার আর কোন গত্যন্তর নেই।শ্রীলঙ্কার ঋণের হার তাদের জিডিপি’র ১১৯ শতাংশের বিপরীতে বাংলাদেশের ঋণের হার জিডিপির ৩৮ শতাংশ এবং শ্রীলঙ্কার বৈদেশিক ঋণ-জিডিপির অনুপাত ৬১ শতাংশের সাথে তুলনায় বাংলাদেশের ঋণ ১৬ শতাংশ, ২০ শতাংশ পর্যন্ত ঝুঁকিমুক্ত বিবেচনা করা হয়।আইএমএফ-এর সতর্ক বানী অনুযায়ী এই হার ৫৫ শতাংশে পৌঁছনোর আগেই বাংলাদেশ সজাগ হওয়ার সময় পাবে।চলতি অর্থবছরে বাংলাদেশে আমদানি ৫৪ শতাংশ বৃদ্ধি পাওয়ার মূল কারণ আন্তর্জাতিক বাজারে সব পণ্যের দর বেড়েছে, বিশেষ করে জ্বালানি তেলের অস্বাভাবিক দর বৃদ্ধি আমাদের আমদানি ব্যয় বাড়িয়ে দিয়েছে।তবে আমদানি পণ্যের মধ্যে উল্লেখযোগ্য পরিমাণ মূলধনী যন্ত্রপাতি এবং কাঁচামালের আমদানি দেশের অর্থনৈতিক কর্মকাণ্ড আবার সচল করে তোলার ক্ষেত্রে গুরুত্বপূর্ণ ভূমিকা রাখবে।অন্যদিকে শ্রীলঙ্কার মতো আমাদের রপ্তানিতে স্থবিরতা নেমে আসেনি, আমাদের রপ্তানি আয় বাড়ছে; চলতি ২০২১-২২ অর্থবছরের জুলাই থেকে জানুয়ারি পর্যন্ত ৭ মাসে রপ্তানি গত বছরের একই সময়ের তুলনায় বেড়েছে ৩০.৩৪ শতাংশ।",
       "আমাদের মুক্তিযুদ্ধে রাশিয়ার প্রবল সমর্থন না থাকলে ভারতের ইন্দিরা গান্ধীর পক্ষে এত সাহসী ভূমিকা নেয়া সম্ভব হতো না।রাশিয়া নৌবহর পাঠিয়েছিল বলেই আমেরিকার সপ্তম নৌবহর থেমে গিয়েছিল।চট্টগ্রাম নৌবন্দরকে ডুবোজাহাজ এবং মাইন মুক্ত করতে রাশিয়ার কয়েকজন নৌসেনা প্রাণও দিয়েছেন।তাই ইউক্রেন-রাশিয়ার যুদ্ধে বাংলাদেশকে নিরপেক্ষ থাকতে হয়েছে।কিন্তু আমাদের গার্মেন্টসের প্রায় সবটাই বিক্রি হয় মার্কিন যুক্তরাষ্ট্র, কানাডা এবং ইউরোপে।ইউক্রেন-রাশিয়ার যুদ্ধে বাংলাদেশের নিরপেক্ষ থাকা আমেরিকা ও ইউরোপ কতটুকু মেনে নেবে তা এখনো বোঝা যাচ্ছে না।আফগানিস্তান আক্রমণের সময় নিরপেক্ষতা  অবলম্বনকারী দেশকে শত্রু হিসেবে গণ্য করা হবে মর্মে প্রেসিডেন্ট বুশ হুশিয়ার করেছিলেন।ইউক্রেন-রাশিয়ার যুদ্ধে নিরপেক্ষ অবস্থানের কারণে পাকিস্তানের ইমরান খান সরকারের পতন হয়েছে বলে ইমরান খান বারবার উল্লেখ করেছেন।আরেকটি বিপদও বাংলাদেশ সরকারকে মোকাবিলা করতে হচ্ছে- জনঅসন্তোষ রুখতে সরকার যেভাবে বিভিন্ন ক্ষেত্রে ভর্তুকি দিয়ে, বিদেশ থেকে বেশী দামে পণ্য কিনে কম দামে জনগণের কাছে বিক্রি করছে তাতে সরকারের অর্থ সঙ্কটের সৃষ্টি হতে পারে।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook post dated ১৬ April ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ১৭ April, and the expanded article text matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -633,7 +634,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-04-21",
     publishedDateLabel: "২১ এপ্রিল ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/76233",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -650,7 +651,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাজারে কোন ঘাটতি নেই এমন পণ্যের দাম বাড়ার প্রধান কারণ হচ্ছে ব্যবসায়ীদের অতিরিক্ত লোভ এবং সততার অভাব। বাজেট, ঈদ, পূজাপার্বণ, বন্যা, খরা, হরতাল, ধর্মঘট, বেতন-স্কেল ইত্যাদি এলেই পণ্যের দর বেড়ে যায়।খ্রিস্টমাস উপলক্ষে পশ্চিমা দেশগুলোর খ্রিস্টান ও ইহুদি ব্যবসায়ীরা বেশী বিক্রির প্রত্যাশায় জিনিসপত্রের দামে প্রচুর ছাড় দিয়ে থাকে, অন্যদিকে রোজা এলে মুসলমান বাঙ্গালী ব্যবসায়ীরা জিনিসপত্রের দাম বাড়াতে থাকে।ভোজ্য-তেলের ক্ষেত্রে ভ্যাট-ট্যাক্স তুলে নেয়া সত্বেও দাম তেমন কমছে না।ন্যায্য দরে নিত্য ব্যবহার্য পণ্য পাওয়া নিশ্চিত করতে সরকার এক কোটি পারিবারকে কার্ড ইস্যু করেছে, কিন্তু কার্ড বিতরণে স্বজনপ্রীতি থাকার সম্ভাবনা বেশী।স্বজনপ্রীতি কেয়ামতের আগের দিন পর্যন্ত চলবে, রোধ করার সাধ্য কারো নেই, চুরি না হলেই মঙ্গল।",
       "দুঃখের বিষয় হচ্ছে, বর্ধিত দরেই রোজাদারগণ প্রতিযোগিতা করে জিনিসপত্র কিনে বাসায় মজুত করছেন, অন্য মাসের তুলনায় রোজার মাসে দ্বিগুণ পরিমাণ ভোজ্য তেল ব্যবহার হবে, আর জিনিসপত্রের দাম বেশী কেন এ নিয়ে ক্ষোভও থাকবে।সত্য হচ্ছে, আগামী দিনগুলোতে জনসংখ্যা বাড়বে, চাষযোগ্য জমি ও উৎপাদন কমবে, আমদানির পয়সা না থাকলে বাজারে প্রয়োজনীয় পণ্যের যোগান দেয়া সম্ভব হবে না, অভাবের তাড়নায় কিছু লোক না খেয়ে মরবে, পণ্যের দাম কম হলেও তাদের পক্ষে কিনে খাওয়া সম্ভব হবে না, এর মধ্যেও কিছু লোক কানাডায় গিয়ে বেগমপাড়া বানাবে, সিঙ্গাপুর গিয়ে সাপ্তাহিক বাজার করবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২১ এপ্রিল ২০২২ identifies সাম্প্রতিক দেশকাল and exposes the complete article text for ‘পণ্যের বর্ধিত দর’. The title, publication date, newspaper identity, and body match the existing archive record; no original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -675,7 +676,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ধর্মীয় অনুভূতিতে আঘাতের গুজব তুলে, মিথ্যা অভিযোগে কাউকে অভিযুক্ত করে মুহুর্তে কিন্তু উগ্র লোক তাৎক্ষণিক শাস্তি প্রদানার্থে একতাবদ্ধ হয়ে যায়।পাকিস্তানে যুগ যুগ ধরে যা হয়েছে, ইদানীং ভারত ও বাংলাদেশেও তাই শুরু হয়েছে।এই দলবদ্ধ উগ্রতা দিন দিন বাড়ছে।দলবদ্ধ উগ্রতার বিরুদ্ধে সরকারের নমনীয়তা বাংলাদেশ ও ভারতকে মধ্যাকর্ষণ শক্তিতে পশ্চাতে টেনে নিয়ে যাচ্ছে।এই উগ্র জনতা কত ভয়ঙ্কর তার প্রমাণ পাওয়া যায় আমাদের তিন খলিফার হত্যায়।’ধর্ম অবমাননার’ দায়ে হযরত ওসমান (রাঃ)-কে তৌহিদি মুসলিম জনতা কোরআন পাঠরত অবস্থায় কুপিয়ে হত্যা করেছে।",
       "বিজ্ঞানের সব আবিষ্কার আমাদের পবিত্র কোরআনে আছে দাবী করা হলে তার তাৎপর্য এক সময় ধর্মের জন্য নেতিবাচক হয়ে যেতে পারে।কারণ বিজ্ঞান মাঝে মাঝে তার পূর্বে প্রমাণিত সত্য থেকেও সরে যায়-  আজ যা সত্য আগামীকাল আরও নতুন গবেষণায় তা ভুল বলে সনাক্ত হতে পারে।বিজ্ঞান নিজের অবস্থান সময়ের সাথে পরিবর্তন করতে পারলেও ধর্মের সেই সুযোগ নেই।বিশ্বাসীদের তাই বিজ্ঞানের আজকের কোন এক তত্ত্ব বা আবিষ্কার ধর্ম থেকে এসেছে দাবী করার এই ঝুঁকি না নেয়াই উত্তম।বিজ্ঞান মানব কল্যাণে নিবেদিত, কোন বিশেষ জাতি বা ধর্মের জন্য বিজ্ঞান গবেষণা করে না।বিজ্ঞানের ভিত্তি হচ্ছে যুক্তি, জ্ঞান, অনুসন্ধান, প্রশ্ন এবং প্রমাণ- বিশ্বাসের কোন স্থান নেই বিজ্ঞানে।অপরদিকে ধর্মের সব কিছু যুক্তি দিয়ে প্রমাণ করা যাবে না, বিশ্বাস করতে হবে।ধর্ম ও বিজ্ঞানকে মুখোমুখি দাঁড় করানোর নীতি থেকে খ্রিস্টানেরা সরে এসেছে।কিন্তু মুসলমানদের মধ্যে এই উপলব্ধি জাগ্রত হওয়ার সম্ভাবনা খুবই কম, তাই সংঘর্ষও থামবে না।এই ক্ষেত্রে একটিই সমাধান, বিজ্ঞানের সাবজেক্টগুলো স্কুল-কলেজ-বিশ্ববিদ্যালয় থেকে তুলে নিয়ে ধর্মগ্রন্থ কোরআন পড়ানোই উত্তম, স্কুল-কলেজ-বিশ্ববিদ্যালয়কে মাদ্রাসায় রূপান্তর করে ধর্ম শিক্ষার সম্প্রসারণ করা শ্রেয় হবে।সংঘর্ষ এড়াতে ধর্মীয় শিক্ষা ব্যবস্থায় আমাদের সমর্পিত হওয়া বান্ছনীয়- দেশে দুটি শিক্ষা ব্যবস্থা পাশাপাশি থাকায় আমরা ইহকাল-পরকাল দুটিই হারাচ্ছি।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২৩ April ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ২৪ April, and exposes the complete article text for ‘বিশ্বাস আর যুক্তির দ্বন্দ্ব’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -701,7 +702,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ক্ষমতা হারিয়ে ইমরান খান পাকিস্তানের দ্বিতীয় স্বাধীনতার জন্য দেশব্যাপী সংগ্রাম শুরু করেছেন।ইমরান খান মনে করেন, বিদেশি শক্তি চক্রান্ত করে তার সরকারের পতন ঘটিয়েছে।সম্ভবত জনগণের অনুকম্পা আদায়ের নিমিত্তে ইমরান খান বলে বেড়াচ্ছেন, তার জীবন বিপন্ন, তাকে খুন করা হতে পারে।ক্ষমতাচ্যুত হওয়ার পর ইমরান খানের জনসভায় জনতার ভীড়ও লক্ষ্য করা যাচ্ছে।ইমরানের পতনের পর জনগণ অকস্মাৎ উপলব্ধি করতে পেরেছে, বিশ্ব বাজারে মূল্য বৃদ্ধির কারণে আমদানি নির্ভর কোন দেশই পণ্যের মূল্য কমাতে পারবে না।ইমরান খান কিছু ভাল কাজও করেছেন।করোনাকালীন কড়া লকডাউন না দিয়েও তিনি সফলভাবে করোনা মোকাবিলা করতে পেরেছিলেন, লকডাউন না থাকায় বিদেশি ক্রেতারা পাকিস্তান থেকে প্রচুর পণ্য ক্রয় করতে পেরেছিল।ইমরান খান সরকারের দেয়া স্বাস্থ্যকার্ড গরীবদের স্বাস্থ্যসেবা প্রাপ্তি নিশ্চিত করেছিল।আশ্রয়হীনদের জন্য বাড়ি ও খাবারের ব্যবস্থা শুরু করেছিলেন, কম মূল্যে জ্বালানি তেলের সরবরাহ নিশ্চিত করেছিলেন।পতনের পর একই জনগণ ইমরানের প্রতি কিছুটা আর্দ্র হয়ে উঠেছেন-  দ্রব্য মূল্য বৃদ্ধির কারণে যে জনগণ রাস্তায় ইমরান খানের বিরোধিতা করেছিলেন তাদের অনেকেই এখন ইমরান খানকে সমর্থন করে তার জনসভায় যোগ দিচ্ছেন।",
       "ধর্মীয় উন্মাদনা দেশটিকে স্থিতিশীল হতে দিল না।জেনারেল জিয়াউল হক তার ক্ষমতা দীর্ঘস্থায়ী করার জন্য পাকিস্তানে শরিয়া আইন চালু করেছিলেন, এখন শরিয়া আইনের কঠোর প্রয়োগ না থাকলেও কেউ তা আর বাদ দিতে সাহস করছে না।প্রতিবেশী দেশ আফগানিস্তানে তালেবানি শাসন কায়েম হওয়ার পর তা পাকিস্তানে রপ্তানি হওয়ার সম্ভাবনা রয়েছে।পাকিস্তানের ক্রিকেটের মতো পাকিস্তানের রাজনীতিও আনপ্রেডিক্টেবল- পাকিস্তানের ভবিষ্যত নিয়ে প্রেডিক্ট করা কঠিন।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ৩০ April ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ১ May, and exposes the complete article text for ‘পাকিস্তানের আনপ্রেডিক্টেবল রাজনীতি’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -728,7 +729,7 @@ export const folderArticles: ArchiveArticle[] = [
       "যুক্তরাষ্ট্রের এই রিপোর্টে সাধারণত তাদের দেশের প্রতি বৈরী দেশগুলোর তীব্র সমালোচনা করা হয় বলে চীন, উত্তর কোরিয়া, ইরান, ভেনিজুয়েলা, কিউবা প্রভৃতি দেশে এই রিপোর্টের গ্রহণযোগ্যতা একেবারেই নেই। চীনের পররাষ্ট্র মন্ত্রণালয়ও যুক্তরাষ্ট্রের মানবাধিকার পরিস্থিতির অবনতি নিয়ে প্রতি বছর উদ্বেগ প্রকাশ করে।তাই চীন মনে করে, অন্য দেশের মানবাধিকার পরিস্থিতির নিন্দা করার অধিকার যুক্তরাষ্ট্রের নেই।সাংবাদিক জামাল খাসোগীকে তুরস্কে সৌদি দূতাবাসের ভেতর করাত দিয়ে টুকরো টুকরো কাটার পরও সৌদি আরব মানবাধিকার লঙ্ঘনের দায়ে অভিযুক্ত হয়নি, প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের কাছে তখন মানবাধিকারের চেয়ে সৌদি আরবে অস্ত্র বিক্রি অধিক গুরুত্বপূর্ণ ছিল, গুয়ান্তামোবে'তে  বন্দীদের নির্যাতন নিয়ে সারা বিশ্বে শোরগোল হলেও যুক্তরাষ্ট্র নিরব।বাংলাদেশ সরকার সহসা এমন কোনো পদক্ষেপ গ্রহণ করেনি যার জন্য বাংলাদেশে মানবাধিকার পরিস্থিতির উল্লেখযোগ্য অবনতি ঘটেছে, রিপোর্টে যা যা উল্লেখ করা হয়েছে তা তা অনেক আগে থেকেই ঘটে আসছে।কিন্তু মানবাধিকার লঙ্ঘনের দায়ে র‍্যাপিড অ্যাকশন ব্যাটালিয়ন (র‍্যাব)-এর বিরুদ্ধে মার্কিন যুক্তরাষ্ট্র নিষেধাজ্ঞা আরোপ করেছে, মার্কিন যুক্তরাষ্ট্রে অনুষ্ঠিত গণতান্ত্রিক সম্মেলনে বাংলাদেশ আমন্ত্রণ পায়নি।ইউক্রেন-রাশিয়া যুদ্ধে বাংলাদেশের নিরপেক্ষ অবস্থানও মার্কিন যুক্তরাষ্ট্র সুনজরে বিবেচনা করছে বলে মনে হয় না।ভারতকে এড়িয়ে চীনের সঙ্গে বাংলাদেশের ঘনিষ্ঠতার উপরও যুক্তরাষ্ট্রের নজর পড়েছে।মার্কিন যুক্তরাষ্ট্র ও বৃটেনের প্রত্যক্ষ মদদে প্রতিষ্ঠিত র‍্যাব জঙ্গি নিয়ন্ত্রণে মুখ্য ভূমিকা পালন করা সত্বেও হঠাৎ তারা আমেরিকার রোষানলে পড়ার কারণ বাংলাদেশকে রাজনৈতিক চাপে রাখার কৌশলও হতে পারে।",
       "আমেরিকা দীর্ঘমেয়াদী পরিকল্পনা নিয়ে কাজ করে, আমেরিকার পরিকল্পনার সাথে ইউরোপীয় ইউনিয়ন যুক্ত হলে সমূহ বিপদ।ইতোমধ্যে আওয়ামী লীগ সরকারের বিভিন্ন কর্মকাণ্ড তুলে ধরার জন্য বিএনপি পয়সা খরচ করে লবিস্ট বা দালাল নিয়োগ দিয়েছে, অন্যদিকে আওয়ামী লীগ সরকারই আমেরিকার রোষানল থেকে বাঁচার জন্য লবিস্ট রেখেছে- দুটোতেই আমেরিকা লাভবান হচ্ছে।তবে লবিস্ট নিয়োগ না দিয়েও আমেরিকাকে সন্তুষ্ট করা যাবে যদি সরকার তাদের কথা শোনে; নতুবা স্বচ্ছ এবং সুষ্ঠু নির্বাচন করেও ক্ষমতায় আসা ও টিকে থাকা কঠিন হয়ে দাঁড়াবে।স্বস্তির বিষয় হলো, সরকার নানা কথা বলার পর শেষ পর্যন্ত মার্কিন পররাষ্ট্র মন্ত্রণালয়ের রিপোর্ট আমলে নিয়েছে এবং উত্থাপিত অভিযোগগুলোর নিরসনে প্রয়োজনীয় ব্যবস্থা নেয়ার আশ্বাস দেয়া হয়েছে।সংখ্যালঘুর ওপর নিপীড়নের ঘটনাগুলোর সুষ্ঠু তদন্তপূর্বক যথাযথ ব্যবস্থা গ্রহণ করা হবে মর্মেও যুক্তরাষ্ট্রকে আশ্বস্ত করা হয়েছে।তবে আমেরিকা ও ইউরোপ রাশিয়াকে ধ্বংস করার জন্য উঠেপড়ে লেগেছে।তাই পররাষ্ট্র নীতির ক্ষেত্রে বাংলাদেশকে আরেকটু বেশী কৌশলী হতে হবে, জনতাকে তুষ্ট করার জনপ্রিয় সস্তা কথা না বলে বাস্তবানুগ পদক্ষেপ নেয়া শ্রেয় হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook public post dated ৭ মে ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ৮ মে, and exposes the complete article text; the body matches this archive record. No safely verifiable original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -754,7 +755,7 @@ export const folderArticles: ArchiveArticle[] = [
       "গত সপ্তাহে আমার প্রাক্তন এক সহকর্মী দিলকুশার ফুটপাতে হাঁটতে হাঁটতে রেলমন্ত্রীর কঠোর সমালোচনা করছিলেন, কিছুক্ষণ পর তিনি একটি ব্যাংকের ম্যানেজারের কক্ষে প্রবেশ করে ম্যানেজারকে নিজের পরিচয় দিয়ে বললেন, ‘আমি বাংলাদেশ ব্যাংকের নির্বাহী পরিচালক ছিলাম’।পরিচয় পেয়ে ম্যানেজার খেদমত করার জন্য অস্থির হয়ে গেলেন, পরিচয় পর্বে আরও জানা গেল তারা দুইজন একই জেলার লোক।ম্যানেজার কাউন্টার থেকে একজন কর্মকর্তাকে ডেকে এনে আমার সহকর্মীর চট্টগ্রামে টাকা পাঠানোর সব বন্দোবস্ত নিমিষে করে দিলেন, আমার সহকর্মী একটি স্বাক্ষর দেয়া ছাড়া আর কিছুই করলেন না।এই যে স্বজনপ্রীতির কাজটি হলো তার পক্ষেও আমার সহকর্মীর যুক্তি ছিল, কিন্তু আমার শুনতে ইচ্ছে করেনি।কারণ আমিও বাংলাদেশ ব্যাংকে কোন কাজে গেলে এই সুবিধাটি নিয়ে থাকি।প্রকৃতপক্ষে যাদের ক্ষমতা আছে তাদের কাজ এভাবেই হয়, আমজনতার মতো লাইনে দাঁড়াতে হয় না, যাদের ক্ষমতা নেই তারা ঘুষ দেন- দুটোর মধ্যে কোন পার্থক্য নেই।আমরা যারা সততার দাবীদার তারাও অনিয়মকে নিয়ম করে তুলছি।মতিঝিল, দিলকুশায় অফিসের লোকজন অফিস আওয়ারে প্রায় প্রতিদিন ফুটপাত থেকে বাজার করেন, এর পেছনেও সকলের যুক্তি রয়েছে; তারা সকালে এসে রাতে ঘরে ফেরেন, বাজার করার লোক তো সরকার দেয়নি।যারা অফিসের পিয়ন এবং গাড়ি ব্যক্তিগত কাজে ব্যবহার করেন তাদেরও  অকাট্য যুক্তি রয়েছে।অফিসিয়াল কাজে রেলে প্রথম শ্রেণিতে ভ্রমণ দেখিয়ে টাকা নিয়েও অধিকাংশ লোক যাতায়াত করেন বাসে বা সুলভ বগিতে।এই অবৈধ কাজটি করার পেছনেও কর্মকর্তাদের অজস্র যুক্তি রয়েছে।তাদের যুক্তি হচ্ছে, থাকা-খাওয়ার জন্য যে টাকা দেয়া হয় তা পর্যাপ্ত নয়, প্রথম শ্রেণিতে তারা সত্ববান বিধায় ভ্রমণ না করেও বিল করে টাকা নেয়া বৈধ।",
       "বাংলাদেশে রেলভ্রমণ জনপ্রিয় হলেও রেলের বিরুদ্ধে অনিয়ম, দুর্নীতি এবং অব্যবস্থাপনার অভিযোগ অহর্নিশ উত্থাপিত হচ্ছে।রেলে স্বজনপ্রীতির ঘটনা আগেও ঘটেছে, আরও ঘটবে।শুধু রেলে নয়, সকল প্রতিষ্ঠানেই স্বজনপ্রীতির চিত্র উলঙ্গভাবে পরিলক্ষিত হয়।কারণ আমাদের দেশে স্বজনপ্রীতি ঘৃণ্য অপরাধ নয়।কিন্তু স্বজনপ্রীতিকে প্রশ্রয় দিতে গিয়ে নীতিনিষ্ঠ কোন কর্মচারী বা কর্মকর্তাকে নাজেহাল করা সুশাসনের পরিচায়ক নয়।দুঃখজনক বিষয় হচ্ছে, সব সরকারের আমলেই চাকরি জীবনে যে সকল কর্মকর্তা-কর্মচারী নিয়ম নীতি মেনে সততার সাথে অর্পিত দায়িত্ব পালন করার চেষ্টা করেছেন তাদের অধিকাংশ দলীয় তন্ত্রমন্ত্রের অন্যায় চাপে চাকরি হারিয়েছেন বা চাকুরি জীবনের পদে পদে বঞ্চিত ও নিগৃহীত হয়েছেন।ঘটনার তদন্ত করে প্রকৃত অপরাধীর বিরুদ্ধে অবিলম্বে ব্যবস্থা নেওয়া হোক, তা না হলে ক্ষমতাবান ও তাদের আত্মীয়-স্বজনের ক্ষমতার দম্ভ কমবে না, সরকারকে বারবার বিব্রতকর অবস্থায় পড়তে হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook public post dated ১৪ মে ২০২২ identifies দৈনিক সংবাদ, states the online column appeared that day with the printed column on the following Sunday, and exposes the complete article text. The expanded Facebook body matches this archive record and the headline ‘চাচা চৌকিদার বিধায় থানা ভাতিজার’. No safely verifiable original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -781,7 +782,7 @@ export const folderArticles: ArchiveArticle[] = [
       "শ্রীলঙ্কার আয়-ব্যয়, আমদানি-রপ্তানি, উৎপাদন, বৈদেশিক মুদ্রার মজুত, ঋণের পরিমাণ ও ধরণ ইত্যাদির সাথে তুলনা করলে স্পষ্ট প্রতীয়মান হবে যে, বাংলাদেশের আর্থিক স্বাস্থ্য এখনো তত দুর্বল হয়নি।দক্ষিণ এশিয়ার প্রায় সবগুলো দেশের তুলনায় বাংলাদেশের সামষ্টিক অর্থনীতির বিভিন্ন সূচক অনেক বেশী শক্তিশালী।বেশী সুদ ও স্বল্প মেয়াদের সাপ্লায়ার্স ক্রেডিট শ্রীলঙ্কার তুলনায় বাংলাদেশে অনেক কম, বাংলাদেশের বেশীরভাগ বৈদেশিক ঋণ দীর্ঘ মেয়াদী।বৈদেশিক ঋণের সুদের গড়পড়তা হার বাংলাদেশের ক্ষেত্রে ২ শতাংশেরও কম, এই হার শ্রীলঙ্কার ৬ শতাংশ।শ্রীলঙ্কার বৈদেশিক মুদ্রার রিজার্ভ প্রায় শূন্যের ঘরে নেমে এসেছে,  কিন্তু বাংলাদেশের রিজার্ভ এখনো ৪২ বিলিয়ন ডলার।শ্রীলঙ্কার হাতে যে পরিমাণ বৈদেশিক মুদ্রা আছে তা দিয়ে এক মাসের আমদানির অর্থ পরিশোধ করাও সম্ভব নয়, বাংলাদেশের মজুত অর্থ দিয়ে পাঁচ মাসের আমদানি খরচ মেটানো সম্ভব।শ্রীলঙ্কার বৈদেশিক ঋণ ও জিডিপির অনুপাত ৬১ শতাংশের সাথে তুলনায় বাংলাদেশের ঋণ মাত্র ১৬ শতাংশ।এই ঋণের বেশীরভাগ  এশীয় উন্নয়ন ব্যাংক, আইএমএফ, বিশ্বব্যাংকের মতো বহুজাতিক আর্থিক প্রতিষ্ঠান থেকে স্বল্প সুদ আর সহজ শর্তে গৃহীত।শ্রীলঙ্কার রপ্তানি আয় যেখানে প্রায় স্থবির হয়ে গেছে সেখানে চলতি অর্থ বছরের প্রথম ৯ মাসে বাংলাদেশের রপ্তানি আয় গত অর্থবছরের একই সময়ের চেয়ে ৩৩ শতাংশ বেশি। প্রবাসীদের অর্থ প্রেরণ গত বছরের তুলনায় ১৬ শতাংশ কমে গেলেও গত মাস থেকে প্রেরিত রেমিট্যান্সে বাড়তি ট্রেণ্ড পরিলক্ষিত হচ্ছে।শ্রীলঙ্কায় বিদ্যুতের অভাবে যেখানে বাতি জ্বলে না সেখানে বাংলাদেশ অচিরেই উদ্বৃত্ত বিদ্যুৎ নিয়ে অহঙ্কার করবে। বাংলাদেশে সার্বিক কৃষি উৎপাদন সন্তোষজনক।পৃথিবী ব্যাপী অধিকাংশ দেশের নেতিবাচক প্রবৃদ্ধির মধ্যেও বিশ্বব্যাংক বলছে, ২০২১-২২ অর্থবছরে বাংলাদেশের জিডিপি প্রবৃদ্ধি হবে ৬.৪%। ",
       "বাংলাদেশের আর্থিক অবস্থা যত সবল হোক না কেন, সতর্কতা ও সাবধানতা অবলম্বন অপরিহার্য।চলতি বছরে বাংলাদেশের আমদানি বেড়েছে প্রায় ৫০ শতাংশ; আমদানি ব্যয় বৃদ্ধির কারণে বাংলাদেশের বাণিজ্য ঘাটতি শ্রীলঙ্কার মতো ব্যাপক।আমদানি ব্যয় ৫০ শতাংশ বাড়লেও দেশে পণ্য কিন্তু বেশী ঢুকছে না; বিশ্ব বাজারে জিনিসপত্রের দাম বাড়ার কারণেই আমাদের আমদানি ব্যয় বেড়ে গেছে।আমদানি হ্রাস করাও খুব সহজ নয়- জ্বালানি তেল, ভোজ্য তেল, নিত্য প্রয়োজনীয় জিনিসপত্রসহ শিল্পায়নের জন্য মেশিনপত্র আমদানি করতেই হবে।অন্যদিকে বিশ্ব  বাজারে জিনিসপত্রের দাম কমার কোন সম্ভাবনা দেখা যাচ্ছে না, জ্বালানি তেল-গ্যাস-গম-সয়াবিন তেল উৎপাদনকারী দেশে যুদ্ধ, ইন্দোনেশিয়া পাম অয়েল রপ্তানি বন্ধ করে দিয়েছে।ইউক্রেন-রাশিয়ার যুদ্ধ থামছে না, এই যুদ্ধ সুইডেন, ফিনল্যাণ্ডের দিকে এগুচ্ছে।রাশিয়ার উপর আমেরিকা ও ইউরোপের অর্থনৈতিক অবরোধ যত শক্ত হবে সারা পৃথিবীতে পণ্যের দর বৃদ্ধি পেতে থাকবে।শ্রীলঙ্কার ঘটনা বাংলাদেশ সরকারকে সচেতন হতে সহায়তা করেছে।সরকার প্রবাসীদের ব্যাংকিং চ্যানেলে টাকা পাঠানোর ক্ষেত্রে প্রণোদনার হার বৃদ্ধি করেছে, অপ্রয়োজনীয় পণ্যের আমদানি রোধ করতে এলসি মার্জিনে শর্তারোপ করেছে, ডলারের সাথে টাকার দর সমন্বয় করেছে, সরকারি কর্মকর্তাদের বিদেশ ভ্রমণ প্রায় নিষিদ্ধ করেছে।তবে বৈদেশিক মুদ্রা ব্যয়ের ক্ষেত্রে আরও বেশী সতর্ক হতে হবে।রাজস্ব আদায়ে সরকারকে অধিকতর মনোযোগী হতে হবে, করের আওতার বাইরে থাকা লোকগুলোকে করের আওতায় আনা জরুরী।লাগামহীন ভর্তুকি দিয়ে পণ্যের দর কম রাখার জনপ্রিয় নীতির প্রয়োগে আরও বিচক্ষণ হতে হবে।অন্যদিকে তেয়াত্তর বছর বয়সী নতুন প্রধানমন্ত্রী রনিল বিক্রমাসিংহে ঐকমত্যের প্রশাসনের নেতৃত্ব দিয়ে পঙ্গু অর্থনৈতিক সংকট থেকে শ্রীলঙ্কাকে রক্ষা করবে এই প্রত্যাশা আমাদের সকলের।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook public post dated ১৯ মে ২০২২ identifies সাম্প্রতিক দেশকাল and exposes the complete article text for ‘বাংলাদেশের আর্থিক স্বাস্থ্য এখনো এত দুর্বল নয়’; the title, publication date, and body match this archive record. No safely verifiable original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -807,7 +808,7 @@ export const folderArticles: ArchiveArticle[] = [
       "খালেদা জিয়া, খালেদা জিয়ার ছেলে তারেক রহমান, আরাফাত রহমান কোকোর দুর্নীতিও বিএনপি স্বীকার করে না, তাদের ফাঁসানো হয়েছে বলে বিএনপি’র বিশ্বাস।২০০৭ সনে তত্ত্বাবধায়ক সরকারের আমলে বিএনপির ভারপ্রাপ্ত চেয়ারম্যান তারেক রহমান এবং তার স্ত্রী ডা. জোবাইদা রহমানের বিরুদ্ধে ‘সম্পদের তথ্য গোপন ও মিথ্যা বিবরণী দেওয়ার’ অভিযোগে যে মামলা করা হয় তার শুনানির তারিখ ধার্য হওয়ায় বিএনপি ক্ষোভ প্রকাশ করছে।বিএনপি’র বক্তব্য হচ্ছে, ডা. জোবাইদা একজন অরাজনৈতিক চিকিৎসক, তাকে দুর্নীতি দমন কমিশনের মামলায় জড়ানো সম্পূর্ণ রাজনৈতিক উদ্দেশ্যপ্রণোদিত এবং প্রতিহিংসামূলক।বিএনপি’র কথায় মনে হচ্ছে শুধু রাজনৈতিক ব্যক্তিরাই দুর্নীতি করে থাকে।সব সরকারের আমলই দেখা গেছে, বিরোধী দলের কোন নেতার বিরুদ্ধে মামলা হলেই তা ষড়যন্ত্র বলে নাকচ করা হয়।অবশ্য বিরোধী দলের নেতাদের নিস্তেজ রাখার জন্য রাজনৈতিক অভিসন্ধি থেকে মামলা যে হয় না তা কিন্তু নয়।শুধু রাজনৈতিক নেতাদের বিরুদ্ধে নয়, সাধারণ মানুষও এমন মামলায় মারাত্মকভাবে হেনস্তার শিকার হয়।কিন্তু বিরোধী দলীয় নেতাদের বিরুদ্ধে দুর্নীতির মামলা হলেই তাকে ক্ষমতাসীন সরকারের দুরভিসন্ধী বলে হাল্কা করার এই চেষ্টাও দুর্নীতিকে প্রশ্রয় দিচ্ছে।বিএনপি ক্ষমতায় এলে আওয়ামী লীগ নেতাদের দুর্নীতি প্রকাশ পেতে থাকবে, আওয়ামী লীগও বিএনপি’র মতো বলবে রাজনৈতিক কারণে তাদের ফাঁসানো হচ্ছে, বিএনপি’র মতো আওয়ামী লীগের কর্মীরা তা বিশ্বাসও করবে।তবে বড় বড় রাজনৈতিক দলগুলোর নেতাদের ক্ষমতায় এসে সরকারের টাকা আত্মসাত করার প্রয়োজন হয় বলে মনে হয় না, দলীয় কমিটিগুলোর পদ আর নির্বাচনে মনোনয়ন বিক্রি করে যে আয় করেন তাও দেশে রাখার জায়গা পান না।দেশে দুর্নীতি রোধের একটি পথ আছে এবং তা হচ্ছে, আওয়ামী লীগ ক্ষমতায় থাকাকালীন বিএনপি’র সব দুর্নীতিবাজকে এবং বিএনপি ক্ষমতায় এসে আওয়ামী লীগের সব দুর্নীতিবাজকে ধরে  বিচারের সম্মুখীন করবে।",
       "দেশে দুর্নীতি এবং দুর্নীতিমূলক কাজ  প্রতিরোধের লক্ষ্যে দুর্নীতির অনুসন্ধান ও তদন্ত পরিচালনার জন্য ২০০৪ সনে সাবেক ‘দুর্নীতি দমন ব্যুরো’ বিলুপ্ত করে খালেদা জিয়ার নেতৃত্বাধীন বিএনপি-জামায়াত জোট সরকার বর্তমান দুর্নীতি দমন কমিশন বা দুদক প্রতিষ্ঠা করে।প্রতিষ্ঠা করেই বিএনপি নিজেদের লোক দিয়ে দুর্নীতি কমিশন গঠন করে; অথচ দুর্নীতি দমন কমিশন স্বাধীন ও নিরপেক্ষভাবে কার্যপরিচালনা করবে মর্মে সংশ্লিষ্ট আইনে  স্পষ্ট উল্লেখ রয়েছে।কিন্তু প্রতিষ্ঠার পর থেকেই সরকারের এই প্রতিষ্ঠানটি প্রতিপক্ষ দমনের হাতিয়ার হিসেবে ব্যবহৃত হচ্ছে বলে বিরোধী দলে থাকাকালীন আওয়ামী লীগ এবং বিএনপি অভিযোগ করেই যাচ্ছে।বিরোধী দল এবং সরকারের মধ্যে পারষ্পরিক দোষারোপের বেড়াজালে দুদকও দুর্নীতি থেকে মুক্ত থাকতে পারছে না।একটি অপরাধ হালকা করার জন্য অতীতের অনুরূপ আরেকটি অপরাধের তুলনামূলক উদাহরণ দেয়ার সংস্কৃতি থেকে রাজনৈতিক দলগুলোকে বের হয়ে আসতে হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ৩০ April ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ১ May, and exposes the complete article text for ‘পাকিস্তানের আনপ্রেডিক্টেবল রাজনীতি’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -835,7 +836,7 @@ export const folderArticles: ArchiveArticle[] = [
       "লেখার প্রতি আমার অনুরাগ-বিরাগ থাকলেও পাঠক হিসেবে আমি সর্বভুক- সময় থাকলে সব লেখাই পড়ি।পত্রিকা হাতে নিয়ে আমি প্রথম পড়তাম উপসম্পাদকীয়- আবু জাফর শামসুদ্দীনের ‘বৈহাসিকের পার্শ্বচিন্তা’, জহুর হোসেন চৌধুরীর ‘দরবার-ই-জহুর’, সন্তোষ গুপ্তের ‘অনিরুদ্ধের কলাম’, খন্দকার আব্দুল হামিদের ‘মঞ্চে-নেপথ্যে’,  সৈয়দ আবুল মকসুদের ‘সহজিয়া কড়চা', সিরাজুল ইসলাম চৌধুরীর ‘সময় বহিয়া যায়’ এবং মহিউদ্দিন আহমদের ‘একাত্তরের ঝর্ণাতলায়’।এছাড়াও ড. আহমেদ শরীফ, ড. হুমায়ূন আজাদ, খন্দকার মনিরুজ্জমান, বিভুরঞ্জন সরকারের লেখাও আগ্রহ নিয়ে পড়তাম।গাফফার চৌধুরী তার লেখার সমর্থনে মৃত ব্যক্তির রেফারেন্স বেশী দিতেন বলে অভিযোগ থাকা সত্বেও তার লেখার প্রতি আমি একটু বেশী অনুরক্ত ছিলাম।সিকিউরিটি প্রিন্টিং কর্পোরেশন বা টাকশালের নির্বাহী প্রধান থাকাকালীন বঙ্গবন্ধুর জন্মদিনে তার ‘পলাশী থেকে ধানমন্ডী’ ডকু-ড্রামাটি প্রজেক্টর দিয়ে বড় পর্দায় দেখিয়েছিলাম, দর্শক আগ্রহ পায়নি, মনে হয়েছে এই ডকু-ড্রামা তার সফল সৃষ্টি নয়।",
       "আবদুল গাফফার চৌধুরীকে বঙ্গবন্ধু আদর করে নাকি ‘মুসিবত’ বলে ডাকতেন।জাতির জনক বঙ্গবন্ধু শেখ মুজিবুর রহমানের ঘনিষ্ঠ এই যুগন্ধর সাংবাদিকের প্রয়াণে গভীর শ্রদ্ধা ও শোক জ্ঞাপন করছি।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook public post dated ২৮ মে ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on ২৯ মে, and exposes the complete article text for ‘মহুমাত্রিক কলমযোদ্ধা’; the body matches this archive record. No safely verifiable original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -862,7 +863,7 @@ export const folderArticles: ArchiveArticle[] = [
       "এমএ পাস করার পর ইউনুস বিয়ে করে ঢাকা বিশ্ববিদ্যালয়ের অর্থনীতির ছাত্রী সম্ভ্রান্ত পরিবারের সন্তান জাহানারা বেগমকে।জাহানারার বড় ভাই আব্দুল মুসাব্বির চৌধুরী কেএনএস ছিলেন স্পারসোর বিজ্ঞানী, তিনি তৎকালীন পূর্ব পাকিস্তানের সেরা মেধাবীর স্বীকৃতিস্বরূপ কালী নারায়ন স্কলার হিসেবে তার নামের শেষে কেএনএস লেখার অধিকার অর্জন করেন।ইউনুসের বিয়েতে শুধু তিন জন বরযাত্রী ছিল- আমি, ‘নোঙ্গর তোল তোল’ গানের গীতিকার নইম গহর এবং অধ্যাপক দীন মোহাম্মদ।দেড়-দুই মাস পূর্বে ঘুম থেকে উঠে বাথরুমে যাওয়ার পথে নিঃসন্তান ইউনুস মাথাঘুরে মেঝেতে পড়ে যায়, তাকে তার বাড়ি নেত্রকোণার পূর্বধলায় নিয়ে যাওয়া হয় এবং ভেঙ্গে যাওয়া পা অপারেশন করে ঠিক করা হয়।অপারেশনের কিছুদিন পর থেকে সে লাঠি ভর করে হাঁটা শুরু করেছিল।প্রায় প্রতিদিন তার সাথে আমার কথা হতো, কিন্তু আমার মেজো ভাই মহিউদ্দিন আহমদ একটু বেশী অসুস্থ্য হয়ে পড়ায় তাকে ২৪ মে থেকে বঙ্গবন্ধু হাসপাতালে ভর্তি করিয়েছি, আমি সারা দিন হাসপাতালে ব্যস্ত ছিলাম বিধায় গত এক সপ্তাহে ইউনুসের সাথে যোগাযোগ করা সম্ভব হয়নি।হাসপাতাল থেকে ফেরত আসার পথে হাবিব ফোনে জানাল, ইউনুস আর নেই।এমন একটি সংবাদের জন্য আমি প্রস্তুত ছিলাম না, হতভম্ব হয়ে বাসায় ঢুকে বউ, মেয়ে, ছেলে, ভাতিজা, ভাই, বন্ধু-বান্ধব সবাইকে ইউনুসের মৃত্যু সংবাদ দিলাম।ফেইসবুক কর্তৃপক্ষ কয়েকদিনের জন্য তাদের ফেইসবুকে আমার প্রবেশাধিকার নিষিদ্ধ করায় সবার কাছ থেকে বিচ্ছিন্ন অবস্থায় ইউনুসের মৃত্যু সংবাদ অনেককে জানাতে পারিনি।",
       "সরকারের বিবেচনায় প্রখ্যাত সাংবাদিক না হলেও ইউনুস ছিল নীতিনিষ্ঠ, কোন প্রলোভনে সে নীতি নৈতিকতা বিক্রি করেনি।পরকালে ইউনুস শান্তিতে থাকুক- এটাই আমাদের কামনা।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook public post dated ৪ জুন ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and exposes the complete article text. The expanded Facebook body matches this archive record and the headline ‘একজন নীতিনিষ্ঠ সাংবাদিক’. No safely verifiable original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -890,7 +891,7 @@ export const folderArticles: ArchiveArticle[] = [
       "মানুষ সৃষ্টির পরপর কিন্তু ধর্মগ্রন্থ আসেনি, ধর্ম এসেছে অনেক পরে।লক্ষ লক্ষ বছর মানুষ উলঙ্গ ছিল।গাছের পাতা বা বাকল দিয়ে দেহের কিয়দংশ ঢাকার প্রচলন হয়েছে খুব বেশী দিন আগে নয়।এখনো অনেক নৃগোষ্ঠী আছে যারা উলঙ্গ থাকে।মেয়েদের উর্ধাংশ অনাবৃত রাখার সংস্কৃতি বহু নৃগোষ্ঠী লালন ও পালন করে।এই উলঙ্গ থাকা বা মেয়েদের বক্ষাদেশ অনাবৃত রাখার মধ্যে তারা কোন লজ্জাবোধ করে না, কারণ তাদের মধ্যে এমন  লজ্জা বোধের সৃষ্টিই হয়নি।পশু-পাখীর কোন পোষাক নেই, পোষা প্রাণীকে কিছু মানুষ পোষাক পরিয়ে কৃত্রিমভাবে সভ্য করতে চায়।খুব বেশী দিন আগের কথা নয়, ২১৫ বছর পূর্বে ভারতের কেরালার পুরুষ রাজা ত্রিভাঙ্কুরের জারি করা আইন নিয়ে একটি কাহিনী পড়েছি।তার জারি করা আইন অনুযায়ী ব্রাহ্মণ ব্যতীত হিন্দুধর্মের অন্য কোনো নারী তার স্তন অনাবৃত রাখতে পারত না, স্তন ঢাকলেই তাকে কর দিতে হতো।",
       "অনেকের ধারণা, পর্দাহীনতার কারণে অশ্লীলতা, বেহায়াপনা, নির্লজ্জতা, ব্যভিচারের উদ্ভব; কিন্তু তা যদি সত্য হতো তাহলে শিশুরা ধর্ষণ ও বলাৎকারের শিকার হতো না।পোষাক দেখে নারীদের বিচার করা কিছু মানুষের বিকৃত মানসিকতা ও মানবতাবিরোধী জঘন্য অপরাধ, এই অপরাধ অঙ্কুরে ধ্বংস না হলে লিঙ্গ সমতা কখনো প্রতিষ্ঠিত হবে না।আমাদের কোন জাতীয় পোষাক নেই, আমাদের জাতীয় পোষাক না থাকায় প্রেসিডেন্ট জিয়াউর রহমান জাপানে গিয়ে রাষ্ট্রীয় ভোজে অংশগ্রহণ করতে পারেননি।তালেবান শাসিত আফগানিস্তান নারীদের পোষাক পরিধান নিয়ে কঠোর আইন করলেও আমাদের সংবিধান নারী বা পুরুষের জন্য কোন নির্দিষ্ট পোষাক নির্ধারণ করে দেয়নি; বরং উচ্চ আদালতের নির্দেশনা হচ্ছে, বাংলাদেশের সীমানার মধ্যে কোন ব্যক্তিকে তার ইচ্ছার বিরুদ্ধে ধর্মীয় পোশাক পরতে বাধ্য করা যাবে না এবং একই কারণে কাউকে কোনো ধর্মীয় পোশাক পরতে নিষেধও করা যাবে না। প্রতিটি মানুষের অধিকার রয়েছে শালিনতা বজায় রেখে তার পছন্দ অনুযায়ী পোশাক পরিধানের।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search found a public Zeauddin Ahmed Bitu post whose expanded text matches this archive body for ‘নারীর পোষাক পরার স্বাধীনতা ও কিছু প্রশ্ন’. The visible result did not expose a reliable publication date or newspaper label, so those metadata claims remain unresolved; no original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -901,7 +902,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-06-16",
     publishedDateLabel: "১৬ জুন ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/81484",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -917,7 +918,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাংলাদেশে ডাক্তার কিংবা ইঞ্জিনিয়ার হওয়াকে বেশ সম্মানজনক বলে ধরা হলেও এসব বিষয় থেকে পাস করা অনেক শিক্ষার্থী এখন পেশা হিসেবে বেছে নিয়েছেন বিভিন্ন বিসিএস ক্যাডারের পদ।বর্তমান বিসিএস-এর আরেকটি বিষয়ের প্রতি সবার দৃষ্টি নিবদ্ধ হয়েছে, এখন বিসিএস পরীক্ষায় প্রকৌশলী এবং চিকিৎসকগণ তুলনামূলকভাবে ভাল করছেন।ডাক্তার এবং প্রকৌশলীরা আগেও বিসিএস পরীক্ষা দিত, তবে তা ছিল তাদের জন্য নির্ধারিত বিশেষায়িত ক্যাডারে।কিন্তু এখন মেধাবী ডাক্তার ও প্রকৌশলীরা জেনারেল ক্যাডারে পরীক্ষা দিয়ে পররাষ্ট্র মন্ত্রণালয়, প্রশাসন, পুলিশ, বিচার, কাস্টমস, আয়কর প্রভৃতি ক্ষেত্রে টিকে যাচ্ছেন, এই সকল বিভাগে কাজ করে তারা স্বাচ্ছন্দ বোধও করছেন।অনেকের অভিযোগ, বিসিএস জেনারেল ক্যাডারে ডাক্তার এবং প্রোকৌশলীরা ঢুকে পড়ায় চিকিৎসা ও প্রযুক্তি খাতে তাদের মেধার সদ্ব্যবহার হচ্ছে না।ডাক্তার এবং প্রকৌশলীদেরও পাল্টা অভিযোগ রয়েছে, বিশেষজ্ঞ ডাক্তারেরা সমাজে শ্রদ্ধার পাত্র হলেও সাধারণ ডাক্তার এবং প্রকৌশলীদের মানমর্যাদা বিএসএস ক্যাডারধারীদের মতো নয়।বিশেষজ্ঞ ডাক্তার হতে হলে পোস্ট-গ্রাজুয়েশন ডিগ্রী অর্জন অপরিহার্য; এই ডিগ্রি অর্জনে একজন চিকিৎসককে আরও পাঁচ/ছয় বছর লেখাপড়া এবং প্রশিক্ষণ নিয়ে পরীক্ষায় পাস করতে হয়, কিন্তু বিসিএস সাধারণ ক্যাডারে কাউকে পদোন্নতি পেতে এত ঝামেলা পোহাতে হয় না। বাংলাদেশে পোস্ট গ্রাজুয়েশন ডিগ্রী ছাড়া একজন ডাক্তারের কোন মূল্য নেই। কারণ সবাই বিশেষজ্ঞ ডাক্তারই খোঁজে।",
       "জেনারেল ক্যাডারে চাকরি হলে পদোন্নতি ছাড়াও এক পর্যায়ে ড্রাইভারসহ গাড়ি সুবিধা, সেমিনার, কর্মশালা, প্রশিক্ষণে বিদেশে যাওয়া সম্ভব হয়, অবসরের পর পেনশন ভোগ করা যায়।ডাক্তার, প্রকৌশলীদের মধ্যে যারা অধীত বিদ্যার সাথে সংশ্লিষ্ট ক্যাডারে চাকুরি করেন তাদের উপজেলা বা জেলায় উপজেলা নির্বাহী অফিসার এবং জেলা প্রশাসকের কর্তৃত্বাধীনে কাজ করতে হয়। ইউএনও বা ডিসি’র অপরিসীম ক্ষমতা ও দাপট দেখে নিজেরা ইনফিরিয়রিটি কমপ্লেক্সে ভুগতে থাকেন; এরকম ক্ষমতার দাপটের ঘটনা প্রায়ই মিডিয়াতে আসে।তারা মনে করতে থাকেন যে, অধিক মেধা নিয়ে ডাক্তার এবং প্রকৌশলী হয়েও তাদের কম মেধাবীর সমপর্যায়ের কর্মকর্তার হুকুম তামিল করতে হয়।একজন শিক্ষার্থীকে চিকিৎসক বা প্রকৌশলী হিসেবে তৈরি করতে রাষ্ট্রের বিপুল অর্থ ব্যয় হয়, সেই চিকিৎসক বা প্রকৌশলী যখন অন্য পেশায় চলে যান, তখন তা রাষ্ট্রের জন্য বিপুল ক্ষতি।বিষয়টি পরে আরেকটি কলামে লিখার ইচ্ছে আছে।বিসিএস পরীক্ষা খুব সহজ নয়, এই পরীক্ষায় মেধাবীরা পরষ্পর প্রতিযোগিতা করে থাকেন; তাই বিসিএস ক্যাডারে যারা চাকুরি করছেন তাদের মেধার অবমূল্যায়ন করার কোন অবকাশ নেই, একেবারে অঘা কেউ বিসিএস উত্তীর্ণ হতে পেরেছেন এমন কোন নজির আমাদের হাতে নেই।চোর আর ঘুষখোর সব পেশাতেই আছে, ক্ষমতা কমবেশী সব মানুষকে অহঙ্কারী করে তোলে।স্নাতক পাস করার পর বিসিএস পরীক্ষার জন্য উপযোগী করতে বহু কোচিং সেন্টার রয়েছে, মনজুরুল ইসলামের প্রস্তাবিত বিশ্ববিদ্যালয় সেই সকল কোচিং সেন্টারের ভদ্রোচিত রূপ ছাড়া আর কিছুই নয়।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘প্রস্তাবিত বিসিএস বিশ্ববিদ্যালয়’ returned no result. A shorter search for ‘বিসিএস বিশ্ববিদ্যালয়’ exposed an unrelated Bitu post titled ‘মেধার চাকুরী’, not this catalog record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -945,7 +946,7 @@ export const folderArticles: ArchiveArticle[] = [
       "একজন নূপুর শর্মার কটুক্তির প্রতিবাদে সারা ভারত প্রায় অচল হয়ে পড়েছিল।প্রায় প্রতিটি মুসলিম অধ্যুষিত দেশে প্রতিবাদ হচ্ছে।কিন্তু ",
       "বাংলাদেশে এক ওয়াজি আলেম যেভাবে দেবী দুর্গাকে অশ্লীল ভাষায় বর্ণনা করেছেন তা অশ্রাব্য ও শ্রুতিকটু; কিন্তু তার বিরুদ্ধে বাংলাদেশের কোন আলেম বা ধর্মপ্রাণ মুসলমান প্রতিবাদ করেছে বলে অন্তত আমি শুনিনি।অন্য ধর্মের কোন ধর্মীয় নেতাকে কটু কথা বলতে ইসলামে নিষেধ করা হয়েছে, কারণ কটু কথার প্রত্যুত্তর কটু কথা দিয়েই হয়। পশ্চিমের লোকজন আলাপ-আলোচনায় দুটি বিষয় পরিহার করে থাকে- এক ধর্ম, দুই রাজনীতি।ধর্মের কারণে পৃথিবীতে যত লোক মারা গেছে অন্য কোন একক কারণে তত লোক মারা যায়নি।ভারতে হিন্দু উগ্রপন্থীদের সৃষ্টি বৃটিশ আমলে, গান্ধীর মতো অহিংস নীতির লোকও হিন্দু উগ্রপন্থী নাথুরাম গডসের হাতে খুন হয়েছেন।ভারত আর পাকিস্তান সৃষ্টির পরপর ভারতে যে দাঙ্গা হয় সেই দাঙ্গা পুলিশ থামায়নি, কারণ পুলিশও কোন না কোন ধর্মের লোক ছিল, নির্লিপ্ত পুলিশের হাত থেকে লাঠি কেড়ে নিয়ে পণ্ডিত জওহরলাল নেহেরু দাঙ্গাবাজদের মোকাবিলা করার চেষ্টা করেছেন।নরেন্দ্র মোদি ক্ষমতায় আসার পর ভারতের কিছু উগ্র লোক ভারত থেকে হিন্দু ছাড়া আর বাকি সকল ধর্মাবলম্বীদের তাড়াতে পারলে খুশী হয়।ধর্মান্ধ এই লোকগুলোর কারণে এক ধর্মের সাথে অন্য ধর্মের সংঘাত লেগেই আছে, মনে হচ্ছে পৃথিবীটা ক্রমান্বয়ে ওদের হাতে চলে যাচ্ছে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১৮ June ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and exposes the complete article text for ‘নবীকে নিয়ে বিজেপি নেতার কটুক্তি’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -974,7 +975,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বিভিন্ন পত্রিকায় তিনি প্রায় পনেরশত কলাম লিখেছেন; তিনি তাঁর লেখার সম্পাদনা পছন্দ করতেন না বলে কলাম লেখা বন্ধ করে দেন।তিনি প্রতিদিন কমপক্ষে ১০টি দৈনিক পত্রিকা পড়তেন।তাঁর প্রিয় পত্রিকা ছিল ‘দ্য ইকোনোমিস্ট’।তাঁর বাসায় কমপক্ষে ১০টি বুক শেলফ রয়েছে।তাঁর শখ ছিল ‘পড়া’।রাস্তায় বের হলে তাঁর কাছে দুটি জিনিস থাকত- একটি কলম আর একটি ছোট নোটবুক।একাত্তরের স্মৃতি বিজড়িত লণ্ডন পুনরায় দেখার খুব আগ্রহ ছিল, কিন্তু প্রয়োজনীয় অর্থ না থাকায় তাঁর লণ্ডন দেখা আর হয়নি।দশ/বার বছর পূর্বে তাঁর চিকিৎসার জন্য প্রধানমন্ত্রীর দেয়া বিশ হাজার ডলার বঙ্গবন্ধুর স্মৃতি জাদুঘরে ফেরত দেয়ার নিমিত্তে উত্তরাধিকার সূত্রে পাওয়া সম্পত্তি বিক্রি করেছিলেন, কিন্তু একটি অনুক্ত কারণে তাঁর আগ্রহ পূরণ হয়নি।",
       "মহিউদ্দিন আহমদ এবং আরও দুই বাঙ্গালী মিলে হিথ্রো বিমানবন্দরে বঙ্গবন্ধুকে রিসিভ করতে চলে যান।বঙ্গবন্ধুর নিরাপত্তার কথা ভেবে বঙ্গবন্ধুর আগমন বার্তা তখনো গোপন রাখা হয়, বঙ্গবন্ধুর পরিবারের কোন সদস্যও তাঁর মুক্তির বিষয়ে অবহিত ছিলেন না।বঙ্গবন্ধু না থাকায় স্বাধীন হয়েও বাঙ্গালী জাতি স্বস্তি পাচ্ছিলো না; গোটা জাতি তাকিয়ে ছিল একজন মানুষের দিকে, যিনি সদ্য স্বাধীন বাঙ্গালী জাতির সম্মুখে উপস্থিত হয়ে বলবেন, ‘ফাঁসির পর যে মরদেহ আমি বাংলাদেশে পাঠাতে ভুট্টুদের বলেছিলাম সেই ফাঁসির রজ্জু ছিঁড়ে আমি বেঁচে আছি’।আনন্দভরা অস্থিরচিত্তে মহিউদ্দিন আহমদ বঙ্গবন্ধুর আগমন ও দর্শনের অপেক্ষা করতে থাকেন।বঙ্গবন্ধুকে দেখা মাত্রই তাদের সকলের হৃদয় আনন্দে উদ্ভাসিত হয়ে উঠল।সদ্য স্বাধীন বাংলাদেশ তখনো বঙ্গবন্ধুর জীবনহানির শঙ্কায় সকলে কাঁদছে, বিজয়ের আনন্দে পড়েছে কালোমেঘের ছায়া।সেই মুহুর্তে লণ্ডনের হিথ্রো বিমানবন্দরে বঙ্গবন্ধুর বুকে মাথা রেখে মহিউদ্দিন আহমদ আনন্দে কাঁদছেন; বঙ্গবন্ধু তাঁকে বুকে টেনে নিয়ে বলে উঠলেন ‘ভয় নেই, আমি এসে গেছি’।এই মহিউদ্দিন আহমদ, আমার মেজো ভাই, ২০ জুন, ২০২২-এর সন্ধ্যা ৬.৩০ টায় মৃত্যুবরণ করেছেন, সাথে সাথে একজন সাহসী, নির্ভীক, নির্লোভ, আপোষহীন এবং অসম্প্রদায়িক মুক্তিযোদ্ধার জীবনাবসান হলো।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook post dated ২৫ জুন ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ২৬ June, and exposes the complete article text for ‘ভয় নেই, আমি এসে গেছি’; the body matches this archive record, but the original newspaper URL was not exposed.",
     authorCredit: ""
   },
   {
@@ -1001,7 +1002,7 @@ export const folderArticles: ArchiveArticle[] = [
       "পদ্মা সেতু নির্মাণ হওয়ার পর এর নির্মাণ ব্যয় নিয়ে নানা সমালোচনা হচ্ছে, কেউ কেউ পদ্মা সেতুর সাথে ভারতের ভূপেন হাজারিকা সেতুর ব্যয়ের তুলনা করে দুর্নীতির উল্লেখ করছেন। যারা বেশী ব্যয়ের কথা বলছেন তারা কেউ কিন্তু   দুই সেতুর টেকনিক্যাল বিষয়গুলোর কথা বলছেন না।দ্বিতল বৈশিষ্ট্যের কারণে পদ্মা সেতুর খরচ স্বাভাবিকভাবেই বেশী।পদ্মা সেতুতে সড়ক ও রেলপথ ছাড়াও আছে গ্যাস, বিদ্যুৎ ও অপটিক্যাল ফাইবার লাইন।পদ্মা একটি তীব্র খরস্রোতা নদী; নদীর তীব্র স্রোতের কারণে নদী শাসন ও  নির্মাণকাজ অত্যন্ত কঠিন ছিল।দুটি সেতুর দৈর্ঘ প্রায় সমান- ভূপেন হাজারিকা সেতুর দৈর্ঘ যেখানে ৯.১৫ কিলোমিটার সেখানে ভায়াডাক্টসহ পদ্মা সেতুর দৈর্ঘ ৯.৮৩ কিলোমিটার।ভূপেন হাজারিকা সেতুর প্রস্থ ৪২ ফুট, আর পদ্মা সেতুর প্রস্থ প্রায় ৬০ ফুট, প্রায় দেড় গুণ।ভূপেন হাজারিকা সেতুর পাইল লোড নেয়ার ক্ষমতা মাত্র ৬০ টন, পদ্মা সেতুর পাইল লোড ৮২১০ টন।ভূপেন হাজারিকা সেতুর একটি পিলারের ওজন ১২০ টন, অন্যদিকে পদ্মা সেতুর পিলারের ওজন ৫০ হাজার টন।পৃথিবীর অন্য কোথাও কোনো সেতুতে পাইল এতো গভীরে প্রবেশ করাতে হয়নি।পদ্মা সেতুর পাইলের গভীরতা একটি ৪০ তলা ভবনের সমান। পদ্মা সেতুর পাইলিং-এ যে হাতুড়ি ব্যবহৃত হয়েছে তেমন শক্তিশালী হাতুড়ি পৃথিবীর আর কোন সেতু তৈরিতে ব্যবহৃত হয়নি।পদ্মা সেতুতে ১৬ কিলোমিটার জুড়ে নদী শাসনে প্রায় ১০ হাজার কোটি টাকা খরচ হয়েছে, ভূপেন হাজারিকা সেতুর নদী শাসনে কোন খরচই হয়নি।পদ্মা সেতুতে অস্ট্রেলিয়া থেকে আমদানিকৃত যে মিহি সিমেন্ট ব্যবহৃত হয়েছে তা পৃথিবীর আর কোন সেতুতে অদ্যাবধি ব্যবহৃত হয়নি।করোনার কারণে নির্মাণ কাজ বিলম্বিত হওয়ায় ডলারের সাথে টাকার অবমূল্যায়নে টাকার হিসাবে নির্মাণ খরচ বেশী প্রদর্শিত হচ্ছে।তারপরও বমূল সেতুতে খরচ হয়েছে মাত্র ১২ হাজার ৪৯৪ কোটি টাকা। জনসংখ্যার ঘনত্বের কারণে ভূমি অধিগ্রহণ ও পুনর্বাসনের খরচ বাংলাদেশে অপেক্ষাকৃত অনেক বেশি।যে বিশ্ব ব্যাংক দুর্নীতির অভিযোগ দিয়ে পদ্মা সেতুর অর্থায়ন থেকে সরে গেল ২০১১ সনে সেই বিশ্ব ব্যাংকের প্রাক্কলন ছিল ৩০০ কোটি ডলার, প্রতি ডলার বর্তমান বিনিময় মূল্য ৯০ টাকা করে ধরা হলে সেতুর নির্মাণ খরচ দাঁড়ায় ২৭ হাজার কোটি টাকা।",
       "পৃথিবীতে পদ্মাসেতুর চেয়েও দীর্ঘতর সেতু রয়েছে, আমি নিজেই এই সেতুর চেয়ে আরও দীর্ঘতর ও দৃষ্টিনন্দন সেতুর ওপর দিয়ে যাতায়াত করেছি; কিন্তু সেই সেতুগুলো পার হওয়ার সময় গৌরব বোধ করিনি, কারণ সেগুলো আমাদের সেতু নয়, পদ্মাসেতু আমাদের।নিজস্ব অর্থে পদ্মা সেতু নির্মাণের ঘোষণা দেয়ার পর দেশের বাঘা বাঘা অর্থনীতিবিদ বার বার বলছিলেন, সরকারের এই সিদ্ধান্ত নেহায়েতই আবেগ তাড়িত এবং বাস্তবতা বিবর্জিত।অর্থনীতিবিদদের ধারণাকে মিথ্যা প্রমাণ করে বিশ্ব ব্যাংক বা আন্তর্জাতিক কোন আর্থিক প্রতিষ্ঠানের অর্থায়ন ব্যতীতও যে দেশের দীর্ঘতম এবং ব্যয়বহুল একটি সড়ক সেতু বাংলাদেশের নিজস্ব অর্থায়নে হতে পারে তা প্রমাণ করে দিলেন দৃঢ়চেতা, অকুতোভয় প্রধানমন্ত্রী শেখ হাসিনা; এই সেতু নির্মাণ করে তিনি জাতির মর্যাদাকে সমুন্নত রাখলেন।শেখ হাসিনার নেতৃত্বে বাঙ্গালী জাতি আজ গর্ব করে বলতে পারছে, ‘আমরাও পারি’। ",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook post dated ২ জুলাই ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ৩ July, and exposes the complete article text for ‘পদ্মা সেতুঃ জাতির গর্বের প্রতীক’; the body matches this archive record, but the original newspaper URL was not exposed.",
     authorCredit: ""
   },
   {
@@ -1027,7 +1028,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আফগানিস্তানে ভূমিকম্পের ঘটনা নতুন নয়; ভৌগোলিক কারণেই আফগানিস্তান ভূমিকম্পপ্রবণ দেশ, ইতোমধ্যে অনেকগুলো ভূমিকম্প হয়ে গেছে, ঐ সকল ভূমিকম্পে প্রাণহানি হয়েছে অসংখ্য এবং সম্পদ ধ্বংস হয়েছে বিপুল পরিমাণ।তালেবানেরা ইতোমধ্যে আফগানিস্তানে শরিয়া আইন চালু করেছে।শরিয়া আইন নিয়ে নানাবিধ ব্যাখ্যা থাকলেও সব ব্যাখ্যাই নারী সমাজের প্রতি কঠোর এবং বিশ্বের সবচেয়ে কঠোর শরিয়া আইনের ব্যাখ্যাগুলো তালেবানেরা গ্রহণ করেছে।প্রবর্তিত শরিয়া আইন জনজীবন থেকে নারীদের প্রায় বিচ্ছিন্ন করে রেখেছে, মাহরাম বা অনুমোদিত পুরুষ ছাড়া নারীদের ঘরের বাইরে বের হওয়া নিষিদ্ধ।এছাড়াও মেয়েদের ড্রাইভিং লাইসেন্স ইস্যু করা এবং বার বছরের উর্ধে মেয়েদের স্কুলে যাওয়া বন্ধ করা হয়েছে।নারীদের খেলাধুলায় অংশ নেওয়া হারাম করা হয়েছে।নারী শিক্ষার উপর কঠোর বিধিনিষেধ আরোপ এবং কর্মক্ষেত্রে পুরুষের সাথে নারীদের অংশগ্রহণ নিষিদ্ধ করায় নারীদের ক্ষমতা পদ্ধতিগতভাবেই খর্ব হয়ে গেছে। আফগানিস্তানের সাথে পশ্চিমা বিশ্বের সম্পর্ক গড়ার ক্ষেত্রে প্রধান প্রতিবন্ধক হচ্ছে নারী শিক্ষা নিয়ে তালেবানদের রক্ষণশীল নীতি।জার্মানি স্পষ্ট করে বলে দিয়েছে, তালেবানেরা তাদের অনুসৃত ভুল পথ থেকে সরে না এলে স্বাভাবিক সম্পর্ক হবে না এবং তালেবান সরকারকে স্বীকৃতিও দেওয়া যাবে না।",
       "লাখ লাখ আফগানের হাতে এখন কোন কাজ নেই, সরকারি কর্মকর্তা-কর্মচারীরা নিয়মিত বেতন পাচ্ছেন না, নিত্যপ্রয়োজনীয় দ্রব্যের মূল্য সাধারণ মানুষের নাগালের বাইরে।তবে আফগানিস্তানে এমন দুরবস্থায় প্রাকৃতিক দুর্যোগের ঘনঘটার ব্যাপারে ধর্মীয় ব্যাখ্যাও রয়েছে।ইসলাম ধর্ম অনুযায়ী ভূমিকম্প হলো মানুষের জন্য আল্লাহর পক্ষ থেকে সতর্কবার্তা, ভূমিকম্প দিয়ে আল্লাহ মানুষকে সাবধান করেন, সতর্ক করেন।মনে হচ্ছে, তালেবানদের কর্মকাণ্ডে সৃষ্টিকর্তা নাখোশ; তাই ভূমিকম্প আর বন্যা দিয়ে তাদের সতর্ক ও সাবধান করা হচ্ছে।ধর্মের কথা অনুযায়ী ভূমিকম্প মানুষকে ভীত করে, তারা মহান আল্লাহর নিকট তাওবা করে, পাপ কর্ম ছেড়ে দেয়, আল্লাহর প্রতি ধাবিত হয় এবং তাদের কৃত পাপ কর্মের জন্য অনুতপ্ত হয়ে মোনাজাত করে।প্রাকৃতিক দুর্যোগের কবল থেকে বাঁচার জন্য আমাদের ইসলাম ধর্মে দান-খয়রাত করার কথাও বলা আছে।কিন্তু তালেবান সরকার নিজেরাই দেউলিয়া, দান খয়রাত করবে কী করে! চুক্তি অনুযায়ী আমেরিকা সমর্থিত আফগান সরকারের সাথে ক্ষমতা ভাগাভাগি করে নিলে পশ্চিমাদের এত রোষানলে তালেবানদের পড়তে হতো না।তালেবানদের বাঁচার দুটি পথ খোলা আছে;  এক- আফগান নারীর শিক্ষা এবং তাদের চলাফেরায় কিছুটা স্বাধীনতা দিয়ে অমুসলিম পশ্চিমা বিশ্বের সাথে সমঝোতা করা ; দুই-  কৃতকর্মের জন্য তালেবানদের অনুতপ্ত হয়ে তাওবা করা এবং পাপকর্ম থেকে ফিরে আসার ওয়াদা করে বেশী বেশী মোনাজাতের মাধ্যমে আল্লাহর দরবারে সমর্পিত হওয়া।অবশ্য ইচ্ছে করলে তারা দুটোই করতে পারে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১৩ July ২০২২ identifies দৈনিক সংবাদ and explains that the column was delayed from Sunday because of the Eid holiday. It exposes the complete article text for ‘ভূমিকম্পে বিপর্যস্ত আফগানিস্তান’; the body matches this archive record. No original newspaper URL was safely verified.",
     authorCredit: ""
   },
   {
@@ -1054,7 +1055,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ধর্ম অবমাননার অভিযোগ বা ধর্ম রক্ষার নামে এখন যা করা হচ্ছে তা অবশ্যই ইসলাম ধর্মের শান্তির বার্তাকে কলুষিত করছে।",
       "শিক্ষককে কান ধরে ওঠ-বস করানো, তাদের জেলে পাঠানো, জুতার মালা গলায় পরিয়ে জনসমক্ষে হাঁটিয়ে নেওয়া, শিক্ষককে দিগম্বর করে আনন্দ করা, শিক্ষককে পিটিয়ে মেরে ফেলা, চড় মারা সবই হচ্ছে।এগুলোর চেয়েও ঘৃণ্যতর কাজ হচ্ছে তাদের মুখ বন্ধ করে দেয়া, কারণ প্রতিটি ক্লাসে কিছু ছাত্র ওৎ পেতে আছে কোন শিক্ষক কখন ধর্মের ‘অবমাননামূলক’  কথা বলেন।এমন ভীতি বিরাজ করলে গুণগত শিক্ষা দেওয়ার তাগিদ, শক্তি বা সদিচ্ছা কোনোটাই আর অবশিষ্ট থাকবে না।মাথা নিচু করে বড় বড় আমলা হওয়া যায়, মন্ত্রী হওয়া যায়, কিন্তু শিক্ষক নয়।ইচ্ছেমতো  যত্রতত্র যেমন তেমন শাস্তি আরোপ করার এই প্রবণতা রোধ করা না হলে শিক্ষকদের শাস্তি প্রদানের ভয়াবহ রূপ অচিরে দেশের সর্বত্র আশঙ্কাজনকভাবে দৃশ্যমান হয়ে উঠবে।বঙ্গবন্ধুর বাংলাদেশ এমন প্রত্যাশা করে না, বঙ্গবন্ধুর বাংলাদেশ চায় এই দেশ হোক শুধু মানুষের।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook post dated ১৬ জুলাই ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ১৭ July, and exposes the complete article text for ‘বাংলাদেশ শুধু মানুষের হোক’; the body matches this archive record, but the original newspaper URL was not exposed.",
     authorCredit: ""
   },
   {
@@ -1065,7 +1066,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-07-21",
     publishedDateLabel: "২১ জুলাই ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/84604",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1081,7 +1082,7 @@ export const folderArticles: ArchiveArticle[] = [
       "অবস্থা বিবেচনা করে সম্পদের ব্যবহারে পৃথিবীর ধনী দেশগুলোও সংযত হয়ে থাকে।কঠোর অবরোধের মধ্যে কিউবা, ইরান, উত্তর কোরিয়া, ভেনিজুয়েলার মিতব্যয়ী না হয়ে উপায় নেই।শ্রীলংকা যথাসময়ে মিতব্যয়ী হয়নি বলে এখন বাঁচতে পারছে না।নিজের সামর্থ না থাকলে কেউ ধারও দেয় না, এখন শ্রীলঙ্কার হাহাকার কেউ শুনতে চাইছে না, শিক্ষা প্রতিষ্ঠান বন্ধ, রাস্তায় গাড়ির সংখ্যা একেবারেই নেই, বিদ্যুৎ নেই, উৎপাদন স্থবির, রপ্তানি নেই, বৈদেশিক মুদ্রার অভাবে আদমদানিও নেই।আফগানিস্তান, পাকিস্তান, নেপালের অবস্থা শ্রীলঙ্কার অবস্থার কাছাকাছি।তাই সতর্ক আর সাবধান আমাদের হতেই হবে।ইতোমধ্যে সরকার আলোকসজ্জা বন্ধ করেছে, দোকানপাট রাত আটটার মধ্যে বন্ধ রাখার সিদ্ধান্ত নিয়েছে এবং আরও কিছু পদক্ষেপ নেয়ার কথাও ভাবছে।শুধু গ্যাস নয়, জ্বালানি তেল এবং বৈদেশিক মুদ্রার খরচেও আমাদের সতর্কতা অবলম্বন করতে হবে।গত বছরের তুলনায় তেলের দাম বেড়েছে ৭০ শতাংশ। আমরা আশা করব বাহুল্য খরচ বাদ দেয়ার দৃষ্টান্ত প্রধানমন্ত্রীর কার্যালয় থেকে শুরু হোক, মন্ত্রীপাড়ায়ও  লোডশেডিং হোক, বিলাস সামগ্রীর আমদানি বন্ধ হোক, মন্ত্রী-এমপি-আমলাদের গাড়ির তেল-খরচ কমিয়ে দেয়া হোক, স্যুট পরে অফিসে যাওয়া নিষিদ্ধ হোক, অপ্রয়োজনীয় সেমিনার-কর্মশালার জাঁকজমকপূর্ণ আয়োজন রহিত হোক, বিয়ে এবং সামাজিক অনুষ্ঠানগুলো দিনের আলোয় অনুষ্ঠিত হোক, ডিজিটাল যুগে ঘরে বসে অফিস করার ব্যবস্থা নেয়া হোক, রাষ্ট্রীয় স্বার্থ ছাড়া বিদেশে প্রশিক্ষণ, সেমিনার, কর্মশালা ইত্যাদিতে অংশগ্রহণ নাজায়েজ করা হোক।",
       "লোডশেডিং কলকারখানায় করা যাবে না, উৎপাদন অক্ষুন্ন রাখার স্বার্থে কলকারখানায় বিদ্যুতের নিরবচ্ছিন্ন সরবরাহ নিশ্চিত করতে হবে।অন্যদিকে অর্থনৈতিক কর্মকাণ্ড ব্যাহত করে এমন ব্যয় সংকোচন করাও সমীচীন হবে না।গ্যাসের সঙ্কটের কারণে সরকারকে যে কাজটি অগ্রাধিকার ভিত্তিতে করতে হবে তা হলো বাংলাদেশের গ্যাস উৎপাদন এবং বিতরণ সংশ্লিষ্ট কার্যক্রম দুর্নীতিমুক্ত করা। বিদ্যুতের ক্ষেত্রে ক্যাপাসিটি চার্জ বিদ্যুৎ উৎপাদন প্রক্রিয়ার অংশ হলেও বিদ্যুৎ ব্যবহার না করে ক্যাপাসিটি চার্জ দেয়ার কোন মানে হয় না।বিভিন্ন বিদ্যুৎ প্লান্টের বিদ্যুৎ ব্যবহারের সমন্বয় নিয়ে পরিকল্পনা থাকা বান্ছনীয়।সিস্টেম লসের নামে যে দুর্নীতি হয় তা রোধ করা সম্ভব হলে দেশে গ্যাস আমদানি বা  লোডশেডিং-এর দরকার হবে বলে মনে হয় না।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘লোডশেডিং নিয়ে শোরগোল’ returned no matching public Zeauddin Ahmed Bitu post. The shorter search ‘লোডশেডিং’ returned unrelated newer posts from ২০২৫–২০২৬, not this ২১ July ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1092,7 +1093,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-07-23",
     publishedDateLabel: "২৩ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ জুলাই ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/71198/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1108,7 +1109,7 @@ export const folderArticles: ArchiveArticle[] = [
       "হাসপাতালের বেতনভুক বিশেষজ্ঞ ডাক্তারগণ তাদের খেয়ালখুশী মতো হাসপাতালে আসেন।প্রায় দিন তারা হাসপাতালে আসেন না, শিক্ষার্থী বিশেষজ্ঞ ডাক্তারদের সাথে যোগাযোগ করে চিকিৎসার ব্যবস্থা করেন।সিনিয়র ডাক্তারগণ বিভিন্ন ক্লিনিকে ব্যস্ত থাকেন।রোগী মহিউদ্দিন আহমদের ক্যান্সারযুক্ত টিউমারটির আধুনিক পদ্ধতিতে অপারেশনের প্রস্তাব দিলেন ডা. স্বপ্নীল।এই পদ্ধতিটি হচ্ছে ‘টেস অপারেশন’-  এই পদ্ধতিতে শরীর কাটতে হয় না, এনজিওগ্রামের প্রক্রিয়া অনুসরণ করা হয়।এই প্রক্রিয়ায় টিউমারের মুখ বন্ধ করে দিয়ে কেমো প্রয়োগ করা হয়।এই অপারেশনের জন্য যে যন্ত্রপাতির প্রয়োজন তা বিএসএমএমইউ হাসপাতালে থাকলেও তা সচল না থাকায় ডা. স্বপ্নীলের প্রস্তাব মতো ইমপালস হাসপাতালে ৩ লক্ষ ৬ হাজার টাকার চুক্তির বিনিময়ে এই অপারেশন করা হয়।ইমপালস হাসপাতাল থেকে অ্যাম্বুলেন্সে আবার বিএসএমএমইউ হাসপাতালে রোগীকে আনার পর কেবিন ব্লকের নিচে কোন হুইল চেয়ার ছিল না, চাকা ভাঙ্গা একটি হুইল চেয়ার শিকলে বাঁধা ছিল।",
       "দলমত নির্বিশেষে সব ডাক্তারের একটি সংগঠন রয়েছে, নাম বাংলাদেশ মেডিকেল এসোসিয়েশন (বিএমএ)।কিন্তু বিএনপি সমর্থিত ড্যাব বা ডক্টরস এ্যাসোসিয়েশন অব বাংলাদেশ এবং আওয়ামী লীগ সমর্থিত স্বাচিপ বা স্বাধীনতা চিকিৎসক পরিষদ গঠিত হওয়ার পর জাতীয় পর্যায়ের বিএমএ গুরুত্বহীন হয়ে পড়ে।জাতীয় রাজনীতির প্রশ্নে এই দুইটি সংগঠনের সম্পর্ক সাপে-নেউলে; কিন্তু অনৈতিক কর্মকাণ্ডে উভয় সংগঠনের ডাক্তারগণ একতাবদ্ধ।যখন যে দল ক্ষমতায় এসেছে সেই দল শর্তহীনভাবে তাদের দলীঁয চিকিৎসক সংগঠনের অনৈতিক কর্মকাণ্ডকে প্রশ্রয় দিয়েছে।এর ফলে দেশে পেশাজীবী চিকিৎসক সমাজ তৈরি হয়নি, হয়েছে স্বাচিপ চিকিৎসক এবং ড্যাব চিকিৎসক।সরকার এদের ভয়ও করে, স্বার্থে ব্যাঘাত ঘটলে দেশের চিকিৎসা ব্যবস্থা অচল করে দিতে এদের এক মিনিট সময়ও লাগে না।বিরোধী দল গণতন্ত্র চায়, সুশাসন চায়, জবাবদিহিতা চায়- কিন্তু ডাক্তারদের অনৈতিক কাজের বিরোধিতা সরকারও করে না, বিরোধী দলও করে না।তাই চিকিৎসা সেবা পাওয়ার প্রত্যাশায় আমাদের দেশের হতদরিদ্র মানুষগুলোও তাদের সহায়-সম্বল সব বিক্রি করে বিদেশে পাড়ি দিতে বাধ্য হয়।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded public Facebook evidence dated ২৩ July ২০২২ identifies দৈনিক সংবাদ and provides the complete article body. Sangbad’s publisher page confirms the matching title, author, and ২৩ July ২০২২ date.",
     authorCredit: ""
   },
   {
@@ -1135,7 +1136,7 @@ export const folderArticles: ArchiveArticle[] = [
       "যুক্তরাষ্ট্রের অনেকগুলো রাজ্য এক সময় নিরাপত্তার খাতিরে আগ্নেয়াস্ত্রের ব্যবহারে সাধারণ মানুষকে উৎসাহিত করেছে। আমেরিকার নাগরিকদের সেকেন্ড অ্যামেণ্ডমেণ্ডের মাধ্যমে অস্ত্র কেনা  এবং বহনের অনুমতি দেয়া হয়েছে মূলত আমেরিকার সেনাবাহিনীকে প্রতিরোধ করার জন্য।আমেরিকার সবগুলি স্টেট মিলে ফেডারেল সরকার গঠন করলেও সবারই নিজস্ব সরকার এবং লোকাল আইন আছে।পুনরায় সিভিল ওয়ারের মতো সিচুয়েশনের উদ্ভব হলে সাধারণ নাগরিকেরা মিলে যাতে  লোকাল মিলিশিয়া গঠন করে ফেডারেল আর্মির হাত থেকে নিজেদের রাজ্য রক্ষা করতে পারে সেজন্য সেকেন্ড অ্যামেণ্ডমেণ্ডে নাগরিকদের অস্ত্র রাখার অনুমতি দেয়া হয়েছিল।বলা হয়ে থাকে, সাধারণ নাগরিকদের হাতে অস্ত্র থাকার কারণে দ্বিতীয় বিশ্বযুদ্ধে জাপান আমেরিকার মূল ভূখণ্ডে সেনা প্রেরণ করতে ভয় পেয়েছিল।",
       "জ্ঞান-বিজ্ঞানে আমেরিকা অনেক অগ্রগামী; পৃথিবীর সব মেধাবীকে আমেরিকা তার নাগরিক করে নিতে পারলে খুশী হয়।দুনিয়ার শীর্ষ ১০টি বিশ্ববিদ্যালয়ের মধ্যে বোধহয় ৬টিই তাদের।তাদের হার্ভার্ড বিশ্ববিদ্যালয় পৃথিবীর সকল মেধাবীদের তীর্থস্থল।এই দেশটি এমন কতগুলো লোকের সৃষ্টি করেছে যাদের নাম বা আবিষ্কার পৃথিবীর প্রায় সব মানুষের হৃদয়ে প্রোথিত,- বিল গেটসের মাইক্রোসফট, মার্ক জাকারবার্গের ফেসবুক, স্টিভ জবসের অ্যাপল কম্পিউটার ও মোবাইল সেট; কোকাকোলা, ম্যাকডোনাল্ড, পিৎজা হাট, কেএফসি, হটডগ, হলিউড, স্টিফেন স্পিলবার্গ, মেরিলিন মনরো।মানুষের অধিকার রক্ষায়, মানুষের চিন্তা-চেতনার বিকাশে এবং গণমাধ্যমের স্বাধীনতার প্রশ্নে এই দেশটি আপোসহীন।এই মার্কিন যুক্তরাষ্ট্রে নাগরিকের অস্ত্র রাখার সাংবিধানিক অধিকারের বিপক্ষে কোন আইন পাস করার সাহস রিপাবলিকান বা ডেমোক্রেট কারোই নেই।অস্ত্র ব্যবসায়ীদের প্রভাব মাত্রাতিরিক্ত; তাই একের পর এক গণহত্যা ঘটে চললেও আমেরিকায় কঠোর অস্ত্র আইন বাস্তবায়ন করা সম্ভব নয়।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘যুক্তরাষ্ট্রে আগ্নেয়াস্ত্র বহনের সংস্কৃতি’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘আগ্নেয়াস্ত্র’ surfaced unrelated posts dated ২০১৮, ২০১৯, and ২০২১, not this ৩০ July ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1146,7 +1147,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-08-04",
     publishedDateLabel: "৪ আগস্ট ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/85933",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1161,7 +1162,7 @@ export const folderArticles: ArchiveArticle[] = [
       "প্রত্যক্ষ বা সরাসরি বিনিয়োগ বাংলাদেশের অর্থনৈতিক প্রবৃদ্ধি অর্জনে অনুঘটক হিসেবে কাজ করে, এই বিনিয়োগে কর্মসংস্হানের সৃষ্টি হয়, নতুন প্রযুক্তির সন্নিবেশ হয়, ঋণ নির্ভরতা হ্রাস পায়।বাংলাদেশে বিনিয়োগের জন্য উপযোগী নয়টি খাতের কথা যুক্তরাষ্ট্রের প্রতিবেদনে উল্লেখ করা হয়েছে।দীর্ঘদিন যাবত বাংলাদেশে স্থিতিশীল রাজনৈতিক পরিবেশ বিরাজ করায় বিনিয়োগের অনুকূল পরিবেশ তৈরি হয়েছে।করোনাকালীন বিদেশি বিনিয়োগের স্থবিরতা কাটিয়ে ২০২১-২২ অর্থবছরে ২.৯০ বিলিয়ন ডলার সরাসরি বিনিয়োগ হয়েছে।২০২১-২২ অর্থবছরে সরাসরি বিদেশি বিনিয়োগ বেড়ে কোভিড মহামারীর আগের অবস্থায় ফিরেছে। রাশিয়া-ইউক্রেন যুদ্ধ এবং অর্থনৈতিক অবরোধ ও নিষেধাজ্ঞার কারণে বিনিয়োগের এই ধারা পরবর্তী বছরগুলোতে অব্যাহত থাকবে কিনা তা নিশ্চিত করে এই মুহুর্তে বলা সম্ভব নয়।কারণ বড় অর্থনীতির দেশগুলোতেও সুদহার ও মূল্যস্ফীতি বেড়ে গেছে, এর ফলে উৎপাদন ও বিনিয়োগে মন্দা দেখা দিতে পারে।",
       "বিগত এক দশকে উল্লেখযোগ্য পরিমাণে বিদ্যুৎ উৎপাদন বেড়েছে মর্মে যুক্তরাষ্ট্রের প্রতিবেদনেও উল্লেখ করা হয়েছে।শুধু বিদ্যুৎ নয়, রাস্তাঘাটসহ বিভিন্ন অবকাঠামো নির্মাণেও বাংলাদেশ অনেক অগ্রগতি অর্জন করেছে।অবকাঠামোর সুবিধাদিসহ দেশের বিভিন্ন এলাকায় ১০০টি অর্থনৈতিক অঞ্চল গড়ে তোলা হচ্ছে, ইন্টারনেট সুবিধা বাড়ানো হয়েছে, বিদ্যমান বন্দর সুবিধা বৃদ্ধি করা ছাড়াও গভীর সমুদ্রবন্দর নির্মাণ করা হচ্ছে।প্রতিবেদনে বলা হয়েছে, বাংলাদেশের নিম্ন মজুরি হার তৈরি পোশাক খাতকে সম্প্রসারণে সহায়তা করেছে।বিনিয়োগের সুযোগ-সুবিধা যতই বাড়ানো হোক না কেন বিদ্যুৎ সরবরাহের নিমিত্তে পর্যাপ্ত সঞ্চালন লাইন সংস্থাপন করা না হলে নিরবচ্ছিন্ন বিদ্যুৎ সরবরাহ নিশ্চিত করা সম্ভব হবে না।এছাড়াও আমলাতান্ত্রিক জটিলতা ও দীর্ঘসূত্রিতা জিইয়ে রেখে বিনিয়োগ বাড়ানো যাবে না।ব্যবসা-বান্ধব প্রশাসন গড়ে তোলার জন্য আমলাদের দক্ষতা বাড়াতে হবে, ত্বরিৎ সিদ্ধান্ত গ্রহণে তাদের সামর্থ অর্জন করতে হবে এবং আলাদা শ্রেণি হওয়ার অহংবোধ ও আভিজাত্য ত্যাগ করতে হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded the public Facebook post dated ৪ August ২০২২. It identifies the weekly সাম্প্রতিক দেশকাল newspaper and its complete article body matches this archive record. No original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -1187,7 +1188,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আমাদের গৃহীত বিদেশি ঋণের বেশীরভাগ দীর্ঘ মেয়াদী, দীর্ঘ মেয়াদী ঋণের প্রথম কিস্তি পরিশোধে গ্রেস বা রেয়াতি সময় পাওয়া যায়।সবচেয়ে বেশী ঋণ নেয়া হয়েছে রূপপুর পারমাণবিক বিদ্যুৎ কেন্দ্রের জন্য, ১১ বিলিয়ন ডলার, ৩০ বছরের মধ্যে ঋণের অর্থ ফেরত দিতে হবে।এই ঋণের কিস্তি পরিশোধ শুরু হবে ২০২৭ সনের মার্চ মাস থেকে।জাপানের জাইকার সাথে সম্পাদিত ঋণচুক্তি অনুযায়ী মেট্রোরেলের জন্য গৃহীত ঋণ ১০ বছরের গ্রেস পিরিয়ডসহ ৩০ বছরে পরিশোধ করতে হবে।পদ্মা সেতু রেল সংযোগ প্রকল্প’র জন্য গৃহীত ২. ৬৭ বিলিয়ন ডলার ঋণের প্রথম কিস্তি পরিশোধে ৬ বছর রেয়াত পাওয়া যাবে, সম্পূর্ণ ঋণ পরিশোধ করতে হবে ২০ বছরের মধ্যে।রামপাল বিদ্যুৎ কেন্দ্র নির্মাণে ভারতের এক্মিম ব্যাংক ১.৬ বিলিয়ন ডলার ঋণ দিয়েছে, পরিশোধ করতে হবে ২০ বছরে।প্রতিটি ঋণের প্রথম কিস্তি পরিশোধে গ্রেস পিরিয়ড রয়েছে। তাই ঋণ পরিশোধে এক্ষুনি রিজার্ভের উপর কোন চাপ পড়বে বলে মনে হয় না।আমাদের গৃহীত ঋণের গড় সুদ হার শ্রীলঙ্কা এবং পাকিস্তানের চেয়ে অনেক কম।শ্রীলঙ্কার বৈদেশিক ঋণের গড় সুদ হার যেখানে ৬ শতাংশ সেখানে আমাদের বৈদেশিক ঋণের গড় সুদ হার ২ শতাংশের চেয়েও কম।",
       "সামাজিক যোগাযোগ মাধ্যমে দেওয়া কিছু পোস্ট পর্যালোচনা করলে মনে হয়, বাংলাদেশ যত তাড়াতাড়ি শ্রীলঙ্কার অবস্থানে পৌঁছে ততই উত্তম।বাংলাদেশকে শ্রীলঙ্কা দেখতে কিছু লোক অধীর আগ্রহে প্রতীক্ষা করছে। তবে বিরোধী দল এবং বুদ্ধিজীবীদের সৃষ্ট আতঙ্ক সরকারের জন্য ইতিবাচক।তাদের আতঙ্ক সৃষ্টির কারণে জনগণ সচেতন হয়েছে, জিনিসপত্রের দাম কেন বাড়ছে, লোডশেডিং কেন হচ্ছে তা জনগণ বোঝার চেষ্টা করছে। কৃচ্ছ্রতাসাধনে সরকারের গৃহীত ব্যবস্থাদি পরিপালনে বিরোধী দলের সমর্থক ছাড়া সাধারণ জনগণের মধ্যে কোন ক্ষোভ নেই।কারণ জনগণ চায় না বাংলাদেশ শ্রীলঙ্কা হয়ে যাক।সরকারও সতর্ক হয়েছে।অন্যদিকে বিশ্ববাজারে কিছু কিছু পণ্যের দামও কমতে শুরু করেছে।চলতি অর্থবছরে আমদানি ব্যয় কমার সম্ভাবনা রয়েছে।তারপরও প্রলম্বিত যুদ্ধ আর অর্থনৈতিক অবরোধের কারণে সব হিসাব-নিকাশ ভণ্ডুল হয়ে যেতে পারে।ভণ্ডুল হলে শুধু বাংলাদেশ নয়, পৃথিবীর বহু দেশ মারাত্মক সঙ্কটে পড়বে, দেউলিয়া হয়ে যাবে।ইত্যবসরে আরও একটি দুর্যোগের উদ্ভব হয়েছে।তাইওয়ানে আমেরিকার কংগ্রেসের স্পিকার ন্যান্সি পেলোসির ভ্রমণ নিয়ে চীন এবং আমেরিকার মধ্যে উত্তেজনার সৃষ্টি হয়েছে, চীন তাইওয়ানের ব্যবসা-বাণিজ্যের ক্ষেত্রে প্রতিবন্ধকতা তৈরি করছে, শীঘ্র তাইওয়ানের আশেপাশে সামরিক মহড়া শুরু করতে যাচ্ছে।তাই কৃচ্ছ্রতাসাধনে বাংলাদেশ সরকার এবং জনগণকে প্রয়োজনে আরও কঠোর পদক্ষেপ নিতে হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বিশ্ব মন্দায় বাংলাদেশের শক্তি’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘বিশ্ব মন্দা’ returned unrelated posts dated ২০২০, ২০২১, and ২০২৫, not this catalog record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1198,7 +1199,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-08-13",
     publishedDateLabel: "১৩ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৪ আগস্ট ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/73014/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1213,7 +1214,7 @@ export const folderArticles: ArchiveArticle[] = [
       "অফিস-আদালতে এয়ারকুলার ব্যবহার হ্রাস করা জরুরী।আমাদের সাবেক গভর্নর ড. আতিউর রহমান সাধারণত স্যুট পরেন না।তার পোষাকের প্রতি দৃষ্টি আকর্ষণ করে প্রধানমন্ত্রী শেখ হাসিনা একবার আমলা এবং মন্ত্রীদের গরমের দিনে স্যুট পরিহার করতে অনুরোধ করেছিলেন।আমাদের মতো নাতিশীতোষ্ণ দেশে স্যুট পরা জরুরী নয়।মহাত্মা গান্ধী স্যুট পরেননি বলে ইংরেজ সরকারের কাছে তার গুরুত্ব কম ছিল না।তাই বলে গান্ধীর মতো জীর্ণশীর্ণ পোষাক পরে অফিস করার দাবী কেউ করছে না।বর্তমান অর্থনৈতিক দুর্যোগে জ্বালানি, বিদ্যুৎ, গ্যাস, পানি, বিলাসী পণ্য ব্যবহারে মিতব্যয়ী হওয়া জাতীয় স্বার্থে অপরিহার্য।তবে সব ক্ষেত্রে মিতব্যয়ী হলে অর্থনৈতিক কর্মকাণ্ডে স্থবিরতা নেমে আসবে।আমাদের মনে রাখতে হবে, একজনের ব্যয় মানেই আরেকজনের আয়।মিতব্যয়ী হতে গিয়ে সবাই হেঁটে হেঁটে চলাফেরা করলে রিক্সাচালক বাঁচবে না, অনুষ্ঠানে ফুলের সাজ না থাকলে ফুল-চাষী ও ফুল-বিক্রেতাকে উপবাস করতে হবে, বাজারের বোঝা নিজে বহন করলে মুটে না খেয়ে মরবে, ভিক্ষা না দিয়ে তা সঞ্চয় করা হলে ভিক্ষুকের অস্তিত্ব বিলীন হয়ে যাবে।",
       "জনপ্রিয়তা হারানোর শঙ্কা থাকা সত্বেও আওয়ামী লীগ সরকার তেলের দাম বাড়িয়েছে।আমাদের ধারণা সরকার ঠিক সিদ্ধান্ত নিয়েছে।কারণ জনপ্রিয় সব সিদ্ধান্ত সব সময় দেশের জন্য মঙ্গলজনক হয় না।জনপ্রিয় হতে গিয়ে শ্রীলঙ্কার পূর্ববর্তী সরকার ৫০ শতাংশ ভ্যাট হ্রাস করে ফকির হয়ে গিয়েছিল, পরে জনগণই তাদের তাড়িয়েছে, জনপ্রিয়তা কাজে আসেনি।তাই লাগামহীন ভর্তুকি দিয়ে সরকার দেউলিয়া হোক-এটা সচেতন জনগণ প্রত্যাশা করতে পারে না।বাংলাদেশ এখন প্রায় ৫০ লাখ টন ডিজেল এবং ৪০ লাখ টন ফার্নেস অয়েল আমদানি করে।শোধনাগারের সক্ষমতা না থাকায় সরকার মাত্র ১৩ লাখ টন ক্রুড অয়েল আমদানি করে।বিপিসি’র কাছে নগদ অর্থ থাকলে তা দিয়ে জরুরী ভিত্তিতে ক্রুড অয়েল রিফাইনারি ক্যাপাসিটি এবং রিজার্ভ সক্ষমতা বাড়ানো জরুরী।আমাদের শোধনাগার রাশিয়ার তেল শোধন করার জন্য উপযোগী না হওয়ায় কম দামে রাশিয়ার তেলও কেনা যাচ্ছে না।বিপিসি’র লাভ এবং খরচ নিয়ে নানা প্রশ্ন উত্থাপিত হচ্ছে।অনেকের মতে বিপিসি’র মূল্য সমন্বয় সঠিক হয়নি, আরও কম মূল্য নির্ধারণ করা সম্ভব ছিল।বর্তমান অবস্থায় বিপিসি’র আর্থিক অবস্থা জানা দরকার, অনেকের ধারণা বিপিসি স্বচ্ছ নয়।বিপিসি’র সম্ভবত নিরীক্ষিত কোন হিসাব বিবরণী নেই, থাকলে এই সকল প্রশ্নের উত্তরের জন্য মন্ত্রী বা সচিবের দ্বারস্থ হওয়ার প্রয়োজন হতো না।বিপিসি’র জবাবদিহিতা নিশ্চিত করা অপরিহার্য।বিপিসি’র দুর্নীতি এবং সততা নিয়ে জনগণের মধ্যে বিভ্রান্তি রয়েছে, এই বিভ্রান্তির জন্য মন্ত্রীর ব্যাখ্যাও জনগণ বিশ্বাস করে না।তাই পেট্রোলিয়াম কর্পোরেশনের স্বচ্ছতা প্রতিষ্ঠায় উত্থাপিত প্রতিটি প্রশ্নের যথাযথ পরিস্কার উত্তর সরকারের স্বার্থেই জনগণকে জানানো প্রয়োজন।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded public Facebook evidence dated ১৩ August ২০২২ identifies দৈনিক সংবাদ and provides the complete article body. Sangbad’s publisher page confirms the matching title, author, and ১৩ August ২০২২ date.",
     authorCredit: ""
   },
   {
@@ -1240,7 +1241,7 @@ export const folderArticles: ArchiveArticle[] = [
       "উপমহাদেশের প্রতিটি দেশে দুর্নীতি নিয়ে দলীয় নেতারা সোচ্চার।দুর্নীতি দূর করার দৃঢ় প্রতিশ্রুতি দিয়ে ২০১৪ সনের লোকসভা নির্বাচনে ভারতীয় জনতা পার্টিকে বিশাল জয় এনে দিয়েছিলেন নরেন্দ্র মোদী।নরেন্দ্র মোদী  বিরোধী দলের নেতাদের দুর্নীতির দায়ে গ্রেফতার করে তার প্রতিশ্রুতি পালন করছেন, কিন্তু নিজের দলের কাউকে দুর্নীতির দায়ে বিচারের মুখোমুখি করছেন না।পাকিস্তানের সাবেক প্রধানমন্ত্রী ইমরান খানও নির্বাচনী প্রচারে দুর্নীতির বিরুদ্ধে জেহাদ ঘোষণা করেছিলেন, বিদেশে পাচার হওয়া অর্থ ফেরত আনার প্রতিশ্রুতিও দিয়েছিলেন: কিন্তু তার ক্ষমতায় থাকাকালীন পাকিস্তানে দুর্নীতি বেড়ে গিয়েছিল, এখন তার বিরুদ্ধেও দুর্নীতির অভিযোগ তোলা হচ্ছে।ভারতের প্রধানমন্ত্রী নরেন্দ্র মোদিও বিদেশে পাচার করা অর্থ ফেরত আনার অঙ্গীকার করেছিলেন।ইমরান খান এবং নরেন্দ্র মোদি একটি টাকাও বিদেশ থেকে ফেরত আনতে সমর্থ হননি।ইন্দোনেশিয়ার অনুসরণে বিদেশ থেকে টাকা ফেরত এনে দেশে বিনিয়োগের একটা প্রশ্নাতীত সুযোগ এবার বাজেটে বাংলাদেশ সরকার দিলেও কেউ টাকা ফেরত আনবে বলে মনে হয় না।",
       "পার্থ চট্টোপাধ্যায়ের দুর্নীতি ফাঁস হওয়ার পর বিপাকে পড়েছেন পশ্চিমবঙ্গের মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায় ও তার দল তৃণমূল কংগ্রেস।পার্থ চট্টোপাধ্যায়ের এত বড় আর্থিক কেলেঙ্কারি সম্পর্কে অবগত না হওয়াটাও মমতার নেতৃত্বের দুর্বলতা, আর যদি দুর্নীতি তার অনুমোদনে হয়ে থাকে তাহলে তা মমতার প্রধানমন্ত্রীত্বের উচ্চাকাঙ্ক্ষাকে ম্লান করার জন্য যথেষ্ট।২০২৪ সনের লোকসভার নির্বাচনে নরেন্দ্র মোদিকে চ্যালেঞ্জ করে বিরোধী জোট থেকে ভারতের প্রধানমন্ত্রী হওয়ার পরিকল্পনা রয়েছে মমতার।কিন্তু তার সব পরিকল্পনা পার্থকাণ্ডে ভেস্তে গেল বলে মনে হয়।ইতোমধ্যে পশ্চিমবঙ্গের ৪২টি লোকসভা আসনের মধ্যে বিজেপি ১৮টি আসন দখল করে নিয়েছে।এ অবস্থায় তৃণমূলের নেতাকর্মীরা এভাবে অপকর্মে জড়িয়ে পড়লে আগামী নির্বাচনে বিজেপি’র বিজয় নিশ্চিত হয়ে যেতে পারে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ২০ August ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and exposes the complete article body; the body matches this archive record. The Facebook link card points to `https://sangbad.net.bd/opinion/post-editorial/73589/`, but the live page currently renders unrelated content, so the URL is retained only as an unverified source lead and not placed in originalUrl.",
     authorCredit: ""
   },
   {
@@ -1265,7 +1266,7 @@ export const folderArticles: ArchiveArticle[] = [
       "শেখ হাসিনাকে ক্ষমতায় টিকিয়ে রাখার ব্যাপারে ড. মোমেনের কথাটি জাতীয় স্বার্থ আদায়ের কৌশলও হতে পারে।শেখ হাসিনাকে টিকিয়ে রাখার জন্য যা যা করার দরকার তাই তাই করতে তিনি ভারতকে অনুরোধ করেছেন।পররাষ্ট্রমন্ত্রী কথাটি বলেছেন প্রধানমন্ত্রী শেখ হাসিনার ভারত সফরে যাওয়ার পূর্ব মুহুর্তে।শেখ হাসিনা সেপ্টেম্বরের প্রথম সপ্তাহে রাষ্ট্রীয় সফরে ভারত যাবেন এবং আগামী বছরের শেষ দিকে বাংলাদেশে জাতীয় সংসদ নির্বাচনের আগে সম্ভবত এটিই হবে শেখ হাসিনার শেষ ভারত সফর।ভারত যদি তিস্তার পানি বন্টনের চুক্তিসহ ভারতের সাথে অমীমাংসিত ইস্যুগুলোর সমাধান করে তাহলে শেখ হাসিনার জনপ্রিয়তা বাড়বে, তিনি জনসমর্থন নিয়ে টিকে যাবেন।তাই ‘শেখ হাসিনাকে টিকিয়ে’ রাখার জন্য ভারতকে অমীমাংসিত ইস্যুগুলোর সমাধানে এগিয়ে আসা জরুরী।পররাষ্ট্রমন্ত্রীর বক্তব্যের সারবত্তা এটা হওয়াই স্বাভাবিক।শক্তি দিয়ে ভারত হাসিনাকে রক্ষা করতে পারবে না, এটা কোন দেশের জনগণ মেনে নেয় না।ভারত শেখ হাসিনাকে রক্ষা করবে কী করে, তারা তো বঙ্গবন্ধুকেও রক্ষা করতে পারেনি।বাস্তবতা হচ্ছে, পৃথিবীর শক্তিধর দেশগুলো তাদের গোয়েন্দাদের ষড়যন্ত্রে অপছন্দনীয় শাসকের পতন ঘটাতে পারে, খুন করতে পারে, কিন্তু রক্ষা করতে পারে না।ক্ষমতাধর দেশগুলোর ইশারায় ইরাকের সাদ্দাম হোসেন মরেছেন, লিবিয়ার মুয়াম্মার গাদাদাফি খুন হয়েছেন, চিলির সালভাদর আলেন্দে নিহত হয়েছেন, বঙ্গবন্ধু হত্যার শিকার হয়েছেন এবং পাকিস্তানের ইমরান খান ক্ষমতাচ্যুত হয়েছেন।কিন্তু আমেরিকা তাদের অনুগত শাসক ফিলিপিন্সের একনায়ক ফার্দিনান্দ মার্কোস, ইরানের শাহানশাহ মোহাম্মদ রেজা শাহ পাহলভী বা  আফগানিস্তানের প্রেসিডেন্ট আশরাফ ঘানিকে রক্ষা করতে পারেনি।মহাশক্তিধর যেখানে তাদের অনুগত শাসকদের রক্ষা করতে পারে না, সেখানে ভারত কী করে শেখ হাসিনাকে রক্ষা করবে!",
       "সবাই বক্তব্য প্রদানে পটু নন।বাগ্মিতা একটা আর্ট, সবাই তা রপ্ত করতে পারে না।শুধু বাগ্মিতার জোরে বহু রাজনীতিবিদ ক্ষমতায় এসেছেন, জনপ্রিয় হয়েছেন।১৯৬৩ সনে  মার্টিন লুথার কিং জুনিয়র জগদ্বিখ্যাত একটি ভাষণ দিয়েছিলেন; বর্ণবাদের বিরুদ্ধে ‘আই হ্যাভ এ ড্রিম’ এই বক্তৃতার খণ্ডাংশ পৃথিবীর বিভিন্ন ধর্ম ও সম্প্রদায়ের মানুষের মুখে মুখে আজও উচ্চারিত হয়।আমেরিকার প্রেসিডেন্ট আব্রাহাম লিঙ্কনের ‘গেটেসবার্গ অ্যাড্রেস’-এর অংশ ‘গভর্মেন্ট অব দ্য পিপল, বাই দ্য পিপল, ফর দ্য পিপল’ - আজও মানুষের কণ্ঠে শোনা যায়।’রিভোনিয়া ট্রায়াল’ নামের বিচারের কাঠগড়ায় দাঁড়িয়ে নেলসন ম্যান্ডেলার ১৭৬ মিনিটের ভাষণে উচ্চারিত ‘আমি মরতে প্রস্তুত’ আজ বিশ্ব ইতিহাসের অবিচ্ছেদ্য অংশ।আমেরিকার প্রেসিডেন্ট ডোনাল্ড ট্রাম্পও অনবরত পাগলাটে আচরণ করেছেন এবং উদ্ভট উদ্ভট কথা বলে তিনি হিলারি ক্লিনটনের মতো ঝানু রাজনীতিবিদকে পরাজিত করেছেন।ঔপনিবেশিক আমলে ব্রিটিশরা উগান্ডাবাসীর উপর যে অপমানজনক ব্যবহার করেছিল তার প্রতিশোধ নিতে গিয়ে প্রেসিডেন্ট ইদি আমিন ব্রিটিশ প্রধানমন্ত্রীকে তার জন্য জুতা সরবরাহের অনুরোধ করেছিলেন, পালকিতে চড়ে তিনি শ্বেতাঙ্গদের পালকির বাহক বানিয়েছিলেন।সবাই বঙ্গবন্ধু আর নেলসন ম্যাণ্ডেলার মতো সহজাত রাজনৈতিক ব্যক্তিত্ব নন।ভাল বক্তা না হলে দলের কেউ হবে না এমন বক্তব্যও কৌশলী বক্তার পরিচায়ক নয়।ড. হাসান মাহমুদ এবং আবদুর রহমানকে মনে রাখতে হবে, কেন্দ্রীয়  কমিটি বহির্ভূত সমর্থকেরাই কথা বলে আওয়ামী লীগ টিকিয়ে রেখেছে।তাদের আরও মনে রাখা দরকার, পররাষ্ট্রমন্ত্রী আওয়ামী লীগের কেউ না হলেও সরকারের অবিচ্ছেদ্য  অংশ, তাকে কথা বলতেই হবে।তবে এটাও ড. মোমেনকে মনে রাখতে হবে যে,  দ্বিপাক্ষিক গোপনীয় কথা তৃতীয় ব্যক্তির কানে তোলা দক্ষ কূটনীতির পরিচায়ক নয়।ক্ষমতাবান দেশগুলো কূটনৈতিক ভাষায় গোপনে ধমক দেয়, হুমকি দেয়, শর্ত আরোপ করে- এইগুলো কখনো আলোর মুখ দেখে না, হজম করতে হয়।তাই নেতাদের সর্বদা প্রশিক্ষণের মধ্যে থাকা উচিত।আওয়ামী লীগের যারা নিজেদের কেন্দ্রীয় নেতা মনে করেন তাদের কথাবার্তাও যুৎসই এবং মনোগ্রাহী হওয়া অপরিহার্য।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘সহজাত রাজনৈতিক নেতার অভাব’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘রাজনৈতিক নেতা’ surfaced unrelated posts dated ২০২১, ২০১৪, ২০১৯, and ২০২৫, not this ২৭ August ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1276,7 +1277,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-09-01",
     publishedDateLabel: "১ সেপ্টেম্বর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/88588",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1291,7 +1292,7 @@ export const folderArticles: ArchiveArticle[] = [
       "কম মজুরিতে কাজ করে আমাদের দেশের শ্রমিকেরা কতগুলো ব্যবসা টিকিয়ে রেখেছে, কিন্তু তাদের জীবন খুব কষ্টের।দেশের উন্নতি হলেও বদলাচ্ছে না শ্রমিকদের জীবন।একজন চা শ্রমিক ৮ ঘন্টা কাজ করে যে মজুরি পায় উন্নত দেশে এক ঘন্টা কাজ করে তার চেয়ে অনেক বেশী মজুরি পায়।যে কোনো কাজে  ঘন্টায় সর্বনিম্ন নির্ধারিত মজুরি অস্ট্রেলিয়াতে ১৩৫০ টাকা, কানাডায় ১১৫০ টাকা এবং আমেরিকায় ৭০০ টাকা।তবে উন্নত দেশের সাথে তুলনা কোন বিবেচনায়ই যথার্থ নয়, তবুও একজন চা-শ্রমিকের দৈনিক মজুরী শুধু ১৭০ টাকা হবে কেন? মাত্র ২ কেজি চালের পয়সা।এই টাকা দিয়ে শুধু চাল নয়, কিনতে হয় মাছ, মাংস, ডাল, সবজি, তেল, লবণ, সাবান, পোষাক; ব্যয় করতে হয় জটিল ও গুরুতর রোগের চিকিৎসায়, ছেলেমেয়ের লেখাপড়ায়।নির্ধারিত পরিমাণ চা পাতা তোলা না হলে ১৭০ টাকা থেকে জরিমানা কর্তন করে রাখা হবে, অবশ্য নির্ধারিত কোটার বেশী তোলা হলে মজুরী আনুপাতিক হারে বেশীও দেয়া হয়।এই অতিরিক্ত মজুরি পাওয়ার লোভে পাতা সংগ্রহে মা’কে শিশুরা সহায়তা করে থাকে।বাড়তি টাকা আয় করেও পাঁচ সদস্যের একটি সংসার চালানো দুর্বিষহ হয়ে দাঁড়িয়েছে।দেশে মুদ্রাস্ফীতি মূল্যস্ফীতি সবই হচ্ছে, পাল্লা দিয়ে বাড়ছে দ্রব্যমূল্য, অথচ তাদের মজুরী এতদিন ধরে বেড়েছে ১০ টাকা বা ১৫ টাকা করে। ",
       "১৯৪৭ সনে ভারতবর্ষ ভাগের পর বাংলাদেশের  চা বাগানের অনেক হিন্দু মালিক দেশ ত্যাগ করেন এবং ১৯৪৭-৭১ কালপর্বে এই শূণ্যস্থান দখল করে পশ্চিম পাকিস্তানের কিছু পুঁজিপতি এবং উত্তর ভারত থেকে পাকিস্তানে আগত উর্দুভাষী মুসলিম ধনিক শ্রেণি।১৯৬৬ সনের পরিসংখ্যানে অনুযায়ী ১১৪টি চা বাগানের মধ্যে ৫৬টির মালিক ছিল পশ্চিম পাকিস্তানি, ৪৭টির মালিক ইউরোপীয় এবং মাত্র ১১টির মালিক বাঙালি উদ্যোক্তা।১৯৭০ সনে ১৬২টি চা বাগানের মধ্যে ৭৪টিরই মালিক ছিল পশ্চিম পাকিস্তানি উদ্যোক্তা।দেশ স্বাধীন হওয়ার পর চা শিল্পে ব্রিটিশ কোম্পানিগুলির আধিপত্য ছিল।এখনো এই শিল্পে বেসরকারি কোম্পানিগুলোর আধিপত্য রয়েছে।তাই সরকার ইচ্ছে করলেই মজুরি বাড়াতে পারে না।তবে শ্রমিকের মজুরি বাড়ানো হলে মালিক পক্ষ দেউলিয়া হয়ে যাবে এমন আশঙ্কা করার কোন কারণ আছে বলে মনে হয় না।আমাদের দেশের মালিক পক্ষ সব সময় সকল দুর্যোগের দায়ভার শ্রমিকদের উপর চাপিয়ে দেয়।বিশ্ব বাজারে প্রতিযোগিতা করে চা বিক্রির মার্কেট পাওয়ার সব দায় শ্রমিকেরা কেন নেবে? শ্রমিকেরা যখন দেখে চা বাগানের মালিকেরা টাকার পাহাড় গড়ে তুলছেন, ইদের বাজার করতে সিঙ্গাপুর যাচ্ছেন, স্বাস্থ্য পরীক্ষা করতে ব্যাংকক যাচ্ছেন, আর বিদেশে অর্থ পাচার করে সন্তানদের বিলাসি জীবন নিশ্চিত করছেন তখন শ্রমিকদের না খেয়ে মরাটা জাস্টিফাই করা সম্ভব হয় না।অনাহারে-অর্ধাহারে, অসুখে-বিসুখে এক বীভৎস জীবনের সম্মুখীন তারা।শ্রমিক না বাঁচলে চা বাগান দেউলিয়া হওয়া, না হওয়া দুটোই সমানভাবে তাদের কাছে অর্থহীন।১৯৭১ সনের মুক্তিযুদ্ধে চা শ্রমিকরাও তাদের তীর-ধনুক নিয়ে যুদ্ধ করেছে, জীবন দিয়েছে, কিন্তু তাদের কেউ আজ পর্যন্ত এক খণ্ড জমির মালিক হতে পারেনি।প্রান্তিক এই জনগোষ্ঠীর আর্থিক সচ্ছলতা ছাড়াও দরকার একটু সহানুভূতি, ভালোবাসা আর মানুষ হিসেবে মাথা তুলে দাঁড়ানোর অধিকার।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘চা শ্রমিকদের জীবনমান’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘চা শ্রমিক’ surfaced unrelated posts dated ২০২৫ and an unrelated public post by another account, not this ১ September ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1318,7 +1319,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ধর্ষণব্যাধি সমাজের সর্বত্রই ক্যানসারের মতো বিরাজমান।কিন্তু বিলকিস বানুর ধর্ষণ ব্যাধিগ্রস্ত পুরুষ দ্বারা হয়নি, এই ধর্ষণ হয়েছে ভিন্ন ধর্মাবলম্বীদের টার্গেট করে।ধর্ষক  রাজনৈতিক মঞ্চকে নিজেদের স্বার্থে ব্যবহার করতে সমর্থ হয়েছে।গণতন্ত্রের নামে রাজনৈতিক দলতন্ত্রের এই যে ব্যাভিচার তা হিন্দুত্ববাদী ধর্ষকদের দুঃসাহসী করে তুলছে। স্বাধীনতার প্রায় ৩০ বছর পর ১৯৭৬ সনে ভারত সেক্যুলার রাষ্ট্র হয়েছে।কিন্তু ভারতের সব মানুষ সেক্যুলার নয়।নির্বাচন এলে বাম ডান সব নেতা মন্দিরে পড়ে থাকেন।কারণ সংখ্যাগরিষ্ঠ হিন্দু-ভোট হারানোর ভয়।সব দল বুঝতে পেরেছে ‘সেক্যুলার’ শব্দটি ভারতের সংবিধানে থাকলেও মাঠপর্যায়ের রাজনীতিতে এর কোন মূল্য নেই।সমাজ দ্রুত পাল্টাচ্ছে।ভারতে ধর্ম ও রাজনীতি মিলেমিশে একাকার।অন্ধকার ভারত হিন্দুত্ববাদী ধর্মান্ধদের হাতে তুলে দেওয়ার নির্বাচনী কর্মকাণ্ড মানবতাকে ভূলুণ্ঠিত করবে।এই পরিস্থিতিতে বিলকিস বানুদের সুরক্ষার বিষয়ে নিশ্চিত নিরাপত্তা সুনিশ্চিত করার আর কেউ নেই।বৃহত্তর সংসদীয় গণতন্ত্র নিয়ে ভারতের যে গর্ব তা আর থাকল না।",
       "তবুও বিশ্বাস হারাতে নেই, সমাজের সর্বত্র পচন ধরলেও কিছু মানুষ এখনও সুনীতির পক্ষে সংগ্রাম করতে চান, প্রয়োজন শুধু সংঘবদ্ধ হয়ে উঠার।বিলকিস বানুর ধর্ষকদের মুক্তির সিদ্ধান্তকে চ্যালেঞ্জ জানিয়ে সুপ্রিম কোর্টের দ্বারস্থ হয়েছেন সিপিআইএম-এর পলিটব্যুরো সদস্য সুভাষিণী আলী, তৃণমূল কংগ্রেস সাংসদ মহুয়া মৈত্র, অধ্যাপিকা রূপরেখা ভার্মা, সাংবাদিক রেবতী লাউলসহ ছয় হাজার মানুষ।এভাবে মুক্তচিন্তক অসাম্প্রদায়িক সকল সুনাগরিককে সংঘবদ্ধ হয়ে গড়ে তুলতে হবে প্রতিরোধ।সাম্প্রদায়িকতা এবং ধর্ষণ মুক্ত সমাজ গড়া না হলে সামাজিক সুস্থ্যতা প্রত্যাশা করা যায় না।চেনাজানা পৃথিবীটাকে অসুস্থ্য হতে দেওয়া যাবে না।মনে রাখতে হবে, ধর্ষকদের মুক্তি শুধু বিলকিস বানুর প্রতি উপহাস নয়, সব ধর্ষিতার প্রতিও উপহাস।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বিলকিস বানুঃ অসহায় নারীর আর্তনাদ’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘বিলকিস বানু’ also returned no result. No article-body, publication metadata, or original URL was inferred; this ৩ September ২০২২ record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1345,7 +1346,7 @@ export const folderArticles: ArchiveArticle[] = [
       "পৃথিবীর প্রতিটি দেশে যৌন নির্যাতন রয়েছে। সম্পূর্ণ ধর্ষণমুক্ত সমাজ কখনই ছিল না, এখনো নেই।কিন্তু ধর্ষণের ঘটনা প্রকাশ করে আজ পর্যন্ত আমাদের দেশে কোন নারী পরিবার ও সমাজে সন্মানিত হয়নি।ধর্ষিতা মেয়েরা মা’র কাছে অবহেলিত, বাবার কাছে অনাদৃত, ভাই-বোনদের কাছে অস্পৃশ্য, সমাজের কাছে অপাঙ্তেয়- কোন অনুষ্ঠানে তাদের সঙ্গী করা হয় না, কেউ বেড়াতে এলে তাকে লুকিয়ে রাখা হয়।সমাজ তো নারীর মধ্যে শুধু অপরাধই খুঁজে বেড়ায়।নারীর উপর ঝাপিয়ে পড়ার জন্য সমাজ পুরুষদের দায়ী করতে নারাজ।একাত্তরে পাকিস্তানিরা নির্বিচারে বাঙ্গালী মহিলাদের ধর্ষণ করেছে; অতি সম্প্রতি রোহিঙ্গা মহিলাদের ধর্ষণ করেছে মিয়ানমারের বৌদ্ধ সেনারা, ভিয়েতনামী মহিলাদের ধর্ষণ করেছে আমেরিকান সেনাবাহিনী, কুয়েত দখল করে সেখানকার মেয়েদের ধর্ষণ করেছে ইরাকি সেনা, কোরিয়ার মেয়েদের ধর্ষণ করেছে জাপানি সেনা।পৃথিবীর যেখানেই যুদ্ধ হয়েছে সেখানেই যুদ্ধরত সেনারা টার্গেট করেছে মেয়ে জাতিকে।",
       "ধর্মপ্রবণ রক্ষণশীল দেশগুলোতে ধর্ষণের শিকার একজন নারীর পক্ষে ধর্ষণের বিচার চাওয়া, পুলিশের কাছে রিপোর্ট করা কিংবা আদালতের শরণাপন্ন হওয়া একটি বিশাল ঝুঁকির কাজ। অধিকাংশ সময়ে ধর্ষিতাকেই নানাভাবে অপমান অপদস্থ করা হয়।শুধু  সামাজিকভাবে নয়, পারিবারিকভাবেও ধর্ষিতাকে হেয় করা হয়।ধর্ষণের প্রমাণ দিতে দিতে অতিষ্ঠ হয়ে তাকে জীবনও দিতে হয়।শরিয়া আইন অনুযায়ী চারজন পুরুষ সাক্ষী যোগাড় করা সম্ভব হয় না বিধায় ধর্ষিতা নারী চুপ করে থাকে এবং এই কারণেই মুসলিম দেশগুলোতে ধর্ষণের অফিসিয়াল রিপোর্টের সংখ্যা কম।ধর্ষণ কমবে সেদিন যেদিন পরিবার, সমাজ এবং রাষ্ট্রের নিকট কোন নারী ধর্ষিতা বলে নিগৃহীত হবে না।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘মৃত্যুদন্ডের বিধানে কি ধর্ষণ কমেছে’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘ধর্ষণ কমেছে’ surfaced an unrelated ২৯ July ২০১৮ post, not this ১০ September ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1356,7 +1357,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-09-17",
     publishedDateLabel: "১৭ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ সেপ্টেম্বর ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/1977/ভারতের-সঙ্গে-সম্পর্ক-কেন-জরুরি",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1372,7 +1373,7 @@ export const folderArticles: ArchiveArticle[] = [
       "জিয়াউর রহমান, হোসেন মোহাম্মদ এরশাদ এবং খালেদা জিয়াও রাষ্ট্রীয় সফরে ভারত গিয়েছেন, তারা ভারত থেকে উল্লেখ করার মতো কী কী বেনিফিট এনেছেন তার কোন তালিকা নেই।বিএনপি’র একটি কমন অভিযোগ হচ্ছে, আওয়ামী লীগ ভারতের কাছে বাংলাদেশের স্বার্বভৌমত্ব বিক্রি করে দিয়েছে।অর্থনৈতিকভাবে দুর্বল দেশগুলোর স্বার্বভৌমত্ব আদৌ আছে কিনা তা গবেষণার বিষয়।দেশ বেচার অভিযোগ শেরে বাংলাকেও মুসলিম লীগ দিত।শেরে বাংলা জবাবে একবার বলেছিলেন, মুসলিম লীগ দেশের যে খারাপ অবস্থা করেছে, বিক্রি করতে চাইলেও কেউ কিনবে না।ট্রানজিট ইস্যু বরাবরই বিএনপি’র কাছে রাজনীতিকরণের শিকার হয়েছে, দেশের স্বার্থ বিকিয়ে দেয়ার অভিযোগ দিয়েছে।এবার ভারত বাংলাদেশকে ট্রানজিট সুবিধা দেওয়ার প্রস্তাব দিয়েছে, এতে কি ভারতের স্বার্বভৌমত্বের খর্ব হবে?",
       "অভিন্ন নদীর পানিবন্টনের ইস্যুটি শুধু আওয়ামী লীগ সরকারের উপর চাপানোর কারণ স্পষ্ট নয়।বিএনপি এবং জাতীয় পার্টি ক্ষমতায় থাকাকালীন তিস্তা পানিবন্টনের কোন উদ্যোগ নিয়েছে বলে তো শোনা যায় না।শেখ হাসিনা যে চেষ্টা করে যাচ্ছেন তা তো দৃশ্যমান।এই সকল জাতীয় সঙ্কটকে নির্বাচনে জেতার ইস্যু করলে সঙ্কটের সমাধান খুঁজে পাওয়া যাবে না।১৯৭২ সনে সম্পাদিত ভারত-বাংলাদেশ মৈত্রী চুক্তি নিয়েও দেশ বিক্রির অভিযোগ উঠেছিল, কিন্তু বিএনপি’র মওদুদ আহমেদ এই চুক্তির প্রশংসাই করেছিলেন।আওয়ামী লীগকে হিন্দুরা জোটবদ্ধ হয়ে ভোট দেয়, যেমন মুসলমানেরা দলবদ্ধ হয়ে ভোট দেয় মমতা ব্যানার্জিকে।আওয়ামী লীগ ক্ষমতায় এলে উলফার মতো বিচ্ছিন্নতাবাদীদের বাংলাদেশ প্রশ্রয় দেয় না; এই কারণে ভারতের সব দলের নেতারা আওয়ামী লীগকে পছন্দ করে।সম্ভবত কিছু লোকের ভারত বিরোধিতার এটাও একটা কারণ।প্রতিবেশীর সঙ্গে বৈরিতা জিইয়ে রেখে স্বস্তি পাওয়া কঠিন।ভারত-বাংলাদেশ দুই প্রতিবেশী রাষ্ট্রের সম্পর্কের মাপকাঠি শুধু দেওয়া-নেওয়ার মধ্যে সীমাবদ্ধ থাকার কথা নয়।পারস্পরিক আস্থা, বিশ্বাস তৈরির জন্যও মাঝে মাঝে সরকার বা রাষ্ট্র প্রধানের প্রতিবেশী রাষ্ট্রে সৌজন্য ভ্রমণে যাওয়া সমীচীন।বিএনপি এটা বোঝে, তবে বোঝে শুধু ক্ষমতায় থাকলে।",
     ] }],
-    authorNote: "",
+    authorNote: "Public Facebook post dated ১৭ September ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and exposes the complete article body. Dainik Bangla publishes a same-author page at https://www.dainikbangla.com.bd/opinion/1977/ভারতের-সঙ্গে-সম্পর্ক-কেন-জরুরি with the parallel headline ‘ভারতের সঙ্গে সম্পর্ক কেন জরুরি’, dated ১৮ September ২০২২; its opening and article body match this record. The Facebook link card points to https://sangbad.net/opinion/post-editorial/76007/, but that URL currently renders unrelated content, so the Dainik Bangla page is recorded as a verified cross-publisher source while the Facebook/Sangbad date and publication metadata are retained pending direct reconciliation.",
     authorCredit: ""
   },
   {
@@ -1399,7 +1400,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আমাদের পরিবার ও সমাজ মেয়েদের চাকরিজীবী হিসেবে দেখতে অভ্যস্ত হয়ে উঠলেও খেলাকে পেশা হিসেবে দেখতে এখনো  প্রস্তুত নয়।তাই খেলাধুলায় নৈপুণ্য দেখিয়ে একটি চাকুরি পাওয়ায় আশায় নিম্ন বিত্তের মেয়েরা কোন একটি প্রতিষ্ঠানের ছত্রছায়ায় খেলতে বেশি আগ্রহী।খেলাধুলার জগতে আসার জন্য পারিবারিক, সামাজিক ও ধর্মীয় বাধা পার হয়ে ক্রীড়া জগতে প্রবেশ করার পর দিনমজুরদের মতো পারিশ্রমিক দেয়া হলে আমাদের মেয়েদের এগিয়ে যাওয়া কঠিন হয়ে দাঁড়াবে।ধর্ম ও সমাজের বিরূপ পরিবেশে যুদ্ধ করে অনেকে টিকছেন না, এর মধ্যে আর্থিক অনটন না ঘুচলে মেয়েদের খেলাধুলায় মনোনিবেশ করা সহজ হবে না।খেলাধুলায় কিন্তু উচ্চবিত্তের মেয়েরা আগ্রহ দেখাচ্ছে না; মনে হচ্ছে আর্থিক দীনতা লাঘবের প্রত্যাশায় নিম্ন ও মধ্যবিত্তের মেয়েরাই শুধু খেলাধুলায় অংশ নিচ্ছে।ফিফা নারী খেলোয়াড়দের জন্য যে টাকা দেয় তার পুরোটা মেয়ে ফুটবল খেলোয়াড়দের জন্য খরচ করা হয় কিনা তা আমাদের জানা নেই।অনটন তাদের নিত্য সঙ্গি।অন্নপূর্ণা দেবী বর দিতে চাইলে মধ্যযুগের অন্নদামঙ্গল কাব্যের মাঝি ঈশ্বরী পাটনীর চাওয়া ছিল, ‘আমার সন্তান যেন থাকে দুধে ভাতে’।আধুনিক যুগে বাংলাদেশের নারী খেলোয়াড়দের চাহিদা আরও কম।নারী খেলোয়াড়দের আর্থিক দীনতার প্রকাশ ঘটেছে ২০১৫ সনের সাফ গেমস বিজয়ী ক্ষুদে ফুটবলারদের কাছে উপন্যাসিক আনিসুল হক যখন জানতে চেয়েছিলেন, তারা কি চায়, তখন তাদের উত্তর ছিল, ‘দুপুরে ভাত খেতে চাই’।তিনি যখন আরও একটু বেশী কিছু চাইতে বললেন তখন তারা বলল, ‘দুপুরের খাবারটা বাড়িয়ে দিলে পরিবারের সবাই খেতে পারবে’।",
       "হার না মানা লাল-সবুজের প্রতিনিধিত্বকারী নারী খেলোয়াড়দের জন্য রইল আমাদের সকলের অভিবাদন।কোচ গোলাম রব্বানী ছোটনের জন্যও রইল আমাদের প্রাণঢালা শুভেচ্ছা।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘হার না মানা লাল-সবুজের মেয়েরা’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘লাল-সবুজ’ surfaced posts by other accounts, not this ২৪ September ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1410,7 +1411,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-10-01",
     publishedDateLabel: "১ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২ অক্টোবর ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/77137/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1427,7 +1428,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাংলাদেশে সংঘটিত সকল গুমকে রাজনৈতিক কালার দিয়ে গুম হওয়া সকলকে দলীয় কর্মী হিসেবে পরিচয় দিয়ে রাজনৈতিক ফায়দা লোটার চেষ্টাও হচ্ছে।কিন্তু রাজনৈতিক দলগুলোর মধ্যে অভ্যন্তরীণ কোন্দলেও গুম হতে পারে।ফেনীতে এক সময় দলীয় লোকদের গুম ও হত্যা করে লাশ গায়েব করে দেয়ার কথা শোনা যেত।২০০৩ সনে বিএনপি’র আমলে বিএনপি নেতা জামাল উদ্দিনের নিখোঁজ হওয়ার মধ্য দিয়ে শুরু হয় গুম।অপহরণের দুই বছর পর ফটিকছড়ির পাহাড়ি এলাকা থেকে উদ্ধার করা কঙ্কাল সিঙ্গাপুরে ডিএনএ পরীক্ষার পর তার পরিবার নিশ্চিত হয় যে, কঙ্কাল জামাল উদ্দিনের।ইলিয়াস আলীর গুম হওয়ার পেছনে দলীয় কোন্দলের কথা বিএনপি’র কেন্দ্রীয় নেতার মুখ থেকে বেরিয়ে এসেছে; কেন্দ্রীয় নেতা মির্জা আব্বাস স্পষ্ট করে বলেছেন, আওয়ামী লীগ ইলিয়াস আলীকে গুম করেনি, ইলিয়াস আলীকে গুম করার পেছনে ভেতরের কয়েকজন নেতা দায়ী।তিনি আরও উল্লেখ করেছেন, ‘ইলিয়াস গুম হওয়ার আগের রাতে দলীয় অফিসে কোনো এক ব্যক্তির সঙ্গে তার প্রচণ্ড বাকবিতণ্ডা হয়, ইলিয়াস খুব গালিগালাজ করেছিল তাকে’। লিয়াকত হোসেন এবং চৌধুরী আলম রাজনীতির সঙ্গে সক্রিয়ভাবে সংশ্লিষ্ট ছিলেন বটে, কিন্তু জনগণের কাছে তাদের পরিচয়টা ছিল ভিন্ন রকম।২০০১ সনে বিএনপি সরকার আওয়ামী লীগের লিয়াকত হোসেনকে শীর্ষ সন্ত্রাসী হিসাবে ঘোষণা দিয়েছিল।চৌধুরী আলম ঢাকা শহরের একটি অংশের নিয়ন্ত্রণ করতেন বলে শোনা যায়, তার নিয়ন্ত্রিত অংশে যত রকমের অবৈধ চাঁদা তোলা হতো সব তার নামেই হতো।আমিনুল ইসলামের মৃত্যুর পর তার ভাই রফিকুল ইসলাম মোস্তাফিজুর রহমান ও বোরকা পরা অজ্ঞাতনামা এক নারীকে আসামি করে ঘাটাইল থানায় এজাহার দিয়েছিলেন।জাতিসংঘ বাংলাদেশের ৭৬ জন ঘুম হওয়ার যে তালিকা তৈরি করেছে তাদের মধ্যে অনেকে নাকি দিব্যি ঘুরে বেড়াচ্ছেন, তালিকার ২ জন আবার ভারতের বিচ্ছিন্নতাবাদী দলের নেতা।",
       "স্বস্তির বিষয় হচ্ছে, গুমের শিকার হওয়া ব্যক্তির সংখ্যা ক্রমশ কমে আসছে৷ এই ইস্যু নিয়ে রাজনৈতিক সুবিধা আদায় করার চেষ্টা না করে এর থেকে উত্তরণের জন্য সবাইকে ঐক্যবদ্ধভাবে সচেতন ও সক্রিয় হতে হবে।সরকারের সংশ্লিষ্টতা না থাকলেও সকল নিখোঁজ এবং গুমের জন্য সরকার দায়ী।সরকারের দায়িত্ব তার নাগরিকদের জীবন-মালের নিরাপত্তা বিধান করা।গুম হলে সরকারের দায়িত্ব গুমের সাথে সংশ্লিষ্ট অপরাধীদের খুঁজে বের করা।খুঁজে বের করতে না পারার অর্থই হচ্ছে, সরকার শান্তি-শৃঙ্খলা বজায় রাখতে অক্ষম, জনগণের নিরাপত্তা বিধানে ব্যর্থ।কোন গুম বা হত্যার পর আইনশৃঙ্খলা বাহিনী যখন নিশ্চুপ থাকে, জিডি নথিভুক্ত করতে গড়িমসি করে, ঘটনার উন্মোচনে নিষ্কৃয় থাকে, তখন গুমকে প্রশ্রয় দেওয়ার অভিসন্ধি জনগণের কাছে দৃশ্যমান হয়ে উঠে।নিজের কেউ বাসার বাইরে থাকা অবস্থায় দুই তিনবার কল না ধরলে আমরা সবাই অস্থির হয়ে যাই; সেখানে একজন নিখোঁজ হলে পরিবারের অন্যান্য সদস্যদের কী কষ্টদায়ক অবস্থা তা রাষ্ট্রকে বুঝতে হবে।গুমের অভিযোগ থেকে সরকার এবং আইন শৃঙ্খলা বাহিনী মুক্ত থাকতে চাইলে প্রতিটি গুমের ক্ষেত্রে তাদের গৃহীত কার্যক্রম জনগণের কাছে পরিস্কার করা সমীচীন ও বান্ছনীয়।",
     ] }],
-    authorNote: "",
+    authorNote: "Sangbad’s publisher page confirms the matching title, author, and ১ October ২০২২ date. Direct Facebook evidence was not available in the current search session, so the Facebook-to-publisher link remains unconfirmed.",
     authorCredit: ""
   },
   {
@@ -1438,7 +1439,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-10-06",
     publishedDateLabel: "৬ অক্টোবর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/91729",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1453,7 +1454,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ইন্টারেস্টিং বিষয় হচ্ছে, সবচেয়ে ভাল মুসলমানও সাধারণত শরিয়া অধ্যুষিত দেশে পরিবার নিয়ে বেড়াতে যায় না, যেতে চায় নাস্তিক অধ্যুষিত দেশগুলোতে।কারণ দেশগুলো নিরাপদ, দেশগুলোতে বিদেশি বা ভিন্ন ধর্মাবলমীদের প্রতি ঘৃণা বা আক্রোশ  দৃশ্যমান নয়।তবে ইদানীং ইউরোপে, আমেরিকা, নিউজিল্যাণ্ড প্রভৃতি দেশে উগ্রবাদের আবির্ভাব হচ্ছে, মুসলমানদের রাস্তাঘাটে হেনস্তা করা হচ্ছে।লক্ষ্যণীয় বিষয় হচ্ছে, এই সকল দেশের উগ্রবাদীরা শুধু মুসলমানদের প্রতিপক্ষ করছে, অন্য কোন ধর্মাবলম্বীর নয়।এর কারণও রয়েছে।চুয়াত্তর বছর ধরে ফিলিস্তিনিদের উপর ইসরাইলের অযৌক্তিক নির্যাতন অনেক মুসলমানকে উগ্রবাদে দীক্ষা নিতে প্ররোচিত করেছে।এছাড়াও আফগানিস্তান, ইরাক, লিবিয়া, সিরিয়া প্রভৃতি দেশে ইউরোপ ও মার্কিন যুক্তরাষ্ট্রের অযাচিত হস্তক্ষেপে অনেক মুসলমান ক্ষুব্ধ হয়েছেন।এর চেয়েও  ইউরোপের যে কাজটি মুসলমানদের বেশী বিক্ষুব্ধ করেছে তা হল আমাদের নবীজীর আঁকা কার্টুন পত্রিকায় প্রকাশ করা।বাক স্বাধীনতার নামে তাদের এই অপকর্ম অনেক মুসলমানকে আক্রোশি করে তুলেছে।কেউ কেউ এত বেশী আক্রোশি হয়ে উঠেছেন যে, পৃথিবীর সর্বত্র তারা সুযোগ পেলেই প্রতিবাদ আর প্রতিশোধ নিচ্ছেন।কিন্তু উগ্রপন্থীদের প্রতিশোধ গ্রহণের ঘটনা বিশ্ব পরিমণ্ডলে আমাদের পাসপোর্টের গ্রহণযোগ্যতা সীমাবদ্ধ করে দিচ্ছে।বাংলাদেশী পাসপোর্টে আফগানিস্তান, পাকিস্তান ভ্রমণ করলেও অন্যদেশের ভিসা পেতে কষ্ট হয়।",
       "পৃথিবীর অনেকগুলো দেশের পাসপোর্টে ভ্রমণ করতে কোন ভিসা লাগে না।আমাদের লাগে কেন? প্রথম কথা হচ্ছে আমরা গরীব, নিজের ও পরিবারের অন্ন সংস্থানের জন্য অবৈধ পন্থায় আমাদের অন্য দেশে অনধিকার অনুপ্রবেশ হচ্ছে।আমরা বেড়াতে গিয়ে আর ফেরত আসি না, ওমরাহ হজ্বে গিয়ে কাজের অনুসন্ধান করি।আমরা যারা ভিন দেশের নাগরিকত্ব গ্রহণ করি তাদের নাগরিকত্ব গ্রহণের পূর্বে শপথ নিয়ে সংশ্লিষ্ট দেশের সংস্কৃতি মেনে চলার ওয়াদা করতে হয়; কিন্তু নাগরিকত্ব পাওয়ার পর শপথের কথা আর মনে থাকে না।তাই তো ফ্রান্স এবং লণ্ডনের উগ্রপন্থী মুসলমান নাগরিকেরা প্যারিস এবং লন্ডনে স্বচ্ছন্দে হামলা করতে পারে। উগ্রপন্থীদের হিংসাত্মক আচরণে অন্যান্য ধর্মাবলম্বীর মধ্যে তৈরি হয়েছে ইসলাম ফোবিয়া বা ইসলাম ভীতি।তাই গুরুত্বপূর্ণ ব্যক্তিদের বিদেশ ভ্রমণ নির্বিঘ্ন ও সহজ করতে বাংলাদেশ সরকার সবুজ পাসপোর্টের পাশাপাশি আরও দুই ধরনের পাসপোর্ট ইস্যু করে থাকে।লাল পাসপোর্টে সচরাচর ভিসা লাগে না, সরকারি পাসপোর্টেও ভিসা ছাড়া অনেক দেশ ভ্রমণ করা যায়।একই দেশে তিন ধরনের পাসপোর্ট- এটাও আমাদের অবস্থান চিহ্নিত করে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বাংলাদেশের সবুজ পাসপোর্ট’ did not expose a matching post. The shorter search ‘সবুজ পাসপোর্ট’ surfaced unrelated Bitu posts dated ২০১৭ and ২০১৯, plus another account’s ২০২১ post; none matched this ৬ October ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1483,7 +1484,7 @@ export const folderArticles: ArchiveArticle[] = [
       "নারীর পোষাক পরার স্বাধীনতা নিয়ে ১৯৭৯ এবং ২০১৪ সনেও ইরানে আন্দোলন হয়েছিল, কিন্তু পুলিশের গুলির সামনে বেশী দিন স্থায়ী হয়নি।১৯৭৯ সনে আয়াতুল্লাহ খোমেনি শুধু কর্মক্ষেত্রে হিজাব পরার নির্দেশ দিয়েছিলেন।এই নির্দেশর প্রতিবাদে পরদিন নারী দিবসে ইরানের রাজধানী তেহরানের রাস্তায় প্রায় লক্ষাধিক নারী জড় হয়েছিলেন, কিন্তু বেশী দূর এগুতে পারেনি।বর্তমান হিজাব বিরোধী আন্দোলনও বেশীদিন স্থায়ী হবে না, কারণ ইরান আন্তর্জাতিক বাদ-প্রতিবাদের তোয়াক্কা করে না, খুব দ্রুত আন্দোলন স্তব্ধ করে দেয়া হবে।তবে যে হিজাব নিয়ে মেয়েদের গুলি করে মেরে ফেলা হচ্ছে সেই হিজাবের কথা আমাদের পবিত্র কোরআনের কোথাও নেই; তবে পর্দা যদি হিজাবের প্রতিশব্দ হিসেবে বিবেচনা করা হয় তাহলে পর্দা নিয়ে পবিত্র কোরআনে আল্লাহ তাআলা বলেন, ‘হে নবী, আপনি আপনার স্ত্রী, কন্যা ও মু’মিন নারীদেরকে বলুন, তারা যেন তাদের জিলবাবের একাংশ নিজেদের উপর টেনে দেয়…..’ সূরা আহযাব: ৫৯।অধিকাংশ আলেম ‘জিলবার’-এর অর্থ ‘চাদর’ বলে উল্লেখ করেছেন।এখনে শুধু চাদরের একাংশ টেনে দেওয়ার কথা বলা হয়েছে।সূরা নূর : ৩১-এর সংশ্লিষ্ট অংশে বলা হয়েছে, ‘তারা যেন গ্রীবা ও বক্ষদেশ মাথার কাপড় দ্বারা আবৃত করে’।",
       "ব্যভিচারের শাস্তির মতো পর্দা না মানার শাস্তির কথা ধর্মের কোথাও পাইনি।তাই ইরান সরকার বিভিন্ন সময়ে বিভিন্ন শাস্তির বিধান জারী করেছে।কিন্তু রোজা না রাখা বা নামাজ না পড়া অথবা যাকাত না দেওয়ার জন্য ইরানে কোন পুরুষকে শাস্তি প্রদান করা হয়েছে বলে শোনা যায়নি।এই সব পালন না করলে পরকালে প্রদেয় ভয়াবহ শাস্তির কথা আল্লাহ বলেছেন; এগুলোতে আল্লাহ হেদায়েত দান করে থাকেন।তাই মানুষের তৈরি আইনের শাস্তির ভয়ে পর্দা করলে ধর্মের মাহাত্ম সমুন্নত থাকে না; তাই জোর করে হিজাব পরানোর নীতি থেকে আমাদের সরে আসা উচিত।জোর করে ধর্ম মানানোর তোড়জোড় থাকায় ইসলাম ধর্মকে নিয়ে শুধু পাশ্চাত্যে নয়, সারা দুনিয়ায় ‘ফোবিয়া’ তৈরি হচ্ছে, যা মুসলমানদের জন্য মঙ্গলজনক নয়।আল্লাহ হেদায়েত করলে নিজের ইচ্ছে থেকে পরবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘ইরানে হিজাব বিরোধী আন্দোলন’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘ইরানে হিজাব’ surfaced an unrelated ১৯ February ২০২২ post titled ‘হিজাব নিয়ে বিতর্ক’, not this ৮ October ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1494,7 +1495,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-10-12",
     publishedDateLabel: "১২ অক্টোবর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/3124/16655456831114",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1509,7 +1510,7 @@ export const folderArticles: ArchiveArticle[] = [
       "সরকারি দলের ছাত্ররা সব শিক্ষা প্রতিষ্ঠানের সব আবাসিক হলের দখলদারিত্ব সূত্রে মালিকানা সত্ত্ব পেয়ে যায়।বিএনপি যখন ক্ষমতায় তখন ছাত্রলীগ ঢাকা বিশ্ববিদ্যালয়ের আবাসিক হলগুলোতে ঢুকতে পারেনি, এখন ছাত্রদল ঢুকতে পারছে না।কী অপূর্ব সমঝোতা।এক সময় বিএনপি’র ছাত্রদল এত অপ্রতিরোধ্য হয়ে উঠেছিল যে, খালেদা জিয়া হুমকি দিয়ে বলেছিলেন, আওয়ামী লীগকে শায়েস্তা করতে বিএনপি’র প্রয়োজন নেই, ছাত্রদলই যথেষ্ট।জাতীয় পার্টির অঙ্গসংঠন জাতীয় ছাত্র সমাজের দৌরাত্ব এত বেড়ে গিয়েছিল যে, এরশাদ সাহেব নিয়ন্ত্রণ করতে না পেরে জাতীয় ছাত্র সমাজ অবলুপ্ত করে দেন।প্রধানমন্ত্রী ও আওয়ামী লীগ সভানেত্রী শেখ হাসিনাও ছাত্রলীগের সাংগঠনিক প্রধানের পদ থেকে পদত্যাগ করেছেন।কিন্তু তাতে ছাত্রলীগের ভাবমূর্তির পুনরুদ্ধার হয়নি, কারণ বল্গাহীন ছাত্র রাজনীতির লাগাম টেনে ধরার কেউ নেই।সব সরকারের আমলে ঢাকা বিশ্ববিদ্যালয়ে ২৪ ঘন্টা পুলিশ পাহারা কেন থাকে এই প্রশ্নের উত্তর সবার জানা।",
       "সংবাদমাধ্যমকে দেওয়া ইডেন কলেজের নেত্রী  সামিয়া আক্তার বৈশাখীর বক্তব্যের ভিডিও ক্লিপ দেখেছি।তিনি যা বলেছেন তা সত্য হলে রাজনীতির এমন অশ্লীলতা অগ্রহণযোগ্য।ছাত্র নেত্রী বৈশাখীর কথা অনুযায়ী, কেন্দ্রিয় ছাত্র নেতাদের সাথে ইডেন কলেজের মেয়েদের যৌন সম্পর্ক হয়ে আসছে যুগ যুগ ধরে।তার কথায় মনে হয়, এতদিন ধরে যত সুন্দরী ইডেন কলেজে পড়েছে তাদের সবাই ছাত্র নেতাদের যৌনকর্মের শিকার।ইডেন কলেজের সাবেক ছাত্রী শাকেরা আরজু ফেসবুকে যা লিখেছে তা আরও বেশী অশ্লীল ও কুরুচিপূর্ণ; মনে হয় তার দেওয়া পোস্টের ভাষা দুশ্চরিত্রের খপ্পরে পড়েছে।তার অশ্লীল ভাষার মধ্যে কিছুটা রুচিশীল বক্তব্য হচ্ছে, ইডেনের অনেক মেয়ের কুমারীত্ব নেই, ডিএনএ টেস্টে অনেকের রক্তে  জীবানু পাওয়া যাবে।ইডেন কলেজের আরও কয়েকটি মেয়ে সামাজিক যোগাযোগ মাধ্যমে এসে অনেকের সতীত্ব হারানোর কাহিনী বর্ণনা করলেও নিজেদের কুমারীত্ব রক্ষার গল্প শোনাতে কসুর করেনি।সামাজিক যোগাযোগ মাধ্যমে আসা এই মেয়েরা যদি সতীত্ব রক্ষা করতে সমর্থ হয়, অন্য মেয়েরা পারল না কেন? সামাজিক যোগাযোগ মাধ্যমে আসা মেয়েদের অনেকের বক্তব্য উদ্দেশ্য প্রণোদিত।কোনো ছাত্রীকে জোর করে দেহ ব্যবসা করানো প্রায় অসম্ভব।প্রকৃতপক্ষে ইডেন কলেজের মেয়েদের নিয়ে রাজনীতি হচ্ছে, রাজনীতি হচ্ছে বলেই ইডেন কলেজের মেয়েদের উল্লেখ করে কাল্পনিক চরিত্র ও বর্ণনায় ঠাঁসা অনেকগুলো ভিডিও ক্লিপ।এই সকল ভিডিও তৈরি ও প্রচারে কিছু লোকের দারুণ উৎসাহ।আমাদের মেয়েরা ইডেন কলেজে পড়ে; তাই ইডেন কলেজের মেয়েদের নিয়ে যেভাবে ঢালাও মন্তব্য করা হচ্ছে তাতে ইডেনের মেয়েদের প্রতি সমাজে একটা অমোচনীয় অশ্রদ্ধা তৈরি হচ্ছে।সামাজিক যোগাযোগ মাধ্যমকে অপব্যবহার করে আওয়ামী লীগ বিরোধী কিছু লোক এমন ধারণা দেওয়ার চেষ্টা করছে যে, ইডেনে পড়াশোনা করা ছাত্রী মানেই দুশ্চরিত্রা! এটা শুধু শিক্ষার্থীদের জন্য নয়, অভিভাবক হিসেবে আমাদের জন্যও লজ্জা এবং অসন্মানের।রাজনৈতিক অভিসন্ধি নিয়ে যারা এই কাজগুলো করছেন তাদের শুভ বুদ্ধি জাগ্রত হোক, ইডেন কলেজের মেয়েদের বিরুদ্ধে নৈতিকতা স্খলনের রাজনৈতিক প্রপাগাণ্ডা বন্ধ হোক।",
     ] }],
-    authorNote: "",
+    authorNote: "Dainik Bangla’s article page has the exact title ‘ইডেন কলেজ প্রসঙ্গে ছাত্ররাজনীতি’, credits জিয়াউদ্দীন আহমেদ, and is dated ১২ October ২০২২. Its complete body matches this archive record after spelling, punctuation, spacing, and paragraph-boundary differences. The verified original publication URL is recorded above.",
     authorCredit: ""
   },
   {
@@ -1536,7 +1537,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ইউক্রেনের চারটি প্রদেশকে রাশিয়ার অন্তর্ভুক্ত করায় আমেরিকা এবং ইউরোপ রাশিয়ার উপর আরও কড়া নিষেধাজ্ঞা আরোপ করার ঘোষণা দিয়েছে।রাশিয়ার উপর যত বেশী নিষেধাজ্ঞা হবে, বিশ্ব বাজার তত বেশী অস্থির হবে।ইতোমধ্যে ইউরোপে গ্যাসের দাম অনেক বেড়ে গেছে এবং অনবরত বাড়ছেই।বর্তমান দাম গত বছরের তুলনায় প্রায় ১২ গুণ বেশি। পৃথিবীর বিভিন্ন দেশে বর্তমানে প্রতি লিটার এলপিজি গ্যাস এবং ডিজেলের  গড়পড়তা দর যথাক্রমে ৭৬ টাকা ও ১৩৬ টাকা।তবে এক দেশের সাথে আরেক দেশের দরের পার্থক্য ব্যাপক।ধনী দেশের তুলনায় উৎপাদনকারী এবং গরীব দেশগুলোতে গ্যাস ও জ্বালানি তেল দর অপেক্ষাকৃত কম।আলজেরিয়া এবং অ্যাঙ্গোলায় ১ লিটার গ্যাসের দাম যথাক্রমে ৬.৪৯ টাকা ও ২৩.২৩ টাকা; অথচ একই গ্যাস    সুইডেন ও সুইজারল্যাণ্ডে যথাক্রমে ১২২.৪৯ টাকা ও ১১৮.৬২ টাকা।হংকং এবং সুইডেনে ১ লিটার ডিজেলের দাম যথাক্রমে ২৭২ টাকা ও ২৪১ টাকা; অন্যদিকে ইরান এবং ভেনিজুয়েলায় এই দর যথাক্রমে  ১. ০৮ টাকা ও ১.৬০ টাকা।পৃথিবীর অধিকাংশ দেশে জিনিসপত্রের দাম বেড়ে যাচ্ছে।তেল-গ্যাস সরবরাহে যে অস্থিরতার সৃষ্টি হয়েছে তাতে শুধু অর্থনৈতিক বাজার নয়, বিশ্বে অন্তর্ঘাতমূলক কর্মকাণ্ডও বেড়ে যেতে পারে।",
       "ইতোমধ্যে ইউরোপ রাশিয়া থেকে গ্যাস ক্রয় কমিয়ে দিয়েছে এবং ভবিষ্যতে বন্ধ করে দিতে পারে।রাশিয়া গ্যাস বিক্রি করতে না পারলে গ্যাস নষ্ট করে ফেলবে।অতি সম্প্রতি ওপেক প্লাস-এর ২৪টি দেশ নভেম্বর থেকে জ্বালানি তেলের উৎপাদন দিনে দুই লাখ ব্যারেল কমানোর সিদ্ধান্ত নিয়েছে, এতে জ্বালানির দাম আবার বাড়বে।আন্তর্জাতিক বাজারে দর ঠিক রাখতে আমেরিকাও নাকি এক সময় গমের বস্তা সাগরে ফেলে দিত।এই কুটিল খেলায় বিশ্ব বিপুল পরিমাণ সম্পদ হারাবে।রাশিয়া ইতোমধ্যে তাদের অতিরিক্ত গ্যাস পুড়িয়ে ফেলা শুরু করেছে।ফিনল্যান্ডের কাছে একটি রাশিয়ান গ্যাস প্ল্যান্ট নাকি প্রতিদিন প্রায় ১০ মিলিয়ন ডলার মূল্যের গ্যাস পোড়াচ্ছে।এইভাবে আধিপত্যকামী দেশগুলোর জ্বালানি মারণাস্ত্রে আমাদের মতো গরীব দেশগুলো ক্রমশ দেউলিয়ার পথে এগুচ্ছে।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded the public Facebook post dated ১৫ October ২০২২. It identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and its complete article body matches this archive record. No original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -1547,7 +1548,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-10-20",
     publishedDateLabel: "২০ অক্টোবর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/92950",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1564,7 +1565,7 @@ export const folderArticles: ArchiveArticle[] = [
       "নির্বাচন কমিশন কর্তৃক গঠিত তদন্ত কমিটির রিপোর্ট পাওয়া গেলে স্থানীয় প্রশাসনের দায়িত্বে অবহেলা সম্পর্কে জানা যাবে।আরও জানা যাবে, ভোটকেন্দ্রের সিসিটিভি ক্যামেরা ভেঙ্গে ফেলা এবং রাউটার বন্ধ করার সময় দায়িত্বরত প্রিসাইডিং অফিসার ও আইনশৃঙ্খলা রক্ষাকারী বাহিনীর ভূমিকা।অনিয়ম বন্ধ করতে প্রধান নির্বাচন কমিশনার কয়েকজন প্রিসাইডিং অফিসারকে নির্বাচন চলাকালীন ফোনে নির্দেশ দিয়েছিলেন, তিনি রিটার্নিং কর্মকর্তা, গাইবান্ধার জেলা প্রশাসক ও পুলিশ সুপারের সঙ্গেও কথা বলেছেন, কিন্তু তারপরও অনিয়ম থামেনি।এর দুটি ব্যাখ্যা করা যায়- এক, জনগণ নির্বাচনের অনিয়মের সাথে অভ্যস্ত হয়ে পড়েছে, অনিয়মকে নিয়ম হিসেবে গণ্য করছে; দুই, এমন অপরাধ করে কেউ কোন দিন শাস্তি ভোগ করেনি, তাই ভোট কেন্দ্রে অনিয়ম করতে তাদের আইন ভঙ্গের কোন ভয় থাকে না।এখন নির্বাচন কমিশনের কাজ হচ্ছে, ভোট পণ্ড করার পেছনে দায়ীদের চিহ্নিত করা, শাস্তির আওতায় আনা।এটা করতে না পারলে নির্বাচন বাতিলের কর্মকাণ্ড অর্থহীন হয়ে যাবে।নির্বাচন কমিশনকে মনে রাখতে হবে, ভোট বন্ধ করা তাদের মুখ্য কাজ নয়, তাদের কাজ হচ্ছে সময়মতো সুষ্ঠু ও অবাধ নির্বাচন সম্পন্ন করা।তাদের প্রস্তুতি আগেই নিতে হবে, প্রস্তুতি না নিয়ে নির্বাচনে নামলে জাতীয় সংসদ নির্বাচনে ৩০০ আসনের ভোট বাতিল করতে হবে।নির্বাচন কমিশনকে তাদের নিরপেক্ষতা প্রমাণের পাশাপাশি সত্যের উপরও থাকতে হবে, প্রয়োজনে আরও বড় এবং কঠোর সিদ্ধান্ত নিতে হবে, তাই বলে বিনা কারণে আওয়ামী বিরোধী হয়ে নিজেকে শক্তিমান প্রমাণ করার প্রয়োজন নেই।তাদের মনে রাখতে হবে, সংবিধান প্রদত্ত ক্ষমতা দৃশ্যমান করার সাথে সাথে ক্ষমতা প্রয়োগে ন্যায় এবং নিরপেক্ষতা প্রতিষ্ঠা করা জরুরী।",
       "সাবেক নির্বাহী পরিচালক, বাংলাদেশ ব্যাংক।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘উপনির্বাচন বাতিল ও কিছু প্রশ্ন’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘উপনির্বাচন’ surfaced an unrelated Bitu post dated ১৭ September ২০২৫, ‘চুয়ান্ন বছর বয়সেও কেন বাংলাদেশ শিশু রয়ে গেল?’, not this ২০ October ২০২২ record. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1591,7 +1592,7 @@ export const folderArticles: ArchiveArticle[] = [
       "করোনা উত্তর রাশিয়া-ইউক্রেন যুদ্ধ বিশ্বকে একটি মহামন্দার দিকে আস্তে আস্তে ঠেলে দিচ্ছে।ভবিষ্যতের সম্ভাব্য সঙ্কট মোকাবিলায় সরকার কৃচ্ছ্রতা সাধন করছে, বৈদেশিক মুদ্রা খরচ করে তেল-গ্যাস কিনছে না; এর ফলে জনগণ ভয়াবহ লোডশেডিং-এর কবলে পড়েছে।বিদ্যুতের অভাবে দুর্বিষহ গরমে সিদ্ধ হলেও জনগণ সরকারের আপদকালীন সিদ্ধান্ত মেনে নিয়েছে।পৃথিবীর বহু দেশকে আগামী বছর দুর্ভিক্ষ মোকাবিলা করতে হবে মর্মে প্রধানমন্ত্রী শেখ হাসিনা উল্লেখ করেছেন, তিনি দেশে কৃষি উৎপাদন বৃদ্ধির পাশাপাশি জনগণকে সঞ্চয়ী হতে উপদেশ দিয়েছেন। দেশের অর্থনীতির এমন অস্থিরতার মাঝে তাই দুই জন মর্যাদাবান সচিবের জন্য বিলাসবহুল বাড়ি নির্মাণের প্রস্তাব সময়োপযোগী হয়নি।",
       "সচিবদের জন্য আলাদা আলাদা বাড়ি না করে মিন্টো রোড়ের সকল ভবন ভেঙ্গে আমলাদের জন্য মানানসই ফ্ল্যাট তৈরি করা সমীচীন হবে।অসঙ্গতি শুধু আমলাদের বাসভবনের ক্ষেত্রে নয়, কয়েকটি প্রাইভেট ব্যাংকের ব্যবস্থাপনা পরিচালকের বেতনের ক্ষেত্রেও লক্ষ করা যায়।কোন কোন ব্যবস্থাপনা পরিচালকের বেতন লক্ষ লক্ষ টাকা, দেশের অর্থনৈতিক প্রেক্ষিত বিবেচনায় এমন বেতন গরীবদের অসহায়ত্ব বাড়িয়ে দেয়।দেশ যেভাবে ক্রমান্বয়ে তহবিল সংকটের দিকে এগুচ্ছে তাতে হয়ত অনেক জনগুরুত্বপূর্ণ প্রকল্প ব্যয়ও কাটছাঁট করতে হতে পারে।দেশের হাজার হাজার মানুষ এখনো ফুটপাতে ঘুমায়, ডাস্টবিন থেকে খাবার কুড়িয়ে খায়, অভাবের তাড়নায় দেহ বিক্রি করে।অবশ বাড়ি নির্মাণের জন্য প্রাক্কলিত ৪৩ কোটি টাকা দিয়ে এই সকল সমস্যার সমাধান করা যাবে না, এই সকল সঙ্কট মোকাবিলায় প্রয়োজন হাজার হাজার কোটি টাকা।তবুও গণপূর্ত বিভাগের  বোকামির জন্য সরকার সম্পর্কে ভুল বার্তা পরিবেশিত হল, সরকারের ইমেজ ক্ষুণ্ন হল।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded the public Facebook post dated ২২ October ২০২২. It identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and its complete article body matches this archive record. No original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -1602,7 +1603,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-10-26",
     publishedDateLabel: "২৬ অক্টোবর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/3931/1666755926",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1617,7 +1618,7 @@ export const folderArticles: ArchiveArticle[] = [
       "নদীর ভাটিতে অবস্থিত কোনো রাষ্ট্রের উজানের প্রতিবেশীর সঙ্গে নদীর পানির ব্যবহার এবং প্রাপ্ত পানির অংশ নিয়ে নানাবিধ সমস্যা সৃষ্টি হওয়া অস্বাভাবিক নয়।বিশ্বের অনেক অঞ্চলেই এ সমস্যা আছে।বিভিন্ন দেশের অভিন্ন নদীর পানি বন্টন নিয়ে উদ্ভুত সমস্যার সমাধানও হচ্ছে।এটা সত্য, আন্তর্জাতিক আইন অনুযায়ী যে নদী কমপক্ষে  দুইটি দেশের উপর দিয়ে প্রবাহিত সেই নদীর  উজানে কোন দেশ কোন ধরনের বাঁধ নির্মাণ করতে পারে না।উজানের কোন দেশ নিজের প্রয়োজনে তার নদী প্রবাহকে এমনভাবে পরিবর্তন বা পরিবর্ধন করতে পারে না যাতে তার দেশের বাহিরের কোন দেশ প্রত্যক্ষ বা পরোক্ষভাবে ক্ষতিগ্রস্ত হয়।কিন্তু আইন থাকলেও আন্তর্জাতিক নদীতে পৃথিবীর অনেক দেশে উজানে বাঁধ দিয়েছে।উজানে ভারতের বাঁধ নির্মাণের বিরুদ্ধে অভিযোগ দিয়ে জাতিসংঘে ফারাক্কা ইস্যুটি উত্থাপন করা হয়েছিল, কিন্তু জাতিসংঘ ইস্যুটি ফেরত দিয়ে ভারতের সাথে আলাপ-আলোচনা করে মীমাংসা করতে পরামর্শ দিয়েছিল।আমাদের মনে রাখতে হবে, শুধু তিস্তা নয়, ৫৪টি নদী ভারত থেকে বাংলাদেশে প্রবেশ করেছে এবং সব নদীতে তিস্তার মতো পরিকল্পনা নিয়ে পানি বণ্টন চুক্তি পরিহার করা ঠিক হবে না। ভারত-বাংলাদেশ সীমান্তের ভাটিতে প্রতিটি নদীর প্রবাহে জলাধার নির্মাণ, আর নদীর দুই পাড় মজবুত ও টেকসই করে গড়ে তোলার মতো এত বিপুল সম্পদ বাংলাদেশের নেই।",
       "তিস্তা চুক্তি আওয়ামী লীগ সরকারের জন্য মর্যাদার লড়াই এবং বিরোধী দলের জন্য একটি রাজনৈতিক ইস্যু।আওয়ামী লীগ ক্ষমতায় আসার পর তিস্তার পানি বণ্টন চুক্তির কথা অহরহ উচ্চারিত হচ্ছে।২০১১ সনে ভারতের কংগ্রেস যখন ক্ষমতায় তখন তিস্তা চুক্তি হওয়ার কথা ছিল, কিন্তু পশ্চিমবঙ্গের বাধার জন্য হয়নি।ভারতের আইন অনুযায়ী যে নদী ভারতের কোন রাজ্যের উপর  দিয়ে প্রবাহিত সেই নদী নিয়ে  আন্তর্জাতিক দ্বি-পাক্ষিক চুক্তি করতে হলে সংশ্লিষ্ট রাজ্যের অনুমোদন লাগে।তাই ভারত শীঘ্র চুক্তি করবে বলে মনে হচ্ছে না।ভারতের এমন গড়িমসি স্বভাব আগেও দেখা গেছে।তাছাড়া পানি চুক্তি করেও শুকনো মওসুমে তিস্তায় চাহিদা অনুযায়ী পানি পাওয়ার কোন সম্ভাবনা নেই।এই অবস্থায় চীন সরকারকে আনুষ্ঠানিকভাবে চিঠি দিয়ে সহজশর্তে অর্থের জোগান দিতে বলেছে বাংলাদেশ সরকার।এই প্রকল্পের বাস্তবায়ন শুরু হলে তিস্তার পানি বণ্টন চুক্তি করার গুরুত্ব আর থাকবে না।তবে ভয় হচ্ছে, পরিকল্পনা বাস্তবায়নের পর তিস্তা প্রকল্প টেকসই হবে তো? কারণ বাংলাদেশে দৃষ্টিনন্দন ব্যয়বহুল কোন পরিকল্পনা বাস্তবায়নের পর সরকারের কোন বিভাগ তার আর খোঁজ-খবর রাখে না।রক্ষণাবেক্ষণে সরকারের প্রতিটি প্রতিষ্ঠান উদাসীন।ব্যতিক্রম ছাড়া কোন অফিস ভবনের সিড়ি, টয়লেট, মেঝে, জানালা, দরজা, চেয়ার, টেবিল ইত্যাদি দেখেই উপলব্ধি করা যায়, অফিসটি সরকারি, না প্রাইভেট।",
     ] }],
-    authorNote: "",
+    authorNote: "Dainik Bangla’s article page has the exact title ‘তিস্তা বাঁধ নিয়ে মহাপরিকল্পনা’, credits জিয়াউদ্দীন আহমেদ, and is dated ২৬ October ২০২২. Its complete body matches this archive record after spelling, punctuation, spacing, and paragraph-boundary differences. The verified original publication URL is recorded above.",
     authorCredit: ""
   },
   {
@@ -1643,7 +1644,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ইউরোপীয় ইউনিয়ন থেকে বেরিয়ে আসার পক্ষে-বিপক্ষে যে আন্দোলন গড়ে উঠেছিল সেই আন্দোলন থেকেই বৃটেনের রাজনীতিতে অস্থিরতা বিরাজ করছে।২০১৬ সনে অনুষ্ঠিত গণভোটের ফলাফলের ভিত্তিতে ইউরোপীয় ইউনিয়ন থেকে বৃটেনের বেরিয়ে আসার সিদ্ধান্তে প্রধানমন্ত্রী ডেভিড ক্যামেরন পদত্যাগ করেন, কারণ তিনি ছিলেন ইউরোপীয় ইউনিয়নে থাকার পক্ষে।ব্রেক্সিটের পক্ষে নেতৃত্ব দানকারী টেরেসা মে হন প্রধানমন্ত্রী।ব্রেক্সিট জটিলতায় টেরেসা মে পদত্যাগ করলে ২০১৯ সনে বরিস জনসন হন প্রধানমন্ত্রী।করোনার সময় লকডাউনের বিধিনিষেধ অমান্য করে কয়েকজন বন্ধু একত্রিত হয়ে প্রধানমন্ত্রীর বাসভবনে মদের পার্টি করায় তীব্র সমালোচনার সম্মুখীন হন বরিস জনসন, তার এই পার্টি করার কারণে ৬০ টিরও বেশি সরকারি পদ থেকে মন্ত্রী, সংসদীয় ব্যক্তিগত সচিব, বাণিজ্য দূত এবং পার্টির চেয়ারম্যান পদত্যাগ করেন।এটি ছিল ব্রিটিশ ইতিহাসে এই ধরনের পদত্যাগের বৃহত্তম সিরিজ।এই সময় ঋষি সুনাকও বরিস জনসনের ঘোর বিরোধিতা করেন।বাধ্য হয়ে বরিস জনসন ২০২২ সনের জুলাই মাসে প্রধানমন্ত্রীর পদ থেকে সরে দাঁড়ানোর ঘোষণা দেন।",
       "যে ইংরেজ জাতি প্রায় দুইশত বছর ভারতবর্ষ শাসন করল সেই ইংরেজদের এখন শাসন করবেন ভারতীয় বংশোদ্ভূত ঋষি সুনাক। ১৯৩৫ সনে সুনাকের দাদা পাঞ্জাব থেকে পরিবার নিয়ে আফ্রিকার নাইরোবিতে চলে যান; সুনাকের বাবার জন্ম কেনিয়ায় এবং মা’র জন্ম তানজানিয়ায়।সুনাকের দাদা পুরো পরিবার নিয়ে ১৯৬০ সনে বৃটেনে এসে স্থায়ীভাবে বসবাস শুরু করেন।ভারতের হিন্দুত্ববাদী লোকগুলো ঋষি সুনাকের প্রধানমন্ত্রী হওয়াকে ‘দিওয়ালির উপহার’ হিসেবে আখ্যায়িত করে তাকে ধর্মীয় লেবাসে আচ্ছাদিত করতে চাচ্ছে।তার পরিবার অবিভক্ত পাঞ্জাবের হিন্দু ধর্মাবলম্বী হলেও ঋষি সুনাকের জন্ম ব্রিটেনে।তিনি গ্র্যাজুয়েশন করেন অক্সফোর্ড বিশ্ববিদ্যালয় থেকে।ঋষি সুনাক আদি ভারতীয় হিন্দু ধর্মের অনুসারী হলেও তার প্রধানমন্ত্রী হওয়ার সঙ্গে ধর্ম, বর্ণ বা গোত্রের কোনো সম্পর্ক নেই।ঋষি সুনাকের প্রধানমন্ত্রী হওয়ার মধ্য দিয়ে প্রমাণিত হলো ব্রিটিশ সমাজে ধর্ম কোন মুখ্য বিষয় নয়।আরও প্রমাণিত হলো সমাজ এবং রাষ্ট্র পরিচালনার জন্য ধর্ম গুরুত্বপূর্ণ নয়।তার শিক্ষা, জ্ঞান, অভিজ্ঞতাই তাকে প্রধানমন্ত্রী হতে সহায়তা করেছে।কিন্তু বরিস জনসনের অর্থমন্ত্রী থাকাকালীন ঋষি সুনাকের কয়েকটি অর্থনৈতিক সিদ্ধান্ত নিয়ে লেবার পার্টি ও তার নিজ দলের সদস্যরা সন্তুষ্ট ছিলেন না, সিদ্ধান্তগুলো নিয়ে প্রচুর বিতর্ক হয়েছে।এখন সরকারের সম্পূর্ণ দায়িত্ব তার হাতে।তার নিজ দলের প্রাক্তন প্রধানমন্ত্রী বরিস জনসন ও তার সমর্থক গোষ্ঠী ঋষি সুনাকের প্রতিটি   সিদ্ধান্তকে বাধাগ্রস্ত করার চেষ্টা করবে; বরিস জনসন ঋষি সুনাককে সরিয়ে পুনরায় পার্টির মধ্যে নেতৃত্ব প্রতিষ্ঠা করতে চাইবেন।এমন প্রতিকূল পরিবেশে জ্বালানি তেলের সঙ্কটে লাগামহীন মূল্যস্ফীতি সামাল দেওয়ার দক্ষতা প্রদর্শনে সফল না হলে তাকেও লিজ ট্রাসের মতো নিরবে প্রধানমন্ত্রীর পদ থেকে সরে যেতে হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘কঠিন চ্যালেঞ্জ মোকাবিলা করতে হবে ঋষি সুনাককে’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘ঋষি সুনাক’ also returned no public result. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1654,7 +1655,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-11-03",
     publishedDateLabel: "৩ নভেম্বর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/94069",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1670,7 +1671,7 @@ export const folderArticles: ArchiveArticle[] = [
       "উপায়ে জিতে আসার প্রবণতা থেকেই শুরু হয় অন্যায় পদক্ষেপ।জালভোটের কথা আমরা বাল্যকাল থেকে দেখে ও শুনে আসছি, সাম্প্রতিক কালে জালভোটের প্রতি প্রার্থীর কোন আগ্রহ নেই।কারণ জালভোট দিয়ে এখন বিজয় নিশ্চিত করা যায় না।এখন ভোট ডাকাতি হয়, কেন্দ্রের সব ভোট একজন প্রার্থীর পক্ষে কাস্ট হওয়া চাই।কারচুপির মাধ্যমে জিতে আসা মানুষগুলোও জনপ্রতিনিধি, জনতার সেবক।কারচুপি করে জিতে জনগণের সেবক হওয়ার এত গরজ কেন তা বোধগম্য নয়।এই ভদ্রলোকেরা আবার আইন পাসে অংশগ্রহণ করেন, সেই আইনে অপরাধীর শাস্তি হয়।এমন জনপ্রতিনিধিরা বিভিন্ন অনুষ্ঠানে নীতি নৈতিকতা নিয়ে আলোচনা করেন, মূল্যবোধ উজ্জীবিত হতে জনগণকে উদ্বুদ্ধ করে থাকেন।বক্তা এবং দর্শক-শ্রোতা কারোই লজ্জাশরম নেই।",
       "ইভিএম-এ কারচুপি প্রমাণ করার জন্য নির্বাচন কমিশনের পক্ষ থেকে বিশেষজ্ঞ ও রাজনৈতিক দলগুলোকে আহবান করা হলেও কেউ চ্যালেঞ্জ গ্রহণ করছে না।ইভিএম-এর বিরোধী রাজনৈতিক দলের একজন সংসদ সদস্য তার আসনে পরবর্তী নির্বাচনে ইভিএম ব্যবহারের লিখিত অনুরোধ করেছেন, কারণ তিনি বুঝতে পেরেছেন, সুষ্ঠু নির্বাচন করতে হলে প্রযুক্তি ব্যবহারের কোন বিকল্প নেই।ইভিএম-এর সমস্যা ও সীমাবদ্ধতা না থাকলেও বিরোধী দলের সংশয়, অবিশ্বাস ও সন্দেহের অবসান ঘটানো জরুরী।এটাও সত্য যে, নতুন প্রক্রিয়া-পদ্ধতি প্রবর্তন করার সাথে থাকে হাজারো রকমের প্রশ্ন, জিজ্ঞাসা, ভয়, সন্দেহ আর অনিশ্চয়তা।তাই সবার সম্মতিক্রমে ইভিএম ব্যবহার করা সম্ভব হলে নির্বাচনে হানাহানি, মারামারি, সন্ত্রাস, খুন, ভোট ডাকাতি, ব্যালট বাক্স ছিনতাই ইত্যাদি নিয়ন্ত্রণে আসবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘ভাওয়াল বীর শহীদ আহসানউল্লাহ মাস্টার’ did not expose a matching public Zeauddin Ahmed Bitu post. The shorter searches ‘আহসানউল্লাহ মাস্টার’ and ‘ভাওয়াল’ did not identify the target record; ‘ভাওয়াল’ surfaced unrelated Bitu posts, including columns dated ২০২৩ and an undated shared post. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1698,7 +1699,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আহসানউল্লাহ মাস্টারের ছেলে জাহিদ আহসান রাসেল এখন গাজীপুর-২ আসনের সাংসদ এবং বর্তমান মন্ত্রীসভার সদস্য।গাজীপুরে এখনো আহসানউল্লাহ মাস্টারকে স্মরণে বিভিন্ন অনুষ্ঠানের আয়োজন করা হয়ে থাকে।আমি যখন সিকিউরিটি প্রিন্টিং কর্পোরেশন বা টাকশালের নির্বাহী প্রধান ছিলাম তখন আহসানউল্লাহ মাস্টারের নামে ফুটবল, ক্রিকেট, বেডমিন্টন প্রভৃতি টুর্নামেন্টের আয়োজন করা হতো, সেই সকল আয়োজনে দলমত নির্বিশেষে সবাই স্বতঃস্ফূর্তভাবে অংশগ্রহণ করতেন।তার নাম অনুসারে বঙ্গবন্ধু শেখ মুজিবুর রহমান কৃষি বিশ্ববিদ্যালয়ে একটি ছাত্র হল এবং ডুয়েট অডিটোরিয়ামের নামকরণ করা হয়েছে, টঙ্গিতে তার নামে একটি স্টেডিয়াম, একটি উড়াল সেতু এবং জয়দেবপুরে একটি হাসপাতাল নির্মিত হয়েছে।মুক্তিযুদ্ধে অসাধারণ অবদানের জন্য তাকে মরণোত্তর স্বাধীনতা পুরস্কার প্রদান করা হয়।আমার বাবা আবদুর রশীদ মাস্টারও ছিলেন ফেনী জেলার জিএমহাট স্কুলের প্রতিষ্ঠাতা প্রধান শিক্ষক, ১৯২৬ সনে তিনি স্কুলটি প্রতিষ্ঠা করেন।আমার বাবার মতো শিক্ষক আহসান উল্লাহর নামের সাথেও ‘মাস্টার’ শব্দটি জড়িয়ে গেছে, আমাদের জাতীয় পরিচয়পত্রসহ সব শিক্ষা সার্টিফিকেটে লেখা আছে ‘আবদুর রশীদ মাস্টার’।তদ্রূপ আহসান উল্লাহ এমপি হলেও তিনি ছিলেন শিক্ষক, ‘মাস্টার’ না বললে দেশবরেণ্য এই রাজনীতিবিদকে কেউ চিনে না।এরা কর্মজীবনে শিক্ষক হিসেবেই পরিচয় দিতে ভালোবাসতেন।",
       "টাকশালের নির্বাহী প্রধান হয়ে আমি আমার কয়েকজন সহকর্মীকে নিয়ে এই মহান শিক্ষকের বাড়ি দেখতে গিয়েছিলাম; স্কুলের সাথে লাগানো একটি সাধারণ ঘর।আহসান উল্লাহ মাস্টার ছিলেন সৎ, নির্লোভ নিরহঙ্কারী একজন নীতিবান মানুষ।তিনি সাধারণ মানুষের অধিকার আদায়ে অহর্নিশ সোচ্চার ছিলেন।টঙ্গি থেকে মাদক ও সন্ত্রাস নির্মূলে তার কঠোর অবস্থানের কারণে তাকে মৃত্যুর মুখোমুখি দাঁড় করে দিয়েছিল।বঙ্গবন্ধুর আর্দশের অকুতোভয় সৈনিক ছিলেন বলে তিনি কখনোই অন্যায়ের সঙ্গে আপোষ করেননি, মুক্তিযুদ্ধের বিরোধী শক্তির কাছে মাথা নত করেননি।আদর্শিক কারণে কারো নিকট শত্রু হিসেবে গণ্য হলেও হত্যাকাণ্ডের শিকার হবেন- এই কথাটি তিনি বিশ্বাস করতেন না।গণমানুষের নেতাদের শারীরিক মৃত্যু রলেও তারা বেঁচে থাকেন মানুষের হৃদয়ে, এখানে গুলি চলে না, এখানে সন্ত্রাসীর ব্রাশফায়ার অচল।আহসানউল্লাহ মাস্টারের জন্ম ১৯৫০ সনের ৯ নভেম্বর।আসছে জন্মদিনে গভীর শ্রদ্ধা রইল।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘ভাওয়াল বীর শহীদ আহসানউল্লাহ মাস্টার’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘আহসানউল্লাহ মাস্টার’ surfaced an unrelated post by another account and no attributable article match. No article-body, publication metadata, or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1709,7 +1710,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-11-09",
     publishedDateLabel: "৯ নভেম্বর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/4992/1667969943",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1724,7 +1725,7 @@ export const folderArticles: ArchiveArticle[] = [
       "শুধু বাংলাদেশে নয়, পৃথিবীর বিভিন্ন দেশে নির্বাহী ক্ষমতার আওতায় দণ্ড হ্রাস ও মওকুফ করা যায়।যুক্তরাষ্ট্রের সাবেক প্রেসিডেন্ট ডোনাল্ড ট্রাম্প ২৩৭ জনকে কারামুক্তির আদেশ দিয়েছিলেন।তিনি ক্ষমতা ত্যাগের এক দিন আগে ১১ জন দণ্ডিত ব্যক্তির দণ্ড মওকুফ করেন।যুক্তরাষ্ট্রে শুধু ট্রাম্পের আমলে নয়, সব প্রেসিডেন্টের আমলেই নির্বাহী ক্ষমতাবলে কমবেশি দণ্ডিত ব্যক্তিকে মুক্ত করা হয়েছে।আওয়ামী লীগ, বিএনপি, জাতীয় পার্টির ক্ষমতায় থাকাকালীন রাষ্ট্রপতি কর্তৃক সংবিধান প্রদত্ত ক্ষমতার প্রয়োগ হয়েছে।১৯৮৭ সনে রাষ্ট্রপতির মওকুফ সংক্রান্ত সাংবিধানিক ক্ষমতাটি সর্বপ্রথম প্রয়োগ করেন রাষ্ট্রপতি হুসেইন মুহম্মদ এরশাদ।আদালতের রায় নির্বাহী ক্ষমতাবলে হ্রাস বা সম্পূর্ণ পাল্টানো নিয়ে বিভিন্ন সময়ে অবশ্য নানা প্রশ্ন উত্থাপিত হয়েছে।অনেকের অভিমত হচ্ছে, নির্বাহী ক্ষমতায় শাস্তি মওকুফ করা হলে বিচার বিভাগের স্বাধীনতা ক্ষুন্ন হয়।আবার অনেকের অভিমত হচ্ছে, রাজনৈতিক কারণে শাস্তি মওকুফে নির্বাহী ক্ষমতার প্রয়োগ হলে তা ন্যায়সঙ্গত বলে বিবেচনা করা যায় না।তবে করুণা বা অনুকম্পা প্রদর্শনে ন্যায়-অন্যায় কখনো বিচার্য হয় না।রাষ্ট্র যেমন অপরাধীকে শাস্তি দিতে পারে, তেমনি ক্ষমা করার সিদ্ধান্তও নিতে পারে।সংবিধান দেশের সর্বোচ্চ আইন এবং সংবিধানের স্থান অন্য সব আইনের ঊর্ধ্বে।দুর্নীতির দায়ে সাজাপ্রাপ্ত দক্ষিণ কোরিয়ার সাবেক প্রেসিডেন্ট পার্ক জিউন হাইকে ক্ষমা করেছেন পরবর্তীকালের প্রেসিডেন্ট মুন জে ইন।খালেদা জিয়া বাংলাদেশের সাবেক প্রধানমন্ত্রী।তিনি একাধিকবার জনগণের ভোটে নির্বাচিত হয়ে প্রধানমন্ত্রী হয়েছেন।তিনি বিরোধী দলের নেত্রীও ছিলেন।দেশের অন্যতম বৃহৎ একটি রাজনৈতিক দলের তিনি প্রধানও।তাই খালেদা জিয়া মার্সি পিটিশন করতে রাজী হলে তা হয়ত রাষ্ট্রপতি বিবেচনা করতেও পারেন।",
       "প্রতিটি সরকারের আমলে একই অপরাধের পুনরাবৃত্তি হচ্ছে।ফলে দেশ বৃত্তাবদ্ধ লাটিমের মতো ঘুরতে ঘুরতে স্থবির হয়ে যাচ্ছে।জনগণ উত্তরণ চায়।বিশ্বের অর্থনৈতিক দুরবস্থায় বিএনপি এবং আওয়ামী লীগের হাঁকডাকে দেশের রাজনৈতিক পরিস্থিতি গরম হতে শুরু করেছে।হানাহানি চরম আকার ধারণ করতে পারে, কারণ আওয়ামী লীগের কথিত ‘কোমরভাঙ্গা’ বিএনপি উঠে দাঁড়িয়েছে।বিএনপি’র আন্দোলনকে মোকাবেলা করার ক্ষেত্রে সরকার এবং আওয়ামী লীগকে বুদ্ধিমত্তার পরিচয় দিতে হবে।কারণ এক হাসিনাকে দিয়ে আওয়ামী লীগের ইমেজ অক্ষুন্ন রাখা যাবে না।আওয়ামী নেতারা যতই হম্বিতম্বি করুন না কেন, তৃণমূলে বিএনপির নেতা-কর্মীরা এখন আওয়ামী লীগের চেয়ে বেশী সরব ও সক্রিয়।ক্ষমতার মোহে আচ্ছন্ন নেতারা কর্মীদের তোষামোদী আচরণে আওয়ামী লীগের নেতারা অকর্মক হয়ে উঠেছেন।জাতীয় সংসদের বিগত নির্বাচনে সংঘটিত কারচুপি আওয়ামী লীগকে নৈতিকভাবে দুর্বল করে রেখেছে।বিএনপি প্রতিশোধ নেওয়ার হুমকি দিচ্ছে।পরিস্থিতি হানাহানির দিকে যাচ্ছে।হানাহানি যত চরম আকারই ধারণ করুক না কেন, সমস্যার সমাধান করতে হবে রাজনৈতিক দলগুলোকেই; কারণ রাজনৈতিকভাবে বিভাজিত একটি দ্বিমুখী সমাজে চরম অস্থিরতায় তৃতীয় পক্ষের নাক গলানোর সম্ভাবনা এবার খুব কম।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বিএনপি’র সরকার বিরোধী আন্দোলন’ returned only differently titled Bitu posts dated ২৯ January ২০২২, ৫ December ২০২১, and ৪ June ২০২৩; the shorter search ‘সরকার বিরোধী আন্দোলন’ returned an unrelated ১৪ August ২০২৫ Views Bangladesh post. No matching ৯ November ২০২২ article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1750,7 +1751,7 @@ export const folderArticles: ArchiveArticle[] = [
       "সরকারের কর্মচারীদের নিরপেক্ষতা বলে প্রকৃতপক্ষে কিছুই নেই।সরকারের আদেশ-নির্দেশ পালন এবং কর্মসূচি বাস্তবায়নে কাজ করার জন্য বেতন দেওয়া হয়, বিরোধী দলের কথা শোনার জন্য নয়।এই নীতি সকল দলীয় সরকারের আমলেই পালনযোগ্য।সরকার ভুল নির্দেশ দিলেও তা অমান্য করার ক্ষমতা অধস্তন কর্মচারীর কখনোই ছিল না, এখনো নেই, ভবিষ্যতেও থাকবে না।দলের সিদ্ধান্তের বিরোধিতা কোন সাংসদও করতে পারে না; দলের সিদ্ধান্তের বাইরে ভোট দিলে একজন সাংসদ আর সাংসদ থাকতে পারেন না।সংসদে একজন জনপ্রতিনিধির মত প্রকাশের স্বাধীনতা যেখানে নেই সেখানে সরকারি কর্মচারী-কর্মকর্তাকে নিরপেক্ষ থাকার সবক দেওয়া অর্থহীন।তারপরও সব সরকারের আমলে আমলাদের বাধ্যতামূলক অবসরে পাঠানো হয়েছে, ওএসডি করা হয়েছে।১৯৯১ সালে বিএনপি ক্ষমতায় এসে ১৯৭৩ সনের বিসিএস অফিসারদের গণহারে ওএসডি এবং অবসরে পাঠিয়েছিল।অনেক মেধাবী ছাত্রও  তাদের শিক্ষা জীবনে রাজনীতির সঙ্গে সংশ্লিষ্ট থাকে, অনেক ছাত্রনেতা মেধার বদৌলতে বিসিএস পরীক্ষায় উত্তীর্ণ হয়।চাকুরিরত অবস্থায় তাদের কর্মকাণ্ড নিরপেক্ষ হলেও ভিন্ন দলীয় সরকারের আমলে তাদের হেনস্তার শিকার হতে হয়।অবশ্য এটাও ঠিক দলীয় পরিচয় নিয়ে অনেকে অন্যায্য সুবিধাও ভোগ করে থাকেন।সব সরকারের আমলেই ৪০০-৫০০ কর্মকর্তাকে ওএসডি করে বসিয়ে রেখে বেতন ভাতাদি দেওয়া হয়েছে এবং হচ্ছে।এই মন্দ সংস্কৃতি থেকে আজ পর্যন্ত কোন সরকার বেরিয়ে আসতে পারল না।",
       "প্রজাতন্ত্রের কর্মকর্তা-কর্মচারীগণ  আইনানুযায়ী সরকারের প্রতি অনুগত থাকেন, নিরপেক্ষ থাকা প্রায় অসম্ভব।এদের নিরপেক্ষ রাখার জন্য নাগরিক অধিকার হরণ করে এই মর্মে আইন করা যেতে পারে যে, যারা ছাত্র রাজনীতি করবেন তারা সরকারি চাকুরি পাবেন না, যারা সরকারি চাকুরি করবেন তারা অবসরের পর জনপ্রতিনিধি হতে পারবেন না।অবসরের পর আমলাদের এমপি-মন্ত্রী বানানো থেকে সব দল বিরত থাকলে তারা চাকুরিরত অবস্থায় সরকারের অনুগত থাকলেও তাদের দলীয় আনুগত্য কমে যাবে।অফিসে অফিসে শ্রমিকদের দলীয় রাজনীতিও বন্ধ করা জরুরী।এদের বেশীরভাগ কোন কাজ করে না, ঘুরে বেড়ায় আর অফিসে সংঘটিত দুর্নীতির সহায়তা করে।দলীয় পরিচয় না থাকলে দুর্নীতি কমবে, দাপট কমবে, বাধ্যতামূলক অবসরে পাঠানো বা ওএসডি করাও হ্রাস পাবে।বাধ্যতামূলক অবসরে পাঠানো একটি কালো আইন।কর্মকর্তার বিরুদ্ধে কোন অভিযোগ উত্থাপন না করে, তাকে আত্মপক্ষ সমর্থনের কোন সুযোগ না দিয়ে অবসরে পাঠানো অবিচার ছাড়া আর কিছুই নয়।তবে রাজনৈতিক কারণে  অবসরে না পাঠিয়ে দূর্নীতিগ্রস্ত ও অকর্মক কর্মচারী-কর্মকর্তাদের বাধ্যতামূলক অবসরে পাঠালে দেশ উপকৃত হবে এবং জনগণ খুশী হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘সরকারি কর্মকর্তার বাধ্যতামূলক অবসর’ returned no result. The broader search ‘বাধ্যতামূলক অবসর’ surfaced unrelated material about the author’s brother from ২০১৭, and the date search ‘১২ নভেম্বর ২০২২’ surfaced unrelated Bitu posts dated ২ জুলাই ২০২২ and ৮ জানুয়ারি ২০২২. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1776,7 +1777,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আর্জেন্টিনা বা ব্রাজিল কোন দেশই আমাদের স্বদেশভূমি নয়।তাদের জনগণ বাংলাদেশকে আদৌ চেনে কিনা সন্দেহ।এক সময় মালয়েশীয়ার জনগণও বাংলাদেশ চিনতো না।১৯৮৯ সনে সেন্ট্রাল ব্যাংকিং কোর্সে অংশ নিতে গিয়ে এর প্রমাণ পেয়েছিলাম।ক্লাসে শিক্ষক বাংলাদেশের অবস্থান জানার আগ্রহ প্রকাশ করার সঙ্গে সঙ্গে উত্তর শোনার জন্য কোর্সে অংশ নেওয়া প্রায় সবাই ঔৎসক্য নেত্রে আমার দিকে তাকিয়ে থাকে।১৯৭১ সনে নয় মাস ব্যাপী মুক্তিযুদ্ধ নিয়ে সারা পৃথিবীতে আলোড়ন সৃষ্টি হলেও মালয়েশীয়ার লোকজন তা শুনেছে বলে মনে হয়নি।তবে এখন চেনে।বাংলাদেশের অর্থনীতি শক্তিশালী হওয়ার সাথে সাথে যুক্তরাষ্ট্র, কানাডা, যুক্তরাজ্য, অষ্ট্রেলিয়া, নিউজিল্যাণ্ডসহ  পৃথিবীর অধিকাংশ উন্নত দেশও এখন বাংলাদেশকে চেনে এবং জানে।বাংলাদেশের এমন পরিচিতি গড়ে উঠা সত্বেও ব্রাজিল এবং আর্জেন্টিনার মানুষ হয়তো বাংলাদেশের নামও শোনেনি।না শোনার কারণও  রয়েছে, এই দুটি দেশের সাথে বাংলাদেশের দ্বিপাক্ষিক সম্পর্ক খুব কম।",
       "তাই এবার বিশ্বকাপে আর্জেন্টিনা-ব্রাজিল কেন্দ্রিক সহিংসতা, বিরোধ, কিংবা অহেতুক সংঘাত হবে না এই প্রত্যাশা আমরা করতে পারি।স্বাধীন স্বার্বভৌম বাংলাদেশের মানুষ ব্রাজিল কিংবা আর্জেন্টিনা ফুটবল দলের সমর্থন বা বিরোধিতা করতে গিয়ে পারষ্পরিক সম্পর্ক নষ্ট করছে, প্রতিপক্ষকে আঘাত করছে বা মেরে ফেলছে, - এটা ব্যক্তি কিংবা জাতির জন্য  লজ্জাজনক।এবারের বিশ্বকাপ ফুটবলে আর্জেন্টিনা, ব্রাজিলসহ সকল দলের সমর্থকদের জন্য শুভেচ্ছা রইলো।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘আর্জেন্টিনা-ব্রাজিল সমর্থকদের প্রতিযোগিতা’ returned no result. The broader search ‘আর্জেন্টিনা ব্রাজিল’ surfaced only unrelated public football-group posts, not an attributable Bitu column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1787,7 +1788,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-11-26",
     publishedDateLabel: "২৬ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ নভেম্বর ২০২২)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/81654/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1804,7 +1805,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বিচারের রায় যখন রাজনৈতিক দলগুলো নিজেদের স্বার্থে প্রশ্নবিদ্ধ করে তখন বিচার করে দুর্নীতি দূর করা প্রায় অসম্ভব।তাই দুর্নীতি কমার কোন লক্ষণ নেই।প্রতিটি অফিসের কর্মকাণ্ড সম্পাদনে সংশ্লিষ্ট প্রক্রিয়া-পদ্ধতিতে আমূল পরিবর্তন আনা প্রয়োজন।দুর্নীতির কারণ নিয়ে আরেকটি কলাম লিখার ইচ্ছে থাকায় এখানে তাই বিশদ বর্ণনা দেওয়া থেকে বিরত থাকলাম।তবে দুর্নীতি কমানো গেলে অর্থের পাচারও কমবে, অর্থের পাচার কমানো গেলে দুর্নীতিও কমবে।দুর্নীতির প্রধান কারণ সুশাসন ও জবাবদিহিতার অভাব।দুর্নীতির অঢেল অর্থ দেশের অভ্যন্তরে রাখার বৈধ পথ খুঁজে না পেয়ে দুর্নীতিগ্রস্ত লোকগুলো বিদেশে পাচার করে।আমদানির ক্ষেত্রে ওভার ইনভয়েস এবং রপ্তানির ক্ষেত্রে আণ্ডার ইনভয়েস-এর মাধ্যমে বিপুল পরিমাণ অর্থ পাচার হয়ে থাকে।জাতীয় রাজস্ব বোর্ড বা এনবিআর-এর সংশ্লিষ্ট কর্মকর্তাগণ সৎ ও সতর্ক হলে এই পাচার কিছুটা কমানো সম্ভব।এনবিআর এবং বাংলাদেশ ব্যাংক এক্ষেত্রে মনিটরিং জোরদার করেছে; এই মনিটরিং ফলপ্রসূ হলে বাংলাদেশের বৈদেশিক মুদ্রার রিজার্ভও বেড়ে যাবে। অর্থ পাচারের আরেকটি মুখ্য মাধ্যম হচ্ছে হুণ্ডি।হুণ্ডি রোধ করা কঠিন।বাংলাদেশ ব্যাংক হুণ্ডি ব্যবসায়ীদের বিরুদ্ধে কঠোর ব্যবস্থা নেয়া হবে মর্মে ঘোষণা দিয়েছে।এই সব ঘোষণা অর্থহীন।ব্যাংকের চেয়ে খোলাবাজারে প্রতি ডলারে ৬-৭ টাকা বেশি বিধায় হুন্ডি প্রবণতা বেড়ে গেছে।অবশ্য সম্প্রতি কয়েকজন হুণ্ডি ব্যবসায়ীকে পুলিশ গ্রেফতার করেছে, পুলিশি তৎপরতা আরও বাড়াতে হবে।আমাদের বিভিন্ন দূতাবাসের মাধ্যমে বিভিন্ন দেশে সক্রিয় হুণ্ডি ব্যবসায়ীদের চিহ্নিত করার ব্যবস্থাও নেয়া যায়।মনে রাখতে হবে, অর্থ একবার পাচার হয়ে গেলে তা উদ্ধার করা প্রায়ই অসম্ভব।",
       "সমাজে দুর্নীতিবাজদের অগ্রহণযোগ্য করে তুলতে হবে। কিন্তু হতাশার বিষয় হলো আমাদের নেতা, আমলা, ব্যবসায়ীরা  যখন দীর্ঘদিন ধরে দুর্নীতি করে, তখন এই দুর্নীতি গ্রহণযোগ্য হয়ে যায়।",
     ] }],
-    authorNote: "",
+    authorNote: "Publisher-page verification matched Sangbad Online article https://sangbad.net.bd/opinion/post-editorial/81654/: the page credits জিয়াউদ্দীন আহমেদ, dates the article ২৬ November ২০২২, and its body matches this archive record. The canonical URL was added; direct Facebook verification remains pending because the profile-search session is temporarily rate-limited.",
     authorCredit: ""
   },
   {
@@ -1815,7 +1816,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-12-01",
     publishedDateLabel: "১ ডিসেম্বর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/96736",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1832,7 +1833,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাঙ্গালীরা ভারত এবং রাশিয়ার সহযোগিতায় পাকিস্তানের প্রশিক্ষিত সেনাবাহিনীর বিরুদ্ধে নয় মাস যুদ্ধ করে দেশকে স্বাধীন করেছে, স্বাধীনতার জন্য নির্বিচারে জীবন দিয়েছে।কিন্তু বঙ্গবন্ধু ছিলেন পাকিস্তানের কারাগারে, তবুও তিনিই ছিলেন বাংলাদেশের প্রবাসী সরকার ও মুক্তিযোদ্ধাদের একমাত্র অনুপ্রেরণা।ইয়াহিয়া খান সামারিক ট্রায়ালে বঙ্গবন্ধুর ফাঁসি নিশ্চিত করে কবরও খুঁড়ে রেখেছিলেন, কিন্তু ভারতের সাথে পাকিস্তানের যুদ্ধ শুরু হয়ে গেলে বঙ্গবন্ধুকে ফাঁসিতে ঝুলানোর কাজ কিছুদিনের জন্য স্থগিত হয়ে যায়।পাকিস্তানি সেনারা তৎকালীন রেসকোর্স ময়দানে আত্মসমর্পন করলে বঙ্গবন্ধুকে বাঁচিয়ে রাখতে ভুট্টো মরিয়া হয়ে উঠেন; জেলখানা থেকে দ্রুত বঙ্গবন্ধুকে সরিয়ে নেন, কারণ জেলখানা ছিল লেফটেন্যান্ট জেনারেল নিয়াজির বাড়ির কাছে, জেলখানার কর্মচারীদের মধ্যে প্রায় সবাই ছিল নিয়াজির এলাকার, সেনা প্রধান নিয়াজি এবং এক লক্ষের মতো পাকিস্তানি সেনাদের অবমাননাকর আত্মসমর্পনের জন্য তারা বঙ্গবন্ধুকে দায়ী করছিল।পাকিস্তানি সেনাদের আত্মসমর্পনের পর ভুট্টো পাকিস্তানের প্রধানমন্ত্রী হন এবং একটি সমঝোতার প্রত্যাশায় বঙ্গবন্ধুকে তোয়াজ করতে থাকেন।এই প্রত্যাশায় ভুট্টো ইরানকে মধ্যস্থতা করতে নিয়োজিত করেছিলেন, বঙ্গবন্ধুকে ইরান হয়ে দেশে প্রত্যাবর্তনের অনুরোধ করেছিলেন, বঙ্গবন্ধু রাজী হননি।কিন্তু ভুট্টো নিজেকেও রক্ষা করতে পারেননি।পাকিস্তানের সামরিক শাসক জেনারেল জিয়াউল হক পাকিস্তান ভাঙ্গার আক্রোশে ভুট্টোকে পরবর্তীতে ফাঁসিতে ঝুলিয়ে দেন।",
       "বঙ্গবন্ধু ১৯৭২ সনের ৮ জানুয়ারি লণ্ডনের হিথ্রো বিমানবন্দরে পৌঁছান।বিমানবন্দরে অবতরণের মাত্র এক ঘন্টা পূর্বে বৃটিশ সরকার বঙ্গবন্ধুর আগমন সম্পর্কে পাকিস্তান থেকে জানতে পারে।পাকিস্তান দূতাবাসের দ্বিতীয় সচিব মহিউদ্দিন আহমদ বঙ্গবন্ধুকে বিমানবন্দরে রিসিভ করেন, মহিউদ্দিন আহমদ ১ আগস্ট পাকিস্তান দূতাবাস ত্যাগ করে লণ্ডনে ট্রাফলগার স্কয়ারে প্রবাসী বাঙ্গালীর এক বিরাট সমাবেশে বাংলাদেশের আনুগত্য স্বীকার করেন।এই মহিউদ্দিন আমার সহদোর ভাই বিধায় আমাদের পরিবার তাকে নিয়ে গর্বিত।বঙ্গবন্ধু স্বাধীন বাংলাদেশে আসেন ১০ জানুয়ারি।বঙ্গবন্ধুর জন্ম না হলে বাংলাদেশের জন্ম হতো না, তাই বঙ্গবন্ধুর প্রতি আমাদের গভীর শ্রদ্ধা।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘রক্তক্ষয়ী স্বাধীনতা-সংগ্রাম’ returned unrelated public posts by other people, not a matching Zeauddin Ahmed Bitu post. The broader search ‘স্বাধীনতা সংগ্রাম’ likewise surfaced unrelated Bitu-shared and other-account posts, including a video and historical quotations; no matching article body, publication metadata, or original URL was exposed. This record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1858,7 +1859,7 @@ export const folderArticles: ArchiveArticle[] = [
       "সবার ধারণা ছিল, কংগ্রেস এবং সিনেটের   এই নির্বাচনে জো বাইডেনের ডেমোক্রেটিক দলের ভরাডুবি হবে।অতীতে বেশীরভাগ মধ্যবর্তী নির্বাচনে ক্ষমতাসীন দল সিনেট এবং প্রতিনিধি পরিষদে কিছু সিট হারায়।২০১০ সনের মধ্যবর্তী নির্বাচনে বারাক ওবামা উভয় কক্ষে হারান ৬৯টি আসন এবং ২০১৪ সনে হারান ২১টি আসন।২০১৮ সনের নির্বাচনে প্রেসিডেন্ট ডোনাল্ড ট্রাম্প সিনেটে দুটি আসন পেলেও প্রতিনিধি পরিষদে ৪১টি আসন হারান।এই বিবেচনায় প্রেসিডেন্ট জো বাইডেন অনেক কম আসন হারিয়েছেন, ক্ষমতাসীন ডেমোক্র্যাটদের বড় ধরনের পরাজয় ঠেকানো গেছে।জো বাইডেনের ডেমোক্রেটিক পার্টি প্রতিনিধি পরিষদে সংখ্যাগরিষ্ঠতা হারালেও সিনেটে   নিয়ন্ত্রণ বজায় রেখেছে।আগের সিনেটের   মতোই সমানসংখ্যক আসন হবে দুই দলের; এই অবস্থায় সিনেটের প্রেসিডেন্ট হিসেবে নির্ধারণী ভোট দিতে পারবেন মার্কিন ভাইস প্রেসিডেন্ট কমলা হ্যারিস।",
       "উচ্চ মুদ্রাস্ফীতির কারণে ডেমোক্র্যাটদের বড় পরাজয় ঠেকিয়ে দিল গর্ভপাতের ইস্যুটি।ডোনাল্ড ট্রাম্পের রিপাবলিকানরা চায় গর্ভপাত বন্ধ হোক, কারণ ধর্মগ্রন্থ বাইবেলে গর্ভপাত নিষিদ্ধ।অন্যদিকে জো বাইডেনের ডেমোক্র্যাটরা মনে করে, শরীর যার সিদ্ধান্তও তার। একজন মহিলা গর্ভধারণ করবে কী করবে না তা একান্তই তার ব্যক্তিগত সিদ্ধান্ত, এক্ষেত্রে রাষ্ট্রের আইন ব্যক্তিগত অধিকারে হস্তক্ষেপের সামিল।রিপাবলিকান প্রভাবিত আদালত গর্ভপাত বিরোধী রায় প্রদান করায় নারী ভোটার ডেমোক্র্যাটদের পক্ষে ভোট দিয়েছে।মার্কিন জনগণ মনে হচ্ছে যুদ্ধ এবং বাইবেলের পক্ষে অবস্থান নিয়েছে।বিশ্বের প্রায় সকল মানুষ চায় এই মুহূর্তেই ইউক্রেন-রাশিয়ার যুদ্ধের অবসান হোক, কিন্তু মার্কিন যুক্তরাষ্ট্রের প্রেসিডেন্ট জো বাইডেন চাচ্ছেন যুদ্ধ প্রলম্বিত হোক যাতে তেল আর অস্ত্র বিক্রি করে তিনি আমেরিকার অর্থনীতিতে গতি আনতে পারেন।ইউক্রেনকে যোগান দেওয়া অস্ত্র নিশ্চয়ই অনুদান নয়, ঋণ হিসেবেই গণ্য হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘আমেরিকার মধ্যবর্তী নির্বাচন’ returned no result. The broader search ‘মধ্যবর্তী নির্বাচন’ did not expose an attributable Zeauddin Ahmed Bitu post or matching article body. No publication metadata or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1886,7 +1887,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বিশ্বে বিরাজমান আর্থিক দুর্যোগের মধ্যে ব্যাংকের আমানত পরিশোধের সক্ষমতা নিয়ে যখন নানা গুজব ও অপপ্রচার চলছে ঠিক তখনই ইসলামী ব্যাংকের ঋণ প্রদানের অনিয়ম নিয়ে বিভিন্ন মিডিয়ায় খবর প্রচার হলো; এতে জনগণ মনে করছে ইসলামী ব্যাংক বোধ হয় দেউলিয়া হয়ে যাচ্ছে।অথচ ইসলামী ব্যাংক থেকে বলা হচ্ছে, গণমাধ্যম ও সামাজিক যোগাযোগ মাধ্যমে ব্যাংক নিয়ে বিভ্রান্তিমূলক, অসত্য ও উদ্দেশ্যমূলক সংবাদ প্রচার করা হচ্ছে।ব্যাংক বলছে, যাদের ঋণ দেওয়া হয়েছে তারা প্রতিষ্ঠিত ব্যবসায়ী এবং ঋণের বিপরীতে পর্যাপ্ত জামানত গ্রহণ করা হয়েছে।এছাড়াও আমদানি পণ্য জামানত রেখে ঋণ দেওয়ার প্রচলন নতুন কিছু নয়।এখনো ইসলামী ব্যাংকের আর্থিক সক্ষমতার সূচকগুলো অনেক সবল, কোন একটি গ্রুপকে বেশী ঋণ দেওয়াতে নিয়মের ব্যত্যয় হতে পারে, ঋণের ক্ষেত্রে ঝুঁকি সৃষ্টি হওয়ার সম্ভাবনা নাও থাকতে পারে।কিছু মিডিয়া ইসলামী ব্যাংকের মালিকানা বদলকে সব অনিয়মের উৎস বলে বর্ণনা করছে, মনে হচ্ছে সকল ক্ষোভ এই ইস্যু নিয়েই।আরেকটি ইস্যু হতে পারে সরকারকে বেকায়দায় ফেলা।কিন্তু  মালিকানা বদল হওয়ার পর ব্যাংকটির আমানত এবং ঋণ দুটোই বেড়েছে।২০২০ সনের জুনে আমানত ১ লাখ কোটি টাকার মাইলফলক অতিক্রম করে, এখন এই আমানত বেড়ে দেড় লাখ কোটি টাকারও বেশী হয়েছে।এই ব্যাংকের মাধ্যমে আগের মতোই প্রবাসীদের রেমিট্যান্স পাঠানো অব্যাহত আছে; ব্যাংকের মালিকানা বদল হওয়ার পরও বাংলাদেশ ব্যাংক রেমিট্যান্স অ্যাওয়ার্ড ২০১৯ ও ২০২০ পেয়েছে ইসলামী ব্যাংক বাংলাদেশ লিমিটেড।",
       "মিডিয়া থেকে বলা হচ্ছে ইসলামী ব্যাংক বাংলাদেশ লিমিটেড থেকে এসআলম গ্রুপকে ৩০ হাজার কোটি টাকার লোন দেওয়া হয়েছে এবং এসআলম গ্রুপ তাদের মালিকানাধীন ব্যাংকগুলো থেকে মোট এক লক্ষ কোটি টাকা লোন নিয়েছে।এই উপাত্ত সঠিক হলে তা উদ্বেগজনক। ইসলামী ব্যাংক বাংলাদেশ লিমিটেডের মোট ঋণ ১ লাখ ৩৮ হাজার কোটি টাকার মধ্যে ২২ শতাংশ ঋণ একটি ব্যবসায়ী গ্রুপের কাছে কেন্দ্রিভূত হয়ে যাওয়াটা সুস্থ্য ব্যাংকিং নয়।নানা অপকর্মের কারণে বিগত বছরগুলোতে ব্যাংকিং জগতের ইমেজ এমনিতেই তলানিতে নেমেছে, এতে সরকারের ভাবমূর্তিও নষ্ট হয়েছে।সরকারকে বেকায়দায় ফেলার একটি সংঘবদ্ধ প্রচেষ্টা সক্রিয়।তপশিলী ব্যাংকগুলোর কর্মকাণ্ড তদারকির জন্য বাংলাদেশ ব্যাংকে এখন অসংখ্য যোগ্য ও দক্ষ কর্মী রয়েছেন। বাংলাদেশ ব্যাংকের ম্যানেজমেন্টেও পরিবর্তন এসেছে।বাংলাদেশ ব্যাংককে ব্যাংক সংশ্লিষ্ট অপপ্রচার প্রজ্ঞার সাথে হ্যাণ্ডল করতে হবে।বাংলাদেশ ব্যাংকের দক্ষ ও প্রজ্ঞাবান কর্মীর বুদ্ধিদীপ্ত সিদ্ধান্তে ব্যাংকের উপর জনগণের আস্থা পুনরায় প্রতিষ্ঠিত হবে- এই প্রত্যাশা দেশবাসীর।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘ইসলামী ব্যাংক নিয়ে শোরগোল’ returned no result. The broader search ‘ইসলামী ব্যাংক’ surfaced unrelated Bitu posts dated ২৬ May ২০১৯, ১৮ November ২০১৮, and ১৯ September ২০২৬. The date search ‘১০ ডিসেম্বর ২০২২’ surfaced unrelated Bitu posts dated June ২০২২ and June ২০২৬. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1914,7 +1915,7 @@ export const folderArticles: ArchiveArticle[] = [
       "তত্ত্বাবধায়ক সরকার ব্যবস্থা বাতিল করে উচ্চ আদালতের রায়ের পর তদনুযায়ী সংসদে সংবিধান সংশোধন করা হয়েছে।যে তত্ত্বাবধায়ক সরকার সংবিধানের মূল নীতির সাথে সঙ্গতিপূর্ণ নয় বলে বাতিল করা হয়েছে সেই তত্ত্বাবধায়ক সরকার পুনরায় গঠন করার আদৌ কি সুযোগ আছে? সুযোগ না থাকা সত্বেও বিএনপি অনবরত দল নিরপেক্ষ সরকার গঠনের দাবী করে যাচ্ছে।দলীয় সরকারের অধীনে বিএনপি নির্বাচনে যাবে না বলছে।কারণ তত্ত্বাবধায়ক সরকার ব্যবস্থা বাতিল করার পর আওয়ামী লীগ সরকারও প্রমাণ করতে সমর্থ হয়নি যে, দলীয় সরকার সুষ্ঠু নির্বাচন করার ক্ষেত্রে সফল।২০১৪ সনে অনুষ্ঠিত নির্বাচনে বিএনপি অংশগ্রহণ না করায় আওয়ামী লীগের মনোনীত প্রার্থীদের মধ্যে বিনা প্রতিদ্বন্দ্বিতায় জেতার প্রবল আগ্রহ পরিলক্ষিত হয়।এমন একটি ভোটারবিহীন নির্বাচন ১৯৯৬ সনে বিএনপিও করেছিল।আওয়ামী লীগের শাসনামলে বিএনপি’র কৌশলী অংশগ্রহণ থাকায় স্থানীয় নির্বাচনেও ভোটার উপস্থিতি উল্লেখযোগ্য হারে কমে যায়।এমনকি ক্ষমতাসীন দলের নেতা-কর্মী এবং সমর্থকরাও ভোটকেন্দ্রে যাওয়ার আগ্রহ হারিয়ে ফেলে; কারণ তাদের মধ্যে এমন প্রতীতির জন্ম নেয় যে, ভোট কেন্দ্রে না গেলেও তাদের দলের প্রার্থীর জয় হবে।অন্যদিকে বিএনপি ভোটে অংশগ্রহণ করেও ভোটের দিন মাঠে থাকেনি, দুপুরের আগেই ভোট বর্জনের ঘোষণা বারবার দিয়েছে।",
       "মাগুরা নির্বাচনের পর আওয়ামী লীগ মনে করত, খালেদা জিয়া সরকারের অধীনে কোনো সুষ্ঠু ও নিরপেক্ষ নির্বাচন অনুষ্ঠিত হতে পারে না।এখন বিএনপি মনে করে, আওয়ামী লীগ সরকারের অধীনে সুষ্ঠু ও নিরপেক্ষ নির্বাচন অনুষ্ঠিত হওয়া অসম্ভব।তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রথম চালু করার সময় বিএনপি ঘোর বিরোধিতা করলেও এখন তারা  তত্ত্বাবধায়ক সরকার পদ্ধতির পক্ষে।অন্যদিকে যে আওয়ামী লীগ প্রথম তত্ত্বাবধায়ক সরকার ব্যবস্থার দাবি তুলেছিল সেই আওয়ামী লীগই এখন তত্ত্বাবধায়ক সরকারের বিপক্ষে।রাজনৈতিক অঙ্গনে এই দুইটি দল শুধু পারষ্পরিক প্রতিপক্ষ নয়, পারষ্পরিক শত্রুও; তাই এই ক্ষেত্রে একমত হওয়ার প্রত্যাশা কেউ করে না।এক্ষেত্রে একটি আইনসম্মত সমাধান সম্ভব, বিভিন্ন দলের নির্বাচিত সাংসদদের নিয়ে নির্বাচনকালীন একটি সরকার গঠন করা যেত।কিন্তু বিএনপি’র সাংসদদের পদত্যাগে সেই সম্ভাবনারও কবর হলো।তবে এক্ষেত্রে গঠিত সরকারে দশ শতাংশ মন্ত্রী অনির্বাচিত টেকনোক্রেট হিসেবে বিএনপি’র অংশ নেওয়ার সুযোগ রয়েছে।এক্ষেত্রেও প্রধানমন্ত্রী এবং স্বরাষ্ট্র মন্ত্রক নিয়ে কাড়কাড়ি হবে।আওয়ামী লীগ প্রধানমন্ত্রী ও স্বরাষ্ট্র মন্ত্রণালয় রাখতে চাইবে, সংসদে বিরোধী দল হলো জাতীয় পার্টি, নির্বাচনকালীন সরকারে তারা তাদের অংশীদারিত্ব বিএনপি’র চেয়ে বেশী চাইবে।তবে আমি সংবিধান বিশেষজ্ঞও নই, আইনজ্ঞও নই।সাধারণ জনতা অভিধায় অপেক্ষা করছি, বিভিন্ন অসঙ্গতির মিল কিভাবে আসবে তা দেখার জন্য।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘তত্ত্বাবধায়ক সরকার নিয়ে বিতর্ক’ returned differently titled Bitu columns from ২০২৫–২০২৬, but no matching ১৭ December ২০২২ article body. The broader search ‘তত্ত্বাবধায়ক সরকার’ produced the same type of newer, differently titled posts. No publication metadata or original URL was inferred; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1925,7 +1926,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-12-21",
     publishedDateLabel: "২১ ডিসেম্বর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/8291/1671593767",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1940,7 +1941,7 @@ export const folderArticles: ArchiveArticle[] = [
       "মুক্তিযুদ্ধ থেকে জিয়াউর রহমানকে যত বেশী সরানোর চেষ্টা করা হয়েছে তত বেশী লাভবান হয়েছে মুক্তিযুদ্ধ বিরোধীরা।মুক্তিযুদ্ধের একজন সেক্টর কমাণ্ডারকে নেতৃত্বের শীর্ষে রেখে মুক্তিযুদ্ধ বিরোধীরা সংঘবদ্ধ হওয়ার সুযোগ পেয়েছে।দুই দলের এই বৈরিতা সরকারের কর্মকাণ্ডেও প্রতিফলিত হতে থাকে।চট্টগ্রাম বিমানবন্দরটি আওয়ামী লীগের রাজনীতিবিদ এম এ হান্নানের নামে নামকরণ করা হয়েছিল।বিএনপি ক্ষমতায় এসে ২০০৫ সনে এম এ হান্নানের নাম বাতিল করে ১৮ শতাব্দীর আওলিয়া শাহ আমানতের নামে নামকরণ করে।অথচ জিয়াউর রহমানের পূর্বে এই এম এ হান্নান বঙ্গবন্ধুর প্রেরিত স্বাধীনতার ঘোষণা কালুরঘাট স্বাধীন বাংলা বেতারকেন্দ্র থেকে পাঠ করেছিলেন।আওয়ামী লীগ ক্ষমতায় এসে বিএনপি’র এই অপকর্মের প্রতিশোধ নিলো, রাজধানী ঢাকার কুর্মিটোলায় অবস্থিত ‘জিয়াউর রহমান আন্তর্জাতিক বিমানবন্দর’ হয়ে গেল ‘হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর’।এই ক্ষেত্রে উভয় রাজনৈতিক দলই নামকরণে ধর্মীয় আবেগকে কাজে লাগিয়েছে, দুই দলই দুই জন সর্বজন শ্রদ্ধেয় আওলিয়াকে বেছে নিয়েছেন যাতে জনমনে কোন প্রতিক্রিয়ার সৃষ্টি না হয়, সরকার পরিবর্তন হলেও নতুন নামকরণ অক্ষুন্ন থাকে।এভাবে আস্তে আস্তে রাজনীতি থেকে সৌজন্য ও সহনশীলতা বিলীন হয়ে গেছে।",
       "মনে হচ্ছে প্রধান দুইটি রাজনৈতিক দলের মধ্যে দা-কুমড়োর সম্পর্ক অব্যাহতভাবে আরো অবনতিশীল হতে থাকবে এবং এর ফলে দেশে রাজনৈতিক অস্থিরতা বৃদ্ধি পাবে।তত্ত্বাবধায়ক সরকারের অধীনে অনুষ্ঠিত নির্বাচনের ফলাফলও পরাজিত বিএনপি বা আওয়ামী লীগ কখনো মেনে নেয়নি এবং মেনে নেয়নি বলেই বিরোধী দলের সাংসদগণ সংসদে যোগ দিতেন না।নির্বাচনে অনিয়ম, জালিয়াতি ও প্রতারণার অভিযোগ দিয়ে ক্ষমতাসীনদের ক্ষমতা থেকে নামিয়ে ক্ষমতায় যাওয়ার জন্য বিরোধীপক্ষ অতীতেও আন্দোলন-সংগ্রাম করেছে, এখনো করছে, ভবিষ্যতেও করবে।দেশের সংবিধান অনুযায়ী রাজনীতির লক্ষ্য গণতান্ত্রিক শাসনব্যবস্থা এবং জনকল্যাণ।কিন্তু ভোটারের ভোট দেওয়ার অধিকার কোন সরকারের আমলেই নিশ্চিত করা হয়নি।২০১৮ সনের নির্বাচনে কারচুপি না হলে সম্ভবত আর তত্ত্বাবধায়ক সরকারের প্রয়োজন হতো না।অবশ্য তত্ত্বাবধায়ক সরকার ব্যবস্থাকে কলুষিত করেছে বিএনপি এবং রাজনীতির খপ্পরে পড়ে এই ব্যবস্থাটি ব্যর্থতায় পর্যবসিত হয়েছে।বিএনপি’র সাংসদদের পদত্যাগের ঘোষণায় নির্বাচিত প্রতিনিধিদের সমন্বয়ে নির্বাচনকালীন অন্তর্বর্তী সরকার গঠনের সুযোগও আর থাকল না।উদ্ভুত সমস্যার সমাধানের সহজ পথ দেখা যাচ্ছে না, এক্ষেত্রে নির্বাচিত প্রতিনিধিদের নিয়ে নির্বাচনকালীন অন্তর্বর্তীকালীন সরকার গঠন করার একটি পথ এখনো খোলা আছে, যে সরকারে টেকনোক্র্যাট মন্ত্রীরা বিএনপি’র প্রতিনিধিত্ব করবেন।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বিএনপির ১০ দফা দাবী, রাজনীতির হিসাব-নিকাশ’ returned no result. The broader search ‘১০ দফা’ surfaced unrelated posts by other accounts and no attributable Bitu column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -1966,7 +1967,7 @@ export const folderArticles: ArchiveArticle[] = [
       "কাতার এই বিশ্ব কাপের আয়োজনে হাজার হাজার কোটি টাকা খরচ করেছে এবং প্রায় দুই হাজার কোটি টাকা লাভ করেছে।এই খেলা থেকে ফিফাও অনেক টাকা পাবে।বিশ্বকাপজেতা আর্জেন্টিনা দল পেয়েছে ৪৪০ কোটি টাকা, রানার্সআপ ফ্রান্স পেয়েছে ৩১৪ কোটি টাকা।তৃতীয় স্থান অধিকারী  ক্রোয়েশিয়া পেয়েছে ২৮৩ কোটি টাকা।তৃতীয় স্থান নির্ধারণী খেলায় ক্রোয়েশিয়ার কাছে পরাজিত চতুর্থ হওয়া মরক্কো পেয়েছে ২৬২ কোটি টাকা।মোট ৩২টি দল বিশ্ব কাপে অংশগ্রহণ করেছে, বাকি ২৮ টি দলও প্রচুর টাকা পেয়েছে।পৃথিবীর বিভিন্ন দেশ থেকে অগণিত দর্শক বিশ্ব কাপ উপভোগ করার জন্য কাতার গিয়েছেন।এই বিশ্ব কাপ খেলায় বাংলাদেশের অর্থনীতিও কিছুটা সচল হয়েছে।আর্জেন্টিনা এবং ব্রাজিলের জার্সি আবালবৃদ্ধবণিতা সবাই পরেছে, শুধু এই জার্সির জন্য বাংলাদেশে ৫০০ কোটি টাকার একটি বাজার তৈরি হয়েছিল।প্রধানমন্ত্রী শেখ হাসিনা সবাইকে মিতব্যয়ী হতে পরামর্শ দিয়েছেন, সঞ্চয়ী হতে বলছেন।কিন্তু অর্থনীতির চাকা সচল রাখার জন্য, নিম্নবিত্তের মানুষগুলোকে  বাঁচিয়ে রাখার জন্য অভ্যন্তরীণ খরচ স্বাভাবিক রাখাই শ্রেয় বলে মনে হয়।",
       "আমরা প্রায় সবাই বিপ্লবী যোদ্ধা চে গুয়েভারার নাম শুনেছি।তিনি সারা পৃথিবীর নির্যাতিত মানুষের পক্ষে ছিলেন, অনেকগুলো দেশে অত্যাচারী শাসকের বিরুদ্ধে অস্ত্র হাতে যুদ্ধ করেছেন।তিনি কিউবার বিপ্লবী নেতা ফিদেল কাস্ত্রোর সাথে মিলে একনায়ক বাতিস্তাকে উৎখাতের আন্দোলনে যোগ দেন, কঙ্গোয় গিয়ে প্যাট্রিস লুমুম্বার নেতৃত্বাধীন বিদ্রোহী গোষ্ঠীকে সংগঠিত করার দায়িত্ব নেন, বলিভিয়ায় গিয়ে মার্কিন যুক্তরাষ্ট্রের মদদপুষ্ট স্বৈরশাসক বারিয়েন্তোসের বিরুদ্ধে গেরিলা যুদ্ধে লিপ্ত হন।যুদ্ধে আহত চে গুয়েভারাকে বলিভিয়ার সেনারা গুলি করে হত্যা করে।এই চে গুয়েভারা ছিলেন আর্জেন্টিনার মানুষ।এই আর্জেন্টাইনকে আমরা চিনি মেরাদোনার দেশ বলে, এই আর্জেন্টিনা মেসির দেশ বলেই আমাদের এত প্রিয়।ব্রাজিল, ফ্রান্স, জার্মানি, মরক্কো বা আর্জেন্টিনা জিতলে বাংলাদেশের কোন লাভ-লোকসান নেই; কিন্তু ভালোবাসার টিমের জয়ে বাংলাদেশের মানুষ উদ্বেলিত হয়, পছন্দের টীমের জয়ে নিজেদের সফলতা খুঁজে পায়।অভিনন্দন আর্জেন্টিনা, অভিবাদন প্রিয় মেসি।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded the public Facebook post dated ২৪ December ২০২২. It identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and its complete article body matches this archive record. No original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -1977,7 +1978,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2022-12-29",
     publishedDateLabel: "২৯ ডিসেম্বর ২০২২",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/99360",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -1993,7 +1994,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বিরোধী দল শুধু বিদেশি রাষ্ট্রদূতের উপর নির্ভরশীল থাকতে চায় না; প্রভাবশালী দেশগুলোর সমর্থন লাভে তারা বিদেশে লবিস্টও নিয়োগ করে থাকে।পাশ্চাত্য হচ্ছে বেনিয়ার জাত, তারা টাকা আয়ে হারাম, হালাল বুঝে না।আমাদের দেশে লবি করা এক ধরনের অনৈতিক কাজ; কিন্তু আমেরিকায় কোটি কোটি টাকা খরচ করে লবিস্ট নিয়োগের মাধ্যমে সেদেশের নীতি প্রণেতাদের প্রভাবিত করা আইনসম্মত।আন্দোলনে সুবিধা করতে না পেরে বর্তমান সরকারের দুর্বলতা ও মানবতা বিরোধী কাজগুলো মার্কিন যুক্তরাষ্ট্রের নজরে আনার জোর প্রচেষ্টা নিয়েছে বিএনপি।বিরোধী দলে থাকাকালীন আওয়ামী লীগের বিরুদ্ধেও এমন লবিস্ট নিয়োগের অভিযোগ উঠেছিলো।ইউরোপে মত প্রকাশের স্বাধীনতার সুযোগ নিয়ে বাঙ্গালীরাও নিজ নিজ দলের সমর্থনে বিদেশে রাস্তায় বা পার্লামেন্টের সামনে বিভিন্ন কর্মসূচী পালন করে থাকে।",
       "আমাদের দেশের প্রধান দুটি রাজনৈতিক দল আওয়ামী লীগ ও বিএনপি কোনো জাতীয় ইস্যুতে একমত হতে না পারলেও শক্তিধর রাষ্ট্রের কাছে পরস্পরের বিরুদ্ধে অভিযোগ জানাতে এক ধারাতেই চলতে পছন্দ করে।ভারতের সন্তুষ্টি-অসন্তুষ্টি নিয়ে দেখি সরকারি এবং বিরোধী উভয় দল মাথা ঘামায়।চীনও আজকাল আর্থিক সহায়তা প্রদানের পাশাপাশি অভ্যন্তরীণ রাজনীতি নিয়ে আগ্রহী হয়ে উঠেছে।রোহিঙ্গা শরণার্থী ফেরত নিতে মায়ানমারের এত গড়িমসির পেছনে চীন বাংলাদেশের উপর পরোক্ষভাবে চাপ দিচ্ছে না তো? রাষ্ট্রদূতেরা তাদের দেশের রাজনৈতিক অভিলাষ অনুযায়ী আমাদের দেশের রাজনৈতিক দলগুলোর সাথে সম্পর্ক রাখে।ভারতের সাথে যে দলের সম্পর্ক ভালো সেই দলের সাথে চীনের বা পাকিস্তানের সম্পর্ক ভালো থাকার কথা নয়।অন্যদিকে যারা চীন বা পাকিস্তানের খয়ের খাঁ তাদের ভারত বিশ্বস্থ ভাবতে পারে না।জঙ্গি দমনে আওয়ামী লীগ কঠোর হওয়ায় পাশ্চাত্যে তাদের কদর বেড়েছে।তবুও পাশ্চাত্য গণতন্ত্রের কথা বলবে, সুশাসনের প্রতিষ্ঠা চাইবে, ফেয়ার নির্বাচনের জন্য চাপ দেবে।মধ্যপ্রাচ্যে আওয়ামী লীগ আগে সুবিধা করতে পারেনি; কিন্তু এখন সৌদি আরবের কূটনীতিতে ভিন্ন মাত্রার আবহ যোগ হয়েছে, সৌদি আরবের সাথে অন্য দেশের সম্পর্ক নির্ধারণে শুধু ধর্ম নিয়ামক হিসেবে এখন আর বিবেচিত হচ্ছে বলে মনে হয় না।সম্পর্ক স্থাপনে ধর্ম নিয়ামক হলে সৌদি আরব ইসরাইলের সাথে ঘনিষ্ঠতা বাড়িয়ে ইরানকে শাসাতো না।রোহিঙ্গাদের আশ্রয় দিয়ে শেখ হাসিনার সরকার পাশ্চত্য ও মধ্যপ্রাচ্যের মুসলিম দেশগুলোর মধ্যে একটি ইতিবাচক ভাবমূর্তি তৈরি করতে সক্ষম হয়েছে। এইসব সমীকরণে জাতীয় নির্বাচনের পূর্বে আমাদের রাজনীতিতে বিদেশি কূটনীতিকদের মধ্যেও পারষ্পরিক চানক্যনীতি চলবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded the public Facebook post dated ২৯ December ২০২২. It identifies the weekly সাম্প্রতিক দেশকাল newspaper and its complete article body matches this archive record. No original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -2020,7 +2021,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বিশ্বের অন্যতম গ্রহণযোগ্য গবেষণা সংস্থা পিউ রিসার্চের তথ্য অনুযায়ী জ্ঞান বিজ্ঞানে সবচেয়ে পিছিয়ে থাকা জাতি হচ্ছে মুসলিম জাতি।তাই বোধ হয় মাত্র দেড় কোটি ইহুদির  সাথে ২০০ কোটি মানুষের গোটা মুসলিম বিশ্ব পেরে উঠছে না।কোয়ানটিটির চেয়ে কোয়ালিটি যে শক্তিশালী তা মুসলমান জাতি মানতে নারাজ, তাই শিক্ষার চেয়ে জনসংখ্যায় এক নম্বর হওয়ার বাসনা পূরণে সন্তান উৎপাদনে মুসলমানদের গরজ বেশী।দেড় কোটি ইহুদির মধ্যে প্রায় ৩০০ বিজ্ঞানী এ পর্যন্ত নোবেল পুরষ্কার পেয়েছেন, আর ২০০ কোটি মুসলিমদের মধ্যে নোবেল পাওয়া মানুষ মাত্র ১০ জন, বিজ্ঞানে কেবল ৩জন।এদের মধ্যে নাগীব মাহফুজ ধর্ম মানেন না, অজ্ঞেয়বাদী।অন্যদিকে আরেক নোবেল বিজয়ী পাকিস্তানের প্রফেসর আবদুস সালাম আহমদিয়া সম্প্রদায় ভুক্ত হওয়ায় তাকে ‘কাফের’ বলে গণ্য করা হয়।মুসলমানদের ইংরেজি শিক্ষায় শিক্ষিত করতে সৈয়দ আহমদ আলীগড় বিশ্ববিদ্যালয় প্রতিষ্ঠা করে তখনকার আলেম সমাজ থেকে ‘কাফের' ফতোয়া পেয়েছিলেন।",
       "আফগানিস্তানের মতো আমাদের দেশেও নারী শিক্ষা বিরোধী ফতোয়া আছে, ক্ষমতায় গেলে বাস্তবায়ন হবে।ইসলামে নারী-পুরুষ উভয়ের উপর জ্ঞানার্জন ফরয করলেও এক্ষেত্রে আল্লামা শফি হুজুরের মতো কট্টরপন্থীদের অভিমত হলো, নারীদের জন্য এই জ্ঞান অর্জনের বিধেয় হচ্ছে নামায, রোযা, হজ্ব, যাকাত ইত্যাদি মৌলিক বিষয়ে জ্ঞানার্জন করা, এর বাইরে অন্য কোন শিক্ষা নয়।শফি হুজুর প্রচুর লেখাপড়া করেছে, তিনি শায়খুল হাদিসও, তাই তিনি ইসলামের কথাই বলেছেন।ইসলাম ধর্মে একজন মায়ের সন্মানজনক অবস্থান শীর্ষে হলেও সামগ্রিকভাবে নারীকে সেই সন্মান দেওয়া হয়নি; বিভিন্ন হাদিসে কুকুর আর গাধার সাথে নারীকে তুলনা করা হয়েছে।মেয়েদের শিক্ষা গ্রহণ বন্ধ হয়ে গেলে ২০০ কোটি মুসলমানের মধ্যে ১০০ কোটি মুসলমান অন্ধকার জগতে নিমজ্জিত হবে, আর সেই জগত হচ্ছে এমন একটি জগত যে জগতে মেয়ে সন্তানদের জীবন্ত কবর দেয়া হতো।নারী শিক্ষালয়ে গেলে পুরুষের যৌন কামনা জাগ্রত হবে, এমন ধারণায় লালিত সমাজকে সভ্য সমাজ বলা যায় না।নগ্নতার জন্য পাশ্চত্যকে দোষারোপ করা হলেও ওখানে একজন নগ্ন বেশ্যাকেও জোর করে স্পর্শ করা হয় না।মেয়ে দেখার পর পুরুষের লালা ঝরলে তার জন্য মেয়ে দায়ী নয়, দায়ী পুরুষের স্বভাব, তার চিকিৎসা প্রয়োজন।মহানবী হযরত মুহাম্মদ (সাঃ)-এর প্রথম স্ত্রী বিবি খাদিজা (রাঃ ) তাঁর ব্যবসা নিজেই পরিচালনা করতেন। হযরত আয়েশা (রাঃ) নিজেই যুদ্ধ পরিচালনা করেছেন।ধর্মের এই সত্য প্রতিষ্ঠিত হোক এটাই আমাদের প্রত্যাশা।",
     ] }],
-    authorNote: "",
+    authorNote: "Expanded the public Facebook post dated ৩১ December ২০২২. It identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column would appear on Sunday, and its complete article body matches this archive record. No original newspaper URL was exposed.",
     authorCredit: ""
   },
   {
@@ -2031,7 +2032,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-01-05",
     publishedDateLabel: "৫ জানুয়ারি ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/9552/1672887293",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2047,7 +2048,7 @@ export const folderArticles: ArchiveArticle[] = [
       "প্রার্থী যতই দুর্বল হোক না কেন বা প্রার্থীর জনসম্পৃক্ততা না থাকলেও  উন্নয়নের প্রতীক ‘নৌকা’ জামানত হারাবে কেন? অতীতে অনেক অপরিচিত প্রার্থী ‘নৌকা’ এবং ‘ধানের শীষ’ প্রতীকের কল্যাণে বিজয়ী হয়েছেন।তাই এই ক্ষেত্রে মনে হয় আওয়ামী লীগের সাংগঠনিক দুর্বলতা ছিল।অবশ্য এই দুর্বলতা দেশের সর্বত্র।ক্ষমতায় থাকার কারণে তা ধরা এখন পড়ছে না।দীর্ঘদিন ক্ষমতায় থাকার কারণে ছোট-বড় সব নেতা-কর্মীকে ক্ষমতার মোহ গ্রাস করেছে।বিভিন্ন কমিটিতে প্রায় প্রকাশ্যে পদ বিক্রির খবর চাউর হচ্ছে।নবাগতদের ‘কাউয়্যা’, ‘হাইব্রিড’, ‘অনুপ্রবেশকারী’ ইত্যাদি অমার্জিত, অশোভনীয় কথা বলে দূরে সরিয়ে দেয়া হয়েছে।সামাজিক যোগাযোগ মাধ্যমে বিরোধী দলে সত্য-মিথ্যা প্রচারের ব্যাপকতা জনমনে প্রভাব ফেলেছে।অপরদিকে সামাজিক যোগাযোগ মাধ্যমে বিরোধী দলের ব্যাপক অপপ্রচারের বিপক্ষে আওয়ামী লীগের নেতাকর্মীরা নিজেদের মধ্যে স্তুতি আর তোষামোদের প্রতিযোগিতা করে তৃপ্তির ঢেঁকুর তুলছে।আওয়ামী লীগের বড় বড় নেতাদের ভাষণ জনমনে কোন আকর্ষণ তৈরি করতে পারে না; কারণ বিরোধী দলকে ব্যঙ্গ করে, খোঁচা দিয়ে তাদের কথা বলা জনগণের কাছে সমাদৃত নয়।অন্যদিকে জাতীয় পার্টি মনে করে আওয়ামী লীগ তাদের অবহেলা করছে।কর্মীরা সব পর্যবেক্ষণ করে থাকে।",
       "নির্বাচন এবং নির্বাচন কমিশনকে  বিরোধী দলের কাছে গ্রহণযোগ্য করে তোলার অভিপ্রায়ে আওয়ামী লীগ দুর্বল প্রার্থীর মনোনয়ন দিয়েছে বলে অনেকে  মনে করে।তবে তা যুক্তিগ্রাহ্য নয়, কারণ জামানত বাজেয়াপ্তের এই পরাজয়ে  সারাদেশে আওয়ামী লীগের ইমেজ নষ্ট হয়েছে।বিএনপি মেয়র পদের এই নির্বাচনে অংশগ্রহণ করেনি, অংশগ্রহণ করলে বিএনপি’র অবস্থা হয়ত আওয়ামী লীগের চেয়েও বেশী শোচনীয় হতো।দেশের যে এলাকায় জাতীয় পার্টি সবল সেখানে বিএনপি দুর্বল।এই মেয়র নির্বাচনে ভোটার ভোট দিতে পেরেছে, ভোট প্রদানের এই পরিবেশ অবচ্ছিন্ন থাকুক-এই প্রত্যাশা জনগণের।খুশীর আরেকটি খবর হচ্ছে, এই নির্বাচনে একমাত্র ট্রান্সজেন্ডার ভোটার ৩০ বছর বয়সী আনোয়ারা ইসলাম রানীও ভোট দিয়েছে।",
     ] }],
-    authorNote: "",
+    authorNote: "Dainik Bangla publisher page verified at https://www.dainikbangla.com.bd/opinion/9552/1672887293. The page uses the headline variant ‘রংপুরের নির্বাচন আ. লীগের জন্য সতর্কসংকেত’, credits জিয়াউদ্দীন আহমেদ, is dated ৫ January ২০২৩, and its complete article text matches the archive body after spelling, punctuation, spacing, and paragraph-boundary differences. The longer Facebook/catalog headline is retained.",
     authorCredit: ""
   },
   {
@@ -2075,7 +2076,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ফেইসবুকে আওয়ামী লীগের কর্মীরা সংঘবদ্ধ নয়, বিচ্ছিন্ন, পরষ্পর পরষ্পরকে খুঁজে পায় না।অবশ্য আওয়ামী লীগের কর্মী ও সমর্থকদের খুব বেশী তাৎপর্যপূর্ণ লেখা দেখাও যায় না।মুক্তিযুদ্ধের সমর্থক ছাত্র ইউনিয়নের কিছু কর্মী ভালো লিখেন।অন্যদিকে আওয়ামী লীগের কর্মীরা চব্বিশ ঘন্টা ফেইসবুকে বড় বড় নেতাদের তাবেদারি করে সময় কাটায়।অবশ্য না কাটিয়েও উপায় নেই; নেতাদের তাবেদারি না করলে কর্মীদের বিপদে পড়তে হয়।কোন অপরাধের সাথে আওয়ামী লীগের কোন কর্মীর সংশ্লিষ্টতা উদঘাটিত হলেই নেতাদের কমন বিবৃতি হচ্ছে, ‘ও আওয়ামী লীগের কেউ না, কর্মী বা নেতা হিসেবে আওয়ামী লীগের কোথাও তার নাম নেই’ ইত্যাদি ইত্যাদি।এভাবে একটি অপরাধের জন্য আওয়ামী লীগের পেছনে কর্মীর দীর্ঘদিনের শ্রমকে অস্বীকার করা হয়।কিন্তু ভুল বা অপরাধ করলে কর্মীকে অস্বীকার করতে হবে কেন? এই নেতারা কেন বিশ্বাস করেন না যে, আওয়ামী লীগের লোকেরাও অপরাধ করতে পারে।দেশের লক্ষ লক্ষ লোক আওয়ামী লীগকে সমর্থন করে, সকলের নাম আওয়ামী লীগের তালিকায় থাকার কথা নয়।",
       "লক্ষ লক্ষ লোক আওয়ামী লীগকে সমর্থন করে বলেই মারাত্মক ঝড়-ঝাপটায়ও এই সংগঠনটি টিকে ছিলো এবং এখনো টিকে আছে।কিন্তু মেধাবী সৃজনশীল কেউ আওয়ামী লীগে আসতে চাইলেও তাদের পাত্তা দেওয়া হয় না- ‘কাওয়্যা’, ‘হাইব্রিড’, ‘অনুপ্রবেশকারী’ ইত্যাদি অমার্জিত, অশোভনীয় কথা বলে দূরে সরিয়ে দেয়া হয়।তাই আওয়ামী লীগ লাটিমের মতো ঘুরছে, এগুচ্ছে না।জ্ঞানের সীমাবদ্ধতার কারণে লাটিমের এই বৃত্তাবদ্ধ ঘোরাকে তারা দলের অগ্রগতি মনে করছেন।বিএনপি’র মেজর আক্তারুজ্জমান এক টকশোতে বলেছিলেন, ‘আমি কখনো আওয়ামী লীগ করবো না, কারণ আওয়ামী লীগ রক্ষণশীল; বিএনপি আমাকে বহুবার বহিস্কার করেও আবার টেনে নিয়েছে, আওয়ামী লীগ হলে নিতো না’।এই একটি কারণে কোন রাজাকারের ছেলে মুক্তিযুদ্ধের পক্ষে আসতে ভয় পায়, কারণ তাকে ‘রাজাকারের পোলা’ বলে দূরে সরিয়ে রাখার সর্বাত্মক প্রচেষ্টা নেয়া হয়।অন্যদিকে মুক্তিযুদ্ধ বিরোধীদের কিন্তু এত সূচিবায়ু নেই; তারা কাউকে তাদের আদর্শে আনতে তার চৌদ্দগোষ্ঠীর হিসাব নেয় না।তাই রাজাকারের সন্তান মুক্তিযুদ্ধের পক্ষে আসার সুযোগ না পেলেও মুক্তিযুদ্ধের চেতনাধারী সন্তানেরা মুক্তযুদ্ধ বিরোধীদের দলে অনবরত ভীড়ছে।অন্যদিকে যারা মুক্তবুদ্ধির, অসাম্প্রদায়িক, মানবিক ও মুক্তিযুদ্ধের পক্ষশক্তির তারা ক্রমশ নিষ্ক্রিয় ও হতোদ্যম হয়ে পড়ছেন।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘জনমত গঠনে সামাজিক যোগাযোগ মাধ্যম’ returned different Bitu posts dated ১০ September ২০১৭, ১৯ December ২০২১, ২০ January ২০২২, ২ April ২০২২, and June ২০২৬, but no matching ৭ January ২০২৩ article body. The broader search ‘সামাজিক যোগাযোগ মাধ্যম’ produced the same type of differently titled posts. No publication metadata or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2086,7 +2087,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-01-12",
     publishedDateLabel: "১২ জানুয়ারি ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/100601",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2103,7 +2104,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ভারতকে তুষ্ট করতে সম্ভবত বিএনপি ঊনবিংশতিতম দফায় বাংলাদেশের ভূখণ্ডের ভেতর কোনো রকম সন্ত্রাসী তৎপরতা করতে দেওয়া হবে না মর্মে ঘোষণা দিয়েছে।এই ঘোষণায় জঙ্গিবাদের বিরুদ্ধেও প্রতিশ্রুতি রয়েছে।বিংশতিতম  দফায় প্রতিরক্ষা বাহিনীকে শক্তিশালী করার কথা বলা হয়েছে।একবিংশতিতম  দফায় ক্ষমতার বিকেন্দ্রীকরণের কথা বলা হয়েছে।দ্বাবিংশতিতম দফায় মুক্তিযুদ্ধে শহীদদের তালিকা প্রণয়নের উল্লেখ রয়েছে।আধুনিক ও যুগোপযোগী যুব উন্নয়ন নীতিমালা প্রণয়নের কথা বলা হয়েছে ত্রয়োবিংশতিতম দফায়।চতুর্বিংশতিতম দফায় নারীর ক্ষমতায়ন নিশ্চিত করার লক্ষ্যে সুনির্দিষ্ট কর্মসূচি গ্রহণ করার উল্লেখ রয়েছে।পঞ্চবিংশতিতম ও ষষ্ঠবিংশতিতম  দফায় চাহিদা ও জ্ঞানভিত্তিক শিক্ষাকে প্রাধান্য দেওয়া এবং সবার জন্য স্বাস্থ্যনীতি প্রণয়নের কথার উল্লেখ রয়েছে।শেষ দফায় কৃষিপণ্যের ন্যায্যমূল্য নিশ্চিত করা ছাড়াও কৃষি বীমা প্রবর্তনের প্রতিশ্রুতি দেওয়া হয়েছে।",
       "ক্ষমতায় গেলে বিএনপি কী কী করবে তার সুনির্দিষ্ট কর্মপন্থা এই সাতাশ দফায় উল্লেখ করা হয়েছে।ক্ষমতায় গেলে বিএনপি তত্ত্বাবধায়ক সরকার ব্যবস্থা প্রবর্তন করবে; এতে প্রমাণিত হয় এবার তারা দলীয় সরকারের অধীনেই নির্বাচন করবে।রাষ্ট্রকে ধর্মমুক্ত করার বিএনপি’র প্রতিশ্রুতিকে প্রশংসা করতে হয়।তবে তাদের রাষ্ট্র-কাঠামো মেরামতের কথা  না বলে সরকার-কাঠামো মেরামতের কথা বলা উচিত ছিল।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘রাষ্ট্র-কাঠামো মেরামতে বিএনপি’র ২৭ দফা’ returned no result. The broader search ‘২৭ দফা’ surfaced unrelated posts by other accounts and no attributable Zeauddin Ahmed Bitu column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2130,7 +2131,7 @@ export const folderArticles: ArchiveArticle[] = [
       "মার্কিন যুক্তরাষ্ট্র শক্তিশালী দেশ।তার মোড়লপনার কথা কারও অজানা নয়। ক্ষমতায় টিকে থাকতে হলে আমেরিকার আশীর্বাদ প্রয়োজন।পাকিস্তানের ক্ষমতাচ্যুত প্রধানমন্ত্রী ইমরান খান তো কোন রাখঢাক না রেখেই তার ক্ষমতা হারানোর জন্য আমেরিকা দায়ী করছেন। আমেরিকার কথামত না চলার কারণে পানামার সামরিক একনায়ক জেনারেল ম্যানুয়েল নরিয়েগাকে তার দেশ থেকে আমেরিকার সেনাবাহিনী জোর করে উঠিয়ে নিয়ে আমেরিকার আদালতে বিচার করে জেলখানায় রেখে দিয়েছিল।আমেরিকা কিন্তু ভারতকে সমীহ করে চলছে, কারণ রাশিয়ার এই জাহাজটি বাংলাদেশে আসার আগে ভারতের কেরালা বন্দরে পণ্য খালাস করেছে এবং জাহাজ ফেরত যাওয়ার পথে আমাদের পণ্যগুলো ভারতে খালাস করে রেখে গেছে।বিপদ শুধু আমাদের মতো গরীব দেশের।রাশিয়া এবং আমেরিকা উভয় দেশই এই জাহাজ নিয়ে বাংলাদেশকে হুমকি দিচ্ছে, আমেরিকার হুমকি হজম করার ক্ষমতা বাংলাদেশের নেই।আমেরিকার নিষেধাজ্ঞা থাকা জাহাজ মোংলা বন্দরে প্রবেশ করতে দিলে বাংলাদেশের উপর আমেরিকা ও ইউরোপের নিষেধাজ্ঞা আসার সম্ভাবনা ছিল।১৯৭৪ সনে আমেরিকার নিষেধাজ্ঞা অমান্য করে কিউবায় চটের বস্তা বিক্রি করায় আমেরিকা বাংলাদেশে দুর্বিষহ দুর্ভিক্ষ সৃষ্টি করতে সমর্থ হয়েছিল।আমেরিকা এবং ইউরোপে আমাদের পোষাক রপ্তানি বন্ধ হয়ে গেলে বাংলাদেশ গভীর সঙ্কটে নিপতিত হবে।",
       "তবে আমেরিকা আওয়ামী লীগ সরকারের বিরোধী নয়, একটু ধাক্কা দিয়ে নিজের শক্তি ও প্রভাব-প্রতিপত্তি শুধু স্মরণ করিয়ে দিয়েছে।রাশিয়ার জাহাজ ফেরত দেওয়ার সাথে সাথে আমেরিকার সুর কিছুটা নমনীয় হয়েছে, অবাধ ও সুষ্ঠু নির্বাচন করার ব্যাপারে প্রধানমন্ত্রীর বক্তব্যকে আমেরিকা সাধুবাদ জানিয়েছে।তাই রাশিয়ার জাহাজ ফেরত দেওয়ার ক্ষেত্রে বাংলাদেশ সরকারের অবস্থান যুক্তিযুক্ত।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘রাশিয়ার জাহাজ ফেরত দেওয়ার সিদ্ধান্ত যুক্তিযুক্ত’ returned no result. The broader search ‘রাশিয়ার জাহাজ’ surfaced unrelated Bitu posts dated ২৪ January ২০২১ and ২৫ July ২০২১, not the target ১৪ January ২০২৩ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2156,7 +2157,7 @@ export const folderArticles: ArchiveArticle[] = [
       "১৯৯৬ সনে ক্ষমতায় আসার পাঁচ বছর পর কোন বাকবিতণ্ডা ছাড়াই আওয়ামী লীগ সরকার তত্ত্বাবধায়ক সরকারের হাতে ক্ষমতা ছেড়ে দিয়ে সরে যায়।কিন্তু আওয়ামী লীগের দুর্ভাগ্য হল, ক্ষমতায় অধিষ্ঠিত হওয়ার আগেই আওয়ামী লীগকে শায়েস্তা করার কলাকৌশল আবিস্কারে তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা বিচারপতি লতিফুর রহমান হোমওয়ার্ক করে রেখেছিলেন।নির্বাচনী মাঠে শুধু আওয়ামী লীগের কর্মীদের ঘর ছাড়া করা হয়েছিল, ফলে নির্বাচনে যা হবার তাই হয়েছে, বিএনপি দুই তৃতীয়াংশ আসনে জয়লাভ করে ক্ষমতায় আসে।তত্ত্বাবধায়ক সরকারের এমন পক্ষপাতমূলক আচরণের কারণে নির্বাচনী মাঠ বিএনপি’র দখলে চলে যায়, ফলে নির্বাচন কমিশনের নির্বাচন নিয়ে মাথা ঘামাতে হয়নি, নির্বাচন কমিশন ছিল সকল সমালোচনার উর্ধে।কিন্তু ক্ষমতা ছাড়ার আগে বিএনপি বিচারপতিদের চাকুরীর মেয়াদ দুই বছর বাড়িয়ে দেয় যাতে তত্ত্বাবধায়ক সরকারের প্রধান উপদেষ্টা তাদের আজ্ঞাবহ হয়।প্রধান উপদেষ্টাকে নিজেদের আজ্ঞাবহ করার ব্যাপারে বিএনপি’র পরিকল্পনা বিরোধী দলের তীব্র আন্দোলনে ভণ্ডুল হয়ে গেলে তারা অন্য পরিকল্পনায় তাদের দলীয় প্রেসিডেন্ট অধ্যাপক ড. ইয়াজউদ্দিন আহমেদকে তত্ত্বাবধায়ক সরকারের প্রধান করে তত্ত্বাবধায়ক সরকার ব্যবস্থাটিকেই তাৎপর্যহীন করে তোলে। এই অবস্থায় ক্ষমতায় আসে সেনা সমর্থিত ফখরুদ্দিন সরকার।এই সরকারের আমলে গঠিত নির্বাচন কমিশনের ভূমিকা খুব বেশী অনুভূত হয়নি।আওয়ামী লীগ এবং বিএনপি উভয় দল সেনা সমর্থিত সরকারের যাঁতাকলে পড়েছিল; তবে বিএনপি থেকে ক্ষমতা গ্রহণ করায় বিএনপি’র প্রতি ফখরউদ্দিন সরকারের আক্রোশ ছিল অধিক।ফলে লতিফুর রহমানের সময় নির্বাচনে আওয়ামী লীগের যে অবস্থা হয়েছিল,  বিএনপি’র একই অবস্থা হয়েছিল ফখরউদ্দিন সরকারের আমলে।এই সময়ের নির্বাচন কমিশন নিয়েও কেউ উচ্চবাচ্য করেনি।",
       "পৃথিবীর প্রায় সব দেশেই দলীয় সরকারের অধীনে নির্বাচন হয়, নির্বাচনের সময় দলীয় সরকার তত্ত্বাবধায়ক সরকারের মতো দায়িত্ব পালন করে, জাতীয় ইস্যু নিয়ে নীতি নির্ধারণমূলক কোন সিদ্ধান্ত গ্রহণ করে না।নির্বাচনকালীন দলীয় সরকারের ভূমিকা নিয়ে কোন প্রশ্ন উত্থাপিত হয় না, কারণ নির্বাচন সুষ্ঠু হয়।কিন্তু আমাদের দেশে ক্ষমতাসীন দলীয় সরকারের প্রভাব মুক্ত নির্বাচন প্রায় অসম্ভব।বাংলাদেশের প্রথম প্রধান নির্বাচন কমিশনার বিচারপতি মুহাম্মদ ইদ্রিসও নির্বাচনের মাঠকে ভয়ভীতি মুক্ত রাখতে পারেননি।তারপর প্রধান নির্বাচন কমিশনার বিচারপতি নূরুল ইসলাম এবং বিচারপতি এ টি এম মাসুদ ছিলেন জিয়াউর রহমান এবং হোসেন মোহাম্মদ এরশাদের আজ্ঞাবহ।পরবর্তীকালের  প্রধান নির্বাচন কমিশনার বিচারপতি সুলতান হোসেন খান, বিচারপতি আবদুর রউফ, বিচারপতি সাদেক, মোহাম্মদ আবু হেনা, এম এ সাঈদ, বিচারপতি এম এ আজিজ, এ টি এম শামসুল হুদা, কে এম নুরুল হুদা কেউই বিরোধী দল এবং নির্বাচনে পরাজিত দলের কাছে গ্রহণযোগ্য ছিলেন না।কারণ এরা কেউই ভারতের প্রধান নির্বাচন কমিশনার টিএন সেশনের মতো বলতে পারেননি যে, নির্বাচনের ব্যাপারে প্রেসিডেন্ট বা প্রধানমন্ত্রী নন, নির্বাচন কমিশনের সিদ্ধান্তই চুড়ান্ত।এই প্রধান নির্বাচন কমিশনারদের মধ্যে অনেকে তত্ত্বাবধায়ক সরকারের অনুগত ও আজ্ঞাবহ ছিল।কোন দলের প্রতি তত্ত্বাবধায়ক সরকারের বিরাগ আচরণে নির্বাচন কমিশন বাধা দেয়নি, বলেনি যে, তত্ত্বাবধায়ক সরকারের পক্ষপাতমূলক অযাচিত হস্তক্ষেপে নির্বাচনের পরিবেশ নষ্ট হচ্ছে।দলীয় সরকার বা তত্ত্বাবধায়ক সরকারের অন্যায় হস্তক্ষেপ রুখে দিয়ে জনগণের মধ্যে সুষ্ঠু ও নিরপেক্ষ নির্বাচনের আস্থা ফিরিয়ে আনার দায়িত্ব নির্বাচন কমিশনের।দেশের সর্বোচ্চ আদালতের রায় অনুযায়ী তত্ত্বাবধায়ক সরকার গঠন করার কোন সুযোগ নেই।সংসদে প্রতিনিধিত্বের ভিত্তিতে সংশ্লিষ্ট সাংসদের নিয়ে সরকার গঠন করার বিষয়টি বিবেচনা করার সুযোগ থাকলেও সুষ্ঠু ও নিরপেক্ষ নির্বাচনে নির্বাচন কমিশনকে সাংবিধানিক দায়িত্ব পালনে সাংবিধানিক ক্ষমতা প্রয়োগ করার কোন বিকল্প নেই।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘নির্বাচন কমিশনের বিশ্বাসযোগ্যতা’ returned a differently titled Bitu column dated ৯ February ২০২০, ‘আমি ভোট দিয়েছি’. The broader search ‘নির্বাচন কমিশন’ surfaced unrelated Bitu columns from ২০১৯, ২০২১, ২০২৫, and ২০২৬, plus other-account posts. No matching ২১ January ২০২৩ article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2167,7 +2168,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-01-23",
     publishedDateLabel: "২৩ জানুয়ারি ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/11100/1674449358",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2182,7 +2183,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাংলাদেশের বিরোধী দলগুলো এখন জনগণের চেয়ে আমেরিকাকে বেশী  বিশ্বাস করে।ইদানীং বাংলাদেশের কিছু লোক বিশেষ করে যারা আওয়ামী লীগ বিরোধী তারা আমেরিকার প্রশংসায় পঞ্চমুখ।আমেরিকার প্রশংসায় শুধু বিএনপি বা জামায়াত নয়, বাম ঘরানার রাজনৈতিক নেতা-কর্মীরাও আমেরিকার প্রশংসা করছে।কিন্তু আমেরিকাকে নিয়ে কারো তুষ্ট হওয়ার কোন কারণ নেই; কারণ আমেরিকার শত্রু-মিত্র তৈরি হতে খুব বেশী সময় লাগে না।আওয়ামী লীগ সরকারকে কিছুদিন একটু ঝাঁকুনি দেওয়ার চেষ্টা করেছে, ফেলে দেওয়ার ইচ্ছে বোধ হয় নেই।হিলারি ক্লিনটনকে শেখ হাসিনা কী বলেছেন, মার্কিন রাষ্ট্রদূতকে আওয়ামী লীগের সাধারণ সম্পাদক সৈয়দ আশরাফুল ইসলাম কতটুকু কটুবাক্য উচ্চারণ করেছিলেন তা আমেরিকার জন্য কোন খুব বেশী তাৎপর্যপূর্ণ ইস্যু নয়; তাদের কাছে প্রধান ইস্যু হচ্ছে আন্তর্জাতিক পরিমণ্ডলে বাংলাদেশ আমেরিকার স্বার্থ বিরোধী কোন কাজ করছি কিনা।",
       "সাম্প্রতিককালে বাংলাদেশ সম্পর্কিত আমেরিকার বিভিন্ন বিবৃতি ও কর্মকাণ্ড আওয়ামী লীগ সরকারের জন্য বিব্রতকর হয়ে দাঁড়িয়েছে।র‍্যাব সৃষ্টি হয়েছে ২০০৪ সনে বিএনপি'র আমলে, বিএনপি'র আমলেও বিচার বহির্ভূত হত্যাকাণ্ড হয়েছে, ক্রসফায়ারে লোক মারা গেছে এবং তা নিরবচ্ছিন্নভাবে চলেছে।এই সকল হত্যাকাণ্ডের বিরুদ্ধে কয়েক হাজার যুক্তি থাকলেও একটি কথা অনস্বীকার্য যে, ক্রসফায়ারে কিছু সন্ত্রাসী মারা না গেলে আজ বাংলাদেশ নরকে পরিণত হতো।প্রশ্ন হচ্ছে, আমেরিকা র‍্যাবের উপর নিষেধাজ্ঞা আরোপে এত দেরী করল কেন? মিসরে নির্বাচিত সরকারকে জোরপূর্বক হটিয়ে সেনা শাসন কায়েম হলো, সউদি আরবের লোক তুরস্কে গিয়ে তাদের দূতাবাসে ডেকে নিয়ে একজন সউদি সাংবাদিককে করাত দিয়ে কেটে টুকরো টুকরো করলো - আমেরিকা কি এই দুটি দেশের উপর কোন নিষেধাজ্ঞা দিয়েছে? আরও জঘন্য অপরাধ করলেও নিষেধাজ্ঞা দেবে না, কারণ এই দুটি দেশ আমেরিকান স্বার্থের বিরোধী নয়। ক্ষমতায় টিকে থাকতে হলে, দেশের সমৃদ্ধি কাঙ্খিত হলে আমেরিকার আশীর্বাদ প্রয়োজন।আওয়ামী লীগ সরকার একটু কৌশলী হলে আমেরিকা রাতারাতি তাদের ভোল পাল্টিয়ে ফেলবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Dainik Bangla’s publisher page confirms the author, the ২৩ January ২০২৩ date, the matching title variant ‘হার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের’, and the opening article text. The canonical publisher URL is recorded; the local Facebook-derived longer headline is retained.",
     authorCredit: ""
   },
   {
@@ -2193,7 +2194,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-01-26",
     publishedDateLabel: "২৬ জানুয়ারি ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/101806",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2209,7 +2210,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আমাদের রপ্তানি আয়ের প্রায় ৮০ শতাংশ আসে শুধু গার্মেন্টস থেকে।আমাদের রপ্তানি আয় কেবল একটি পণ্যের মধ্যে সীমাবদ্ধ বিধায় বাংলাদেশ খুব স্বস্তিতে নেই।আমাদের রপ্তানির চেয়ে আমদানি খরচ অনেক বেশী এবং এই বেশী টাকা সমন্বয় করা হয় প্রবাসীদের পাঠানো রেমিট্যান্স থেকে, প্রাবাসীদের পাঠানো টাকায় সংকুলান না হলে রিজার্ভ থেকে পরিশোধ করা হয়।২০২১ সনের তুলনায় ২০২২ সনে বৈধ পথে ৭৮ কোটি ৭৫ লাখ ডলার রেমিট্যান্স কম এসেছে।তবে গত নভেম্বরের তুলনায় ডিসেম্বর মাসে প্রবাসীদের পাঠানো রেমিট্যান্স সাড়ে ১০ কোটি ডলার বেড়েছে।২০২২ সনের ৩১ ডিসেম্বরে রিজার্ভ ছিল ৩৩.৭৭ বিলিয়ন ডলার, ইতোমধ্য হয়তো আরও এক বিলিয়ন কমেছে।বাংলাদেশে বিভিন্ন উন্নয়ন প্রকল্পে ব্যয়িত ৮ বিলিয়ন ডলার রিজার্ভের হিসাব থেকে আইএমএফ বাদ দিতে পরামর্শ দিয়েছে; তবে বিনিয়োগের এই ৮ বিলিয়ন ডলার নিয়মিত ফেরত আসছে এবং তা এখন ৫ বিলিয়ন ডলারে হ্রাস পেয়েছে।",
       "সরকার আছে উভয় সঙ্কটে- একদিকে বিদেশি পণ্যের সীমাহীন চাহিদা, অন্যদিকে বৈদেশিক মুদ্রার সীমাবদ্ধতা।স্বস্তির বিষয় হচ্ছে, বিলাসী দ্রব্যসহ কিছু পণ্যের আমদানি ধীরে ধীরে কমছে এবং রপ্তানি কিছুটা বাড়ছে।২০২১ সনের ডিসেম্বরের তুলনায় ২০২২ সনের  ডিসেম্বরে রপ্তানি আয় বেড়েছে ৯.৩৩ শতাংশ।তবে প্রবাসীদের রেমিট্যান্স খুব বেশী বাড়ছে না; ২০২১ সনের ডিসেম্বরের তুলনায় ২০২২ সনের ডিসেম্বরে বেড়েছে মাত্র ৪.২ শতাংশ এবং ২০২১ সনের জুলাই-ডিসেম্বরের তুলনায় ২০২২ সনের জুলাই-ডিসেম্বরে রেমিট্যান্সের প্রবৃদ্ধি ২.৫ শতাংশ।অর্থ পাচার রোধ করা সম্ভব হলে বৈদেশিক মুদ্রার সঙ্কট কাটানো সম্ভব হবে।বাংলাদেশ ব্যাংকের নির্দেশে তপশীলি  ব্যাংকগুলো তাদের স্ব স্ব ব্যাংকে স্থাপিত এলসি গভীরভাবে মনিটর করছে, পণ্যের প্রকৃত দরের সাথে এলসি’র ইনভয়েস মূল্য যাচাই করছে।প্রবাসীদের ব্যাংকিং চ্যানেলে রেমিট্যান্স প্রেরণে উৎসাহ দিতে চলতি জানুয়ারি মাস থেকে প্রণোদনা দুই শতাংশ থেকে বৃদ্ধি করে আড়াই শতাংশ করা হয়েছে।যারা আওয়ামী লীগ সরকারের ঘোর বিরোধী তারা শতভাগ প্রণোদনা দিলেও এই মুহুর্তে বৈধ পথে অর্থ পাঠাবে না।এই অবস্থায় প্রয়োজন হুণ্ডি ব্যবসায়ীদের কঠোর হস্তে দমন করা এবং নেতিবাচক প্রচারণা থেকে সাধারণ প্রবাসীদের মুক্ত রাখা।",
     ] }],
-    authorNote: "",
+    authorNote: "Facebook-profile search for ‘বিশ্ব মন্দায় বাংলাদেশ’ returned differently titled Bitu columns dated ১২ April ২০২০, ৫ July ২০২০, ২৪ January ২০২১, and ১৩ June ২০২১, rather than the target ২৬ January ২০২৩ title. The broader search ‘বিশ্ব মন্দা’ likewise surfaced only differently titled ২০২০–২০২১ posts. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2235,7 +2236,7 @@ export const folderArticles: ArchiveArticle[] = [
       "সৃষ্টি তত্ত্ব নিয়ে বিজ্ঞান এবং ধর্ম দুই মেরুতে অবস্থান নিয়ে আছে।মানুষের উৎপত্তি সম্পর্কে প্রধান প্রধান ধর্মীয় ব্যাখ্যা সর্বজনীন; প্রায় সব ধর্মই সৃষ্টিকর্তায় বিশ্বাসী, পরকালে বিশ্বাসী, সৃষ্টিকর্তার অখণ্ড ক্ষমতায় বিশ্বাসী। বিভিন্ন ক্ষেত্রে সাধারণ ধার্মিকেরা বিজ্ঞানের সাথে কিছু সমঝোতা করে চললেও বিবর্তনবাদের সাথে সমঝোতা একেবারেই সম্ভব হয়; কারণ বিবর্তনবাদ যতই বিজ্ঞান ভিত্তিক হোক না কেন, এই মতবাদ ইহুদি, খ্রিস্টান এবং মুসলমানদের ঈমান-আক্বিদা বিরোধী মতবাদ, এই মতবাদে বিশ্বাস করলে ঈমান থাকে না।কারণ, কুরআনে আল্লাহ তাআলা স্পষ্টভাবে বলেছেন, মানবজাতির উৎপত্তি হযরত আদম (আ.) থেকেই শুরু হয়েছে।ধর্ম ও সৃষ্টিকর্তার অস্তিত্ব একান্তভাবে বিশ্বাস-নির্ভর।তাই বিজ্ঞানের সত্য বা যুক্তি দিয়ে এই বিশ্বাস খণ্ডন করা যায় না।সৃষ্টিকর্তার সৃষ্টিতত্ত্বকে অস্বীকার করে বিবর্তনবাদ প্রায় সকল ধর্মকে অস্তিত্বহীন করে দিয়েছে।ধর্মের তথ্যের উপর প্রশ্নাতীত বিশ্বাস থাকায় আমরা আর কোন সত্য জানার তাগাদা বোধ করি না; কারণ একই বিষয়ে দুটি সত্য গ্রহণ করার কোন সুযোগ নেই।ধর্মের সাথে না মিললে বিজ্ঞানকে দ্বিধাহীন চিত্তে অস্বীকার করার জন্য আমরা সদা প্রস্তুত।",
       "তবে বিশ্বাস করার প্রবৃত্তি আর সত্যানুসন্ধানের আগ্রহ এক বস্তু নয়।পদার্থ বিজ্ঞান, রসায়ন, জীব বিজ্ঞান, জ্যোতি বিজ্ঞান, সমাজ বিজ্ঞান, নৃ বিজ্ঞানের বহু বিষয়বস্তু ধর্মের সাথে সাংঘর্ষিক হলেও এই সকল সাবজেক্ট যারা পড়েছে তারা সকলে ধর্মের সৃষ্টি তত্ত্বের উপর বিশ্বাস হারিয়েছে এমন নজির নেই।জীববিজ্ঞানে স্নাতকোত্তর ডিগ্রিধারী অধিকাংশ মুসলিম ছাত্র একনিষ্ঠ ধার্মিক।তাই বিবর্তনবাদ পড়লেই পথভ্রষ্ট হয় না।প্রকৃতপক্ষে যারা বিবর্তনবাদের বিরুদ্ধে অবস্থান নিয়েছেন তারাই বেশী বেশী বিবর্তনবাদ পড়ছেন; তাদের মধ্যে অনেকেই আবার ইচ্ছাকৃতভাবে বানর থেকে মানুষের সৃ্ষ্টি বলে ভুল প্রচার করছেন।এই ক্ষেত্রে অনেকে বিশেষ করে স্কুলের সিলেবাস থেকে বিতর্কিত ডারউইন তত্ত্ব বাদ দেওয়ার দাবী করছেন; তাদের যুক্তি হচ্ছে, শিশু বয়সে মস্তিস্কে যা ঢুকে পরিণত বয়সেও জ্ঞান বা প্রবল যুক্তি দ্বারা তা অপসারণ করা যায় না।তাহলে তো ধর্মের ক্ষেত্রেও একই কথা প্রযোজ্য।তবে এটা সত্য, বিজ্ঞান চর্চায় বাছবিচার করে বিজ্ঞানকে সংক্ষিপ্ত বা বনসাই বানানোর চেষ্টা না করে বরং আমাদের জন্য বিজ্ঞান চর্চা বন্ধ করে দেওয়াই  শ্রেয়।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘পাঠ্য বইতে ডারউইনের তত্ত্ব’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘ডারউইনের তত্ত্ব’ surfaced a different Bitu column dated ২৩ April ২০২২, ‘বিশ্বাস আর যুক্তির দ্বন্দ্ব’, not this ২৮ January ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2262,7 +2263,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আমাদের বাঙ্গালী জাতি সব সময় মন্ত্রীদের পদত্যাগ কামনা করে থাকে।কোথাও কোন সমস্যা হলে, দুর্ঘটনা ঘটলে সংশ্লিষ্ট মন্ত্রী দায়ভার নিয়ে পদত্যাগ না করলে ক্ষোভ প্রকাশ করা হয়।একটি মন্ত্রণালয়ে প্রতিদিন অসংখ্য কাজ হয়, সব কাজের দায়ভার নিয়ে মন্ত্রীকে পদত্যাগ করতে হলে দেশে মন্ত্রীর আকাল পড়ে যাবে।এক রেল দুর্ঘটনায় বহু প্রাণহানির ঘটনার দায় স্বীকার করে নিয়ে লাল বাহাদুর শাস্ত্রী রেলমন্ত্রীর পদ থেকে ইস্তফা দেন।তার এই নজিরবিহীন ব্যক্তিত্ব ও মানসিকতা দেশবাসীর ভূয়সী প্রশংসা এনে দিয়েছিল।কিন্তু রেল দুর্ঘটনার জন্য রেলমন্ত্রী দায়ী হবেন কেন? প্রযুক্তির সব কিছু নিয়ন্ত্রণ বা মনিটর করা কোন মন্ত্রীর পক্ষে প্রায় অসম্ভব।দুর্ঘটনার জন্য কারো অবহেলা থাকলে তাকে দায়ী করে শাস্তি দেওয়াই শ্রেয়।তবে কোন অন্যায় কাজে মন্ত্রীর সংশ্লিষ্টতা থাকলে তাকে শুধু পদত্যাগ নয়, আইনের মুখোমুখী করা জরুরী।",
       "পদত্যাগের পর জেসিণ্ডা আরডার্নকেও  তুলোধুনো করা হচ্ছে- কেউ বলছে সামনের নির্বাচনে তার লেবার পার্টির পরাজয় ঠেকানোর মতো কৌশলী নন বলেই দায়িত্ব থেকে জেসিণ্ডা আগেভাগে সরে পড়েছেন।তবে জেসিণ্ডা আরডার্নের বিরুদ্ধে দুর্নীতির কোন অভিযোগ নেই, দেশ শাসনে তার আন্তরিকতার অভাবের কথা কেউ বলছেন না।তাকে অনেক চ্যালেঞ্জের মোকাবিলা করতে হলেও তিনি ছিলেন কালিমা মুক্ত; তাই জেসিণ্ডা আরডার্নের পদত্যাগ হচ্ছে একজন নির্লোভ, নিরহাঙ্কারী, দেশপ্রমিকের উজ্জ্বল দৃষ্টান্তের ইতিহাস সৃষ্টি।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘ক্ষমতার মোহমুক্ত এক রাজনীতিক’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘ক্ষমতার মোহমুক্ত’ also returned no attributable matching result. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2273,7 +2274,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-02-10",
     publishedDateLabel: "১০ ফেব্রুয়ারি ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/103199",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2289,7 +2290,7 @@ export const folderArticles: ArchiveArticle[] = [
       "শ্রীলঙ্কার মতো পাকিস্তানেও পরিবারতন্ত্র কায়েম হয়েছে।প্রধানমন্ত্রী নওয়াজ শরীফের শাসনামলে ব্যাপক দুর্নীতির অভিযোগ উঠে, তিনি নিজেও দুর্নীতির দায়ে ক্ষমতা হারান।তার ছোট ভাই বর্তমান প্রধানমন্ত্রী শাহবাজ শরীফকে  ২০২০ সনে দুর্নীতির  মামলায় গ্রেফতার করা হয়েছিল।পান্জাব  প্রদেশের মুখ্যমন্ত্রী তার ছেলে হামজার বিরুদ্ধেও দুর্নীতির অভিযোগ রয়েছে।পরিবারতন্ত্র ছাড়াও পাকিস্তানে আরও দুটি শক্তি অপ্রতিদ্বন্দ্বী- একটি সেনাবাহিনী, অন্যটি ধর্মীয়ভিত্তিক রাজনীতি।পাকিস্তানি তালেবান ও আফগান তালেবানরা পাকিস্তানকে আতঙ্কিত করে তুলেছে।অন্যদিকে সেনাবাহিনীর মর্জির উপর পাকিস্তানের গণতান্ত্রিক সরকারের আয়ু নির্ভর করে।১৯৯৭ সনে প্রধানমন্ত্রী-ইলেক্ট  নেওয়াজ শরীফের শপথ গ্রহণ অনুষ্ঠানে যাওয়ার পথে রাস্তায় তার গাড়ি সিগন্যালে দাঁড় করিয়ে রাখা হয় সেনাবাহিনী প্রধান জাহাঙ্গীর কারামাত প্রধানমন্ত্রীর শপথ অনুষ্ঠানে যাবেন বলে।সুইস ব্যাংকে পাকিস্তানিদের দেড় হাজারের মতো  অ্যাকাউন্টের হদিস পাওয়া গেছে; যার অধিকাংশই সেনা কর্মকর্তাদের।এদের এই অর্থ পাচারের তদন্ত করার ক্ষমতা পাকিস্তানের গণতান্ত্রিক সরকারের নেই। সেনাবাহিনী এবং ধর্মীয় গোষ্ঠী- এই দুটি শক্তিকে তুষ্ট রেখে শক্তিশালী অর্থনীতির সমৃদ্ধ দেশ গড়তে হলে যুদ্ধভিত্তিক অর্থনীতি থেকে পাকিস্তানকে বেরিয়ে আসতে হবে।কিন্তু এই দুটি শক্তি ভারত বিরোধিতায় এক।বড় অর্থনীতির দেশ ভারতের সঙ্গে অস্ত্র প্রতিযোগিতা চালিয়ে গেলে পাকিস্তান কাঙ্খিত উন্নতি করতে পারবে না।কিন্তু বিকল্প কোন উপায়ও নেই, কারণ উক্ত দুটি শক্তিকে অস্বীকার করে যুদ্ধভিত্তিক অর্থনীতি বাদ দেওয়া সহজ নয়।ভারতের সাথে কাশ্মীর নিয়ে শান্তিপূর্ণ আলোচনা শুরু করতে গিয়ে পাকিস্তানের প্রথম প্রধানমন্ত্রী লিয়াকত আলী খানকে জীবন দিতে হয়েছে।",
       "দীর্ঘদিন ধরেই দেশকে নেতৃত্ব দেওয়া নেতাদের ভুল নীতির কারণে পাকিস্তান আজ দেউলিয়ার দ্বারপ্রান্তে।বর্তমান প্রধানমন্ত্রী তা উপলব্ধি করতে পেরেছেন; প্রবল আর্থিক সঙ্কটের মধ্যে কাশ্মীর নিয়ে ভারতের সাথে আলোচনার প্রস্তাব দিয়েছেন তিনি।কারণ বিশ্বের বৃহত্তম অর্থনৈতিক দেশে পরিণত হতে চলেছে ভারত।তাই কেবল পারমাণবিক বোমা দিয়ে ভারতের সাথে প্রতিযোগিতা করলে পাকিস্তান ক্রমশ পেছনে হটতে থাকবে। পাকিস্তানের বর্তমান অর্থমন্ত্রী ইসহাক দারও বলছেন, ‘পাকিস্তান খেলাপি হবে না’; ব্যাপক ঋণ নিয়ে পাকিস্তান দেউলিয়া হওয়া থেকে আপাতত বেঁচে যাবে, কিন্তু এই বছর থেকে ১৫-২০ বিলিয়ন ডলার করে বৈদেশিক ঋণের কিস্তি পাকিস্তানকে পরিশোধ করতে হবে; ২০২১- ২০২২ অর্থবছরে পরিশোধ করতে হয়েছে ১৫ বিলিয়ন ডলার।ঋণ নিয়ে ঋণের কিস্তি পরিশোধ করতে গিয়ে শ্রীলঙ্কাকে শেষ পর্যন্ত চীনের নিকট নিজ ভূখণ্ড দীর্ঘমেয়াদে লিজ দেওয়ার প্রয়োজন হয়েছে, পাকিস্তান এমন অপমানজনক অবস্থায় পড়ুক তা কারো প্রত্যাশা নয়।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বিপর্যয়ের মুখোমুখি পাকিস্তানের অর্থনীতি’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘পাকিস্তানের অর্থনীতি’ returned unrelated or differently titled material, including other-account content and newer Bitu posts, but no match for this ১০ February ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2318,7 +2319,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাংলাদেশে গুজব বাড়ছে, গুজব রটনাকারী বাড়ছে; এই গুজবের জন্য অনেক নিরপরাধ লোককে উন্মত্ত জনতার রোষানলে জীবনও দিতে হচ্ছে।পাঠ্যপুস্তকের ইস্যু তৈরি করে সাম্প্রদায়িকতার বিষবাষ্প ছড়ানো হচ্ছে।অপপ্রচারে নটরডেম কলেজের ছাত্ররাও বিভ্রান্ত হয়েছে।ধর্মশিক্ষা বহির্ভূত বইগুলোতেও ইসলাম ধর্মশিক্ষার দাবি করা হচ্ছে।তাহলে স্কুল-কলেজ-বিশ্ববিদ্যালয় থাকার দরকার কী, সব মাদ্রাসা করে দিলেই হয়।বাইরের দেশের বিজাতীয় তুর্কি, আফগান, মোগল শাসনকে গৌরাবান্বিত কেন করা হয়নি সেজন্য বিদ্বেষ ছড়ানো হচ্ছে।ইংরেজদের মতো এরাও কিন্তু ভিন্ন দেশ থেকে এসে আমাদের ভারতবর্ষ শাসন করেছে, কোন কোন মুসলমান শাসক ইংরেজদের মতো লুটও করেছে।ইংরেজ ভালো, না ভিন দেশের মুসলমান শাসক ভালো তা ভিন্ন বিষয়।",
       "বাক স্বাধীনতা মানে মিথ্যা বলা নয়, এমন বাক স্বাধীনতার প্রয়োজন নেই।ইচ্ছে করে মিথ্যা বলার বাক স্বাধীনতা কণ্ঠ টিপে রোধ করা দরকার।ডিজিটাল আইনের অপপ্রয়োগ হয়, কিন্তু মিথ্যা ও গুজব রটনাকারীদের বিরুদ্ধে প্রয়োগ হয় না।তাহলে এই আইন রেখে লাভটা কী।ডিজিটাল আইন বাতিল করা হোক, মিথ্যা ও গুজব রটনাকারীদর জন্য সর্বোত্তম আইন হচ্ছে শরিয়া আইন, শরিয়া আইনের প্রয়োগ থাকলে অনেক ইমাম, আলেম ও ইউটিউবারের কর্মকাণ্ড আপনাআপনি সীমিত ও সংযত হয়ে যাবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘গুজব ঠেকানো যাচ্ছে না কেনো’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘গুজব’ surfaced an unrelated Bitu column dated ১৪ March ২০২১ and posts by other accounts, not this ১১ February ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2348,7 +2349,7 @@ export const folderArticles: ArchiveArticle[] = [
       "পররাষ্ট্র মন্ত্রণালয়ের প্রাক্তন সচিব এবং কলাম লেখক মহিউদ্দিন আহমদ তার ‘মুক্ত স্বদেশ মুক্ত বঙ্গবন্ধু’ নিবন্ধে ১৯৭২ সনের ৮ জানুয়ারি লণ্ডন হিথ্রো বিমানবন্দরে পাকিস্তান কারাগার থেকে মুক্তিপ্রাপ্ত বঙ্গবন্ধুকে রিসিভ করার কাহিনী বর্ণনা করেছেন।১৪ পৃষ্ঠার এই নিবন্ধে তিনি অজানা ইতিহাসের অনেক চমকপ্রদ তথ্যও অন্তর্ভুক্ত করেছেন।১৯৬৯ সনে দেশে উদ্ভুত সঙ্কট নিরসনে পাকিস্তানের প্রেসিডেন্ট আইয়ুব খানের আহুত গোল টেবিল বৈঠকে নবাবজাদা নসরুল্লাহ খানের নেতৃত্বে বিরোধী দলের অনেক রাজনৈতিক নেতা হাজির, কিন্তু বঙ্গবন্ধু  শেখ মুজিবুর রহমান বৈঠকে উপস্থিত না থাকায় আইয়ুব খান বৈঠক শুরু করছেন না।তখন ‘পাকিস্তান টাইমস’র সম্পাদক জেড এ সুলেরী সম্পাদকীয় কলামে লিখলেন, ‘অনুপস্থিত শেখ মুজিব ব্যতীত উপস্থিত ১০ জন রাজনৈতিক নেতার পক্ষে আলোচনা শুরু করা সম্ভব না হলে এই ১০ জনকে বাদ দিয়ে কেবল শেখ মুজিবের সাথে বৈঠক করাই শ্রেয়’।",
       "যাহিদ হোসেন তার ‘মুজিবনগর সরকার গঠন একটি গুরুত্বপূর্ণ পদক্ষেপ’ এবং সৈয়দ মাহবুব রশীদ ‘মুক্তিযুদ্ধে আমি’ নিবন্ধে প্রবাসী সরকারের সচিবালয়ে কাজ করার স্মৃতিচারণ করেছেন।মো. হুমায়ূন কবীর সেরনিয়াবাত ‘মুক্তযুদ্ধের স্মৃতি’ নিবন্ধে পাকিস্তান আমলে পূর্ব বাংলার প্রতি পশ্চিম পাকিস্তানের বৈষম্যমূলক আচরণের কিছু চিত্র তুলে ধরেছেন,  বৈষম্যের অফিসিয়াল গোপন তথ্য নিয়মিত বঙ্গবন্ধুকে তিনি সরবরাহ করতেন।বাংলাদেশ ব্যাংকের চট্টগ্রাম অফিসে ১৯৯৯- ২০০০ সনে আমি তার জুনিয়র সহকর্মী ছিলাম।রাজনৈতিক সংশ্লিষ্টতার কারণে ড. ডেনিস দিলীপ দত্তকে এনএসআই-এর চাপে ১৯৬৯ সনে ফিলিপিন্সে পাড়ি দিতে হয়।ফিলিপিন্সে পাকিস্তানের রাষ্ট্রদূত টাঙ্গাইলের খুররম খান পন্নী বাংলাদেশের আনুগত্য স্বীকার করলে ডেনিস দিলীপ দত্ত খুররম খান পন্নীর অনুরোধে প্রবাসী সরকারের পক্ষে ফিলিপিন্সে বাংলাদেশ দূতাবাসে যোগ দেন।দেশ স্বাধীন হওয়ার পর তিনি তার চার্চের যাজকের কাজে যোগ দেন।এই সকল তথ্যের সাক্ষাত তার লেখা ‘একাত্তরে আমি’ নিবন্ধ থেকে।তাদের অপর দুই সতীর্থ মো. খসরুজ্জমান চৌধুরী ও ড. আকবর আলী খান একাত্তরে কিশোরগঞ্জ ও হবিগঞ্জ মহকুমার প্রশাসক ছিলেন, তারাও মুক্তিযুদ্ধে গুরুত্বপূর্ণ ভূমিকা পালন করেন।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘বীর মুক্তিযোদ্ধাদের স্মরণে’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘মুক্তিযোদ্ধাদের স্মরণে’ also returned no attributable matching result. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2359,7 +2360,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-03-02",
     publishedDateLabel: "২ মার্চ ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.dainikbangla.com.bd/opinion/14572/1677726293",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2374,7 +2375,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাংলাদেশে নাকি ৮টি ভূতাত্ত্বিক চ্যুতি এলাকা সচল অবস্থায় রয়েছে।এছাড়া, বাংলাদেশের অবস্থান ভারতীয়, ইউরেশীয় এবং মায়ানমারের টেকটনিক প্লেটের মধ্যে।বাংলাদেশে ১৮২২ ও ১৯১৮ সনে মধুপুর ফল্টে বড় ভূমিকম্প হয়েছিল। ১৮৮৫ সনে ঢাকার কাছে মানিকগঞ্জে ৭.৫ মাত্রার একটি ভূমিকম্পের ইতিহাস রয়েছে।১৯১৮ সনে বাংলাদেশের শ্রীমঙ্গলে ৭.৬ মাত্রার ভূমিকম্প হয় এবং ২০০৭ সনে হয় ৬.০ মাত্রার।এছাড়াও ২০০৭ সন থেকে ২০০৮ সন পর্যন্ত ৯০টি ভূকম্পন নথিভুক্ত করা হয়ছে যার মধ্যে ৯ টি ভূমিকম্পের মাত্রা ছিলো ৫-এর উপরে। মতানৈক্য থাকলেও অনেক ভূতাত্ত্বিক ছোট ছোট ভূমিকম্প সংঘটন বড় ধরনের ভূমিকম্পের পূর্বাভাস বলে উল্লেখ করেন।অতীতের এসব রেকর্ডকে প্রাধান্য দিয়ে গবেষকরা বলছেন, যে কোনও সময় বাংলাদেশে রিখটার স্কেলে ৮ মাত্রার ভূমিকম্প আঘাত হানতে পারে এবং এজন্য এখন থেকেই আমাদের পূর্ব প্রস্তুতি ও সতর্কতা অবলম্বন করা উচিত। ঠিক কোথায় ও কখন ভূমিকম্প হবে তার আগাম খবর দেওয়া অসম্ভব।",
       "ভূমিকম্প মোকাবিলায় বাংলাদেশের প্রস্তুতি সম্পর্কে খুব বেশী জানা যায় না।২০১৩ সনে সাভারের শুধু একটি নয়তলা ভবন রানা প্লাজা ধ্বসে পড়ার পর আমাদের অসহায়ত্ব সারা বিশ্ব দেখেছে।বিল্ডিং কোড মেনে কেউ ভবন তৈরি করে না- এমন অভিযোগ অহর্নিশ শোনা যায়।কেন বিল্ডিং কোড মানা হয় না, না মানার অপরাধে কাউকে শাস্তির সম্মুখীন হতে হয়েছে কিনা, সরকারের দপ্তরে যারা মনিটরিং-এর দায়িত্বে তাদের জবাবদিহিতা কেন প্রতিষ্ঠা করা সম্ভব হচ্ছে না ইত্যাদির কোন উত্তর নেই।ভূমিকম্প মোকাবিলায়  আমাদের যে প্রস্তুতির অভাব রয়েছে তা দুর্যোগ ব্যবস্থাপনা ও ত্রাণ মন্ত্রণালয় স্বীকার করেছে।তুরস্কের বিশাল ধ্বংসযজ্ঞের জন্য এখন ত্রুটিপূর্ণ নির্মাণ কাঠামোকে দায়ী করা হচ্ছে এবং কর্তৃপক্ষ ধসে পড়া ভবনের সঙ্গে জড়িত কন্ট্রাক্টরদের শনাক্ত করে বহুজনকে ইতোমধ্যে আটক করেছে।এছাড়া ব্যবহৃত নির্মাণ সামগ্রীর মান নিরূপণে এখন ধ্বংসপ্রাপ্ত ভবনের নমুনাও সংগ্রহ করা হচ্ছে।আমাদের বাংলাদেশেও দুর্যোগ ব্যবস্থাপনা ও ত্রাণ মন্ত্রণালয় এবং রাজউকের কেউ জীবিত থাকলে ভূমিকম্পের পর বাড়ির জীবিত মালিকদের শাস্তি দেওয়ার জন্য খোঁজা হবে, তা সম্ভব হবে তখন, যখন পর্যাপ্ত পুলিশ ভূমিকম্পের আঘাত থেকে রক্ষা পাবে। See less",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘ভূমিকম্প মোকাবিলায় দেশ কতটা প্রস্তুত’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘ভূমিকম্প মোকাবিলা’ also returned no attributable matching result. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2401,7 +2402,7 @@ export const folderArticles: ArchiveArticle[] = [
       "র‍্যাগিং করে মজা বা রসিকতা করা ফৌজদারি অপরাধ।কাউকে কষ্ট দিয়ে, ছোট করে বা ভয় দেখিয়ে আনন্দ খোঁজা বিকৃত মানসিকতার পরিচায়ক।র‍্যাগিং-এর কারণে পৃথিবীর বিভিন্ন দেশে বিশেষ করে দক্ষিণ এশিয়ার দেশগুলোতে অনেক মেধাবী ছাত্র-ছাত্রী আত্মহত্যা করে বা কলেজ বিশ্ববিদ্যালয় ছেড়ে দেয়।কেন্দ্রের ছাত্র নেতারা র‍্যাগিং নির্মূলে তৎপর না হলে আজ্ঞাবহ হল প্রশাসনের পক্ষে তা করা সম্ভব হবে না।ছাত্রলীগ ক্ষমতা হারালে বিএনপি'র ছাত্রদল ক্ষমতায় আসবে এবং একইভাবে র‍্যাগিং করবে।ছাত্রলীগের নতুন কমিটির সভাপতি সাদ্দাম হোসেন ফুলপুরীকে ফোন করে ন্যায়বিচারের আশ্বাস দিয়েছেন।তিনি র‍্যাগিংয়ের জন্য শুধু ছাত্র সমাজকে নয়, বিশ্ববিদ্যালয় ও হল প্রশাসনকেও দায়ী করেছেন।দলীয় রাজনীতি আর তোষামোদী আচরণে অভ্যস্ত প্রশাসন নৈতিক শক্তি হারিয়ে ফেলেছে।",
       "দেশের ছাত্র সমাজকে ভদ্রতা শিখানোর নামে হেনস্তা করার বাহাদুরী থেকে সরিয়ে আনতে হলে প্রশাসনের নিরপেক্ষ আচরণে সক্রিয় হতে হবে, দোষীকে শাস্তি দেওয়ার সাহস দেখাতে হবে।ছাত্রলীগের পেশীশক্তি দেখে আওয়ামী লীগের তুষ্ট হওয়ার কিছু নেই; কারণ খালেদা জিয়াও বিএনপি’র ছাত্রদলের পেশীশক্তি নিয়ে এক সময় অহঙ্কার করতেন, তিনি বলতেন, আওয়ামী লীগকে দমানোর জন্য তার ছাত্রদলই যথেষ্ট।সেই ছাত্রদল এখন কই? এখন বিএনপি’র ছাত্রদল নিরব নিস্তব্ধ, বিএনপি ক্ষমতায় এলে ছাত্রলীগও এমন নিরব নিস্তব্ধ হয়ে যাবে, অস্তিত্বও খুঁজে পাওয়া যাবে না।প্রকৃতপক্ষে ছাত্রদের নিজস্ব কোন শক্তি নেই, এরা সরকারের ক্ষমতায় বলীয়ান, সরকারের পতন হলে এদেরও পতন হয়।তাই দলীয় সরকারকেও ছাত্র সমাজের অপকর্মের দায় নিতে হবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘র‍্যাগিংয়ের দায় কার’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘র‍্যাগিং’ surfaced a different Bitu column dated ২৭ October ২০১৯, ‘আবরারের মৃত্যু এবং ছাত্র রাজনীতি’, not this ৪ March ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2412,7 +2413,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-03-09",
     publishedDateLabel: "৯ মার্চ ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/105683",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2428,7 +2429,7 @@ export const folderArticles: ArchiveArticle[] = [
       "আইএমএফ ব্যাংকিং খাতের সংস্কারের শর্তও দিয়েছে।আর্থিক খাতের দুর্বলতা দূর করে নজরদারি বাড়ানো জরুরী। বিপুল পরিমাণ খেলাপি ও বেনামি ঋণ ব্যাংক খাতকে সঙ্কটে ফেলে দিয়েছে। আর্থিক খাত নিয়ে অনেক কেলেঙ্কারি হয়েছে যার সাথে কেন্দ্রিয় ব্যাংকও জড়িত।কেন্দ্রিয় ব্যাংকের নজরদারি না থাকায় বেসিক ব্যাংকটি প্রায় ধ্বংস হয়ে গেল, নিজস্ব জ্ঞান-বুদ্ধি না থাকায় বেসিক ব্যাংকের ক্রমাবনতির দৃশ্যটি কেন্দ্রিয় ব্যাংক দেখেও না দেখার ভান করেছে। পরিচালকগণ তাদের মালিকানাধীন ব্যাংক থেকে দেদারছে ঋণ নিয়েছেন, মালিকানাধীন ব্যাংকসমূহকে পরিচালকগণ তাদের নিজস্ব অর্থায়নের উৎস হিসেবে ব্যবহার করছেন।পি কে হালদারকে নিয়ে লঙ্কাকাণ্ড ঘটে যাওয়ার পর কেন্দ্রিয় ব্যাংকের হুঁশ হয়।জনগণের মধ্যে এমন একটি প্রতীতি বিরাজ করছে যে, কোন কর্মকর্তা কোন বিভাগের দায়িত্বে থাকবেন তাও নিয়ন্ত্রণ করে বাইরের লোক।বাংলাদেশ ব্যাংকের অনেক স্বাধীনতা, কিন্তু তার প্রয়োগে ব্যাংক কর্তৃপক্ষ দ্বিধাগ্রস্ত।দ্বিধাগ্রস্ত হওয়ার প্রধান কারণ,  দায়িত্ব নিয়ে কাজ করার সাহসের অভাব, রাজনৈতিক কর্তৃপক্ষের উপর নির্ভরতা বাড়িয়ে দিয়ে বালাই মুসিবত থেকে বেঁচে যাওয়ার সুযোগ খোঁজে সবাই।খেলাপি ঋণের পরিমাণ দিন দিন বাড়ছে, এই ঋণ কমানোর শর্ত দিয়েছে আইএমএফ।সঠিক মুদ্রানীতির বাস্তবায়নপূর্বক মূল্যস্ফীতি হ্রাস করার শর্তও রয়েছে।",
       "আইএমএফ বাংলাদেশকে ঋণ অনুমোদনের ক্ষেত্রে কিছু প্রাতিষ্ঠানিক ও পলিসি সংষ্কারের শর্তারোপ করেছে।তাদের শর্তানুযায়ী বৈদেশিক মুদ্রার রিজার্ভের হিসাব পদ্ধতি আন্তর্জাতিক মানদণ্ড অনুযায়ী ইতোমধ্যে সংশোধন করা হয়েছে, বিদ্যুতের দামও বাড়ানো হয়েছে, সঞ্চয়পত্র বিক্রি করে সরকারের ঋণ গ্রহণ কমানোর শর্ত ইতোমধ্যে পূরণ হয়েছে, ব্যাংকের আমানত এবং ঋণের সুদের হারে পরিবর্তন আনা হয়েছে।আরও সংস্কার করতে হবে।প্রতিটি কিস্তির অর্থ ছাড়ের আগে সংস্কার কতটা হলো তা আইএমএফ মূল্যায়ন করবে; সংস্কার না হলে অর্থ ছাড়করণ বন্ধ করে দিতে পারে।আর্থিক খাত সংস্কারে ব্যর্থ হওয়ায় আইএমএফ পাকিস্তানকে অনুমোদিত ঋণ দিতে অপরাগতা প্রকাশ করেছিল।আইএমএফ-এর এই ঋণ পর্যাপ্ত নয়, স্থিতিশীল অর্থনীতির জন্য আরও ঋণ আবশ্যক।বাংলাদেশ ২০১২ সনের পর থেকে আইএমএফের ঋণ নেয়নি, এখন না নিয়ে উপায় নেই।উপায় নেই বলেই প্রাতিষ্ঠানিক ও আইনের সংস্কারে আমাদের অবশ্যই যত্নবান হতে হবে।আইএমএফ-এর শর্ত পরিপালন করা হলে বিশ্বব্যাংক এবং এডিবি থেকেও কম সুদের ঋণ পাওয়ার সুযোগ সৃষ্টি হবে।উপরন্তু দুর্নীতি হ্রাস ও স্বচ্ছতা বৃদ্ধির লক্ষ্যে কাঠামোগত সংস্কারগুলো দেশের ভাবমূর্তি উজ্জ্বল করবে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘আইএমএফ-এর ঋণ ও শর্ত’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘আইএমএফ ঋণ’ surfaced differently titled Bitu posts from ২০১৯, ২০২২, ২০২৫, and ২০২৬, including ‘নানা সংকটে পাকিস্তান’ dated ২৪ February ২০১৯, but none matched this ৯ March ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2455,7 +2456,7 @@ export const folderArticles: ArchiveArticle[] = [
       "ইসলামের প্রধান দুইটি ধারা হচ্ছে সুন্নি ইসলাম এবং শিয়া ইসলাম।সুন্নিরা  নানাভাবে শিয়াদের কাফের ঘোষণা করেছে, আবার শিয়ারাও সুন্নিদের কাফের ঘোষণা করেছে।কিন্তু দুই পক্ষই নিজেদের ইমান আকিদাকেই সহিহ ইসলাম বলে গণ্য করে।শিয়াদের মতে, হযরত আলী (রা.) যেই কোরআন সঙ্কলন করেছিলেন সেই কোরআনই বিশুদ্ধ এবং দূষণমুক্ত; কিন্তু খলিফা উসমান ( রা.) তা গ্রহণ করেননি।কোরআনের আয়াত সংখ্যা নিয়েও দুই পক্ষের মধ্যে প্রচুর মতভেদ আছে।আবু বকর (রা.) যে কোরআন সঙ্কলন করেন তাকে আদি কোরআন বলা হয়; কিন্তু ওসমান (রা.)-এর সঙ্কলিত কোরআনের সাথে আবু বকর (রা.)-এর কোরআনের পার্থক্য লক্ষ্য করে আদি কোরআনটি পুড়িয়ে দেওয়া হয়।অন্যদিকে যে কোরআনকে আমরা বর্তমানে নিখুঁত ও অবিকৃত হিসেবে গণ্য করে থাকি সেই কোরআনকে আব্দুল্লাহ্‌ ইবনে মাসঊদ (রা) মানেননি।আবদুল্লাহ ইবনে মাসউদ (রা.) ছিলেন এমন সাহাবী যার কাছ থেকে কোরআন শিক্ষা নিতে স্বয়ং নবীজী( স.) বলে গেছেন।হযরত ওসমান ( রা.)-এর  সময়েও তিনি জীবিত ছিলেন, কিন্তু কোরআন সঙ্কলনে ওসমান (রা.) তাকে ডাকেননি। কোরআন বিকৃত করার অভিযোগে হযরত ওসমান (রা.)-কে মুসলমানেরা নির্মমভাবে হত্যা করেছেন।প্রথম খলিফা হযরত আবু বকর (রা.)-এর সন্তান মুহাম্মদ ইবনে আবু বকর (রা.) খলিফা উসমান (রা.)-কে কিতাবুল্লাহ বা কোরআন পরিবর্তনের অভিযোগে অভিযুক্ত করে সর্বপ্রথম দাড়ি ধরে তীরের ভারী ফলা দিয়ে আঘাত করেছিলেন।অথচ আল্লাহ স্বয়ং বলেছেন, কোরআনের সংরক্ষণ করবেন তিনি নিজে।আল্লাহ যার সংরক্ষক তা বিকৃত করার ক্ষমতা মানুষের নেই।",
       "সহি মুসলমান প্রকৃতপক্ষে কে বা কারা তার সংজ্ঞা আজ পর্যন্ত প্রতিষ্ঠিত হয়নি। ১৯৫৩ সনে আহমদীদের বিরুদ্ধে সংঘটিত দাঙ্গার তদন্ত করতে পাকিস্তান সরকার দুইজন বিচারপতিকে নিয়ে যে তদন্ত কমিশন গঠন করেছিল সেই কমিশন বিখ্যাত বিখ্যাত আলেমদের প্রশ্ন করে জানতে চেয়েছিল, ‘মুসলমান কারা’।এই কমিশন তাদের তদন্ত প্রতিবেদনে উল্লেখ করেছিল, ওলামাদের একজনের সংজ্ঞা অনুসারে মুসলমানের সংজ্ঞা মেনে নেওয়া হলে বাকি ওলামাদের অমুসলমান আখ্যা দিতে হয়।এভাবে এক তরিকার মুসলমান অন্য তরিকার মুসলমানদের বাতিল করে দিলে পৃথিবীতে প্রকৃত মুসলমানের সংখ্যা শূন্যতে নেমে আসবে, দুইশত কোটি মুসলমানের সংখ্যা নিয়ে অহঙ্কার করার সুযোগ থাকবে না।তাই আহমদিয়াদের ‘অমুসলিম’ আখ্যা দিয়ে তাদের হত্যা, তাদের বাড়িঘরে আগুন দেওয়া, তাদের সম্পদ লুট করা কতটুকু যুক্তিসঙ্গত তা আলেমেরাই পুনর্মূল্যায়ন করুক।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘কাদিয়ানিদের বিরুদ্ধে যত ক্ষোভ’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘কাদিয়ানিদের বিরুদ্ধে’ also returned no attributable matching result. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2466,7 +2467,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-03-18",
     publishedDateLabel: "১৮ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ মার্চ ২০২৩)",
-    originalUrl: "",
+    originalUrl: "https://sangbad.net.bd/opinion/post-editorial/90519/",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2482,7 +2483,7 @@ export const folderArticles: ArchiveArticle[] = [
       "বাংলাদেশে একশত অর্থনৈতিক অঞ্চল গড়ে তোলা হচ্ছে, সবগুলো অঞ্চলে শিল্প কারখানা স্থাপন করা হলে বিদ্যুতের প্রয়োজন হবে।বাংলাদেশে গ্যাসের মজুত অফুরন্ত নয়, তাই বিদ্যুতের কোন বিকল্প নেই।এছাড়াও অসংখ্য জনবসতি তৈরি হচ্ছে, বিদ্যুতে মেট্রোরেল চলছে, রিক্সা-বেবীটেক্সি চলছে, অদূর ভবিষ্যতে সকল মোটরগাড়ি চলবে।দেশের উন্নয়ন যত বেশী হবে বিদ্যুতের চাহিদা তত বাড়বে।",
       "বাংলাদেশ যে দ্রুতগতিতে এগিয়ে যাচ্ছে তা বিরোধী দলও অস্বীকার করতে পারছে না।বিরোধী দলের অভিযোগ মেগা প্রকল্পের বিরুদ্ধে নয়, মেগা দুর্নীতির বিরুদ্ধে।",
     ] }],
-    authorNote: "",
+    authorNote: "Publisher-page verification matched Sangbad Online article https://sangbad.net.bd/opinion/post-editorial/90519/: the page credits জিয়াউদ্দীন আহমেদ, dates the article ১৮ March ২০২৩, and its body matches this archive record. The canonical URL was added; direct Facebook verification remains pending because the profile-search session is temporarily rate-limited.",
     authorCredit: ""
   },
   {
@@ -2493,7 +2494,7 @@ export const folderArticles: ArchiveArticle[] = [
     section: "মতামত",
     publishedAt: "2023-03-23",
     publishedDateLabel: "২৩ মার্চ ২০২৩",
-    originalUrl: "",
+    originalUrl: "https://www.shampratikdeshkal.com/opinion/107149",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2510,7 +2511,7 @@ export const folderArticles: ArchiveArticle[] = [
       "১৯৭৫ সনে বঙ্গবন্ধুকে হত্যার পর দেশের পররাষ্ট্রনীতি ভারত এবং সোভিয়েত ইউনিয়নের পরিবর্তে চীন এবং যুক্তরাষ্ট্রমুখী হয়ে উঠে।মুক্তিযুদ্ধে বাংলাদেশের ঘোর বিরোধী চীন এবং আমেরিকার প্রতি যে অনুকূল মনোভাব গড়ে উঠে তা অর্থনৈতিক কারণে পরবর্তীকালে আরও সুদৃঢ় হয়েছে।চীন প্রচুর উদ্বৃত্ত অর্থের মালিক, তারা সুযোগ পেলেই বিভিন্ন দেশে বিনিয়োগ করছে। অন্যদিকে বাংলাদেশের অর্থনীতিও গত কয়েক দশকে অনেক উন্নতি করেছে, উন্নয়নের এই গতি অনবচ্ছিন্ন রাখার স্বার্থে চীনের বিনিয়োগ অস্বীকার করার কোন উপায় নেই।ঠিক তদ্রূপ আমেরিকার প্রভাবের বাইরে থাকার ক্ষমতাও  বাংলাদেশের নেই।আমেরিকা ইতোমধ্যে রাশিয়া এবং চীনকে কোণঠাসা করে ফেলেছে।আমেরিকার নিষেধাজ্ঞার চাপে পড়ে চীন তাদের উৎপাদন কমাতে বাধ্য হয়েছে।অন্যদিকে আমাদের পোষাক রপ্তানি নির্ভর করছে আমেরিকা এবং ইউরোপের মর্জির উপর।",
       "বঙ্গবন্ধুকে হত্যার পর স্বাধীনতা বিরোধীরা শক্তি সঞ্চয় করতে থাকে এবং ইত্যবসরে তারা এত বেশী শক্তি অর্জন করে ফেলেছে   যে, আমাদের স্বাধীনতা সংগ্রামে বাঙ্গালীদের প্রতি পাকিস্তানের বৈমাত্রীয় সুলভ আচরণকে ঢাকা দিয়ে তারা স্বাধীনতার সাথে রাশিয়া-ভারতের নিজস্ব স্বার্থকে গুরুত্বপূর্ণ করে তুলতে সমর্থ হয়েছে; তারা বুক উঁচু করে শ্লোগান দিচ্ছে ‘রুশ ভারতের দালালেরা- হুঁশিয়ার, সাবধান’।কতিপয় রাজনৈতিক দল আমেরিকা বা চীনের মুক্তযুদ্ধকালীন ভূমিকা নিয়ে একটি কথাও উচ্চারণ করে না, তাদের বিরুদ্ধে কখনো কোনো স্লোগান দেয়নি।স্বাধীনতার স্লোগান ‘জয় বাংলা’কে বিকৃত করে ব্যঙ্গ করে পিনাকী ভট্টাচার্য যেভাবে কথা বলেন তা জাতির জন্য দেশের জন্য অপমানজনক। সরকারের বিরুদ্ধে আওয়ামী লীগের বিরুদ্ধে তিনি মতামত প্রকাশ করতেই পারেন, কিন্তু ‘জয় বাংলা’ স্লোগানের বিরুদ্ধে তার এমন কুৎসিৎ মনোভঙ্গির প্রতিবাদ হওয়া প্রয়োজন।স্বাধীনতা বাঙ্গালী জাতির সর্বকালের সর্বশ্রেষ্ঠ অর্জন, আওয়ামী লীগ বিরোধিতা করতে গিয়ে মুক্তিযুদ্ধের বিরোধিতা করা এক নয়- এই কথাটি বুঝিয়ে দেওয়ার সাহসও আমরা হারিয়ে ফেলেছি।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘মুক্তিযুদ্ধে পরাশক্তিগুলোর ভূমিকা’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘পরাশক্তিগুলোর’ also returned no attributable matching result. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
   {
@@ -2538,7 +2539,7 @@ export const folderArticles: ArchiveArticle[] = [
       "১৯৮১ সনের মার্চ মাসে আমি বাংলাদেশ ব্যাংকে ‘প্রথম শ্রেণির অফিসার’ পদে যোগদান করে এক বছর তাত্ত্বিক ও প্রায়োগিক প্রশিক্ষণ নিয়ে কৃষি ঋণ বিভাগে ড. ইউনূসের প্রবর্তিত ‘জোবরা’ প্রকল্প নিয়ে কার্যক্রম শুরু করি। বাংলাদেশ ব্যাংক ড. ইউনূসের ক্ষুদ্র ঋণের আইডিয়াকে একটি প্রকল্প হিসাবে গ্রহণ করে তাকেই প্রকল্প পরিচালক হিসেবে নিয়োগ দেয়।তখন আমার মনে হয়েছিল, বাংলাদেশের নারীদের আত্মমর্যাদায় প্রতিষ্ঠিত করতে ড. ইউনূসের কমিটমেন্ট রয়েছে।পরে মনে হয়েছে, ঘরের বাইরে বিরাজমান বিরাট কর্মক্ষেত্রে নারীদের টেনে এনে অধিকার সচেতন করে তুলেছেন ড. ইউনূস।এছাড়াও ড. ইউনূসের ক্ষুদ্র ঋণ গ্রামীণ নারী সমাজের জীবনমান উন্নয়নে ব্যাপক ভূমিকা রেখেছে।১৯৮৩ সনে প্রণীত আইনে গ্রামীণ প্রকল্প গ্রামীণ ব্যাংকে উন্নীত হয়।প্রথমদিকে সরকারের অংশ ছিল ৬০ শতাংশ, এখন সরকারের মালিকানা মাত্র ৩ শতাংশ।ড. ইউনূসের প্রতিটি ব্যবসায়িক প্রতিষ্ঠান বারবার তদন্ত হোক, কিন্তু প্রতিষ্ঠানগুলোর উপর সরকারের কর্তৃত্ব প্রতিষ্ঠা করা ঠিক হবে না।সরকারের কর্তৃত্বাধীন কোন প্রতিষ্ঠান ভালোভাবে চলেছে এমন কোন নজির আমাদের কাছে নেই, আমলাতান্ত্রিক অব্যবস্থাপনায় সরকারের প্রতিটি প্রতিষ্ঠান শুধু হোঁচট খেয়ে অকালে মারা যায় না, প্রতিটি প্রতিষ্ঠান দুর্নীতি আর ঘুষের আখড়া।",
       "সারা বিশ্বের নামিদামি অসংখ্য লোকের সাথে ড. ইউনূসের ঘনিষ্ঠতা রয়েছে।প্রধানমন্ত্রী শেখ হাসিনাও তার বিভিন্ন উদ্যোগে এক সময় সর্বাত্মক সহায়তা করেছেন।দেশ ও জাতির অধিকতর মঙ্গলে তাকে কেন সংশ্লিষ্ট করা গেল না তার গূঢ় রহস্য এখনো অজ্ঞাত।সরকার বা প্রধানমন্ত্রীর সাথে কোন কারণে দূরত্ব সৃষ্টি হলে তার নিরসনে উক্ত চল্লিশ জন বিবৃতিদাতা তাদের বক্তব্য প্রায় ১ কোটি টাকা খরচ করে পত্রিকায় প্রকাশ না করে সরাসরি শেখ হাসিনার কাছে পাঠাতে পারতেন।এখানেও রাজনীতির খেলা, এই খেলা, খেলা হয়েছে আমেরিকান কৌশলে, যে কৌশলে রাশিয়া প্রলুব্ধ হয়েছিল ইউক্রেন আক্রমন করতে।তাই এই খেলা ড. ইউনূস এবং শেখ হাসিনার বিরাজমান সম্পর্ককে আরও তলানিতে নামিয়ে দিতে পারে।",
     ] }],
-    authorNote: "",
+    authorNote: "Exact-title Facebook-profile search for ‘অরক্ষিত নন ড. মুহাম্মদ ইউনূস’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘মুহাম্মদ ইউনূস’ surfaced differently titled Bitu posts from ২০২৫–২০২৬, not this ২৫ March ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
     authorCredit: ""
   },
 {
@@ -2549,7 +2550,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-04-01",
   "publishedDateLabel": "১ এপ্রিল ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/17547/1680316067",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2570,7 +2571,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘আমেরিকার ব্যাংকিং খাতে সঙ্কট’ returned a differently titled Bitu post dated ১৯ May ২০২২, ‘বাংলাদেশের আর্থিক স্বাস্থ্য এখনো এত দুর্বল নয়’, rather than this ১ April ২০২৩ record. The broader search ‘ব্যাংকিং খাতে’ surfaced unrelated Bitu posts from ২০১৯, ২০২০, ২০২১, ২০২২, and ২০২৬. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2601,7 +2602,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘স্যার সম্বোধন নিয়ে তুলকালাম কাণ্ড’ returned no public Zeauddin Ahmed Bitu post. The narrower search ‘স্যার সম্বোধন’ surfaced an unrelated Bitu post titled ‘লাশের জিম্মি নিষিদ্ধ’ and unrelated account content, not this ১ April ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2612,7 +2613,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-04-06",
   "publishedDateLabel": "৬ এপ্রিল ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/opinion/108439",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2634,7 +2635,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘মানবাধিকার নিয়ে মার্কিন রিপোর্ট’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘মানবাধিকার’ surfaced an attributable ৭ May ২০২২ Bitu post whose caption identifies দৈনিক সংবাদ, an ১১ August ২০১৯ Bitu post about ‘সরকারের জবাবদিহিতা’, and a ২৩ December ২০২১ Bitu post from সাম্প্রতিক দেশকাল, but none matches this ৬ April ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2667,7 +2668,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘স্বাধীনতা কোন তুল্য বস্তু নয়’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘স্বাধীনতা’ returned generic profile results without readable article text or a verifiable match for this ৮ April ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2698,7 +2699,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘আইনি নোটিশের কবলে মঙ্গল শোভাযাত্রা’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘মঙ্গল শোভাযাত্রা’ surfaced an unrelated older Bitu post dated ২২ April ২০১৮ titled ‘প্রবাহমান সংস্কৃতি’ and unrelated accounts; it did not match this ১৫ April ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2709,7 +2710,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-04-27",
   "publishedDateLabel": "২৭ এপ্রিল ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/opinion/110208",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2733,7 +2734,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘জয়তু মুক্তিযোদ্ধা ডা. জাফরুল্লাহ’ returned no public Zeauddin Ahmed Bitu post. The shorter search ‘জাফরুল্লাহ’ surfaced unrelated or differently titled Bitu posts, including a December ২০২১ দৈনিক সংবাদ post and a May ২০২০ post about গণস্বাস্থ্যের কিট, but no match for this ২৭ April ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2766,7 +2767,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘সাম্প্রতিক অগ্নিকাণ্ড: দুর্ঘটনা না দুরভিসন্ধি’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘অগ্নিকাণ্ড’ surfaced unrelated-account content and no attributable Bitu column matching this ২৯ April ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2796,7 +2797,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘বিদ্যানন্দের যাকাত ফান্ড’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘যাকাত’ surfaced an unrelated Bitu post dated ১ March ২০২০ titled ‘অসুস্থ রাজনীতির বিকার’ and unrelated-account content, but no match for this ৬ May ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2807,7 +2808,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-05-11",
   "publishedDateLabel": "১১ মে ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/opinion/111507",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2827,18 +2828,18 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Publisher-page verification found https://www.shampratikdeshkal.com/opinion/111507: the page title is ‘সুদানের গৃহযুদ্ধ’, credits জিয়াউদ্দীন আহমেদ, and dates the article ১১ May ২০২৩. Its opening and article body are substantively consistent with this archived text, with normal editorial spelling/punctuation differences; the publisher URL is now recorded. Direct Facebook verification remains pending because the profile-search session is temporarily rate-limited.",
   "authorCredit": ""
 },
 {
   "slug": "2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh",
   "title": "প্রধানমন্ত্রীর বিদেশ সফর নিয়ে কটাক্ষ",
   "author": "জিয়াউদ্দীন আহমেদ",
-  "publication": "সংবাদ",
+  "publication": "দৈনিক বাংলা",
   "section": "মতামত",
   "publishedAt": "2023-05-12",
   "publishedDateLabel": "১২ মে ২০২৩ (অনলাইনে; রবিবারের মুদ্রিত কলাম)",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/21525/1684036579",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2859,7 +2860,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla’s publisher page confirms the matching author, article subject, and article body, with the headline variant ‘প্রধানমন্ত্রীর বিদেশ সফর নিয়ে কেন কটাক্ষ?’ and publication date ১৪ May ২০২৩. The local Facebook/catalog record is dated ১২ May and previously identified সংবাদ; the publisher URL is recorded, the newspaper is set to দৈনিক বাংলা, and both discrepancies remain flagged for owner review.",
   "authorCredit": ""
 },
 {
@@ -2890,7 +2891,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘আনস্মার্ট চিকিৎসা, স্মার্ট বাংলাদেশ’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘স্মার্ট চিকিৎসা’ surfaced unrelated-account content and no attributable Bitu column matching this ২০ May ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2921,7 +2922,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘দূতাবাসের বাড়তি নিরাপত্তা প্রত্যাহার’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘দূতাবাস’ surfaced unrelated or differently titled Bitu posts, including a ২০ May ২০১৮ column ‘স্নাইপার-লক্ষ্যভেদী বন্দুক’, but no match for this ২৭ May ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2932,7 +2933,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-06-01",
   "publishedDateLabel": "১ জুন ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/opinion/113525",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -2952,7 +2953,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘ব্যাংকিং খাতের খেলাপি ঋণ’ returned no public Zeauddin Ahmed Bitu post. Narrower searches surfaced a different Bitu column, ‘ইমেজ সংকটে ব্যাংক’, dated ২৬ May ২০১৯, and ‘বাংলাদেশের আর্থিক স্বাস্থ্য এখনো এত দুর্বল নয়’, dated ১৯ May ২০২২; neither matches this ১ June ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -2983,7 +2984,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘গাজীপুরে আওয়ামী লীগ কেন হারলো’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘গাজীপুর’ surfaced unrelated group content and no attributable Bitu column matching this ৪ June ২০২৩ record. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3019,7 +3020,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘ভিসানীতি কোনো নিষেধাজ্ঞা নয়’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘ভিসানীতি’ and ‘নিষেধাজ্ঞা’ surfaced other Bitu posts from ২০২১ and unrelated results, but no matching ১০ June ২০২৩ column or article body. No publication metadata or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3030,7 +3031,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-06-17",
   "publishedDateLabel": "১৭ জুন ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ জুন ২০২৩)",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/97936/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3055,7 +3056,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Sangbad’s publisher page confirms the matching title, author identity variant, সংবাদ publication, and ১৭ June ২০২৩ date; its opening text matches this archive record. Direct Facebook evidence was not available in the current search session, so the Facebook-to-publisher link remains unconfirmed.",
   "authorCredit": ""
 },
 {
@@ -3066,7 +3067,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-06-24",
   "publishedDateLabel": "২৪ জুন ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/24868/1687581343",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3088,7 +3089,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla’s publisher page confirms the matching title, author, and ২৪ June ২০২৩ publication date; its opening text matches this archive record. Direct Facebook evidence was not available in the current search session; the canonical publisher URL is recorded.",
   "authorCredit": ""
 },
 {
@@ -3099,7 +3100,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-07-22",
   "publishedDateLabel": "২২ জুলাই ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/26863/1689995463",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3120,18 +3121,18 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla’s publisher page confirms the matching title, author identity variant, publication, ২২ July ২০২৩ date, and matching opening text. Direct Facebook evidence was not available in the current search session; the canonical publisher URL is recorded.",
   "authorCredit": ""
 },
 {
   "slug": "2023-08-04-chapano-takay-mulyosphiti",
   "title": "ছাপানো টাকায় মূল্যস্ফীতি",
   "author": "জিয়াউদ্দীন আহমেদ",
-  "publication": "সাম্প্রতিক দেশকাল",
+  "publication": "দৈনিক বাংলা",
   "section": "মতামত",
   "publishedAt": "2023-08-04",
   "publishedDateLabel": "৪ আগস্ট ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/27680/1690862305",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3152,18 +3153,18 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla’s publisher page confirms the matching title, author, publication, and matching article text. It displays an online publication date of ১ August ২০২৩, while the local catalog/Facebook-derived record is dated ৪ August ২০২৩; the catalog date is retained and the discrepancy is flagged for review.",
   "authorCredit": ""
 },
 {
   "slug": "2023-kushikkha-theke-mukti",
   "title": "কুশিক্ষা থেকে মুক্তি পেতে বিজ্ঞান শিক্ষার বিকল্প নেই",
   "author": "জিয়াউদ্দীন আহমেদ",
-  "publication": "অজানা",
+  "publication": "দৈনিক বাংলা",
   "section": "মতামত",
-  "publishedAt": "2023-01-01",
-  "publishedDateLabel": "২০২৩ (তারিখ অনির্দিষ্ট)",
-  "originalUrl": "",
+  "publishedAt": "2023-08-19",
+  "publishedDateLabel": "১৯ আগস্ট ২০২৩",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/29151/1692417865",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3187,7 +3188,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla page verification: https://www.dainikbangla.com.bd/opinion/29151/1692417865 carries the exact title, credits জিয়াউদ্দীন আহমেদ, and is dated ১৯ August ২০২৩. The page body matches the archived text as the same article, with normal copy-editing, spelling, punctuation, and paragraph-boundary differences. Publication and original URL promoted after article-level verification.",
   "authorCredit": ""
 },
 {
@@ -3198,7 +3199,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-08-26",
   "publishedDateLabel": "২৬ আগস্ট ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/29685/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3218,18 +3219,18 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla page verification: https://www.dainikbangla.com.bd/opinion/29685/ carries the exact title, credits জিয়াউদ্দীন আহমেদ, and is dated ২৬ August ২০২৩. The publisher body matches the archived text as the same article, with normal copy-editing, spelling, punctuation, and paragraph-boundary differences. Original URL promoted after article-level verification.",
   "authorCredit": ""
 },
 {
   "slug": "2023-09-02-prokolpo-bastobayone-dhirgoti",
   "title": "প্রকল্প বাস্তবায়নে ধীরগতি",
   "author": "জিয়াউদ্দীন আহমেদ",
-  "publication": "দৈনিক বাংলা",
+  "publication": "সংবাদ",
   "section": "মতামত",
   "publishedAt": "2023-09-02",
   "publishedDateLabel": "২ সেপ্টেম্বর ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/104077/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3248,7 +3249,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Sangbad’s publisher page confirms the matching title, author, and ২ September ২০২৩ date, and provides the original article URL. Direct Facebook evidence was not available in the current search session. The local catalog previously identified দৈনিক বাংলা; publication attribution is now set to সংবাদ based on the publisher record and remains flagged for owner review.",
   "authorCredit": ""
 },
 {
@@ -3259,7 +3260,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-09-09",
   "publishedDateLabel": "৯ সেপ্টেম্বর ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/30693/1694231706",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3280,7 +3281,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘আমাদের কি দরজিগিরি করেই জীবনধারণ করতে হবে’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘দরজিগিরি’ and ‘জীবনধারণ’ found Bitu posts from ২০১৮, ২০২০, and ২০২২ with different titles, but no matching ৯ September ২০২৩ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3291,7 +3292,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-09-16",
   "publishedDateLabel": "১৬ সেপ্টেম্বর ২০২৩",
-  "originalUrl": "",
+  "originalUrl": "https://www.dainikbangla.com.bd/opinion/31218/1694833955",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3314,7 +3315,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Dainik Bangla publisher page https://www.dainikbangla.com.bd/opinion/31218/1694833955 credits জিয়াউদ্দীন আহমেদ, dates the article ১৬ September ২০২৩, and publishes the matching title and article body. Exact-title Facebook verification remains pending because the profile-search session is temporarily rate-limited.",
   "authorCredit": ""
 },
 {
@@ -3347,7 +3348,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘ডেঙ্গু রোধে মানসিকতার পরিবর্তন দরকার’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘ডেঙ্গু’ and ‘মানসিকতার’ surfaced different Bitu articles, including ‘আতঙ্কে আছি’ from ১৮ August ২০১৯, but no matching ২৩ September ২০২৩ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3358,7 +3359,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-10-07",
   "publishedDateLabel": "৭ অক্টোবর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৮ অক্টোবর ২০২৩)",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/opinion/125832",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3381,7 +3382,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Sampratik Deshkal’s publisher page confirms the matching title, author, publication, and complete article text. It displays publication date ১৬ October ২০২৩, while the local Facebook/catalog record is dated ৭ October ২০২৩; the catalog date is retained and the discrepancy is flagged for review.",
   "authorCredit": ""
 },
 {
@@ -3414,7 +3415,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘ফিলিস্তিনে হামাস কী চায়’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘হামাস’ and ‘ফিলিস্তিনে’ surfaced different Bitu posts, including a ২০১৮ column, but no matching ২৮ October ২০২৩ article. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3425,7 +3426,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2023-12-16",
   "publishedDateLabel": "১৬ ডিসেম্বর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ ডিসেম্বর ২০২৩)",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/111580/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3446,7 +3447,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Publisher-page verification matched Sangbad Online article https://sangbad.net.bd/opinion/post-editorial/111580/: the page credits জিয়াউদ্দীন আহমেদ, dates the printed article ১৬ December ২০২৩, and its body matches this archive record. The catalog retains ১৬ December as the online date and the canonical URL was added; direct Facebook verification remains pending because the profile-search session is temporarily rate-limited.",
   "authorCredit": ""
 },
 {
@@ -3478,7 +3479,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search found a matching public Zeauddin Ahmed Bitu post dated ২৩ December ২০২৩. The caption identifies দৈনিক সংবাদ, says the online column was posted that day and the printed copy would be available on রবিবার, and the expanded post exposes the complete article text matching this archive record. The post’s attached Facebook photo has fbid 3839947139566459; no original newspaper URL was safely recovered from the post or title search.",
   "authorCredit": ""
 },
 {
@@ -3509,7 +3510,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘মন্দা অর্থনীতিঃ সম্পদশালী ভোটপ্রার্থী’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘মন্দা অর্থনীতি’ and ‘সম্পদশালী’ surfaced different Bitu posts, including ‘মাশরাফি ভোট প্রার্থী’ from ২৩ December ২০১৮, but no matching ৬ January ২০২৪ column. A web title search also found no safely attributable Sangbad page. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3544,7 +3545,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘সরকার নতুন চ্যালেঞ্জ পুরানো’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘চ্যালেঞ্জ’ and the title terms surfaced unrelated posts and Bitu articles from other dates, but no matching ২৭ January ২০২৪ column. Parliament Library independently lists a ২৭ January ২০২৪ সংবাদ article by জিয়াউদ্দীন আহমেদ under the variant headline ‘দ্বাদশ জাতীয় সংসদ নির্বাচনের একরারনামা’, consistent with this record’s publication/date metadata; the clipping index is not the original newspaper URL, so originalUrl remains blank.",
   "authorCredit": ""
 },
 {
@@ -3555,7 +3556,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-02-03",
   "publishedDateLabel": "৩ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৪ ফেব্রুয়ারি ২০২৪)",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/2024/114062/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3579,7 +3580,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Publisher-page verification matched Sangbad Online article https://sangbad.net.bd/opinion/post-editorial/2024/114062/: the page credits জিয়াউদ্দীন আহমেদ, dates the printed article ০৪ ফেব্রুয়ারি ২০২৪, and its body matches this archive record. The catalog retains ০৩ ফেব্রুয়ারি as the online-column date. Direct Facebook verification remains pending because the profile-search session is temporarily rate-limited.",
   "authorCredit": ""
 },
 {
@@ -3610,7 +3611,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘মূল্যস্ফীতি কমবে কীভাবে’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘মূল্যস্ফীতি’ returned unrelated/current posts rather than a matching ১০ February ২০২৪ column; no matching article body, publication metadata, or original URL was exposed. This record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3642,7 +3643,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘ইসরায়েলের গণহত্যাঃ দক্ষিণ আফ্রিকার মামলা’ returned no public Zeauddin Ahmed Bitu post. Broader searches for ‘দক্ষিণ আফ্রিকা’ and ‘ইসরায়েল’ surfaced other Bitu posts from ২০১৭, ২০১৮, ২০১৯, ২০২০, ২০২৫, and ২০২৬, but no matching ১৭ February ২০২৪ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3672,7 +3673,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ২৬ February ২০২৪ with headline ‘পাকিস্তানে নিরূপিত ফলাফলের নির্বাচন’ at https://bn.viewsbangladesh.com/pakistans-election-with-predetermined-results. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ২৪ February ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -3705,7 +3706,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘ফ্রি ফিলিস্তিন’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘ফিলিস্তিন’ surfaced other Bitu posts dated ১০ August ২০১৪, ২৯ July ২০১৭, ২০ May ২০১৮, ৩০ May ২০২১, and July ২০২৬, plus unrelated content; none matched the ২ March ২০২৪ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3716,7 +3717,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-04-06",
   "publishedDateLabel": "৬ এপ্রিল ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://bn.viewsbangladesh.com/avantikas-selfimmolation/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3738,7 +3739,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘অবন্তিকাদের আত্মহনন’ returned no public Zeauddin Ahmed Bitu post. Views Bangladesh independently publishes the same title under the author জিয়াউদ্দীন আহমেদ, dated ৬ April ২০২৪, with a matching full article body. The verified original URL is https://bn.viewsbangladesh.com/avantikas-selfimmolation/.",
   "authorCredit": ""
 },
 {
@@ -3770,7 +3771,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ১৭ April ২০২৪ with headline ‘ভারত বয়কট করে বাংলাদেশের লাভ হবে না’ at https://bn.viewsbangladesh.com/boycotting-india-will-not-benefit-bangladesh. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ১৫ April ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -3801,7 +3802,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘খেলার চেয়ে ধুলা বেশি’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘খেলা’ surfaced different Bitu columns dated ১৯ June ২০১৮, ১০ May ২০২০, ২৮ November ২০২১, and ৮ January ২০২২, plus unrelated group content; none matched the ১১ May ২০২৪ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3832,7 +3833,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ১৯ May ২০২৪ with headline ‘অবমূল্যায়ন কি জরুরি ছিল’ at https://bn.viewsbangladesh.com/was-devaluation-necessary. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ১৮ May ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -3863,7 +3864,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘লালনের গান ও ধর্মীয় অনুভূতি’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘লালন’ surfaced the already reconciled ২৩ December ২০২৩ Bitu post and unrelated content; ‘ধর্মীয় অনুভূতি’ surfaced different Bitu posts from ২০২০, ২০২১, and ২০২৬. None matched the ২৫ May ২০২৪ column. No matching article body, publication metadata, or original URL was exposed; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3897,7 +3898,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ৩০ May ২০২৪ with headline ‘মুক্তবাজার অর্থনীতি বিচারে সব দুর্বল ব্যাংকের অবসায়ন দরকার’ at https://bn.viewsbangladesh.com/in-the-perspective-of-free-market-economics-closure-of-all-weak-banks-is-necessary. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ০১ June ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -3933,7 +3934,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ১০ June ২০২৪ with headline ‘ক্ষমতায় থাকলে শক্তিশালীদের দুর্নীতির কথা কেউ জানে না’ at https://bn.viewsbangladesh.com/no-one-knows-about-corruption-of-powerful-while-they-are-in-power. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ০৮ June ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -3966,7 +3967,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘বাংলাদেশ ব্যাংকে সাংবাদিকদের প্রবেশ নিয়ে বিতর্ক’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘সাংবাদিক’ surfaced different Bitu posts dated ০৩ October ২০২১ and ২০ June ২০২৬, including ‘স্বাধীন সাংবাদিকতার পথে বাধা কোথায়’, plus unrelated posts; none matched the ১৫ June ২০২৪ column. No matching article body, publication metadata, or original URL was found; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -3977,7 +3978,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-06-20",
   "publishedDateLabel": "২০ জুন ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://bn.viewsbangladesh.com/fearless-diplomat-mohiuddin-ahmad/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -3999,7 +4000,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact Facebook-profile search matched the public post dated ‘আজ বৃহস্পতিবার ২০ জুন, ২০২৪’ and its linked preview ‘অকুতোভয় কূটনীতিক মহিউদ্দিন আহমদ - Views Bangladesh’. The publisher page is https://bn.viewsbangladesh.com/fearless-diplomat-mohiuddin-ahmad/; it identifies the author as জিয়াউদ্দীন আহমেদ and shows publication timestamp 2024-06-19T20:41:44.670Z, which corresponds to ২০ জুন in Bangladesh time. The published page body matches this archived record; original URL confirmed.",
   "authorCredit": ""
 },
 {
@@ -4031,7 +4032,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘কোরবানির চামড়ার হকদার’ returned no public Zeauddin Ahmed Bitu post. A broader search for ‘কোরবানির’ surfaced different Bitu posts dated ০৯ August ২০২০, ০২ September ২০১৮, ০৬ May ২০১৮, and ০৫ July ২০২৬, but none matched the ২২ June ২০২৪ column. Web searches returned unrelated articles and no safe original newspaper URL. The record remains unresolved despite the archived body being thematically consistent with the title.",
   "authorCredit": ""
 },
 {
@@ -4062,7 +4063,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ২৭ July ২০২৪ with headline ‘কোটা আন্দোলনে জীবনহানি ও ধ্বংসযজ্ঞের পরিবেশ থেকে মুক্তি চাই’ at https://bn.viewsbangladesh.com/quota-movement-seeking-relief-from-loss-of-lives-and-destruction. Its author is জিয়াউদ্দীন আহমেদ and its full body matches this record after copy-editing, spacing, and paragraph-boundary differences. The catalog retains the Facebook/Sangbad attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is still not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -4073,7 +4074,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-07-31",
   "publishedDateLabel": "৩১ জুলাই ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/opinion/149050",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4096,10 +4097,10 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘সবাই সফলতার ভাগীদার হতে চায়’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘সফলতার’ surfaced an unrelated Bitu post dated ২৬ March ২০২২ and unrelated users’ posts; none matched the ৩১ July ২০২৪ column. No matching article body, publication metadata, or original URL was found; this record remains unresolved.",
   "authorCredit": ""
 },
-{
+  {
   "slug": "2024-08-10-ismail-haniyer-karun-mrityu",
   "title": "ইসমাইল হানিয়ের করুণ মৃত্যু",
   "author": "জিয়াউদ্দীন আহমেদ",
@@ -4107,7 +4108,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-08-10",
   "publishedDateLabel": "১০ আগস্ট ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://viewsbangladesh.com/tragic-death-of-ismail-haniyeh/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4129,7 +4130,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact Facebook-profile search matched a public Zeauddin Ahmed Bitu post dated ‘আজ ১০ আগস্ট, শনিবার’ with the linked preview ‘ইসমাইল হানিয়ের করুণ মৃত্যু - Views Bangladesh’. The canonical Views Bangladesh page was recovered at https://viewsbangladesh.com/tragic-death-of-ismail-haniyeh/. The same title and author also appear in Sangbad on ১১ August ২০২৪ at https://sangbad.net.bd/opinion/post-editorial/2024/123563/; its published body corroborates the archived text. The Facebook-linked publisher is recorded as Views Bangladesh; original URL confirmed.",
   "authorCredit": ""
 },
 {
@@ -4161,7 +4162,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘গৃহকর্মী নির্যাতনের অবসান হোক’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘গৃহকর্মী’ surfaced different Bitu posts dated ২৩ May ২০২৬, ২৮ May ২০২৫, ১০ September ২০১৭, ০৭ October ২০১৮, and ১২ February ২০২২, but none matched the ২৪ August ২০২৪ column. Web searches returned related but unrelated articles; no matching publisher page or original URL was safely recovered. This record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -4172,7 +4173,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2025-06-26",
   "publishedDateLabel": "২৬ জুন ২০২৫",
-  "originalUrl": "",
+  "originalUrl": "https://www.shampratikdeshkal.com/others/168658",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/2025-06-26-genghis-ar-halagu-khan-er-abirbhav.png",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4196,7 +4197,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘মানুষ মূল্যস্ফীতি থেকে রক্ষা পাবে কীভাবে’ returned no public Zeauddin Ahmed Bitu post. A broader search for ‘মূল্যস্ফীতি’ triggered Facebook’s temporary rate-limit notice, so no broader Facebook result was treated as evidence. Exact-title web searches did not identify a safely attributable newspaper page; unrelated results were excluded. The record remains unresolved from Facebook and no original URL was invented.",
   "authorCredit": ""
 },
 {
@@ -4227,7 +4228,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘বন্যার জন্য ভারত কতটুকু দায়ী’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘ভারত’ surfaced different Bitu posts dated ১৭ September ২০২২, ১৯ September ২০২৬, ১১ July ২০২১, and ০৬ September ২০২০, but none matched the ০৭ September ২০২৪ column. No matching article body, publication metadata, or original URL was found; this record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -4258,7 +4259,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘আবার তোরা মানুষ হ’ returned no public Zeauddin Ahmed Bitu post. The related search ‘মানুষ হ’ returned unrelated posts by other users and no matching Bitu column. Web searches returned similarly titled cultural and opinion pieces by other authors, but no matching ১৪ September ২০২৪ article or safe original URL. This record remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -4269,7 +4270,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-09-21",
   "publishedDateLabel": "২১ সেপ্টেম্বর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/2024/126091/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4292,7 +4293,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Exact-title Facebook-profile search for ‘জাতীয় সংগীত নিয়ে বিতর্ক’ returned no public Zeauddin Ahmed Bitu post; the related search ‘জাতীয় সংগীত’ surfaced unrelated users’ posts. An exact-title web result identifies the same author, জিয়াউদ্দীন আহমেদ, and the Sangbad publication page: https://sangbad.net.bd/opinion/post-editorial/2024/126091/. The publisher page corroborates the title and archived article text; original URL confirmed from the newspaper archive despite the Facebook profile search not exposing the post.",
   "authorCredit": ""
 },
 {
@@ -4327,7 +4328,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ১১ October ২০২৪ with headline ‘মুদ্রা ছাপানোর কারণে মূল্যস্ফীতি হয় কেন’ at https://bn.viewsbangladesh.com/due-to-why-printing-money-cause-inflation. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ১২ October ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -4357,7 +4358,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Facebook verification is pending because the profile-search session is temporarily rate-limited. Exact-title web searches for ‘কোন পথে জামায়াতের রাজনীতি’ and the author name returned unrelated pages and no safely attributable newspaper article; no original URL was inferred.",
   "authorCredit": ""
 },
 {
@@ -4368,7 +4369,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-10-26",
   "publishedDateLabel": "২৬ অক্টোবর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/2024/127987/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4422,7 +4423,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ০৩ November ২০২৪ with headline ‘ইরানের তেল স্থাপনায় হামলা হলে বিশ্ব অর্থনৈতিক সংকটে পড়বে’ at https://bn.viewsbangladesh.com/attacks-on-irans-oil-facilities-could-trigger-global-economic-shock. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ০২ November ২০২৪/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -4433,7 +4434,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-11-16",
   "publishedDateLabel": "১৬ নভেম্বর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://viewsbangladesh.com/bn/the-democracy-practiced-in-bangladesh/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4465,7 +4466,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-11-27",
   "publishedDateLabel": "২৭ নভেম্বর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://bn.viewsbangladesh.com/ignorance-is-the-root-to-problem/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4528,7 +4529,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-12-15",
   "publishedDateLabel": "১৫ ডিসেম্বর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://bn.viewsbangladesh.com/let-indiabangladesh-ties-be-based-on-justice-not-radical-beliefs/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4561,7 +4562,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-12-18",
   "publishedDateLabel": "১৮ ডিসেম্বর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://bn.viewsbangladesh.com/was-assads-fall-a-result-of-challenging-israel/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4593,7 +4594,7 @@ export const folderArticles: ArchiveArticle[] = [
   "section": "মতামত",
   "publishedAt": "2024-12-29",
   "publishedDateLabel": "২৯ ডিসেম্বর ২০২৪",
-  "originalUrl": "",
+  "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/2024/131543/",
   "rightsStatus": "full_text_permitted",
   "heroImage": "/articles/archive-editorial-default.svg",
   "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -4650,7 +4651,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh republishes the matching article under the headline ‘যে কারণে শ্বেতপত্র কোনো আলোড়ন তোলেনি’, credited to জিয়াউদ্দীন আহমেদ and dated ০৩ January ২০২৫: https://bn.viewsbangladesh.com/why-the-white-paper-failed-to-make-an-impact/. The publisher text matches this archive body, but the catalog’s ০৫ January ২০২৫/সংবাদ attribution is retained pending Facebook or primary-source reconciliation; this secondary URL is not promoted to originalUrl.",
   "authorCredit": ""
 },
 {
@@ -4682,7 +4683,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ০৪ February ২০২৫ with headline ‘অন্তর্বর্তী সরকারের ব্যর্থতা বিকল্প শাসন-ভাবনাকে হুমকিতে ফেলছে’ at https://bn.viewsbangladesh.com/interim-governments-failure-threatens-alternative-governance-ideas. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ০২ February ২০২৫/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -4716,7 +4717,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Bangladesh Parliament Library’s ২০২৫ e-clipping index lists this title under জিয়াউদ্দীন আহমেদ, সংবাদ, dated ০৯ February ২০২৫: https://library.parliament.gov.bd/e-clipping-single-archive.show/2025. The index corroborates the catalog title, author, publication, and date but does not expose the original Sangbad article URL; originalUrl remains empty.",
   "authorCredit": ""
 },
 {
@@ -4749,7 +4750,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ১৩ February ২০২৫ with headline ‘ভোটাধিকার পুনরুদ্ধারের সংস্কার’ at https://bn.viewsbangladesh.com/reforms-to-restore-voting-rights. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after punctuation, spacing, and paragraph-boundary differences. The catalog retains the ১৬ February ২০২৫/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -4780,7 +4781,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ১০ March ২০২৫ with headline ‘রাজনৈতিক কর্মকাণ্ডের হালচাল’ at https://bn.viewsbangladesh.com/the-state-of-political-activities. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after punctuation, spacing, and paragraph-boundary differences. The catalog retains the ০৯ March ২০২৫/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
 {
@@ -4881,7 +4882,7 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "The public Facebook feed exposes the ০৬ April ২০২৫ দৈনিক সংবাদ post through the canonical comment permalink https://www.facebook.com/zeauddinahmed.bitu/posts/pfbid02i8SoQBjqvWzgrazLzppDvDEgXKGGxD87J5prziJgEU8dJGojxnHzydXhKyM8GKx5l. Facebook currently reports the post body as unavailable; the catalog date, title, and publication metadata are retained, while the original Sangbad URL remains unresolved.",
   "authorCredit": ""
 },
 {
@@ -4980,12 +4981,12 @@ export const folderArticles: ArchiveArticle[] = [
       ]
     }
   ],
-  "authorNote": "",
+  "authorNote": "Views Bangladesh author API exposes a secondary republication dated ২৮ April ২০২৫ with headline ‘অস্বীকারের সংস্কৃতি কাটিয়ে বাংলাদেশ কবে উঠবে’ at https://bn.viewsbangladesh.com/when-will-bangladesh-overcome-the-culture-of-denial. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after headline, punctuation, spacing, and paragraph-boundary differences. The catalog retains the ২৭ April ২০২৫/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
   "authorCredit": ""
 },
   {
-    "slug": "2025-05-04-bhinnomoter-bhoy-nirbachoner-dolachol",
-    "title": "ভিন্নমতের ভয়, নির্বাচনের দোলাচল ও অন্তর্বর্তী সরকারের কৌশলী অবস্থান",
+  "slug": "2025-05-04-bhinnomoter-bhoy-nirbachoner-dolachol",
+  "title": "ভিন্নমতের ভয়, নির্বাচনের দোলাচল ও অন্তর্বর্তী সরকারের কৌশলী অবস্থান",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
@@ -5011,7 +5012,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+  "authorNote": "The public Facebook feed exposes the ০৩ May ২০২৫ দৈনিক সংবাদ post through its canonical comment permalink: https://www.facebook.com/zeauddinahmed.bitu/posts/pfbid0hK3pjT5pScrEZrVrZ3fzrjfNMqRzX4RAEftZCMfRiNSPcifkZ99WHUWhMBx4UKnWl. The post states that the editorial appeared online on ০৩ May and in print on ০৪ May; Facebook currently reports the body as unavailable. The catalog body and date/publication metadata are retained, while the original Sangbad URL remains unresolved.",
     "authorCredit": ""
   },
   {
@@ -5019,7 +5020,7 @@ export const folderArticles: ArchiveArticle[] = [
     "title": "অন্তর্বর্তী সরকার সংস্কারে দৃষ্টান্ত স্থাপন না করলে, আর হবে না!",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "Views Bangladesh",
-    "section": "মতামত",
+    "section": "অর্থনীতি",
     "publishedAt": "2025-05-09",
     "publishedDateLabel": "০৯ মে ২০২৫",
     "originalUrl": "https://viewsbangladesh.com/bn/if-interim-government-doesnt-set-an-example-in-reform-it-wont-happen-again/",
@@ -5042,7 +5043,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated 14 June 2025 displayed the card title ‘নোট’; the linked Views Bangladesh article gives the canonical title, section, author, and timestamp.",
     "authorCredit": ""
   },
   {
@@ -5073,7 +5074,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+  "authorNote": "The public Facebook feed exposes the ২৬ April ২০২৫ online দৈনিক সংবাদ post through the canonical comment permalink https://www.facebook.com/zeauddinahmed.bitu/posts/pfbid0KN6aCPXsCqDoW1v3Y3U4Tn8wLAoAEV9KbVmjD94T7a8NakhCCxpRoy8MAqXuDDQUl. The post states that the print publication was scheduled for ২৭ April; Facebook currently reports the body as unavailable. The catalog title/date metadata and secondary Views Bangladesh evidence are retained, while the original Sangbad URL remains unresolved.",
     "authorCredit": ""
   },
   {
@@ -5137,7 +5138,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "Views Bangladesh-এ একই লেখা ৩১ মে ২০২৫ তারিখে ‘অন্তর্বর্তী সরকারের কাজ করার এখতিয়ার যদি না থাকে তাহলে দেশের উন্নয়ন বাধাগ্রস্ত হবে’ শিরোনামে প্রকাশিত হয়েছিল।",
+    "authorNote": "Facebook public post timestamp is ৩১ মে ২০২৫; its caption identifies the Sunday ০১ জুন ২০২৫ দৈনিক সংবাদ উপসম্পাদকীয় and states that the same article appeared on Views Bangladesh on ৩১ মে under ‘অন্তর্বর্তী সরকারের কাজ করার এখতিয়ার যদি না থাকে তাহলে দেশের উন্নয়ন বাধাগ্রস্ত হবে’. The expanded title and complete text match this archive record. The verified source URL is the Views Bangladesh page.",
     "authorCredit": ""
   },
   {
@@ -5169,7 +5170,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "The Views Bangladesh page is retained as the primary canonical source. Sangbad Online also carries a same-date, substantially matching version under the headline ‘নতুন নোট, নতুন বিতর্ক’: https://sangbad.net.bd/opinion/post-editorial/2025/147362/. The catalog keeps the Facebook-derived title and Views Bangladesh attribution; the parallel publication is recorded as a cross-reference.",
     "authorCredit": ""
   },
   {
@@ -5210,7 +5211,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2024-08-31",
     "publishedDateLabel": "৩১ আগস্ট ২০২৪",
-    "originalUrl": "",
+    "originalUrl": "https://bn.viewsbangladesh.com/bodies-set-adrift-due-to-lack-of-dry-burial-grounds/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -5232,7 +5233,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Exact-title Facebook-profile search for ‘স্মরণকালের ভয়াবহ বন্যা’ returned no public Zeauddin Ahmed Bitu post. The broader search ‘বন্যা’ surfaced unrelated posts, including a different user’s Feni flood discussion and Bitu posts from ২২ August ২০২৫ and ২৩ December ২০১৮; none matched the ৩১ August ২০২৪ column. Web searches found related flood reporting but no matching article page or safe original URL. This record remains unresolved.",
     "authorCredit": ""
   },
   {
@@ -5273,7 +5274,7 @@ export const folderArticles: ArchiveArticle[] = [
     "title": "সংস্কার ও অর্থনৈতিক উন্নয়নের পথ প্রশস্ত করুন",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "Views Bangladesh",
-    "section": "মতামত",
+    "section": "দেশ ও রাজনীতি",
     "publishedAt": "2025-07-20",
     "publishedDateLabel": "২০ জুলাই ২০২৫",
     "originalUrl": "https://bn.viewsbangladesh.com/clear-the-path-for-reform-and-economic-progress/",
@@ -5296,7 +5297,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated 20 July 2025 and Views Bangladesh agree on title, author, publication, and text; the source page timestamp is 2025-07-20T05:22:12.430Z.",
     "authorCredit": ""
   },
   {
@@ -5498,7 +5499,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2025-09-18",
     "publishedDateLabel": "১৮ সেপ্টেম্বর ২০২৫",
-    "originalUrl": "",
+    "originalUrl": "https://www.shampratikdeshkal.com/others/169079",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/2025-09-18-shongshode-anupatik-protinidhitto.png",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -5675,7 +5676,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Views Bangladesh author API exposes a secondary republication dated ২৪ October ২০২৫ with normalized headline ‘অবহেলিত শিক্ষার দুরবস্থা বাড়ছে’ at https://bn.viewsbangladesh.com/plight-of-neglected-education-increasing. It credits জিয়াউদ্দীন আহমেদ and its full body matches this record after punctuation, spacing, spelling, and paragraph-boundary differences. The catalog retains the ২৬ October ২০২৫/সংবাদ attribution and leaves originalUrl blank because the primary Facebook/Sangbad URL is not independently exposed.",
     "authorCredit": ""
   },
   {
@@ -6006,7 +6007,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২৪ ডিসেম্বর ২০২১ carries the publication caption for ২৩ ডিসেম্বর ২০২১ and identifies সাম্প্রতিক দেশকাল as the newspaper. The expanded title and complete article text align with this record. A same-date, same-title সংবাদ record is retained separately because the Facebook evidence names সাম্প্রতিক দেশকাল; no original newspaper URL was safely exposed.",
     "authorCredit": ""
   },
   {
@@ -6041,7 +6042,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook search confirms the public post identifies দৈনিক সংবাদ, with online publication on ২৫ ডিসেম্বর ২০২১ and the printed উপসম্পাদকীয় on ২৬ ডিসেম্বর ২০২১. Exact-title searches did not safely expose the original newspaper URL; no URL was invented. Complete-text reconciliation was not claimed from this evidence.",
     "authorCredit": ""
   },
   {
@@ -6077,7 +6078,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook exact-title search surfaced the ২৩ ডিসেম্বর ২০২১ public author post, but its caption identifies সাম্প্রতিক দেশকাল rather than this same-date সংবাদ record. A combined title-plus-সংবাদ search returned no separate public author post. The same-title সংবাদ record is retained as an unresolved duplicate; no article-text or newspaper provenance was inferred and no original URL was invented.",
     "authorCredit": ""
   },
   {
@@ -6115,7 +6116,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ১৯ ডিসেম্বর ২০২১ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘মর্যাদাপূর্ণ পদে ন্যুনতম মান চাই’. The caption gives the Saturday online/Sunday print context, and the expanded post exposes the complete article text matching the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6151,7 +6152,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ১২ ডিসেম্বর ২০২১ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘হাফ ভাড়া ও নিরাপদ সড়ক’ and exposes the complete article text. The title, publication identity, date, and body match the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6188,7 +6189,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ৫ ডিসেম্বর ২০২১ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘খালেদা জিয়ার বিদেশে চিকিৎসা’ and exposes the complete article text. The title, publication identity, date, and body match the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6226,7 +6227,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২৭ নভেম্বর ২০২১ identifies the রবিবার, ২৮ নভেম্বর ২০২১ দৈনিক সংবাদ উপসম্পাদকীয় ‘খেলা বনাম রাজনীতি’. The expanded Facebook text matches the existing archive record. No original newspaper URL was safely exposed.",
     "authorCredit": ""
   },
   {
@@ -6262,7 +6263,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৫ নভেম্বর ২০২১ identifies সাম্প্রতিক দেশকাল and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6299,7 +6300,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২১ নভেম্বর ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6335,7 +6336,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ১৩ নভেম্বর ২০২১ identifies the দৈনিক সংবাদ column ‘ডিজেলের দাম ও ধর্মঘট’ dated ১৪ নভেম্বর ২০২১ and exposes the complete article text. The title, publication identity, date, and body match the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6371,7 +6372,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৭ নভেম্বর ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6406,7 +6407,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৩১ অক্টোবর ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6442,7 +6443,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৪ অক্টোবর ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6476,7 +6477,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২১ অক্টোবর ২০২১ identifies সাম্প্রতিক দেশকাল and exposes the complete article text for ‘বিজ্ঞাপনমুক্ত বিদেশি চ্যানেল’; the title, publication date, and body match this archive record. No safely verifiable original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -6513,7 +6514,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১৭ অক্টোবর ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6549,7 +6550,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ১০ October ২০২১ identifies দৈনিক সংবাদ and exposes the complete article text matching this archive record. No original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6585,7 +6586,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২ অক্টোবর ২০২১ identifies দৈনিক সংবাদ and gives the column date as ৩ অক্টোবর ২০২১; the complete article text matches this archive record. No safely verifiable original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -6596,7 +6597,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2021-09-26",
     "publishedDateLabel": "২৬ সেপ্টেম্বর ২০২১",
-    "originalUrl": "",
+    "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/45673/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -6620,7 +6621,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২৬ September ২০২১ identifies দৈনিক সংবাদ and exposes the complete article text matching this archive record. Sangbad’s publisher page confirms the matching title, author, and ২৫ September ২০২১ online date; the local catalog retains the Facebook/print date label of ২৬ September pending reconciliation.",
     "authorCredit": ""
   },
   {
@@ -6659,7 +6660,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook exact-title search on 2026-09-27 returned only an unrelated ৩০ April ২০২২ দৈনিক সংবাদ post, not the expected ২৫ September ২০২১ author post. The existing newspaper URL is retained as a catalog lead, but Facebook article-text/date reconciliation remains unresolved; no additional provenance was inferred.",
     "authorCredit": ""
   },
   {
@@ -6695,7 +6696,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook exact-title search on 2026-09-27 returned only an unrelated ১৩ July ২০২২ দৈনিক সংবাদ post, not the expected ১৮ September ২০২১ author post. The existing newspaper URL is retained as a catalog lead, but Facebook article-text/date reconciliation remains unresolved; no additional provenance was inferred.",
     "authorCredit": ""
   },
   {
@@ -6735,7 +6736,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ১১ সেপ্টেম্বর ২০২১ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘নেতিবাচক খবরের প্রাধান্য’ dated ১২ সেপ্টেম্বর ২০২১ and exposes the complete article text. The title, publication identity, date, and body match the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6770,7 +6771,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ৫ সেপ্টেম্বর ২০২১ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘নজর মোহাম্মদ আর পরীমনি’ and exposes the complete article text. The title, publication identity, date, and body match the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -6809,7 +6810,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook exact-title search for ‘ভ্যাকসিন চুরির ঘটনা’ returned no result. The shorter search ‘ভ্যাকসিন চুরি’ surfaced unrelated posts dated ১৩ September ২০২০ and ১২ September ২০২১, not this ৪ September ২০২১ author post. The existing সাম্প্রতিক দেশকাল URL is retained as a catalog lead; Facebook reconciliation remains unresolved and no new provenance was inferred.",
     "authorCredit": ""
   },
   {
@@ -6845,7 +6846,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৯ আগস্ট ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -6882,7 +6883,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook exact-title search for ‘দ্বিতীয় দফায় তালেবানি শাসন’ returned no result. The shorter search ‘তালেবানি শাসন’ surfaced unrelated posts, including a ২৪ February ২০১৯ column and a ৩০ April ২০২২ post, not the expected ২২ August ২০২১ author post. Facebook reconciliation remains unresolved; no provenance or URL was inferred.",
     "authorCredit": ""
   },
   {
@@ -6919,7 +6920,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ১৫ আগস্ট ২০২১ identifies দৈনিক সংবাদ and gives the column date as ১৬ আগস্ট ২০২১; the complete article text matches this archive record. No safely verifiable original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -6930,7 +6931,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2021-08-12",
     "publishedDateLabel": "১২ আগস্ট ২০২১",
-    "originalUrl": "https://shampratikdeshkal.com/opinion/news/210852916/%E0%A6%85%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%A0%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%81?fbclid=IwAR2QMng3OzkNzSIdW6U1PjPafy7o55C4P1nGKvCkVLi_GVgZjS_23l6qj4s",
+    "originalUrl": "https://www.shampratikdeshkal.com/opinion/52916",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -6958,7 +6959,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "The সাম্প্রতিক দেশকাল publisher page confirms the title, author, publication date (১২ আগস্ট ২০২১), newspaper, and article body. The canonical publisher URL is recorded; Facebook provenance remains unresolved because the exact author post was not retrievable.",
     "authorCredit": ""
   },
   {
@@ -6996,7 +6997,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৮ আগস্ট ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7031,7 +7032,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৫ জুলাই ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7066,7 +7067,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১৮ জুলাই ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7102,7 +7103,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post identifies the ৪ জুলাই ২০২১ দৈনিক সংবাদ column ‘ঢাকা বিশ্ববিদ্যালয়, রবীন্দ্রনাথ এবং বিরোধিতার কাহিনী’; the complete body and publication metadata match this archive record. No safely verifiable original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7138,7 +7139,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২০ জুন ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7209,7 +7210,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook post dated ১৩ জুন ২০২১ identifies দৈনিক সংবাদ and exposes the complete article text for ‘বাজেট ২০২১-২০২২’; the body matches this archive record, but the original newspaper URL was not exposed.",
     "authorCredit": ""
   },
   {
@@ -7245,7 +7246,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৬ জুন ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7282,7 +7283,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৯ মে ২০২১; its caption identifies the রবিবার, ৩০ মে ২০২১ দৈনিক সংবাদ উপসম্পাদকীয় ‘ফিলিস্তিন-ইসরাইলের যুদ্ধ বিরতি’. The expanded public post exposes the complete article text, which matches this archive record. No original newspaper URL was safely exposed.",
     "authorCredit": ""
   },
   {
@@ -7319,7 +7320,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৩ মে ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7354,7 +7355,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৯ মে ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7390,7 +7391,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "The recurring-caption Facebook search exposes the ০১ মে ২০২১ দৈনিক সংবাদ উপসম্পাদকীয় ‘সরকার উভয় সঙ্কটে’ and its complete article text. The title, publication date, and body match this archive record; no original newspaper URL was safely exposed.",
     "authorCredit": ""
   },
   {
@@ -7426,7 +7427,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৫ এপ্রিল ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7464,7 +7465,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১৮ এপ্রিল ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7475,7 +7476,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2021-04-11",
     "publishedDateLabel": "১১ এপ্রিল ২০২১",
-    "originalUrl": "",
+    "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/32483/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -7500,7 +7501,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১১ এপ্রিল ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7537,7 +7538,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৪ এপ্রিল ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The title, publication date, newspaper, and full article body match this archive record. No original newspaper URL was exposed; no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -7573,7 +7574,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post identifies the ২৮ মার্চ ২০২১ দৈনিক সংবাদ column ‘ঝুমন দাসের বাক স্বাধীনতা’; the complete body and publication metadata match this archive record. No safely verifiable original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7609,7 +7610,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২১ March ২০২১ identifies দৈনিক সংবাদ and exposes the complete article text matching this archive record. No original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -7647,7 +7648,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১৪ মার্চ ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7683,7 +7684,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১৪ ফেব্রুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7719,7 +7720,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook post dated ৭ ফেব্রুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete article text for ‘নির্বাচনে অনিয়ম’; the title, publication date, and body match this archive record. No original newspaper URL was safely verified; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7755,7 +7756,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৩১ জানুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7789,7 +7790,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১৭ জানুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7826,7 +7827,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ৩ জানুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -7862,18 +7863,18 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৭ ফেব্রুয়ারি ২০২১; its caption identifies the ২৮ ফেব্রুয়ারি ২০২১ দৈনিক সংবাদ উপসম্পাদকীয় ‘শহীদ মিনার: প্রতিবাদের মঞ্চ’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
     "slug": "2021-01-01-shhid-jnni-jahanara-imam",
     "title": "শহীদ জননী জাহানারা ইমাম",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
+    "publication": "সাম্প্রতিক দেশকাল",
     "section": "মতামত",
-    "publishedAt": "2021-01-01",
-    "publishedDateLabel": "২০২১ (তারিখ অনির্দিষ্ট)",
-    "originalUrl": "https://shampratikdeshkal.com/opinion/news/210648257/%E0%A6%B6%E0%A6%B9%E0%A7%80%E0%A6%A6-%E0%A6%9C%E0%A6%A8%E0%A6%A8%E0%A7%80-%E0%A6%9C%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%87%E0%A6%AE%E0%A6%BE%E0%A6%AE?fbclid=IwAR3jF4JgMdhxSPwIYCNLN-6058nKb7wr_FL2xxogeLijik839TwyIeyJFmg",
+    "publishedAt": "2021-06-26",
+    "publishedDateLabel": "২৬ জুন ২০২১",
+    "originalUrl": "https://www.shampratikdeshkal.com/opinion/48257",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -7903,7 +7904,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Publisher-page verification found the matching article at সাম্প্রতিক দেশকাল: the page credits জিয়াউদ্দীন আহমেদ, dates it ২৬ জুন ২০২১, and its body matches this archive record. The record’s opening caption identifies the same publication and date. Direct Facebook post verification remains pending because the profile-search session is temporarily rate-limited.",
     "authorCredit": ""
   },
   {
@@ -7915,6 +7916,7 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2021-07-11",
     "publishedDateLabel": "১১ জুলাই ২০২১",
     "originalUrl": "",
+    "authorNote": "Facebook public post timestamp is ১০ জুলাই ২০২১; its caption identifies the রবিবার, ১১ জুলাই ২০২১ দৈনিক সংবাদ উপসম্পাদকীয় ‘লকডাউন, না শাটডাউন’. The expanded public post exposes the complete article text, which matches this archive record. No original newspaper URL was safely exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -7938,7 +7940,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Sangbad’s publisher page confirms the title, author, publication identity, and matching article body at https://sangbad.net.bd/opinion/post-editorial/32483/. The publisher page displays ১০ এপ্রিল ২০২১, while the Facebook/catalog text identifies the column as ১১ এপ্রিল ২০২১; the catalog date is retained pending resolution of this source-date discrepancy.",
     "authorCredit": ""
   },
   {
@@ -7975,7 +7977,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২১ ফেব্রুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8010,7 +8012,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ২৪ জানুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8045,7 +8047,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu dated ১ আগস্ট ২০২১ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8079,7 +8081,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook exact-title search for ‘তালেবান শাসনে আফগান নারী’ returned no results. The shorter search ‘আফগান নারী’ surfaced unrelated posts, including a ১৩ July ২০২২ author post, not this ১ January ২০২১ column. Facebook reconciliation remains unresolved; no provenance or URL was inferred.",
     "authorCredit": ""
   },
   {
@@ -8115,7 +8117,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৬ জুন ২০২১; its caption identifies the ২৭ জুন ২০২১ দৈনিক সংবাদ উপসম্পাদকীয় ‘টিকটক: সোশ্যাল মিডিয়া প্ল্যাটফর্ম’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8126,7 +8128,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2021-02-07",
     "publishedDateLabel": "৭ ফেব্রুয়ারি ২০২১",
-    "originalUrl": "",
+    "originalUrl": "https://www.bd-pratidin.com/printnews/615927",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -8150,7 +8152,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ৭ ফেব্রুয়ারি ২০২১ identifies this as a Bangladesh Pratidin column and notes that a separate দৈনিক সংবাদ column was published the same day. Bangladesh Pratidin’s publisher page confirms the title, author, date, publication identity, and matching article body. Verified original URL: https://www.bd-pratidin.com/printnews/615927.",
     "authorCredit": ""
   },
   {
@@ -8184,7 +8186,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ২২ জানুয়ারি ২০২১ identifies this as a Bangladesh Pratidin column. The expanded public text matches this archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8196,6 +8198,7 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2021-01-10",
     "publishedDateLabel": "১০ জানুয়ারি ২০২১",
     "originalUrl": "",
+    "authorNote": "Facebook post dated ১০ জানুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the full article text; the original newspaper URL was not exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -8219,7 +8222,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ১০ জানুয়ারি ২০২১ identifies the দৈনিক সংবাদ উপসম্পাদকীয় ‘আওয়ামী লীগে অনুপ্রবেশকারী’ and exposes the complete article text. The title, publication identity, date, and body match the existing archive record; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -8248,7 +8251,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ২৭ ডিসেম্বর ২০২০ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches the existing ‘বাঘা যতীনের ভাস্কর্য’ archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8260,6 +8263,7 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2020-12-20",
     "publishedDateLabel": "২০ ডিসেম্বর ২০২০",
     "originalUrl": "",
+    "authorNote": "Facebook post dated ২০ ডিসেম্বর ২০২০ identifies দৈনিক সংবাদ and exposes the full article text, titled ‘চোর ধরেও চোর হয়ে যাচ্ছি’; the original newspaper URL was not exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/2020-12-20-chor-dhoreo-chor-hoye-jachchi.png",
     "heroCaption": "",
@@ -8307,7 +8311,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ১৩ ডিসেম্বর ২০২০ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches the existing ‘মুর্তি বনাম ভাস্কর্য’ archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8335,7 +8339,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post dated ৬ ডিসেম্বর ২০২০ identifies দৈনিক সংবাদ and exposes the complete column text. The expanded text matches the existing ‘সাকিবের ক্ষমা প্রার্থনা’ archive record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8364,7 +8368,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৮ নভেম্বর ২০২০; its caption identifies the ২৯ নভেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘মুনীরুজ্জমান : অসাম্প্রদায়িক চেতনার প্রতিভূ’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8394,7 +8398,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২১ নভেম্বর ২০২০; its caption identifies the ২২ নভেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘আর্মেনিয়া-আজারবাইজানের যুদ্ধ’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8423,7 +8427,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৪ নভেম্বর ২০২০; its caption identifies the ১৫ নভেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘মার্কিন যুক্তরাষ্ট্রের নির্বাচন’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8453,7 +8457,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৭ নভেম্বর ২০২০; its caption identifies the ৮ নভেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘উন্মত্ত জনতার উন্মাদনা’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8464,7 +8468,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2020-11-01",
     "publishedDateLabel": "১ নভেম্বর ২০২০",
-    "originalUrl": "",
+    "originalUrl": "https://sangbad.net.bd/opinion/post-editorial/16614/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -8482,7 +8486,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৩১ অক্টোবর ২০২০; its caption identifies the ১ নভেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘ঘৃণা ঘৃণার জন্ম দেয়’. Sangbad Online confirms the matching title, author, article body, and publisher date ৩১ October ২০২০ at https://sangbad.net.bd/opinion/post-editorial/16614/. The catalog retains ০১ November as the Facebook/print-column date convention.",
     "authorCredit": ""
   },
   {
@@ -8513,7 +8517,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৪ অক্টোবর ২০২০; its caption identifies the ২৫ অক্টোবর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘আল্লাহর দুনিয়ায় জমির অভাব নেই’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8542,7 +8546,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১০ অক্টোবর ২০২০; its caption identifies the ১১ অক্টোবর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘ধর্ষণে বিপর্যস্ত বাংলাদেশ’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8572,7 +8576,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook verification (2026-09-27): The public author post dated ৪ অক্টোবর ২০২০ identifies দৈনিক সংবাদ and reproduces the full article text for this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8600,7 +8604,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৬ সেপ্টেম্বর ২০২০; its caption identifies the ২৭ সেপ্টেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘খিচুড়ি নিয়ে মাতম’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8630,7 +8634,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৯ সেপ্টেম্বর ২০২০; its caption identifies the ২০ সেপ্টেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘মসজিদে বিস্ফোরণ’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8661,7 +8665,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১২ সেপ্টেম্বর ২০২০; its caption identifies the ১৩ সেপ্টেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘সিটি কর্পোরেশনের সারমেয়নীতি’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8690,7 +8694,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৫ সেপ্টেম্বর ২০২০; its caption identifies the ৬ সেপ্টেম্বর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘ভারত-বাংলাদেশ-চীন’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8701,7 +8705,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2020-08-17",
     "publishedDateLabel": "১৭ আগস্ট ২০২০",
-    "originalUrl": "",
+    "originalUrl": "https://sangbad.net.bd/opinion/sub-editorial/10490/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -8722,7 +8726,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৬ আগস্ট ২০২০; the author explains that the দৈনিক সংবাদ উপসম্পাদকীয় could not be printed on Sunday for a special reason and was published on Monday, ১৭ আগস্ট ২০২০. Sangbad Online confirms the matching title, author, article body, and publisher date ১৬ August ২০২০ at https://sangbad.net.bd/opinion/sub-editorial/10490/. The catalog retains ১৭ August as the print-column date convention.",
     "authorCredit": ""
   },
   {
@@ -8751,7 +8755,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৫ জুলাই ২০২০; its caption identifies the রবিবার, ২৬ জুলাই ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘করোনার ভ্যাকসিন’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8781,7 +8785,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৮ জুলাই ২০২০; its caption identifies the রবিবার, ১৯ জুলাই ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘শাহেদের কিশোরী মেয়েও বিব্রত’. The expanded public post exposes the complete article text, which matches this archive record. No original newspaper URL was safely exposed.",
     "authorCredit": ""
   },
   {
@@ -8812,7 +8816,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১১ জুলাই ২০২০; its caption identifies the রবিবার, ১২ জুলাই ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘টাকায় বাঘের দুধ মেলে’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8824,6 +8828,7 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2020-07-05",
     "publishedDateLabel": "৫ জুলাই ২০২০",
     "originalUrl": "",
+    "authorNote": "Facebook post dated ৫ জুলাই ২০২০ identifies দৈনিক সংবাদ and exposes the full article text, titled ‘মন্দা অর্থনীতির কবলে ব্যাংক’; the original newspaper URL was not exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -8872,7 +8877,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৭ জুন ২০২০; its caption identifies the রবিবার, ২৮ জুন ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘আল্লাহ মালিক কাজেমী’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8902,7 +8907,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২০ জুন ২০২০; its caption identifies the রবিবার, ২১ জুন ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘লকডাউনে মানসিক দুশ্চিন্তা’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8931,7 +8936,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৩ জুন ২০২০; its caption identifies the রবিবার, ১৪ জুন ২০২০ উপসম্পাদকীয় in সংবাদ পত্রিকায়, titled ‘আমরা সবাই বর্ণচোরা বর্ণবাদী’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8961,7 +8966,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৩০ মে ২০২০. The caption identifies the Sunday উপসম্পাদকীয় in সংবাদ, explains that the article was written about ১৪ days earlier and sent before Eid but publication was delayed by the holiday closure, and the existing record identifies the publication as ৩১ মে ২০২০. The expanded article text aligns with this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -8990,7 +8995,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৬ মে ২০২০; the author identifies the রবিবার, ১৭ মে ২০২০ উপসম্পাদকীয় in দৈনিক সংবাদ. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9019,7 +9024,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৯ মে ২০২০; the author identifies the Sunday, ১০ মে ২০২০ উপসম্পাদকীয় in দৈনিক সংবাদ. The expanded public post exposes the complete article text, which corresponds to this archive record; the archive retains its normalized spelling variants. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9048,7 +9053,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 2 May 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 3 May 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9079,7 +9084,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 25 April 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 26 April 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9108,7 +9113,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 18 April 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 19 April 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9137,7 +9142,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 11 April 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 12 April 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9171,7 +9176,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: posted 6 April 2020. The author says the Sunday column was delayed by email trouble and states that the উপসম্পাদকীয় was published on Monday, 6 April 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9202,7 +9207,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 29 March 2020; the post identifies this as a সংবাদ উপসম্পাদকীয় published Sunday, 29 March 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9234,7 +9239,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 21 March 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 22 March 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9263,7 +9268,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 15 March 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 15 March 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9293,7 +9298,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post identifies the ৮ মার্চ ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘দিল্লির শাহীনবাগ’. The complete Facebook text matches the existing archive record. No safely verifiable original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9327,7 +9332,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 1 March 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 1 March 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9357,7 +9362,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 8 February 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 9 February 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9389,7 +9394,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 18 January 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 19 January 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9419,7 +9424,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 11 January 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 12 January 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9452,7 +9457,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৭ অক্টোবর ২০২০; its caption identifies the ১৮ অক্টোবর ২০২০ দৈনিক সংবাদ উপসম্পাদকীয় ‘রশীদ হায়দার-‘তিনি, একজনই’’. The expanded public post exposes the complete article text, which matches this archive record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9517,7 +9522,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 22 February 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 23 February 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9547,7 +9552,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 25 January 2020; the author identifies the source as the Sunday, 26 January 2020 উপসম্পাদকীয় in সংবাদ. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9605,7 +9610,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৬ জুন ২০২০; its caption identifies the Sunday, ৭ জুন ২০২০ উপসম্পাদকীয় in সংবাদ. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9636,7 +9641,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 4 January 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 5 January 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9668,7 +9673,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 15 February 2020; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 16 February 2020. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9698,7 +9703,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 2 February 2020; the post identifies the same day’s Sunday উপসম্পাদকীয় in দৈনিক সংবাদ. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9729,7 +9734,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published ২৩ আগস্ট ২০২০; the post identifies the same day’s Sunday উপসম্পাদকীয় in দৈনিক সংবাদ. The complete article body matches the local record. The attached Facebook photo card did not expose a safely verifiable newspaper-original URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9766,7 +9771,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu identifies the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, ২৯ ডিসেম্বর ২০১৯, titled ‘ভারতের সাম্প্রদায়িক পদক্ষেপ’. The expanded post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9802,7 +9807,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২১ ডিসেম্বর ২০১৯; its caption identifies the ২২ ডিসেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘অঙ্গ-প্রত্যঙ্গ সংযোজনে ধর্ম’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9838,7 +9843,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৪ ডিসেম্বর ২০১৯; its caption identifies the ১৫ ডিসেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘অঙ্গ-প্রত্যঙ্গ সংযোজনে আইন’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9873,7 +9878,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৭ ডিসেম্বর ২০১৯; its caption identifies the ৮ ডিসেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘সড়ক দুর্ঘটনা ও নতুন আইন’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9908,7 +9913,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Public Facebook post by Zeauddin Ahmed Bitu identifies the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, ০১ ডিসেম্বর ২০১৯, titled ‘জন্মদিন উদযাপনে জলতরঙ্গ’. The expanded post exposes the complete article text, including the author’s correction note, and it matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9944,7 +9949,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৩ নভেম্বর ২০১৯; its caption identifies the ২৪ নভেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘পিয়াজের ঝাঁজ’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -9983,7 +9988,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ১৬ নভেম্বর ২০১৯; its caption identifies the ১৭ নভেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘দুঃখ প্রকাশ ও বক্তব্য প্রত্যাহার’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10020,7 +10025,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৯ নভেম্বর ২০১৯; its caption identifies the ১০ নভেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘অনুভূতির খেসারত’. The expanded public post exposes the complete article text, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10057,7 +10062,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২ নভেম্বর ২০১৯; its caption identifies the ৩ নভেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘আবরারের মৃত্যু এবং ছাত্র রাজনীতি’ (দ্বিতীয় পর্ব). The expanded second-part post exposes the complete article body, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10093,7 +10098,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৬ অক্টোবর ২০১৯; its caption identifies the ২৭ অক্টোবর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘আবরারের মৃত্যু এবং ছাত্র রাজনীতি’ (প্রথম পর্ব). The expanded first-part post exposes the complete article body, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10131,7 +10136,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "The expanded Facebook post identifies the ১৪ অক্টোবর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘জুয়ার আসর ক্যাসিনো’ (দ্বিতীয় পর্ব). Its Facebook posting timestamp is ২০ অক্টোবর ২০১৯, indicating a later Facebook posting of the column. The complete second-part text corresponds to this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10167,7 +10172,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৫ অক্টোবর ২০১৯; its caption identifies the ৬ অক্টোবর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘জুয়ার আসর ক্যাসিনো’ (প্রথম পর্ব). The expanded first-part post exposes the complete article body, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10204,7 +10209,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২৮ সেপ্টেম্বর ২০১৯; its caption identifies the ২৯ সেপ্টেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘তাজিয়া মিছিলে পদদলন’ (পর্ব-২). The expanded second-part post exposes the complete article body, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10239,7 +10244,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ২১ সেপ্টেম্বর ২০১৯; its caption identifies the ২২ সেপ্টেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘তাজিয়া মিছিলে পদদলন’. The expanded post exposes the complete article body, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10272,7 +10277,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ১৪ সেপ্টেম্বর ২০১৯ identifies this as the author’s দৈনিক সংবাদ উপ সম্পাদকীয় for রবিবার, ১৫ সেপ্টেম্বর ২০১৯ and exposes the complete article text. The body and publication metadata match this archive record; no original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -10308,7 +10313,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post timestamp is ৭ সেপ্টেম্বর ২০১৯; its caption identifies the ৮ সেপ্টেম্বর ২০১৯ দৈনিক সংবাদ উপসম্পাদকীয় ‘আসাম : কামরূপ কামাখ্যা’ (প্রথম পর্ব). The expanded first-part post exposes the complete article body, which matches this archive record. No safely verifiable newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10343,7 +10348,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ৩১ আগস্ট ২০১৯ identifies this as the author’s দৈনিক সংবাদ উপ সম্পাদকীয় for ১ সেপ্টেম্বর ২০১৯ and, after expansion, exposes the complete article text. The body and publication metadata match this archive record; no original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -10379,7 +10384,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২৪ আগস্ট ২০১৯ identifies this as the author’s দৈনিক সংবাদ উপ সম্পাদকীয় for রবিবার, ২৫ আগস্ট ২০১৯ and, after expansion, exposes the complete article text. The body and publication metadata match this archive record; no original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -10418,7 +10423,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ১৭ আগস্ট ২০১৯ identifies this as the author’s দৈনিক সংবাদ উপ সম্পাদকীয় for রবিবার, ১৮ আগস্ট ২০১৯ and, after expansion, exposes the complete article text. The body and publication metadata match this archive record; no original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -10452,7 +10457,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ৩ আগস্ট ২০১৯ identifies this as the author’s দৈনিক সংবাদ উপ সম্পাদকীয় for রবিবার, ০৪ আগস্ট ২০১৯ and, after expansion, exposes the complete article text. The body and publication metadata match this archive record; no original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -10488,7 +10493,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post located and expanded: published 27 July 2019; post identifies the source as the Sunday, 28 July 2019 উপসম্পাদকীয় in দৈনিক সংবাদ. Full article text reconciled against the local record. No safe newspaper-original URL exposed; the Facebook photo URL is retained only as social-source evidence, not as the original publication URL.",
     "authorCredit": ""
   },
   {
@@ -10497,8 +10502,8 @@ export const folderArticles: ArchiveArticle[] = [
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2019-07-23",
-    "publishedDateLabel": "২৩ জুলাই ২০১৯",
+    "publishedAt": "2019-08-11",
+    "publishedDateLabel": "১১ আগস্ট ২০১৯",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
@@ -10523,7 +10528,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook post dated ১১ আগস্ট ২০১৯ identifies দৈনিক সংবাদ and exposes the complete article text for ‘সরকারের জবাবদিহিতা’; the body matches the existing archive record, whose corrected publication date is ১১ আগস্ট ২০১৯. No original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -10559,7 +10564,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook post dated ২১ জুলাই ২০১৯ identifies দৈনিক সংবাদ and exposes the complete article text for ‘ভাগ্যবান প্রেসিডেন্ট এরশাদ’; the body and publication date match the existing archive record, but the original newspaper URL was not exposed.",
     "authorCredit": ""
   },
   {
@@ -10594,7 +10599,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 13 July 2019; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 14 July 2019. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10629,7 +10634,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 6 July 2019; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 7 July 2019. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10665,7 +10670,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ৩০ জুন ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10702,7 +10707,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ২৩ জুন ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10738,7 +10743,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ১৬ জুন ২০১৯, and exposes the complete article body. The title and publication date match this record. Facebook also exposes the post's photo URL, but no original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10773,7 +10778,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ০৯ জুন ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10809,7 +10814,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ০২ জুন ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10845,7 +10850,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ২৬ মে ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10880,7 +10885,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ১৯ মে ২০১৯, and exposes the complete article body. The title and publication date match this record. Facebook also exposes a photo-post URL, but no original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10912,7 +10917,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ১২ মে ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10948,7 +10953,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ০৫ মে ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -10984,7 +10989,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ২৮ এপ্রিল ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11020,7 +11025,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ২১ এপ্রিল ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11054,7 +11059,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ১৪ এপ্রিল ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11090,7 +11095,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ০৭ এপ্রিল ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11125,7 +11130,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ৩১ মার্চ ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11165,7 +11170,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the Daily Sangbad sub-editorial published Sunday, ২৪ মার্চ ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11200,7 +11205,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the সংবাদ sub-editorial published ১৭ মার্চ ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11236,7 +11241,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ১০ মার্চ ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11272,7 +11277,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ০৩ মার্চ ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11309,18 +11314,18 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ০৩ ফেব্রুয়ারি ২০১৯, and exposes the complete article body. The title and publication date match this record. No original newspaper URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
     "slug": "2019-01-01-amader-tankshal",
     "title": "‘আমাদের টাঁকশাল’",
     "author": "জিয়াউদ্দীন আহমেদ",
-    "publication": "সংবাদ",
-    "section": "মতামত",
-    "publishedAt": "2019-01-01",
-    "publishedDateLabel": "২০১৯ (তারিখ অনির্দিষ্ট)",
-    "originalUrl": "",
+    "publication": "প্রথম আলো",
+    "section": "জীবনযাপন",
+    "publishedAt": "2019-02-02",
+    "publishedDateLabel": "০২ ফেব্রুয়ারি ২০১৯",
+    "originalUrl": "https://www.prothomalo.com/lifestyle/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B2",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/folder/folder-article-f22acdab.jpg",
     "heroCaption": "বিষয়ভিত্তিক সংরক্ষণ চিত্র",
@@ -11344,7 +11349,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post and attached newspaper clipping verify a ০২ ফেব্রুয়ারি ২০১৯ প্রথম আলো ‘ছুটির দিনে’ article titled ‘আমাদের টাঁকশাল’. The canonical Prothom Alo page confirms the title, author, section, date, and full online text: https://www.prothomalo.com/lifestyle/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B2. The preserved local body begins ‘নোট মুদ্রণে বাংলাদেশ’ and differs in wording from the online transcription; it remains as a documented text variant pending editorial normalization.",
     "authorCredit": ""
   },
   {
@@ -11379,7 +11384,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ২০ জানুয়ারি ২০১৯, and exposes the complete article body. The title, publication, date, and stored body match this record. A public-source search found no safely verifiable original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11416,7 +11421,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ১৭ ফেব্রুয়ারি ২০১৯, and exposes the complete article body. The title, publication, date, and stored body match this record. A public-source search found no safely verifiable original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11453,7 +11458,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ০৬ জানুয়ারি ২০১৯, and exposes the complete article body. The title, publication, date, and stored body match this record. A public-source search found no safely verifiable original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11490,7 +11495,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author identifies this as a সংবাদ sub-editorial published ১০ ফেব্রুয়ারি ২০১৯ and exposes the complete article body. The title and stored body match this record; the local record retains a placeholder ২০১৯ date pending metadata normalization. A public-source search found no safely verifiable original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11526,7 +11531,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author identifies this as a দৈনিক সংবাদ sub-editorial published রবিবার, ২৭ জানুয়ারি ২০১৯ and exposes the complete article body. The title and stored body match this record; the local record retains a placeholder ২০১৯ date pending metadata normalization. A public-source search found no safely verifiable original newspaper URL; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11564,7 +11569,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author identifies this as a দৈনিক সংবাদ sub-editorial published রবিবার, ২৪ ফেব্রুয়ারি ২০১৯ and exposes the complete article body. The title and stored body match this record; the local record retains a placeholder ২০১৯ date pending metadata normalization. No original newspaper URL was safely exposed or independently verified; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11595,7 +11600,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ৩০ ডিসেম্বর ২০১৮ and exposes the complete article body. The title and publication date match this record; the original Sangbad URL was already recorded and no duplicate was created.",
     "authorCredit": ""
   },
   {
@@ -11606,12 +11611,13 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2018-12-23",
     "publishedDateLabel": "২৩ ডিসেম্বর ২০১৮",
-    "originalUrl": "",
+    "originalUrl": "https://print.thesangbad.net/opinion/post-editorial/মাশরাফি+ভোট+প্রার্থী-42361/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as the দৈনিক সংবাদ sub-editorial published রবিবার, ২৩ ডিসেম্বর ২০১৮ and exposes the complete article body. The Facebook link card matches the existing canonical Sangbad URL; no duplicate was created.",
     "body": [
       {
         "paragraphs": [
@@ -11631,7 +11637,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post verified: published 15 June 2019; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 16 June 2019. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11648,6 +11654,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ মতামত/মুক্ত আলোচনা column published রবিবার, ১৬ ডিসেম্বর ২০১৮ and exposes the complete article body. The title, date, publication, and stored text match; no original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11686,6 +11693,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial for রবিবার, ০৯ ডিসেম্বর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ০৮ ডিসেম্বর ২০১৮, while the caption and stored publication date are ০৯ ডিসেম্বর; both dates are preserved by the evidence. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11722,6 +11730,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial for রবিবার, ০২ ডিসেম্বর ২০১৮ and exposes the complete article body. Facebook’s displayed title uses the punctuation variant “কূটনীতি : সীমা-পরিসীমা”; the catalog title is retained without changing the record identity. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11751,14 +11760,15 @@ export const folderArticles: ArchiveArticle[] = [
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2018-12-01",
-    "publishedDateLabel": "১ ডিসেম্বর ২০১৮",
+    "publishedAt": "2019-01-13",
+    "publishedDateLabel": "১৩ জানুয়ারি ২০১৯",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ১৩ জানুয়ারি ২০১৯ and exposes the complete article body. The local slug retains its legacy ২০১৮-১২-০১ identifier, but the publication metadata is corrected to the Facebook-confirmed ২০১৯-০১-১৩ date; ১ ডিসেম্বর ২০১৮ is an event date discussed in the article. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11799,6 +11809,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ২৫ নভেম্বর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ২৪ নভেম্বর ২০১৮, while the caption and stored publication date are ২৫ নভেম্বর; both dates are preserved by the evidence. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11833,6 +11844,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ১৮ নভেম্বর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ১৭ নভেম্বর ২০১৮, while the caption and stored publication date are ১৮ নভেম্বর; both dates are preserved by the evidence. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11871,6 +11883,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ০৪ নভেম্বর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ০৩ নভেম্বর ২০১৮, while the caption and stored publication date are ০৪ নভেম্বর; both dates are preserved by the evidence. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11908,6 +11921,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ২৮ অক্টোবর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ২৭ অক্টোবর ২০১৮, while the caption and stored publication date are ২৮ অক্টোবর; both dates are preserved by the evidence. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -11946,6 +11960,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ২১ অক্টোবর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ২০ অক্টোবর ২০১৮, while the caption and stored publication date are ২১ অক্টোবর; both dates are preserved by the evidence. No original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -12004,7 +12019,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Historical Facebook post dated ১৪ অক্টোবর ২০১৮ identifies the দৈনিক সংবাদ column ‘যুদ্ধের অস্ত্র ধর্ষণ’ and confirms the publication-date context. The existing catalog record is retained; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -12040,7 +12055,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Historical Facebook post dated ৭ অক্টোবর ২০১৮ identifies the দৈনিক সংবাদ column ‘অভিশপ্ত মেয়ে সন্তান’ and confirms the publication-date context. The existing catalog record is retained; no original newspaper URL was safely verified.",
     "authorCredit": ""
   },
   {
@@ -12181,6 +12196,7 @@ export const folderArticles: ArchiveArticle[] = [
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "জিয়ার কলাম আর্কাইভ",
+    "authorNote": "Facebook public post verified: the author labels this as a দৈনিক সংবাদ sub-editorial published রবিবার, ০৯ সেপ্টেম্বর ২০১৮ and exposes the complete article body. Facebook’s post timestamp is ০৮ সেপ্টেম্বর ২০১৮, while the caption and stored publication date are ০৯ সেপ্টেম্বর; both dates are preserved by the evidence. The post was shared with Jashim Uddin, but no original newspaper URL was safely exposed.",
     "body": [
       {
         "paragraphs": [
@@ -12280,7 +12296,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Historical Facebook post dated ২৬ আগস্ট ২০১৮ identifies this as a দৈনিক সংবাদ উপসম্পাদকীয় titled ‘অল্পদর্শী-আবু জাফর শামছুদ্দীন’ and confirms the publication-date context. The complete article body was not treated as verified here; no original newspaper URL was safely promoted.",
     "authorCredit": ""
   },
   {
@@ -12355,7 +12371,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook post titled ‘উই ওয়ান্ট জাস্টিস’ identifies the column as published in দৈনিক সংবাদ on ১২ আগস্ট ২০১৮ and exposes the complete article text. The body matches the existing `2018-08-12-ui-oyant-jastis` record; no original newspaper URL was exposed and no URL was invented.",
     "authorCredit": ""
   },
   {
@@ -12434,7 +12450,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Facebook public post dated ২৮ জুলাই ২০১৮ identifies দৈনিক সংবাদ and gives the column date as ২৯ জুলাই ২০১৮; the complete article text matches this archive record. No safely verifiable original newspaper URL was exposed.",
     "authorCredit": ""
   },
   {
@@ -13266,8 +13282,8 @@ export const folderArticles: ArchiveArticle[] = [
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2018-01-01",
-    "publishedDateLabel": "২০১৮ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2018-02-25",
+    "publishedDateLabel": "২৫ ফেব্রুয়ারি ২০১৮ (Facebook post identifies publication date)",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
@@ -13723,7 +13739,7 @@ export const folderArticles: ArchiveArticle[] = [
     "section": "মতামত",
     "publishedAt": "2017-10-04",
     "publishedDateLabel": "৪ অক্টোবর ২০১৭",
-    "originalUrl": "",
+    "originalUrl": "https://print.thesangbad.net/opinion/post-editorial/স্বাস্থ্য+খাতের+স্বীকৃতি-9200/",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -13762,7 +13778,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Historical Facebook post dated ৪ অক্টোবর ২০১৭ identifies this as a দৈনিক সংবাদ উপসম্পাদকীয় titled ‘স্বাস্থ্য খাতের স্বীকৃতি’ and confirms the publication-date context. The complete article body was not treated as verified here; the original Sangbad URL is recorded separately in the catalog.",
     "authorCredit": ""
   },
   {
@@ -13928,7 +13944,7 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
+    "authorNote": "Historical Facebook post dated ৫ সেপ্টেম্বর ২০১৭ identifies this as a দৈনিক সংবাদ উপসম্পাদকীয় titled ‘উদ্বাস্তু রোহিঙ্গা’ and confirms the publication-date context. The complete article body was not treated as verified here; no original newspaper URL was safely promoted.",
     "authorCredit": ""
   },
   {
@@ -14305,8 +14321,8 @@ export const folderArticles: ArchiveArticle[] = [
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2017-01-01",
-    "publishedDateLabel": "২০১৭ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2017-07-14",
+    "publishedDateLabel": "১৪ জুলাই ২০১৭",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/folder/folder-article-49e5ae2c.jpg",

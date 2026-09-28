@@ -10,15 +10,20 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const files = ["lib/articles.ts", "lib/folderArticles.ts"];
 
 function readScalar(block, name) {
-  const match = block.match(new RegExp(`"${name}"\\s*:\\s*"((?:\\\\.|[^"\\\\])*)"`));
+  const match = block.match(new RegExp(`(?:"${name}"|${name})\\s*:\\s*"((?:\\\\.|[^"\\\\])*)"`));
   return match ? match[1].replaceAll('\\\\"', '"').replaceAll('\\\\n', "\\n") : "";
 }
 
 function readFile(file) {
   const source = fs.readFileSync(path.join(root, file), "utf8");
-  const pattern = /^  \{\r?\n    "slug":\s*"([^"]+)"([\s\S]*?)(?=^  \},\r?\n  \{|^  \}\r?\n\];)/gm;
-  return [...source.matchAll(pattern)].map((match) => {
-    const block = match[0];
+  // Imported folder records use an unquoted `slug:` key, while hand-authored
+  // records use a quoted `"slug":` key. Count and validate both forms.
+  const starts = [...source.matchAll(/(?:"slug"|slug)\s*:\s*"([^"]+)"/g)];
+  return starts.map((match, index) => {
+    const blockStart = source.lastIndexOf("{", match.index);
+    const nextStart = index + 1 < starts.length ? starts[index + 1].index : source.length;
+    const blockEnd = source.lastIndexOf("{", nextStart);
+    const block = source.slice(blockStart, blockEnd);
     return {
       file,
       slug: match[1],
