@@ -15,7 +15,7 @@
 - The newly added ২৯ June ২০২৬ Chaarcha column `মামলার জটে বন্দী ন্যায়বিচার` now has a verified canonical page at `https://www.chaarcha.com/thoughts/ch5xdcw8i3fm`, reconciled against the complete public Facebook post body.
 - The ১ September ২০২৬ Chaarcha column `বিদ্যুৎ যায়-আসে, জবাব থাকে না` is now reconciled against an expanded public Facebook search result and its canonical page at `https://www.chaarcha.com/thoughts/chk44rjhbx8q`; no stable direct Facebook permalink was exposed.
 - The ৯ June ২০২৬ Chaarcha column `ইসলামী ব্যাংক নিয়ে রাজনৈতিক টানাপোড়েন কেন?` is now fully reconciled against the expanded Facebook post and canonical page `https://www.chaarcha.com/thoughts/ch1sqljwbi3q`; no stable direct Facebook permalink was exposed.
-- Launch-approved/publication-cleared count: not yet independently reconciled with the live deployment.
+- Launch-approved/publication-cleared count: independently reconciled with the current Sites deployment; the live apex archive returns HTTP 200 and displays ৪৬১ records (verified 2026-09-27).
 
 ## Source-recovery queue — 2026-09-27
 
@@ -136,11 +136,11 @@
 ## Archive-count reconciliation snapshot — 2026-09-27
 
 - Local working tree: **461 records**, validated by `node scripts/validate-article-catalog.mjs`; duplicate count **0** (32 records in `lib/articles.ts` plus 429 in `lib/folderArticles.ts`).
-- Count clarification: an earlier **286** figure referred to a narrower intermediate validation/query scope and was not the project total. The authoritative current local catalog count is **461**, while the live GitHub Pages site displays **454**.
+- Count clarification: an earlier **286** figure referred to a narrower intermediate validation/query scope and was not the project total. The authoritative current local catalog count is **461**, and the current Sites deployment at `https://zeauddinahmed.com/archive` displays **৪৬১** records.
 - GitHub `main` source: **454 records** at commit `0125cfa19448f801522dff4169029e2d13831267` (25 records in `lib/articles.ts` plus 429 in `lib/folderArticles.ts`).
-- Live GitHub Pages home page: displays **454 records**.
+- The legacy GitHub Pages source remains at **454 records**; it is not the current canonical public deployment.
 - The current worktree has seven additional records beyond GitHub `main`: `2026-04-09-hame-shishu-mrityur-jonno-dayi-ontorborti-sorkarer-dayittojnyanhinota`, `2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno`, `2026-05-20-eid-utsab-orthonitir-jiboni-shokti`, `2026-06-09-islami-bank-niye-rajnaitik-tanaporen-keno`, `2026-06-29-mamlar-jote-bondi-nayaybichar`, `2026-08-14-sorkarer-6-mash-deshta-bhalo-cholchhe-ki`, and `2026-09-27-bagarmborer-arale-jababdihitar-proshno`.
-- The live site’s 454 count is consistent with GitHub `main` after correcting the catalog parser. One remaining route mismatch is a likely date/slug variant for `পুরস্কার বাতিল শোভনীয় নয়`: local `2022-04-04-puraskar-batil-shobhoniya-noy` versus live `2022-03-31-puraskar-batil-shobhoniya-noy`; this requires source-level reconciliation before renaming or merging. Facebook confirms the newspaper and article body but displays the impossible date `31 April 2022`, so it cannot by itself settle the date discrepancy.
+- The current Sites deployment is version 22 and serves the 461-record catalog. The legacy GitHub Pages route still has a likely date/slug variant for `পুরস্কার বাতিল শোভনীয় নয়`: local `2022-04-04-puraskar-batil-shobhoniya-noy` versus legacy live `2022-03-31-puraskar-batil-shobhoniya-noy`; this requires source-level reconciliation before renaming or merging. Facebook confirms the newspaper and article body but displays the impossible date `31 April 2022`, so it cannot by itself settle the date discrepancy.
 - A same-title/body pair for `আমেরিকাকে তুষ্ট রাখা কঠিন` has conflicting newspaper provenance: Facebook confirms সাম্প্রতিক দেশকাল, while a separate সংবাদ record remains in the catalog without a distinct confirming author post. It is retained as an unresolved provenance lead and must not be silently merged or deleted.
 
 ## Blockers for a content-complete launch

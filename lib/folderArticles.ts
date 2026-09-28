@@ -606,7 +606,6 @@ export const folderArticles: ArchiveArticle[] = [
     publishedAt: "2022-04-16",
     publishedDateLabel: "১৬ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ এপ্রিল ২০২২)",
     originalUrl: "",
-    authorNote: "Facebook post dated ১৬ এপ্রিল ২০২২ identifies দৈনিক সংবাদ, states that the online column appeared that day and the printed column on ১৭ April, and matches the existing title ‘শ্রীলঙ্কার মতো হবে না বাংলাদেশ’; the original newspaper URL was not exposed.",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
     heroCaption: "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -7940,7 +7939,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "Sangbad’s publisher page confirms the title, author, publication identity, and matching article body at https://sangbad.net.bd/opinion/post-editorial/32483/. The publisher page displays ১০ এপ্রিল ২০২১, while the Facebook/catalog text identifies the column as ১১ এপ্রিল ২০২১; the catalog date is retained pending resolution of this source-date discrepancy.",
     "authorCredit": ""
   },
   {
@@ -8198,7 +8196,6 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2021-01-10",
     "publishedDateLabel": "১০ জানুয়ারি ২০২১",
     "originalUrl": "",
-    "authorNote": "Facebook post dated ১০ জানুয়ারি ২০২১ identifies দৈনিক সংবাদ and exposes the full article text; the original newspaper URL was not exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -8263,7 +8260,6 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2020-12-20",
     "publishedDateLabel": "২০ ডিসেম্বর ২০২০",
     "originalUrl": "",
-    "authorNote": "Facebook post dated ২০ ডিসেম্বর ২০২০ identifies দৈনিক সংবাদ and exposes the full article text, titled ‘চোর ধরেও চোর হয়ে যাচ্ছি’; the original newspaper URL was not exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/2020-12-20-chor-dhoreo-chor-hoye-jachchi.png",
     "heroCaption": "",
@@ -8828,7 +8824,6 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedAt": "2020-07-05",
     "publishedDateLabel": "৫ জুলাই ২০২০",
     "originalUrl": "",
-    "authorNote": "Facebook post dated ৫ জুলাই ২০২০ identifies দৈনিক সংবাদ and exposes the full article text, titled ‘মন্দা অর্থনীতির কবলে ব্যাংক’; the original newspaper URL was not exposed.",
     "rightsStatus": "full_text_permitted",
     "heroImage": "/articles/archive-editorial-default.svg",
     "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
@@ -11637,7 +11632,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "Facebook public post verified: published 15 June 2019; the post identifies this as the দৈনিক সংবাদ উপসম্পাদকীয় published Sunday, 16 June 2019. The complete article body matches the local record. No safe newspaper-original URL was exposed; none was invented.",
     "authorCredit": ""
   },
   {
@@ -11676,7 +11670,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11713,7 +11706,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11751,7 +11743,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11792,7 +11783,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11827,7 +11817,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11866,7 +11855,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11904,7 +11892,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11943,7 +11930,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -11982,7 +11968,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
@@ -12217,7 +12202,6 @@ export const folderArticles: ArchiveArticle[] = [
         ]
       }
     ],
-    "authorNote": "",
     "authorCredit": ""
   },
   {
