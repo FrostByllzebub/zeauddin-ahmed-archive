@@ -133,7 +133,13 @@
 - The ৭ July ২০১৯ search for `ক্ষমার অযোগ্য বর্বরতা` was expanded successfully: the full author post identifies দৈনিক সংবাদ, states ৭ July ২০১৯, and matches the existing catalog body. It is now verified; no stable direct Facebook permalink or original newspaper URL was exposed.
 - The earlier live-search observation for ১৪ July ২০১৯ was superseded by the repository’s expanded-post evidence: the content-review log records a complete matching author post, so the manifest now treats `ধর্ষণের জন্য শয়তান দায়ী` as verified while retaining the absence of an original newspaper URL.
 
-## Archive-count reconciliation snapshot — 2026-09-27
+## Archive-count reconciliation snapshot — 2026-09-28
+
+- Latest addition: `2026-04-21-bharot-birodhitar-rajniti`, titled `ভারত বিরোধিতার রাজনীতি`, published in বাংলাদেশ প্রতিদিন. The complete user-provided text is recorded; no original newspaper URL was available.
+- Local working tree: **462 records**, validated by `node scripts/validate-article-catalog.mjs`; duplicate count **0**.
+- Current Sites deployment: version 24, live at `https://zeauddinahmed.com`, with the new article route returning HTTP 200.
+
+## Earlier archive-count reconciliation snapshot — 2026-09-27
 
 - Local working tree: **461 records**, validated by `node scripts/validate-article-catalog.mjs`; duplicate count **0** (32 records in `lib/articles.ts` plus 429 in `lib/folderArticles.ts`).
 - Count clarification: an earlier **286** figure referred to a narrower intermediate validation/query scope and was not the project total. The authoritative current local catalog count is **461**, and the current Sites deployment at `https://zeauddinahmed.com/archive` displays **৪৬১** records.
