@@ -12,10 +12,20 @@ function normalizeSearchText(value: string) {
     .toLocaleLowerCase("bn-BD")
     .normalize("NFKC")
     .replace(/[\u200c\u200d]/g, "")
+    .replace(/[য়]/g, "য়")
+    .replace(/[ড়]/g, "ড়")
+    .replace(/[ঢ়]/g, "ঢ়")
+    .replace(/ইসরাইল/g, "ইসরায়েল")
+    .replace(/ইসলামী/g, "ইসলাম")
+    .replace(/ইসলামি/g, "ইসলাম")
     .replace(/[০-৯]/g, (digit) => String(bengaliDigits.indexOf(digit)))
     .replace(/[^\p{L}\p{N}]+/gu, " ")
     .trim()
     .replace(/\s+/g, " ");
+}
+
+function searchTokens(value: string) {
+  return normalizeSearchText(value).split(/\s+/).filter(Boolean);
 }
 
 function articleSearchScore(article: (typeof articles)[number], query: string) {
@@ -24,14 +34,18 @@ function articleSearchScore(article: (typeof articles)[number], query: string) {
   const bodyText = article.body.flatMap((section) => [section.heading ?? "", ...section.paragraphs]).join(" ");
   const title = normalizeSearchText(article.title);
   const metadata = normalizeSearchText(`${article.author} ${article.publication} ${article.section} ${article.publishedAt} ${article.publishedDateLabel} ${article.slug} ${article.originalUrl}`);
-  const haystack = `${title} ${metadata} ${normalizeSearchText(bodyText)}`;
-  const tokens = normalizedQuery.split(/\s+/).filter(Boolean);
+  const body = normalizeSearchText(bodyText);
+  const haystack = `${title} ${metadata} ${body}`;
+  const tokens = searchTokens(normalizedQuery);
   const matchedTokens = tokens.filter((token) => haystack.includes(token));
-  if (matchedTokens.length !== tokens.length) return 0;
+  if (matchedTokens.length === 0) return 0;
   let score = matchedTokens.length / Math.max(tokens.length, 1);
-  if (title.includes(normalizedQuery)) score += 12;
+  if (title.includes(normalizedQuery)) score += 30;
+  if (body.includes(normalizedQuery)) score += 8;
   if (metadata.includes(normalizedQuery)) score += 5;
-  score += matchedTokens.filter((token) => title.includes(token)).length * 4;
+  score += matchedTokens.filter((token) => title.includes(token)).length * 8;
+  score += matchedTokens.filter((token) => body.includes(token)).length * 2;
+  if (matchedTokens.length === tokens.length) score += 10;
   return score;
 }
 
@@ -67,7 +81,7 @@ export default function ArchivePage() {
       <div className="page-heading"><p className="eyebrow">{resultLabel}</p><h1>প্রকাশিত লেখার<br /><em>আর্কাইভ</em></h1></div>
       <div className="archive-toolbar" role="search" aria-label="আর্কাইভ অনুসন্ধান">
         <label className="sr-only" htmlFor="archive-search">বাংলায় খুঁজুন</label>
-        <input id="archive-search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => setQuery(event.target.value)} />
+        <input id="archive-search" type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => setQuery(event.target.value)} onInput={(event) => setQuery(event.currentTarget.value)} />
         <label className="filter-control"><span className="sr-only">প্রকাশনা</span><select aria-label="প্রকাশনা" value={activeFilter.publication} onChange={(event) => setActiveFilter((current) => ({ ...current, publication: event.target.value }))}><option value={allPublicationsLabel}>{allPublicationsLabel}</option>{publications.map((publication) => <option key={publication} value={publication}>{publication}</option>)}</select></label>
         <label className="filter-control"><span className="sr-only">বছর</span><select aria-label="বছর" value={activeFilter.year} onChange={(event) => setActiveFilter((current) => ({ ...current, year: event.target.value }))}><option value={allYearsLabel}>{allYearsLabel}</option>{years.map((year) => <option key={year} value={year}>{year.replace(/\d/g, (digit) => bengaliDigits[Number(digit)])}</option>)}</select></label>
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
