@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { useMemo, useState } from "react";
 import { articles } from "../../lib/articles";
 
@@ -60,9 +59,9 @@ export default function ArchivePage() {
 
   return <main className="site-shell">
     <header className="site-header">
-      <Link className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link>
-      <nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav>
-      <Link className="header-action" href="/">হোম <span>↗</span></Link>
+      <a className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></a>
+      <nav aria-label="প্রধান নেভিগেশন"><a href="/archive">আর্কাইভ</a><a href="/memories">স্মৃতির খাতা</a><a href="/about">পরিচিতি</a></nav>
+      <a className="header-action" href="/">হোম <span>↗</span></a>
     </header>
     <section className="page-wrap">
       <div className="page-heading"><p className="eyebrow">{resultLabel}</p><h1>প্রকাশিত লেখার<br /><em>আর্কাইভ</em></h1></div>
@@ -74,8 +73,8 @@ export default function ArchivePage() {
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
       </div>
       <div className="archive-status-strip"><span className="live-dot" /> <span>শুধু যাচাইকৃত ও অনুমতিপ্রাপ্ত রেকর্ড প্রকাশিত হবে</span><span className="status-count">{filteredArticles.length.toLocaleString("bn-BD")}</span></div>
-      {filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp">০</div><div><p className="eyebrow">ফলাফল নেই</p><h2>এই খোঁজের সঙ্গে কোনো লেখা মেলেনি</h2><p>অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন। নতুন উৎস যাচাই হলে এই ফলাফল নিজে থেকেই আপডেট হবে।</p></div></div> : <div className="archive-results">{filteredArticles.map((article) => <article className="content-card" key={article.slug}><h2><Link className="archive-article-link" href={`/articles/${article.slug}`}>{article.title}</Link></h2><div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
+      {filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp">০</div><div><p className="eyebrow">ফলাফল নেই</p><h2>এই খোঁজের সঙ্গে কোনো লেখা মেলেনি</h2><p>অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন। নতুন উৎস যাচাই হলে এই ফলাফল নিজে থেকেই আপডেট হবে।</p></div></div> : <div className="archive-results">{filteredArticles.map((article) => <article className="content-card" key={article.slug}><h2><a className="archive-article-link" href={`/articles/${article.slug}`}>{article.title}</a></h2><div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
     </section>
-    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
+    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><a href="/policies">কপিরাইট ও যোগাযোগ</a></span></footer>
   </main>;
 }
