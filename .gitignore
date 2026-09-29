@@ -49,3 +49,7 @@ backend/wrangler.toml
 /tmp/
 /.playwright-cli/
 /output/
+# local intake and deployment records
+/staging/
+/deployment-artifacts/
+/deployment-reconcile/
