@@ -41,7 +41,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2026-01-10-tramper-america-first-er-namuna",
+    "slug": "2026-01-10-trump-er-america-first-er-nomuna",
     "title": "ট্রাম্পের ‘আমেরিকা ফার্স্ট’-এর নমুনা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -61,7 +61,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2026-01-17-iraner-dhormovittik-kortittobadi-shashonbebostha",
+    "slug": "2026-01-17-iran-er-dhormovittik-kortittobadi-shashonbebostha",
     "title": "ইরানের ধর্মভিত্তিক কর্তৃত্ববাদী শাসনব্যবস্থা চ্যালেঞ্জের মুখোমুখী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -81,7 +81,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2026-01-24-bank-dhongsher-day-kar",
+    "slug": "2026-01-24-bank-dhosher-day-kar",
     "title": "ব্যাংক ধ্বসের দায় কার?",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -141,7 +141,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2026-02-14-ontorborti-shorkar-jatike-ki-dil",
+    "slug": "2026-02-14-ontorborti-shorkar-jatike-ki-dilo",
     "title": "অন্তর্বর্তী সরকার জাতিকে কী দিল",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -299,7 +299,7 @@ const currentArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittojnyanhinota",
+    "slug": "2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittogyanhinota",
     "title": "হামে শিশু মৃত্যুর জন্য দায়ী অন্তর্বর্তী সরকারের দায়িত্বজ্ঞানহীনতা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "চরচা",
@@ -2305,12 +2305,79 @@ const correctedBharatOppositionArticle = (article: ArchiveArticle): ArchiveArtic
     ["কোলকাতা", "কলকাতা"],
     ["শ্লোগান", "স্লোগান"],
     ["ছিলো", "ছিল"],
+    ["ভাঙ্গার", "ভাঙার"],
   ];
   const body = article.body.map((section) => ({
     ...section,
     paragraphs: section.paragraphs.map((paragraph) =>
       replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
         .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedEconomyNotPoliticsArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-04-25-rajniti-noy-orthoniti-guruttopurno") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ওঠেছিল", "উঠেছিল"],
+    ["ম্যুরিং", "মুরিং"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedDevelopmentPathArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["চিনতো", "চিনত"],
+    ["অন্ত�্ভুক্ত", "অন্তর্ভুক্ত"],
+    ["পারলো", "পারল"],
+    ["ওঠবে", "উঠবে"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedConstitutionArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-05-09-shongbidhan-shongshodhoner-rajniti") return article;
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) => paragraph.replaceAll("বলা হয়ে", "বলা হয়েছে")),
+  }));
+  return { ...article, body };
+};
+
+const correctedTariffAgreementArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["কোনো্", "কোনো"],
+    ["ভর্তুকী", "ভর্তুকি"],
+    ["থাকী", "থাকি"],
+    ["গোলামীর", "গোলামির"],
+    ["ভাঙ্গার", "ভাঙার"],
+    ["কাশ্মিরের", "কাশ্মীরের"],
+    ["ইণ্ডিয়ান", "ইন্ডিয়ান"],
+    ["ইনডিপেণ্ডেন্স", "ইন্ডিপেন্ডেন্স"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph),
     ),
   }));
   return { ...article, body };
@@ -2335,6 +2402,11 @@ const correctedReligionViolenceArticle = (article: ArchiveArticle): ArchiveArtic
     ["অসুস্থ্য", "অসুস্থ"],
     ["অনুভুতির", "অনুভূতির"],
     ["ম্বৈরিতা", "বৈরিতা"],
+    ["ওঠতে", "উঠতে"],
+    ["জেহাদের", "জিহাদের"],
+    ["অনুভুতিতে", "অনুভূতিতে"],
+    ["গ্লাডিয়েটরের", "গ্ল্যাডিয়েটরের"],
+    ["গ্রীস", "গ্রিস"],
   ];
   const body = article.body.map((section) => ({
     ...section,
@@ -2347,13 +2419,16 @@ const correctedReligionViolenceArticle = (article: ArchiveArticle): ArchiveArtic
 };
 
 const correctedMeaslesArticle = (article: ArchiveArticle): ArchiveArticle => {
-  if (article.slug !== "2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittojnyanhinota") return article;
+  if (article.slug !== "2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittogyanhinota") return article;
 
   const replacements: Array<[string, string]> = [
     ["ইউমিউনিটি", "ইমিউনিটি"],
     ["সচেতনামূলক", "সচেতনতামূলক"],
     ["ভ্যাক্সিন", "ভ্যাকসিন"],
     ["পুরানো", "পুরোনো"],
+    ["উপরিল্লিখিত", "উপরোল্লিখিত"],
+    ["সঙ্কট", "সংকট"],
+    ["হুপিংকাশি", "হুপিং কাশি"],
   ];
   const body = article.body.map((section) => ({
     ...section,
@@ -2365,10 +2440,38 @@ const correctedMeaslesArticle = (article: ArchiveArticle): ArchiveArticle => {
   return { ...article, body };
 };
 
+const correctedTradeAgreementArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-04-05-shartho-bikiye-deya-banijjo-chukti") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["পারষ্পরিক", "পারস্পরিক"],
+    ["মেয়াদী", "মেয়াদি"],
+    ["এতবেশি", "এত বেশি"],
+    ["যাচাইপূর্ক", "যাচাইপূর্বক"],
+    ["টেণ্ডার", "টেন্ডার"],
+    ["উড়জাহাজ", "উড়োজাহাজ"],
+    ["শূণ্য", "শূন্য"],
+    ["উতালা", "উতলা"],
+    ["সউদি", "সৌদি"],
+    ["সাক্ষাত", "সাক্ষাৎ"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph),
+    ),
+  }));
+  return { ...article, body };
+};
+
 const correctedFuelTrustArticle = (article: ArchiveArticle): ArchiveArticle => {
   if (article.slug !== "2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota") return article;
 
   const replacements: Array<[string, string]> = [
+    ["যাবত", "যাবৎ"],
+    ["ওঠেছে", "উঠেছে"],
+    ["সঙ্কট", "সংকট"],
+    ["গরীব", "গরিব"],
     ["পেট্রাল", "পেট্রল"],
     ["হ্যাণ্ডমাইক", "হ্যান্ডমাইক"],
     ["অতীষ্ট", "অতিষ্ঠ"],
@@ -2396,6 +2499,8 @@ const correctedMiddleEastPowerArticle = (article: ArchiveArticle): ArchiveArticl
 
   const replacements: Array<[string, string]> = [
     ["সর্বোচ্চ", "সর্বোচ্চ"],
+    ["খুশিমত", "খুশিমতো"],
+    ["ইমানদার", "ঈমানদার"],
     ["আপোষ", "আপস"],
     ["অপ্রতিদ্বন্দী", "অপ্রতিদ্বন্দ্বী"],
     ["ধোঁয়ায়", "ধোঁয়ায়"],
@@ -2424,6 +2529,262 @@ const correctedMiddleEastPowerArticle = (article: ArchiveArticle): ArchiveArticl
   return { ...article, body };
 };
 
+const correctedIHaveAPlanArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-01-03-i-have-a-plan") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["পরিপক্ক", "পরিপক্ব"],
+    ["লণ্ডন", "লন্ডন"],
+    ["ক্ষুন্ন", "ক্ষুণ্ন"],
+    ["পুরানো", "পুরোনো"],
+    ["আহবান", "আহ্বান"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["সাচ্ছন্দ", "স্বাচ্ছন্দ্য"],
+    ["তপশীল", "তফসিল"],
+    ["এখতিয়া", "এখতিয়ার"],
+    ["মুমুর্ষু", "মুমূর্ষু"],
+    ["অনিশ্চিয়তায়", "অনিশ্চয়তায়"],
+    ["ঘোরপ্যাচ", "ঘোরপ্যাঁচ"],
+    ["উপলদ্ধি", "উপলব্ধি"],
+    ["সুস্থ্য", "সুস্থ"],
+    ["জরুরী", "জরুরি"],
+    ["ভেঙ্গে", "ভেঙে"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedTrumpAmericaFirstArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-01-10-trump-er-america-first-er-nomuna") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["সর্বোচ্চ", "সর্বোচ্চ"],
+    ["নিকোলা মাদুরো", "নিকোলাস মাদুরো"],
+    ["প্রকৃত পক্ষে", "প্রকৃতপক্ষে"],
+    ["ভেনেজুলেয়া", "ভেনেজুয়েলা"],
+    ["কারটেল", "কার্টেল"],
+    ["বাণ্ডিল", "বান্ডিল"],
+    ["ব্যাণ্ড", "ব্যান্ড"],
+    ["কমাণ্ডোদের", "কমান্ডোদের"],
+    ["কথামত", "কথামতো"],
+    ["অরল্যাণ্ডো", "অরল্যান্ডো"],
+    ["সামারিক", "সামরিক"],
+    ["আত্মসমর্পনের", "আত্মসমর্পণের"],
+    ["নির্দ্ধিধায়", "নির্দ্বিধায়"],
+    ["স্বার্বভৌমত্বে", "সার্বভৌমত্বে"],
+    ["আহবান", "আহ্বান"],
+    ["ঠিকমত", "ঠিকমতো"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedIranReligionArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-01-17-iran-er-dhormovittik-kortittobadi-shashonbebostha") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["সর্বোচ্চ", "সর্বোচ্চ"],
+    ["আয়াতোল্লাহ", "আয়াতুল্লাহ"],
+    ["ক্ষেপনাস্ত্র", "ক্ষেপণাস্ত্র"],
+    ["স্বার্বভৌম", "সার্বভৌম"],
+    ["বৃটিশদের", "ব্রিটিশদের"],
+    ["আয়াতুল্লা", "আয়াতুল্লাহ"],
+    ["আভ্যন্তরীণ", "অভ্যন্তরীণ"],
+    ["ঝুঁলিয়ে", "ঝুলিয়ে"],
+    ["হজ্ব", "হজ"],
+    ["হাজ্বীকে", "হাজিকে"],
+    ["সউদি", "সৌদি"],
+    ["থাইল্যাণ্ডের", "থাইল্যান্ডের"],
+    ["ধ্বসে", "ধসে"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedBankCollapseArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-01-24-bank-dhosher-day-kar") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["অহঙ্কার", "অহংকার"],
+    ["কেন্দ্রিয়", "কেন্দ্রীয়"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["এতদসত্বেও", "এতদসত্ত্বেও"],
+    ["কর্মসূচীতে", "কর্মসূচিতে"],
+    ["ধ্বস", "ধস"],
+    ["ইস্তেফা", "ইস্তফা"],
+    ["সত্ত্বা", "সত্তা"],
+    ["মনিটরি", "মনিটারি"],
+    ["খেলাপী", "খেলাপি"],
+    ["উর্ধতন", "ঊর্ধ্বতন"],
+    ["চাকুরি", "চাকরি"],
+    ["তপশীলি", "তফসিলি"],
+    ["জরুরী", "জরুরি"],
+    ["আমনাতের", "আমানতের"],
+    ["প্রতিবন্ধতকা", "প্রতিবন্ধকতা"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedMinisterFlatArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-02-01-montrir-jonno-bilashi-flat") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["বদলী", "বদলি"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["এদতসত্বেও", "এতদসত্ত্বেও"],
+    ["ভাঙ্গা", "ভাঙা"],
+    ["দারিদ্রের", "দারিদ্র্যের"],
+    ["দারিদ্রসীমার", "দারিদ্র্যসীমার"],
+    ["টাঙ্গিয়ে", "টাঙিয়ে"],
+    ["জরুরী", "জরুরি"],
+    ["সাচ্ছন্দ", "স্বাচ্ছন্দ্য"],
+    ["হোয়াইট হাউজ", "হোয়াইট হাউস"],
+    ["সিলিণ্ডার", "সিলিন্ডার"],
+    ["ক্ষুন্ন", "ক্ষুণ্ন"],
+    ["দুয়েকটি", "দু-একটি"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/প্রতিট(?!ি)/g, "প্রতিটি")
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedHistoricElectionArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-02-07-oitihashik-nirbachone-jamayat") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["ওডিও", "অডিও"],
+    ["সত্বেও", "সত্ত্বেও"],
+    ["সউদি", "সৌদি"],
+    ["সামিরক", "সামরিক"],
+    ["সংঘঠিত", "সংঘটিত"],
+    ["লণ্ডনে", "লন্ডনে"],
+    ["অনুকুল্য", "আনুকূল্য"],
+    ["একাউন্ট", "অ্যাকাউন্ট"],
+    ["চাকুরিজীবী", "চাকরিজীবী"],
+    ["দু্র্নীতি", "দুর্নীতি"],
+    ["চাকুরির", "চাকরির"],
+    ["জাস্টিজ", "জাস্টিস"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedInterimGovernmentGiftArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-02-14-ontorborti-shorkar-jatike-ki-dilo") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["সত্বেও", "সত্ত্বেও"], ["আশ্চার্যের", "আশ্চর্যের"], ["আঙ্গুলে", "আঙুলে"],
+    ["ভুয়সী", "ভূয়ষী"], ["ভস্মিভূত", "ভস্মীভূত"], ["ভাঙ্গা", "ভাঙা"],
+    ["টিকেট", "টিকিট"], ["নিরবে", "নীরবে"], ["হাঁ", "হ্যাঁ"], ["ঝাপিয়ে", "ঝাঁপিয়ে"],
+    ["পুরানো", "পুরোনো"], ["স্বৈরচারি", "স্বৈরাচারী"], ["অনুপস্থিতর", "অনুপস্থিতির"],
+    ["রমযানে", "রমজানে"], ["মায়ানমারে", "মিয়ানমারে"], ["ঐকবদ্ধ", "ঐক্যবদ্ধ"],
+    ["পারষ্পরিক", "পারস্পরিক"], ["ব্যুহ", "ব্যূহ"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedBnpJamaatPassArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-02-21-bnp-pass-jamat-o-pass") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["গনভোটের", "গণভোটের"], ["সত্বেও", "সত্ত্বেও"], ["ভুতোড়ে", "ভূতুড়ে"],
+    ["সাজুয্য", "সাযুজ্য"], ["অ্যাজেন্টকে", "এজেন্টকে"], ["এনসিবি’র", "এনসিপি’র"],
+    ["আহবায়ক", "আহ্বায়ক"], ["টিকেট", "টিকিট"], ["দাড়িপল্লায়", "দাঁড়িপাল্লায়"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/বাইর(?!ে)/g, "বাইরে")
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedJulyCharterArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-02-28-july-shonod-niye-bnp-er-oshosti") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["স্বার্বভৌম", "সার্বভৌম"],
+    ["ক্ষপন", "ক্ষেপণ"],
+    ["উদ্ভুত", "উদ্ভূত"],
+    ["উপক্ষা", "উপেক্ষা"],
+    ["অনুয়ায়ী", "অনুযায়ী"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
+const correctedNewGovernorArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2026-03-07-notun-governor-oporiharjo-chilo") return article;
+
+  const replacements: Array<[string, string]> = [
+    ["কেন্দ্রিয়", "কেন্দ্রীয়"], ["ন্যুনতম", "ন্যূনতম"], ["ব্যাকের", "ব্যাংকের"],
+    ["তপশীলি", "তফসিলি"], ["পুনঃতপশীল", "পুনঃতফসিল"], ["চাকুরি", "চাকরি"],
+    ["দিল্লীর", "দিল্লির"], ["ভীড়", "ভিড়"], ["দেরী", "দেরি"],
+    ["পরিস্কার", "পরিষ্কার"], ["বেসরকারী", "বেসরকারি"], ["অবিমৃষ্যকারী", "অবিমৃশ্যকারী"],
+  ];
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) =>
+      replacements.reduce((text, [wrong, right]) => text.replaceAll(wrong, right), paragraph)
+        .replaceAll(/কোন(?!ো)/g, "কোনো"),
+    ),
+  }));
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -2441,10 +2802,25 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedCatastrophicFloodArticle)
   .map(correctedDomesticWorkerArticle)
   .map(correctedBharatOppositionArticle)
+  .map(correctedTariffAgreementArticle)
+  .map(correctedEconomyNotPoliticsArticle)
+  .map(correctedDevelopmentPathArticle)
+  .map(correctedConstitutionArticle)
   .map(correctedReligionViolenceArticle)
   .map(correctedMeaslesArticle)
+  .map(correctedTradeAgreementArticle)
   .map(correctedFuelTrustArticle)
   .map(correctedMiddleEastPowerArticle)
+  .map(correctedIHaveAPlanArticle)
+  .map(correctedTrumpAmericaFirstArticle)
+  .map(correctedIranReligionArticle)
+  .map(correctedBankCollapseArticle)
+  .map(correctedMinisterFlatArticle)
+  .map(correctedHistoricElectionArticle)
+  .map(correctedInterimGovernmentGiftArticle)
+  .map(correctedBnpJamaatPassArticle)
+  .map(correctedJulyCharterArticle)
+  .map(correctedNewGovernorArticle)
   .map(correctedHaniyehArticle)
   .map(correctedSuccessArticle)
   .map(correctedQuotaArticle)
