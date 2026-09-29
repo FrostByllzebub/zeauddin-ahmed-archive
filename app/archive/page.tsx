@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { articles } from "../../lib/articles";
 
 const allPublicationsLabel = "সব প্রকাশনা";
@@ -33,24 +33,21 @@ function articleSearchScore(article: (typeof articles)[number], query: string) {
   if (!normalizedQuery) return 0;
   const bodyText = article.body.flatMap((section) => [section.heading ?? "", ...section.paragraphs]).join(" ");
   const title = normalizeSearchText(article.title);
-  const metadata = normalizeSearchText(`${article.author} ${article.publication} ${article.section} ${article.publishedAt} ${article.publishedDateLabel} ${article.slug} ${article.originalUrl}`);
   const body = normalizeSearchText(bodyText);
-  const haystack = `${title} ${metadata} ${body}`;
+  const haystack = `${title} ${body}`;
   const tokens = searchTokens(normalizedQuery);
   const matchedTokens = tokens.filter((token) => haystack.includes(token));
-  if (matchedTokens.length === 0) return 0;
-  let score = matchedTokens.length / Math.max(tokens.length, 1);
+  if (matchedTokens.length !== tokens.length) return 0;
+  let score = 1;
   if (title.includes(normalizedQuery)) score += 30;
   if (body.includes(normalizedQuery)) score += 8;
-  if (metadata.includes(normalizedQuery)) score += 5;
   score += matchedTokens.filter((token) => title.includes(token)).length * 8;
-  score += matchedTokens.filter((token) => body.includes(token)).length * 2;
-  if (matchedTokens.length === tokens.length) score += 10;
   return score;
 }
 
 export default function ArchivePage() {
   const [query, setQuery] = useState("");
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const [activeFilter, setActiveFilter] = useState({
     publication: allPublicationsLabel,
     year: allYearsLabel,
@@ -67,9 +64,23 @@ export default function ArchivePage() {
   const publications = [...new Set(articles.map((article) => article.publication).filter(Boolean))].sort((a, b) => a.localeCompare(b, "bn-BD"));
   const years = [...new Set(articles.map((article) => article.publishedAt.slice(0, 4)).filter(Boolean))].sort().reverse();
   const resetFilters = () => {
+    if (searchInputRef.current) searchInputRef.current.value = "";
     setQuery("");
     setActiveFilter({ publication: allPublicationsLabel, year: allYearsLabel });
   };
+  useEffect(() => {
+    const input = searchInputRef.current;
+    if (!input) return;
+    const syncSearch = () => setQuery(input.value);
+    input.addEventListener("input", syncSearch);
+    input.addEventListener("change", syncSearch);
+    input.addEventListener("compositionend", syncSearch);
+    return () => {
+      input.removeEventListener("input", syncSearch);
+      input.removeEventListener("change", syncSearch);
+      input.removeEventListener("compositionend", syncSearch);
+    };
+  }, []);
 
   return <main className="site-shell">
     <header className="site-header">
@@ -81,7 +92,7 @@ export default function ArchivePage() {
       <div className="page-heading"><p className="eyebrow">{resultLabel}</p><h1>প্রকাশিত লেখার<br /><em>আর্কাইভ</em></h1></div>
       <div className="archive-toolbar" role="search" aria-label="আর্কাইভ অনুসন্ধান">
         <label className="sr-only" htmlFor="archive-search">বাংলায় খুঁজুন</label>
-        <input id="archive-search" type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => setQuery(event.target.value)} onInput={(event) => setQuery(event.currentTarget.value)} onCompositionEnd={(event) => setQuery(event.currentTarget.value)} />
+        <input ref={searchInputRef} id="archive-search" type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" defaultValue="" />
         <label className="filter-control"><span className="sr-only">প্রকাশনা</span><select aria-label="প্রকাশনা" value={activeFilter.publication} onChange={(event) => setActiveFilter((current) => ({ ...current, publication: event.target.value }))}><option value={allPublicationsLabel}>{allPublicationsLabel}</option>{publications.map((publication) => <option key={publication} value={publication}>{publication}</option>)}</select></label>
         <label className="filter-control"><span className="sr-only">বছর</span><select aria-label="বছর" value={activeFilter.year} onChange={(event) => setActiveFilter((current) => ({ ...current, year: event.target.value }))}><option value={allYearsLabel}>{allYearsLabel}</option>{years.map((year) => <option key={year} value={year}>{year.replace(/\d/g, (digit) => bengaliDigits[Number(digit)])}</option>)}</select></label>
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
