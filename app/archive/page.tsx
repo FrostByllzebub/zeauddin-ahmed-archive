@@ -75,7 +75,9 @@ export default function ArchivePage() {
     input.addEventListener("input", syncSearch);
     input.addEventListener("change", syncSearch);
     input.addEventListener("compositionend", syncSearch);
+    const poll = window.setInterval(syncSearch, 100);
     return () => {
+      window.clearInterval(poll);
       input.removeEventListener("input", syncSearch);
       input.removeEventListener("change", syncSearch);
       input.removeEventListener("compositionend", syncSearch);
