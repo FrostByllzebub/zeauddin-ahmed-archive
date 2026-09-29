@@ -9,7 +9,7 @@ const bengaliDigits = "০১২৩৪৫৬৭৮৯";
 
 function normalizeSearchText(value: string) {
   return value
-    .toLocaleLowerCase("bn-BD")
+    .toLowerCase()
     .normalize("NFKC")
     .replace(/[\u200c\u200d]/g, "")
     .replace(/[য়]/g, "য়")
@@ -19,7 +19,10 @@ function normalizeSearchText(value: string) {
     .replace(/ইসলামী/g, "ইসলাম")
     .replace(/ইসলামি/g, "ইসলাম")
     .replace(/[০-৯]/g, (digit) => String(bengaliDigits.indexOf(digit)))
-    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    // Keep Bengali, Latin, and ASCII digits explicitly. This avoids relying on
+    // Unicode property escapes in every production runtime and, importantly,
+    // prevents a Bengali query from becoming an empty token list.
+    .replace(/[^\u0980-\u09FFA-Za-z0-9]+/g, " ")
     .trim()
     .replace(/\s+/g, " ");
 }
