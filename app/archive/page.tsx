@@ -59,7 +59,7 @@ export default function ArchivePage() {
       && (activeFilter.publication === allPublicationsLabel || article.publication === activeFilter.publication)
       && (activeFilter.year === allYearsLabel || article.publishedAt.startsWith(activeFilter.year)))
     .sort((a, b) => query.trim() === "" ? a.index - b.index : b.score - a.score || a.index - b.index)
-    .map(({ article }) => article), [activeFilter, query]);
+    .map(({ article, index }) => ({ article, index })), [activeFilter, query]);
   const resultLabel = useMemo(() => hasFilters ? `এই খোঁজে ${filteredArticles.length.toLocaleString("bn-BD")} লেখা` : `সূচি · ${filteredArticles.length.toLocaleString("bn-BD")} লেখা`, [filteredArticles.length, hasFilters]);
   const publications = [...new Set(articles.map((article) => article.publication).filter(Boolean))].sort((a, b) => a.localeCompare(b, "bn-BD"));
   const years = [...new Set(articles.map((article) => article.publishedAt.slice(0, 4)).filter(Boolean))].sort().reverse();
@@ -71,7 +71,19 @@ export default function ArchivePage() {
   useEffect(() => {
     const input = searchInputRef.current;
     if (!input) return;
-    const syncSearch = () => setQuery(input.value);
+    const syncSearch = () => {
+      const value = input.value;
+      setQuery(value);
+      const cards = [...document.querySelectorAll<HTMLElement>("[data-article-index]")];
+      const visibleCount = cards.reduce((count, card) => {
+        const article = articles[Number(card.dataset.articleIndex)];
+        const visible = !value.trim() || articleSearchScore(article, value) > 0;
+        card.style.display = visible ? "" : "none";
+        return count + (visible ? 1 : 0);
+      }, 0);
+      const statusCount = document.querySelector<HTMLElement>(".status-count");
+      if (statusCount) statusCount.textContent = visibleCount.toLocaleString("bn-BD");
+    };
     input.addEventListener("input", syncSearch);
     input.addEventListener("change", syncSearch);
     input.addEventListener("compositionend", syncSearch);
@@ -100,7 +112,7 @@ export default function ArchivePage() {
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
       </div>
       <div className="archive-status-strip"><span className="live-dot" /> <span>শুধু যাচাইকৃত ও অনুমতিপ্রাপ্ত রেকর্ড প্রকাশিত হবে</span><span className="status-count">{filteredArticles.length.toLocaleString("bn-BD")}</span></div>
-      {filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp">০</div><div><p className="eyebrow">ফলাফল নেই</p><h2>এই খোঁজের সঙ্গে কোনো লেখা মেলেনি</h2><p>অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন। নতুন উৎস যাচাই হলে এই ফলাফল নিজে থেকেই আপডেট হবে।</p></div></div> : <div className="archive-results">{filteredArticles.map((article) => <article className="content-card" key={article.slug}><h2><a className="archive-article-link" href={`/articles/${article.slug}`}>{article.title}</a></h2><div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
+      {filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp">০</div><div><p className="eyebrow">ফলাফল নেই</p><h2>এই খোঁজের সঙ্গে কোনো লেখা মেলেনি</h2><p>অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন। নতুন উৎস যাচাই হলে এই ফলাফল নিজে থেকেই আপডেট হবে।</p></div></div> : <div className="archive-results">{filteredArticles.map(({ article, index }) => <article className="content-card" data-article-index={index} key={article.slug}><h2><a className="archive-article-link" href={`/articles/${article.slug}`}>{article.title}</a></h2><div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
     </section>
     <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><a href="/policies">কপিরাইট ও যোগাযোগ</a></span></footer>
   </main>;
