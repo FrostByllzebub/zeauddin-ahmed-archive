@@ -14025,7 +14025,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-07-29-jerujalem-o-al-aksa-msjid",
+    "slug": "2017-07-29-jerusalem-o-al-aqsa-mosjid",
     "title": "জেরুজালেম ও আল-আকসা মসজিদ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",

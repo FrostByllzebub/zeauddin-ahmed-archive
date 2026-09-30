@@ -3068,6 +3068,54 @@ const correctedDasanudasGrihokormiArticle = (article: ArchiveArticle): ArchiveAr
   return { ...article, body };
 };
 
+const correctedJerusalemAqsaArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-07-29-jerusalem-o-al-aqsa-mosjid") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["ইত:পূর্বে", "ইতঃপূর্বে"],
+    ["প্রাঙ্গনে", "প্রাঙ্গণে"],
+    ["পন্চাশোর্ধদের", "পঞ্চাশোর্ধ্বদের"],
+    ["পন্চাশ", "পঞ্চাশ"],
+    ["মুসল্লীদের", "মুসল্লিদের"],
+    ["নামায", "নামাজ"],
+    ["পায়তারা", "পাঁয়তারা"],
+    ["আক্রমন", "আক্রমণ"],
+    ["ধ্বংসস্তুপের", "ধ্বংসস্তূপের"],
+    ["খন্ডের", "খণ্ডের"],
+    ["পুজা", "পূজা"],
+    ["রাস্ট্র", "রাষ্ট্র"],
+    ["উপসনা", "উপাসনা"],
+    ["নিদের্শনা", "নির্দেশনা"],
+    ["উর্ধাকাশে", "ঊর্ধ্বাকাশে"],
+    ["বাজেনটাইন", "বাইজেন্টাইন"],
+    ["ক্রুসেডারা", "ক্রুসেডাররা"],
+    ["পুণর্বাসন", "পুনর্বাসন"],
+    ["তরাণ্বিত", "ত্বরান্বিত"],
+    ["বাকী", "বাকি"],
+    ["ঊদ্বাস্তু", "উদ্বাস্তু"],
+    ["পঠানোর", "পাঠানোর"],
+    ["ভূখন্ড", "ভূখণ্ড"],
+    ["পাকিস্তানী", "পাকিস্তানি"],
+    ["ধর্মনিরপক্ষ", "ধর্মনিরপেক্ষ"],
+    ["হচেছ", "হচ্ছে"],
+    ["বানী", "বাণী"],
+    ["পৌছে", "পৌঁছে"],
+    ["মুসনমানেরা", "মুসলমানেরা"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(3, -1)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3130,6 +3178,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedBishshayonVisaArticle)
   .map(correctedIssueErOvabArticle)
   .map(correctedDasanudasGrihokormiArticle)
+  .map(correctedJerusalemAqsaArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
