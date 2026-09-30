@@ -14608,7 +14608,7 @@ export const folderArticles: ArchiveArticle[] = [
   authorCredit: ""
 },
 {
-  slug: "2017-12-17-arober-lolona-sofia",
+  slug: "2017-12-17-arab-er-lolona-sofia",
   title: "আরবের ললনা সোফিয়া",
   author: "জিয়াউদ্দীন আহমেদ",
   publication: "সংবাদ",
