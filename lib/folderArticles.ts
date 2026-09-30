@@ -14123,7 +14123,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-06-30-bishbayn-o-bhisa-prtha",
+    "slug": "2017-06-30-bishshayon-o-visa-protha",
     "title": "বিশ্বায়ন ও ভিসা প্রথা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",

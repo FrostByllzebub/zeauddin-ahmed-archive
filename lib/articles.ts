@@ -2922,6 +2922,40 @@ const correctedKeshtoBetaiChorArticle = (article: ArchiveArticle): ArchiveArticl
   return { ...article, body };
 };
 
+const correctedBishshayonVisaArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-06-30-bishshayon-o-visa-protha") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["ছাডপত্রে", "ছাড়পত্রে"],
+    ["কর্মকা-", "কর্মকাণ্ড"],
+    ["সেস্নাগান", "স্লোগান"],
+    ["ভূখ-ে", "ভূখণ্ডে"],
+    ["যে কোন", "যেকোনো"],
+    ["বাংলাদেশীর", "বাংলাদেশির"],
+    ["রেমিটেন্স", "রেমিট্যান্স"],
+    ["অনেক্ষণ", "অনেকক্ষণ"],
+    ["সচারাচর", "সচরাচর"],
+    ["পাসপোটর্টা", "পাসপোর্টটা"],
+    ["অাঁতকে", "আঁতকে"],
+    ["উদাসিনতা", "উদাসীনতা"],
+    ["মুরবি্বদের", "মুরব্বিদের"],
+    ["হত্যাকা-", "হত্যাকাণ্ড"],
+    ["কা-ারী", "কাণ্ডারী"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(5, -1)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -2981,6 +3015,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedQuestionMahapapArticle)
   .map(correctedProkritirProtishodhArticle)
   .map(correctedKeshtoBetaiChorArticle)
+  .map(correctedBishshayonVisaArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
