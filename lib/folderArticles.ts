@@ -13932,7 +13932,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-08-27-chturth-bishbyuddher-mhda",
+    "slug": "2017-08-27-choturtho-bishshojuddher-mohora",
     "title": "চতুর্থ বিশ্বযুদ্ধের মহড়া!",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
