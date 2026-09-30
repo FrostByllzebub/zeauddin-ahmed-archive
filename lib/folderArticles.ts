@@ -13766,7 +13766,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-09-17-shnir-kble-fesbuk",
+    "slug": "2017-09-17-shonir-kobole-facebook",
     "title": "শনির কবলে ফেসবুক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
