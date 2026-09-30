@@ -13669,8 +13669,8 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-10-16-sbasthyer-bideshmukhin-michhil",
-    "title": "স্বাস্থ্যের বিদেশমুখিন মিছিল",
+    "slug": "2017-10-16-shasther-bideshmukhin-michil-1",
+    "title": "স্বাস্থ্যের বিদেশমুখিন মিছিল ১",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
