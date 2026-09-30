@@ -3441,6 +3441,28 @@ const correctedShastherBideshmukhinMichilThreeArticle = (article: ArchiveArticle
   return { ...article, body };
 };
 
+const correctedHingsroManushProbhubhoktoKukurOneArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-11-05-hingsro-manush-o-probhubhokto-kukur-1") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["প্রথম পর্ব-", "প্রথম পর্ব"],
+    ["অথৈই", "অথৈ"],
+    ["তখনি", "তখনই"],
+    ["সাংগঠনিকভাব", "সাংগঠনিকভাবে"],
+    ["যুথিষ্ঠির", "যুধিষ্ঠির"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) => corrections.reduce(
+      (text, [wrong, right]) => text.replaceAll(wrong, right),
+      paragraph,
+    )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3513,6 +3535,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedShastherBideshmukhinMichilOneArticle)
   .map(correctedShastherBideshmukhinMichilTwoArticle)
   .map(correctedShastherBideshmukhinMichilThreeArticle)
+  .map(correctedHingsroManushProbhubhoktoKukurOneArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
