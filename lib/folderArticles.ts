@@ -14261,17 +14261,17 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-01-01-kesht-betai-chor",
+    "slug": "2017-08-20-keshto-betai-chor",
     "title": "কেষ্ট বেটাই চোর",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
     "section": "মতামত",
-    "publishedAt": "2017-01-01",
-    "publishedDateLabel": "২০১৭ (তারিখ অনির্দিষ্ট)",
+    "publishedAt": "2017-08-20",
+    "publishedDateLabel": "২০ আগস্ট ২০১৭",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
-    "heroImage": "/articles/folder/folder-article-7ea4cae7.jpg",
-    "heroCaption": "বিষয়ভিত্তিক সংরক্ষণ চিত্র",
+    "heroImage": "/articles/archive-editorial-default.svg",
+    "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "সংরক্ষিত উৎস নথি",
     "body": [

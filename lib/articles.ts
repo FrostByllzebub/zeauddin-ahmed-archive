@@ -2880,6 +2880,48 @@ const correctedProkritirProtishodhArticle = (article: ArchiveArticle): ArchiveAr
   return { ...article, body };
 };
 
+const correctedKeshtoBetaiChorArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-08-20-keshto-betai-chor") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["বেগুণি", "বেগুনি"],
+    ["অন্ত:সত্তা", "অন্তঃসত্ত্বা"],
+    ["বরগুণার", "বরগুনার"],
+    ["ভাঙ্গারীর", "ভাঙারির"],
+    ["অপাঙতেয়", "অপাংক্তেয়"],
+    ["কারাদন্ড", "কারাদণ্ড"],
+    ["সদিচ্ছ", "সদিচ্ছা"],
+    ["ভাঙ্গতে", "ভাঙতে"],
+    ["আয়ত্ব", "আয়ত্ত"],
+    ["আক্রমন", "আক্রমণ"],
+    ["প্রতিমুহুর্তে", "প্রতিমুহূর্তে"],
+    ["তেলেপোকা", "তেলাপোকা"],
+    ["কর্মকান্ড", "কর্মকাণ্ড"],
+    ["তত্বাবধায়কেরা", "তত্ত্বাবধায়কেরা"],
+    ["বস্তীর", "বস্তির"],
+    ["প্রবীন", "প্রবীণ"],
+    ["কিরিজের", "কিরিচের"],
+    ["নি:স্ব", "নিঃস্ব"],
+    ["দৌঁড়রত", "দৌড়রত"],
+    ["বন্চিত", "বঞ্চিত"],
+    ["আইনী", "আইনি"],
+    ["বেশী", "বেশি"],
+    ["জঙ্গীবাদ", "জঙ্গিবাদ"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(2, -2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -2938,6 +2980,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedEconomicVotersArticle)
   .map(correctedQuestionMahapapArticle)
   .map(correctedProkritirProtishodhArticle)
+  .map(correctedKeshtoBetaiChorArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
