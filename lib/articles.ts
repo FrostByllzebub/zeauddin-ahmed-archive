@@ -3400,6 +3400,47 @@ const correctedShastherBideshmukhinMichilTwoArticle = (article: ArchiveArticle):
   return { ...article, body };
 };
 
+const correctedShastherBideshmukhinMichilThreeArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-10-29-shasther-bideshmukhin-michil-3") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["পড়–য়া", "পড়ুয়া"],
+    ["হার্ট এটাকে", "হার্ট অ্যাটাকে"],
+    ["ক্রিয়েটেনিন", "ক্রিয়েটিনিন"],
+    ["কারডিওলজিস্ট", "কার্ডিওলজিস্ট"],
+    ["শ্রবনশক্তি", "শ্রবণশক্তি"],
+    ["জনগন", "জনগণ"],
+    ["অভিসন্ধী", "অভিসন্ধি"],
+    ["স্বেশী", "বেশি"],
+    ["ভ্রক্ষেপ", "ভ্রূক্ষেপ"],
+    ["সেলাইন", "স্যালাইন"],
+    ["ওষুদের", "ওষুধের"],
+    ["অনাকাক্সিক্ষত", "অনাকাঙ্ক্ষিত"],
+    ["তত্বাবধায়ক", "তত্ত্বাবধায়ক"],
+    ["সরোওয়ার্দী", "সোহরাওয়ার্দী"],
+    ["গেইট", "গেট"],
+    ["অর্থোপেডিক", "অর্থোপেডিক"],
+    ["বয়ষ্কদের", "বয়স্কদের"],
+    ["গাফলতি", "গাফিলতি"],
+    ["আরওহীদের", "আরোহীদের"],
+    ["হাসপতালে", "হাসপাতালে"],
+    ["ইনেজকশন", "ইনজেকশন"],
+    ["ক্যাথাডার", "ক্যাথেটার"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3471,6 +3512,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedShasthoKhaterShikritiArticle)
   .map(correctedShastherBideshmukhinMichilOneArticle)
   .map(correctedShastherBideshmukhinMichilTwoArticle)
+  .map(correctedShastherBideshmukhinMichilThreeArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
