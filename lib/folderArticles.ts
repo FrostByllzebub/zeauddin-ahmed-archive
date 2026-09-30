@@ -14458,8 +14458,8 @@ export const folderArticles: ArchiveArticle[] = [
   authorCredit: ""
 },
 {
-  slug: "2017-11-12-hingsro-manush-o-probhubhokto-kukur",
-  title: "হিংস্র মানুষ ও প্রভুভক্ত কুকুর",
+  slug: "2017-11-12-hingsro-manush-o-probhubhokto-kukur-2",
+  title: "হিংস্র মানুষ ও প্রভুভক্ত কুকুর ২",
   author: "জিয়াউদ্দীন আহমেদ",
   publication: "সংবাদ",
   section: "উপসম্পাদকীয়",
