@@ -13828,7 +13828,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-09-10-fesbuker-shubhdik",
+    "slug": "2017-09-10-facebook-er-shuvodik",
     "title": "ফেসবুকের শুভদিক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
