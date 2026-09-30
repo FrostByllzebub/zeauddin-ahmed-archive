@@ -13716,7 +13716,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-10-04-sbasthy-khater-sbikriti",
+    "slug": "2017-10-04-shastho-khater-shikriti",
     "title": "স্বাস্থ্য খাতের স্বীকৃতি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",

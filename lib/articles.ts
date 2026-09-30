@@ -3306,6 +3306,37 @@ const correctedShonirKoboleFacebookArticle = (article: ArchiveArticle): ArchiveA
   return { ...article, body };
 };
 
+const correctedShasthoKhaterShikritiArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-10-04-shastho-khater-shikriti") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["এছাড়ও", "এছাড়াও"],
+    ["অগ্রগ্রগতি", "অগ্রগতি"],
+    ["স্বল্প মূল্যের", "স্বল্পমূল্যের"],
+    ["সহজ লভ্যতা", "সহজলভ্যতা"],
+    ["স্বাস্থ্য সেবা", "স্বাস্থ্যসেবা"],
+    ["তত্ত্ব¡াবধানে", "তত্ত্বাবধানে"],
+    ["পৌঁছার", "পৌঁছার"],
+    ["সেবা গ্রহীতাদের", "সেবাগ্রহীতাদের"],
+    ["এলায়েন্স", "অ্যালায়েন্স"],
+    ["ভ্যাকসিন্স", "ভ্যাকসিনস"],
+    ["ইম্যুনাইজেমন", "ইমিউনাইজেশন"],
+    ["টিআইটির", "টিআইবি"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(4, -2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3374,6 +3405,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedUdbastuRohingyaArticle)
   .map(correctedFacebookErShuvodikArticle)
   .map(correctedShonirKoboleFacebookArticle)
+  .map(correctedShasthoKhaterShikritiArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
