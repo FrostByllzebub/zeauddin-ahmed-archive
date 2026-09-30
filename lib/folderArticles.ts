@@ -2,13 +2,13 @@ import type { ArchiveArticle } from './articles';
 
 export const folderArticles: ArchiveArticle[] = [
   {
-    slug: "2022-01-01-meyeti-sotyi-kharap",
+    slug: "2022-01-02-meyeti-sotti-kharap",
     title: "‘মেয়েটি সত্যিই খারাপ’",
     author: "জিয়াউদ্দীন আহমেদ",
     publication: "সংবাদ",
     section: "মতামত",
-    publishedAt: "2027-07-22",
-    publishedDateLabel: "২২ জুলাই ২০২৭",
+    publishedAt: "2022-01-02",
+    publishedDateLabel: "২ জানুয়ারি ২০২২",
     originalUrl: "",
     rightsStatus: "full_text_permitted",
     heroImage: "/articles/archive-editorial-default.svg",
