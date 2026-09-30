@@ -2832,6 +2832,54 @@ const correctedQuestionMahapapArticle = (article: ArchiveArticle): ArchiveArticl
   return { ...article, body };
 };
 
+const correctedProkritirProtishodhArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-06-19-prokritir-protishodh") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["প্রেষণে", "বর্ষণে"],
+    ["চিকিত্সাধীন", "চিকিৎসাধীন"],
+    ["রাঙ্গামাটি", "রাঙামাটি"],
+    ["নিন্মান্চলের", "নিম্নাঞ্চলের"],
+    ["বাড়ী ঘরে", "বাড়িঘরে"],
+    ["শ্লোগান", "স্লোগান"],
+    ["শীত প্রধান", "শীতপ্রধান"],
+    ["কারাদন্ডে", "কারাদণ্ডে"],
+    ["ফেব্রুয়ারী", "ফেব্রুয়ারি"],
+    ["কয়েদী", "কয়েদি"],
+    ["বেশী", "বেশি"],
+    ["মন:পুত", "মনঃপুত"],
+    ["ভূগোলিক", "ভৌগোলিক"],
+    ["পন্চান্ন", "পঞ্চান্ন"],
+    ["মালয়েশীয়ায়", "মালয়েশিয়ায়"],
+    ["খুশী", "খুশি"],
+    ["নি:স্ব", "নিঃস্ব"],
+    ["আর্শীবাদ", "আশীর্বাদ"],
+    ["বেড়ছে", "বেড়েছে"],
+    ["চাকুরী", "চাকরি"],
+    ["ঘন্টা", "ঘণ্টা"],
+    ["জলোচ্ছ্বসেও", "জলোচ্ছ্বাসেও"],
+    ["জন্জাল", "জঞ্জাল"],
+    ["বান্ছনীয়", "বাঞ্ছনীয়"],
+    ["ব্যবহ্রত", "ব্যবহৃত"],
+    ["নিষ্কাষণের", "নিষ্কাশনের"],
+    ["অগাস্ট", "আগস্ট"],
+    ["তুলায়", "তুলনায়"],
+    ["লবনাক্ত", "লবণাক্ত"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(1)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      ).replaceAll(/সামর্থ(?!্য)/g, "সামর্থ্য")),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -2889,6 +2937,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedGovernmentChallengeArticle)
   .map(correctedEconomicVotersArticle)
   .map(correctedQuestionMahapapArticle)
+  .map(correctedProkritirProtishodhArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
