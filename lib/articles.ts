@@ -2956,6 +2956,59 @@ const correctedBishshayonVisaArticle = (article: ArchiveArticle): ArchiveArticle
   return { ...article, body };
 };
 
+const correctedIssueErOvabArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-07-14-issue-er-ovab-nei") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["গো-মহষাদির", "গো-মহিষাদির"],
+    ["রপ্তানী", "রপ্তানি"],
+    ["বাকী", "বাকি"],
+    ["ব্যবহ্রত", "ব্যবহৃত"],
+    ["রুপী", "রুপি"],
+    ["জনিয়ে", "জানিয়ে"],
+    ["মোঘল", "মুঘল"],
+    ["সরন্জামের", "সরঞ্জামের"],
+    ["রাজী", "রাজি"],
+    ["কতটুটু", "কতটুকু"],
+    ["বন্চিত", "বঞ্চিত"],
+    ["সন্চয়", "সঞ্চয়"],
+    ["প্রোযোজ্য", "প্রযোজ্য"],
+    ["মতার্দশগত", "মতাদর্শগত"],
+    ["খন্ডিতভাবে", "খণ্ডিতভাবে"],
+    ["ঈশ্বচন্দ্র", "ঈশ্বরচন্দ্র"],
+    ["বেদাত", "বিদআত"],
+    ["গ্রামান্চলে", "গ্রামাঞ্চলে"],
+    ["ধর্মালবম্বী", "ধর্মাবলম্বী"],
+    ["পন্ডিত", "পণ্ডিত"],
+    ["অনুপোযুক্ত", "অনুপযুক্ত"],
+    ["পুজা", "পূজা"],
+    ["বৃটেন", "ব্রিটেন"],
+    ["পাশ্চাতের", "পাশ্চাত্যের"],
+    ["মনক্ষুন্ন", "মনঃক্ষুণ্ণ"],
+    ["এ্যাকুরিয়াম", "অ্যাকোয়ারিয়াম"],
+    ["আশ্চার্য", "আশ্চর্য"],
+    ["সবজীর", "সবজির"],
+    ["মুরগীর", "মুরগির"],
+    ["লক্ষ্যণীয়", "লক্ষণীয়"],
+    ["ধরনিরপেক্ষ", "ধর্মনিরপেক্ষ"],
+    ["রাস্ট্র", "রাষ্ট্র"],
+    ["দাবী", "দাবি"],
+    ["বানীর", "বাণীর"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3016,6 +3069,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedProkritirProtishodhArticle)
   .map(correctedKeshtoBetaiChorArticle)
   .map(correctedBishshayonVisaArticle)
+  .map(correctedIssueErOvabArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);

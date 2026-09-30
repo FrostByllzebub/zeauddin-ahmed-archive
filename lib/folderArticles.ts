@@ -14300,7 +14300,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-01-01-isyur-abhab-nei",
+    "slug": "2017-07-14-issue-er-ovab-nei",
     "title": "ইস্যুর অভাব নেই",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
@@ -14309,8 +14309,8 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedDateLabel": "১৪ জুলাই ২০১৭",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
-    "heroImage": "/articles/folder/folder-article-49e5ae2c.jpg",
-    "heroCaption": "বিষয়ভিত্তিক সংরক্ষণ চিত্র",
+    "heroImage": "/articles/archive-editorial-default.svg",
+    "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "সংরক্ষিত উৎস নথি",
     "body": [
