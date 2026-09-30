@@ -13882,7 +13882,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-09-05-udbastu-rohingga",
+    "slug": "2017-09-05-udbastu-rohingya",
     "title": "উদ্বাস্তু রোহিঙ্গা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",

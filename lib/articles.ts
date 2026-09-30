@@ -3207,6 +3207,34 @@ const correctedChoturthoBishshojuddherMohoraArticle = (article: ArchiveArticle):
   return { ...article, body };
 };
 
+const correctedUdbastuRohingyaArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-09-05-udbastu-rohingya") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["সম্প্রদায়িক", "সাম্প্রদায়িক"],
+    ["সর্বোপরি", "সর্বোপরি"],
+    ["ভূখ-", "ভূখণ্ড"],
+    ["কর্মকা-", "কর্মকাণ্ড"],
+    ["চোরাচালন", "চোরাচালান"],
+    ["শংকরজাত", "সংকরজাত"],
+    ["শংকর জাতি", "সংকর জাতি"],
+    ["ঘনিষ্ঠম", "ঘনিষ্ঠ"],
+    ["তদ্রƒপ", "তদ্রূপ"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(4, -2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3272,6 +3300,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedJerusalemAqsaArticle)
   .map(correctedLobhaturDrishtiArticle)
   .map(correctedChoturthoBishshojuddherMohoraArticle)
+  .map(correctedUdbastuRohingyaArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
