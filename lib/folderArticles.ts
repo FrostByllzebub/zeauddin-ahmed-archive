@@ -14496,7 +14496,7 @@ export const folderArticles: ArchiveArticle[] = [
   authorCredit: ""
 },
 {
-  slug: "2017-11-19-shoronarthi-rohingga-kukur",
+  slug: "2017-11-19-shoronarthi-rohingya-kukur",
   title: "শরণার্থী রোহিঙ্গা-কুকুর",
   author: "জিয়াউদ্দীন আহমেদ",
   publication: "সংবাদ",
