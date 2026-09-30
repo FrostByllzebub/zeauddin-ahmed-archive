@@ -14176,7 +14176,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-01-01-prshn-kra-mhapap",
+    "slug": "2017-01-01-proshno-kora-mohapap",
     "title": "প্রশ্ন করা মহাপাপ",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
