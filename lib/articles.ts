@@ -3523,6 +3523,35 @@ const correctedShoronarthiRohingyaKukurArticle = (article: ArchiveArticle): Arch
   return { ...article, body };
 };
 
+const correctedShomprodayPritiArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-11-26-shomproday-priti-noy-criminal-offense") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["বাংলদেশ", "বাংলাদেশ"],
+    ["পাকাড়", "পাকড়াও"],
+    ["বিষ্ফোরক", "বিস্ফোরক"],
+    ["বাগিতে", "বাড়িতে"],
+    ["আমুল", "আমূল"],
+    ["যুথিষ্ঠির", "যুধিষ্ঠির"],
+    ["কা-", "কাণ্ড"],
+    ["দ- দেওয়া", "দণ্ড দেওয়া"],
+    ["পুজাপার্বনে", "পূজাপার্বণে"],
+    ["লুঠতরাজ", "লুটতরাজ"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(1)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3598,6 +3627,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedHingsroManushProbhubhoktoKukurOneArticle)
   .map(correctedHingsroManushProbhubhoktoKukurTwoArticle)
   .map(correctedShoronarthiRohingyaKukurArticle)
+  .map(correctedShomprodayPritiArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
