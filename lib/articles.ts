@@ -3665,6 +3665,32 @@ const correctedAttohononeBangaliArticle = (article: ArchiveArticle): ArchiveArti
   return { ...article, body };
 };
 
+const correctedNobelPuroshkarArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-12-31-nobel-puroshkar") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["সুয়েডিশ", "সুইডিশ"],
+    ["আলফ্রেদ", "আলফ্রেড"],
+    ["ডিনেমাইট", "ডিনামাইট"],
+    ["আঁধার", "আধার"],
+    ["বিদ্রƒপ", "বিদ্রূপ"],
+    ["ক্যাম্পডেবিট", "ক্যাম্প ডেভিড"],
+    ["গুয়েতামালার", "গুয়াতেমালার"],
+    ["প্রেসিডন্ট", "প্রেসিডেন্ট"],
+    ["পুরস্কাররের", "পুরস্কারের"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) => corrections.reduce(
+      (text, [wrong, right]) => text.replaceAll(wrong, right),
+      paragraph,
+    )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3744,6 +3770,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedShopnodroshtaAnisulHoqArticle)
   .map(correctedArabErLolonaSofiaArticle)
   .map(correctedAttohononeBangaliArticle)
+  .map(correctedNobelPuroshkarArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);

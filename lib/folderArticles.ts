@@ -14679,7 +14679,7 @@ export const folderArticles: ArchiveArticle[] = [
   authorCredit: ""
 },
 {
-  slug: "2017-12-31-nobel-puraskar",
+  slug: "2017-12-31-nobel-puroshkar",
   title: "নোবেল পুরস্কার",
   author: "জিয়াউদ্দীন আহমেদ",
   publication: "সংবাদ",
