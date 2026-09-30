@@ -3614,6 +3614,57 @@ const correctedArabErLolonaSofiaArticle = (article: ArchiveArticle): ArchiveArti
   return { ...article, body };
 };
 
+const correctedAttohononeBangaliArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-12-24-attohonone-bangali") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["বাঙ্গালী", "বাঙালি"],
+    ["বেশী", "বেশি"],
+    ["আকাইদ", "আকায়েদ"],
+    ["হয়ছে", "হয়েছে"],
+    ["টেক্সি", "ট্যাক্সি"],
+    ["সন্দ্বিপ", "সন্দ্বীপ"],
+    ["অর্ন্তমুখী", "অন্তর্মুখী"],
+    ["ব্যবহ্রত", "ব্যবহৃত"],
+    ["আন্তজার্তিক", "আন্তর্জাতিক"],
+    ["নিরিহ", "নিরীহ"],
+    ["অনুভুতির", "অনুভূতির"],
+    ["আক্রমন", "আক্রমণ"],
+    ["হয়রানী", "হয়রানি"],
+    ["কর্মকান্ড", "কর্মকাণ্ড"],
+    ["অ্যামেরিকান", "আমেরিকান"],
+    ["চাকুরীতে", "চাকরিতে"],
+    ["আশংঙ্কায়", "আশঙ্কায়"],
+    ["উম্মাদনায়", "উন্মাদনায়"],
+    ["আশ্চার্য", "আশ্চর্য"],
+    ["বধুদের", "বধূদের"],
+    ["মুক্তিযদ্ধের", "মুক্তিযুদ্ধের"],
+    ["কুন্ঠিত", "কুণ্ঠিত"],
+    ["স্টার্মিনালে", "টার্মিনালে"],
+    ["ধর্মালম্বীদের", "ধর্মাবলম্বীদের"],
+    ["সম্ভাবনময়", "সম্ভাবনাময়"],
+    ["জঙ্গী", "জঙ্গি"],
+    ["বিমান বন্দরের", "বিমানবন্দরের"],
+    ["পাসপোর্টেধারীদের", "পাসপোর্টধারীদের"],
+    ["আশ্রয় প্রার্থী", "আশ্রয়প্রার্থী"],
+    ["ট্রাম", "ট্রাম্প"],
+    ["পুর্নব্যক্ত", "পুনর্ব্যক্ত"],
+    ["ভূখন্ড", "ভূখণ্ড"],
+    ["অসম্প্রদায়িক", "অসাম্প্রদায়িক"],
+    ["অঙ্গিকার", "অঙ্গীকার"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) => corrections.reduce(
+      (text, [wrong, right]) => text.replaceAll(wrong, right),
+      paragraph,
+    )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3692,6 +3743,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedShomprodayPritiArticle)
   .map(correctedShopnodroshtaAnisulHoqArticle)
   .map(correctedArabErLolonaSofiaArticle)
+  .map(correctedAttohononeBangaliArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);

@@ -14643,8 +14643,8 @@ export const folderArticles: ArchiveArticle[] = [
   authorCredit: ""
 },
 {
-  slug: "2017-12-24-atmahonne-bangali",
-  title: "আত্মহননে বাঙ্গালী",
+  slug: "2017-12-24-attohonone-bangali",
+  title: "আত্মহননে বাঙালি",
   author: "জিয়াউদ্দীন আহমেদ",
   publication: "সংবাদ",
   section: "উপসম্পাদকীয়",
