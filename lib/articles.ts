@@ -3009,6 +3009,65 @@ const correctedIssueErOvabArticle = (article: ArchiveArticle): ArchiveArticle =>
   return { ...article, body };
 };
 
+const correctedDasanudasGrihokormiArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2017-07-19-dasanudas-o-grihkrmi") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["দন্ডাদেশ", "দণ্ডাদেশ"],
+    ["আসামী", "আসামি"],
+    ["উম্মোচন", "উন্মোচন"],
+    ["নি:স্ব", "নিঃস্ব"],
+    ["তরকারী", "তরকারি"],
+    ["উছিলায়", "উসিলায়"],
+    ["পিরিস", "পিরিচ"],
+    ["আঙ্গুল", "আঙুল"],
+    ["আঁড়চোখে", "আড়চোখে"],
+    ["কনিষ্ট", "কনিষ্ঠ"],
+    ["দাদা-দাদী", "দাদা-দাদি"],
+    ["বন্চিত", "বঞ্চিত"],
+    ["দু:খ", "দুঃখ"],
+    ["নিষ্ঠু", "নিষ্ঠুর"],
+    ["প্রবন্চনা", "প্রবঞ্চনা"],
+    ["সবচেয়", "সবচেয়ে"],
+    ["বেশী", "বেশি"],
+    ["আবিস্কৃত", "আবিষ্কৃত"],
+    ["সত্ব", "স্বত্ব"],
+    ["ভূখন্ডে", "ভূখণ্ডে"],
+    ["সম্রাজ্যে", "সাম্রাজ্যে"],
+    ["পরষ্পরের", "পরস্পরের"],
+    ["মারামরি", "মারামারি"],
+    ["শেতাঙ্গদের", "শ্বেতাঙ্গদের"],
+    ["বচ্চাদের", "বাচ্চাদের"],
+    ["শারিরীক", "শারীরিক"],
+    ["জবাবদিহী", "জবাবদিহি"],
+    ["দুষ্টমি", "দুষ্টুমি"],
+    ["নিন্মস্থরা", "নিম্নস্থরা"],
+    ["স্বেচ্ছাচারি", "স্বেচ্ছাচারী"],
+    ["অত্যাচের", "অত্যাচার"],
+    ["লান্চনা", "লাঞ্ছনা"],
+    ["নিরবে", "নীরবে"],
+    ["হ্রদয়বান", "হৃদয়বান"],
+    ["সহ্রদয়", "সহৃদয়"],
+    ["মনস্তাত্বিক", "মনস্তাত্ত্বিক"],
+    ["প্রশয়", "প্রশ্রয়"],
+    ["খেলাধূলা", "খেলাধুলা"],
+    ["ক্রীতদসীদের", "ক্রীতদাসীদের"],
+    ["সন্মানজনক", "সম্মানজনক"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(1, -1)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3070,6 +3129,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedKeshtoBetaiChorArticle)
   .map(correctedBishshayonVisaArticle)
   .map(correctedIssueErOvabArticle)
+  .map(correctedDasanudasGrihokormiArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);

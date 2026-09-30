@@ -14082,8 +14082,8 @@ export const folderArticles: ArchiveArticle[] = [
     "publishedDateLabel": "১৯ জুলাই ২০১৭",
     "originalUrl": "",
     "rightsStatus": "full_text_permitted",
-    "heroImage": "/articles/folder/folder-article-edc823a6.jpg",
-    "heroCaption": "বিষয়ভিত্তিক সংরক্ষণ চিত্র",
+    "heroImage": "/articles/archive-editorial-default.svg",
+    "heroCaption": "এই লেখার জন্য সংরক্ষণ-শৈলীর চিত্র",
     "imageSourceUrl": "",
     "imageCredit": "সংরক্ষিত উৎস নথি",
     "body": [
