@@ -13631,7 +13631,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2017-12-04-sbpndrshta-anisul-hk",
+    "slug": "2017-12-04-shopnodroshta-anisul-hoq",
     "title": "স্বপ্নদ্রষ্টা আনিসুল হক",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
