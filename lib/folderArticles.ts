@@ -14348,8 +14348,8 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
 {
-  slug: "2017-10-22-shasther-bideshmukhin-michhil",
-  title: "স্বাস্থ্যের বিদেশমুখিন মিছিল",
+  slug: "2017-10-22-shasther-bideshmukhin-michil-2",
+  title: "স্বাস্থ্যের বিদেশমুখিন মিছিল ২",
   author: "জিয়াউদ্দীন আহমেদ",
   publication: "সংবাদ",
   section: "উপসম্পাদকীয়",
