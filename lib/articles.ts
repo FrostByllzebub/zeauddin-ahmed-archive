@@ -3765,6 +3765,33 @@ const correctedBirprotikTaramonBibiArticle = (article: ArchiveArticle): ArchiveA
   return { ...article, body };
 };
 
+const correctedArtrirAttohottaArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2018-12-09-aritrir-attohotta") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["লাঞ্চনা", "লাঞ্ছনা"],
+    ["প্লানিতে", "গ্লানিতে"],
+    ["অবশেষ", "অবশেষে"],
+    ["অস্বভাবিক", "অস্বাভাবিক"],
+    ["বদঅভ্যাস", "বদভ্যাস"],
+    ["উছিলায়", "উসিলায়"],
+    ["সেøাগান", "স্লোগান"],
+    ["কিভাবে", "কীভাবে"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(3, -2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3848,6 +3875,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedGonotantrikNirbachonArticle)
   .map(correctedMashrafeVotePrarthiArticle)
   .map(correctedBirprotikTaramonBibiArticle)
+  .map(correctedArtrirAttohottaArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);

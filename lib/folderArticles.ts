@@ -11673,7 +11673,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2018-12-09-aritrir-atmhtya",
+    "slug": "2018-12-09-aritrir-attohotta",
     "title": "অরিত্রির আত্মহত্যা",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
