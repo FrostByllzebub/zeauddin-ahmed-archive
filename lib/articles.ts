@@ -3711,6 +3711,34 @@ const correctedGonotantrikNirbachonArticle = (article: ArchiveArticle): ArchiveA
   return { ...article, body, displayOriginalUrl: "" };
 };
 
+const correctedMashrafeVotePrarthiArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2018-12-23-mashrafe-vote-prarthi") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["পর্র্যন্ত", "পর্যন্ত"],
+    ["আকাক্সক্ষা", "আকাঙ্ক্ষা"],
+    ["দৌড়ঝাপ", "দৌড়ঝাঁপ"],
+    ["বেশী", "বেশি"],
+    ["চিনে", "চেনে"],
+    ["ঝুঁঁকি", "ঝুঁকি"],
+    ["কটুক্তির", "কটূক্তির"],
+    ["শ্রীলংকা", "শ্রীলঙ্কা"],
+    ["পেসবোলার", "পেস বোলার"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(3, -1)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body, displayOriginalUrl: "" };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3792,6 +3820,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedAttohononeBangaliArticle)
   .map(correctedNobelPuroshkarArticle)
   .map(correctedGonotantrikNirbachonArticle)
+  .map(correctedMashrafeVotePrarthiArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);

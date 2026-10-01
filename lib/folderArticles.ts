@@ -11599,7 +11599,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2018-12-23-mashrafi-bhot-prarthi",
+    "slug": "2018-12-23-mashrafe-vote-prarthi",
     "title": "মাশরাফি ভোট প্রার্থী",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",
