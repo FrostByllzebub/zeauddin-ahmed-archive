@@ -17,6 +17,7 @@ export type ArchiveArticle = {
   body: Array<{ heading?: string; paragraphs: string[] }>;
   authorNote: string;
   authorCredit: string;
+  displayOriginalUrl?: string;
 };
 
 const currentArticles: ArchiveArticle[] = [
@@ -3691,6 +3692,25 @@ const correctedNobelPuroshkarArticle = (article: ArchiveArticle): ArchiveArticle
   return { ...article, body };
 };
 
+const correctedGonotantrikNirbachonArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2018-12-30-gonotantrik-nirbachon") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["বেশী", "বেশি"],
+    ["কিভাবে", "কীভাবে"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs.map((paragraph) => corrections.reduce(
+      (text, [wrong, right]) => text.replaceAll(wrong, right),
+      paragraph,
+    )),
+  }));
+
+  return { ...article, body, displayOriginalUrl: "" };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3771,6 +3791,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedArabErLolonaSofiaArticle)
   .map(correctedAttohononeBangaliArticle)
   .map(correctedNobelPuroshkarArticle)
+  .map(correctedGonotantrikNirbachonArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
