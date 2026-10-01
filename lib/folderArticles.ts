@@ -11635,7 +11635,7 @@ export const folderArticles: ArchiveArticle[] = [
     "authorCredit": ""
   },
   {
-    "slug": "2018-12-16-birprtik-taramn-bibi",
+    "slug": "2018-12-16-birprotik-taramon-bibi",
     "title": "বীরপ্রতীক তারামন বিবি",
     "author": "জিয়াউদ্দীন আহমেদ",
     "publication": "সংবাদ",

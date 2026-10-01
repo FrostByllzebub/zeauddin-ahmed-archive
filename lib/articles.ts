@@ -3739,6 +3739,32 @@ const correctedMashrafeVotePrarthiArticle = (article: ArchiveArticle): ArchiveAr
   return { ...article, body, displayOriginalUrl: "" };
 };
 
+const correctedBirprotikTaramonBibiArticle = (article: ArchiveArticle): ArchiveArticle => {
+  if (article.slug !== "2018-12-16-birprotik-taramon-bibi") return article;
+
+  const corrections: Array<[string, string]> = [
+    ["মুক্তিযোদ্ধারের", "মুক্তিযোদ্ধাদের"],
+    ["স্প্রিন্টারে", "স্প্লিন্টারে"],
+    ["হেমায়ত বাহিনী", "হেমায়েত বাহিনী"],
+    ["শিশির কনা", "শিশির কণা"],
+    ["হীরামনি", "হীরামণি"],
+    ["সাওতাল", "সাঁওতাল"],
+    ["কথা সাহিত্যিক", "কথাসাহিত্যিক"],
+  ];
+
+  const body = article.body.map((section) => ({
+    ...section,
+    paragraphs: section.paragraphs
+      .slice(3, -2)
+      .map((paragraph) => corrections.reduce(
+        (text, [wrong, right]) => text.replaceAll(wrong, right),
+        paragraph,
+      )),
+  }));
+
+  return { ...article, body };
+};
+
 export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles]
   .map(correctedTabligArticle)
   .map(correctedAsadArticle)
@@ -3821,6 +3847,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedNobelPuroshkarArticle)
   .map(correctedGonotantrikNirbachonArticle)
   .map(correctedMashrafeVotePrarthiArticle)
+  .map(correctedBirprotikTaramonBibiArticle)
   .map(withGenerated2024Cover)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
