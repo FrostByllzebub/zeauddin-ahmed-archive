@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "../components/safe-link";
 import { articles } from "../lib/articles";
 
 const nav = [["আর্কাইভ", "/archive"], ["স্মৃতির খাতা", "/memories"], ["পরিচিতি", "/about"]];

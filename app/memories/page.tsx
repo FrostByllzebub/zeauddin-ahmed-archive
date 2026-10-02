@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "../../components/safe-link";
 import { MemorySubmissionForm } from "../../components/memory-submission-form";
 
 export default function MemoriesPage() {

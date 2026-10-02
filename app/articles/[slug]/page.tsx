@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import Link from "../../../components/safe-link";
 import { notFound } from "next/navigation";
 import { articles, getArticle } from "../../../lib/articles";
 import { legacyArticleSlugs } from "../../../lib/articleRedirects";
