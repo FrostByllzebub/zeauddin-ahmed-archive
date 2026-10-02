@@ -10,15 +10,18 @@ const metadata = articles.map(({ slug, title, publication, publishedAt, publishe
   publishedDateLabel,
 }));
 
-const searchIndex = articles.map((article) => ({
-  slug: article.slug,
-  searchText: normalizeSearchText([
+const searchIndex = articles.map((article) => {
+  const searchText = normalizeSearchText([
     article.title,
     article.author,
     article.publication,
     article.body.flatMap((section) => [section.heading ?? "", ...section.paragraphs]).join(" "),
-  ].join(" ")),
-}));
+  ].join(" "));
+  // Keep one copy of each normalized term. Search remains accent/variant
+  // tolerant while avoiding a second copy of every full article body in the
+  // downloaded index.
+  return { slug: article.slug, searchText: [...new Set(searchText.split(" "))].join(" ") };
+});
 
 await mkdir("lib", { recursive: true });
 await mkdir("public", { recursive: true });

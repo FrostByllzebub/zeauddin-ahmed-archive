@@ -100,7 +100,7 @@ export default function ArchivePage() {
   return <main className="site-shell">
     <header className="site-header">
       <Link className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link>
-      <nav aria-label="প্রধান নেভিগেশন"><a href="/archive">আর্কাইভ</a><a href="/memories">স্মৃতির খাতা</a><a href="/about">পরিচিতি</a></nav>
+      <nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav>
       <Link className="header-action" href="/">হোম <span>↗</span></Link>
     </header>
     <section className="page-wrap">
@@ -113,8 +113,8 @@ export default function ArchivePage() {
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
       </div>
       <div className="archive-status-strip" aria-live="polite"><span className="live-dot" /> <span>{indexError ? "সার্চ ইনডেক্স লোড হয়নি" : loadingSearch ? "লেখাগুলো খোঁজা হচ্ছে…" : "শুধু যে লেখাগুলোতে খোঁজার শব্দ আছে সেগুলো দেখানো হচ্ছে"}</span><span className="status-count">{filteredArticles.length.toLocaleString("bn-BD")}</span></div>
-      {indexError ? <div className="empty-panel"><div className="empty-stamp">!</div><div><p className="eyebrow">সাময়িক সমস্যা</p><h2>সার্চ প্রস্তুত করা যাচ্ছে না</h2><p>পৃষ্ঠাটি পুনরায় লোড করে আবার চেষ্টা করুন।</p></div></div> : filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp">০</div><div><p className="eyebrow">{loadingSearch ? "খোঁজা হচ্ছে" : "ফলাফল নেই"}</p><h2>{loadingSearch ? "লেখাগুলোতে শব্দটি খোঁজা হচ্ছে" : "এই খোঁজের সঙ্গে কোনো লেখা মেলেনি"}</h2><p>{loadingSearch ? "এক মুহূর্ত অপেক্ষা করুন।" : "অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন।"}</p></div></div> : <div className="archive-results">{filteredArticles.map(({ article }) => <article className="content-card" key={article.slug}><h2><a className="archive-article-link" href={`/articles/${article.slug}`}>{article.title}</a></h2><div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
+      {indexError ? <div className="empty-panel"><div className="empty-stamp" aria-hidden="true">!</div><div><p className="eyebrow">সাময়িক সমস্যা</p><h2>সার্চ প্রস্তুত করা যাচ্ছে না</h2><p>পৃষ্ঠাটি পুনরায় লোড করে আবার চেষ্টা করুন।</p></div></div> : filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp" aria-hidden="true">০</div><div><p className="eyebrow">{loadingSearch ? "খোঁজা হচ্ছে" : "ফলাফল নেই"}</p><h2>{loadingSearch ? "লেখাগুলোতে শব্দটি খোঁজা হচ্ছে" : "এই খোঁজের সঙ্গে কোনো লেখা মেলেনি"}</h2><p>{loadingSearch ? "এক মুহূর্ত অপেক্ষা করুন।" : "অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন।"}</p></div></div> : <div className="archive-results">{filteredArticles.map(({ article }) => <article className="content-card" key={article.slug}><h2><Link className="archive-article-link" href={`/articles/${article.slug}`}>{article.title}</Link></h2><div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
     </section>
-    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><a href="/policies">কপিরাইট ও যোগাযোগ</a></span></footer>
+    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
   </main>;
 }
