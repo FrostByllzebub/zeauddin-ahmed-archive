@@ -55,7 +55,7 @@ for (const article of articles) {
 await mkdir("lib", { recursive: true });
 await mkdir("public/search-shards", { recursive: true });
 await writeFile("lib/archiveMetadata.ts", `export const archiveMetadata = ${JSON.stringify(metadata, null, 2)} as const;\n`, "utf8");
-await writeFile("public/search-manifest.json", JSON.stringify({ years: [...shards.keys()].sort().reverse() }), "utf8");
+await writeFile("public/search-manifest.json", JSON.stringify({ format: 2, strategy: "exact-token-postings", years: [...shards.keys()].sort().reverse() }), "utf8");
 for (const [year, shard] of shards) {
   await writeFile(`public/search-shards/${year}.json`, JSON.stringify(shard), "utf8");
 }
