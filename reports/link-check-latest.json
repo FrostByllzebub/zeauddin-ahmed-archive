@@ -1,0 +1,4377 @@
+{
+  "checkedAt": "2026-10-02T20:45:05.193Z",
+  "origin": "https://zeauddinahmed.com",
+  "summary": {
+    "internal": {
+      "total": 489,
+      "broken": 0
+    },
+    "legacy": {
+      "total": 83,
+      "redirectFailures": 0
+    },
+    "source": {
+      "total": 153,
+      "broken": 4
+    }
+  },
+  "internal": [
+    {
+      "url": "https://zeauddinahmed.com/",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/archive",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/memories",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/publications",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/about",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/policies",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-27-bagaromborer-arale-jobabdihitar-proshno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-12-boeing-kenar-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-01-bidyut-jay-ashe-jobab-thake-na",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-29-jongibad-niye-jatishongher-udbeg",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-08-gane-gane-gogonbhedi-protibad",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-01-telapoka-fireche-karon-khoto-shukayni",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-25-abaro-ki-bhangche-pakistan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-18-haddi-amar-mangsho-apnar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-12-janaja-ek-monche-utshob-onno-monche",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-04-kukurer-kanna-manusher-nirobota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-29-mamlar-jote-bondi-neybichar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-27-bardhokkyer-notun-bastobota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-13-birodhitahin-rajnitir-bipod",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-09-islami-bank-niye-rajnoitik-tanaporen-keno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-20-eid-utshob-orthonitir-jiboni-shokti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-16-shishuder-nirapotta-kothay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-09-shongbidhan-shongshodhoner-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-25-rajniti-noy-orthoniti-guruttopurno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-21-bharot-birodhitar-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittogyanhinota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-05-shartho-bikiye-deya-banijjo-chukti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-03-15-modhyoprachchye-shoktir-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-03-07-notun-governor-oporiharjo-chilo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-28-july-shonod-niye-bnp-er-oshosti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-21-bnp-pass-jamat-o-pass",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-14-ontorborti-shorkar-jatike-ki-dilo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-07-oitihashik-nirbachone-jamayat",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-01-montrir-jonno-bilashi-flat",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-24-bank-dhosher-day-kar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-17-iran-er-dhormovittik-kortittobadi-shashonbebostha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-10-trump-er-america-first-er-nomuna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-03-i-have-a-plan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-28-charidike-atonko-ar-shonka",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-20-bhikkhabritti-jekhane-onnotomo-pesha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-14-begum-rokeya-ekhono-jagroto",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-06-shadharon-chuktigulo-o-goponiyo-keno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-29-tottabodhayok-shorkar-bebosthar-punorjonmo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-22-bank-er-durobostha-thamano-jachche-na-keno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-16-mamdani-dekhalen-netritter-mul-porichoy-ki",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-09-juddho-biroti-gaja-bashir-jonno-oporiharjo-chilo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-01-ncp-chay-obinashi-july-shonod",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-10-26-obohelito-shikkhar-durdosha-barche",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-10-18-boishommer-bibidh-mukh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-09-28-nrishongshotar-video-nirob-dorshok-ar-hariye-jaowa-manobota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-09-18-shongshode-anupatik-protinidhitto",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-02-bibhishikamoy-korun-mrittu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-07-10-mega-prokolpe-durnitir-shorup",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-26-genghis-ar-halagu-khan-er-abirbhav",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-22-ekti-sofor-ekadhik-shonket",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-14-obosheshe-note-bazaare-esheche",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-01-chottogram-bondor-er-terminal-bitorko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-04-bhinnomoter-bhoy-nirbachoner-dolachol",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-27-otiter-chayay-notun-bangladesh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-20-durnitir-obishshashyo-khotiyan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-06-dhorshoner-biruddhe-lorai-ainer-shokti-o-shomajer-durbolota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-03-29-notun-note-paowar-dinkhon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-03-13-bank-niye-obimrishshokari-boktobyo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-03-09-rajnoitik-kormokander-halchal",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-02-16-votadhikar-punoruddharer-shongskar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-02-09-proshongo-shongbidhan-shongskar-comission-er-shuparish",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-02-02-ontorborti-shorkar-nagorikder-prottasha-ki-puron-hobe",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-01-05-shetpotre-notun-ki-ache",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-12-29-bibhajito-tablig-jamater-dwondwo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-12-18-israelke-challenge-chhure-asader-poton",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-12-15-bharat-bangladesh-shomporko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-12-08-manush-ontorborti-sorkarer-shofolota-chay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-11-27-bangladesh-bank-officers-welfare-council-nirbachon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-11-02-modhyoprachyo-shongkot",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-10-26-biday-agnikonna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-10-19-kon-pothe-jamayater-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-10-12-manush-mulyosfiti-theke-rokkha-pabe-kivabe",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-09-21-jatiyo-shongit-niye-bitorko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-09-14-abar-tora-manush-ho",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-09-07-bonyar-jonno-bharat-kototuku-dayi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-08-31-smoronkaler-bhayaboh-bonna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-08-24-grihokormi-nirjatoner-obshan-hok",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-08-10-ismail-haniyer-karun-mrityu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-07-31-shobai-shofolotar-bhagidar-hote-chay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-07-27-kota-niye-supreme-court-er-ray",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-06-22-korbanir-chamrar-hokdar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-06-15-bangladesh-bank-e-sangbadikder-probesh-niye-bitorko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-06-08-nojirbihin-benzir",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-06-01-durbal-banker-sadgoti-dorkar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-05-25-laloner-gan-o-dhormiyo-onubhuti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-05-18-takar-obomullayon-ki-joruri-chhilo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-05-11-khelar-cheye-dhula-beshi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-04-15-india-out-campaign",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-04-06-abontikader-atmohotya",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-03-02-free-palestine",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-02-24-pakistane-nirdharito-foler-nirbachon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-02-17-israyeler-gnhtya-dkshn-afrikar-mamla",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-02-10-mulyosphiti-kombe-kibhabe",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-02-03-transgender-niye-joto-hattgol",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-01-27-sorkar-notun-challenge-purono",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-01-06-mnda-arthnitih-smpdshali-votprarthi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-12-23-bijoyer-anondo-amake-sprsh-kore-na",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-12-16-transgender-o-samajer-drishtibhongi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-10-28-filistine-hamas-ki-chay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-10-07-mithyar-noy-aradhna-hok-sotyer",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-09-23-dengu-rodhe-mansiktar-pryjon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-09-16-abar-dr-yunuske-niye-bibriti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-09-09-amader-ki-dorjigiri-korei-jibondharon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-09-02-prokolpo-bastobayone-dhirgoti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-08-26-american-rashtrduter-indemnity",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-kushikkha-theke-mukti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-08-04-chapano-takay-mulyosphiti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-06-24-prostabito-bajet-o-ghoshito-mudraniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-06-17-jatiyo-bajet-2023-2024",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-06-10-visaniti-kon-nishedhaggya-noy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-06-04-gazipure-awami-lig-keno-harlo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-06-01-banking-khater-khelapi-rin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-05-27-dutabaser-baroti-nirapotta-prtyahar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-05-20-ansmart-chikitsa-smart-bangladesh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-05-11-sudaner-grihoyuddho",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-05-06-bidyanonder-jakat-fand",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-29-sampratik-ognikand-durghotona-na-durbhisondhi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-27-joytu-muktijoddha-dr-jaffrullah",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-15-aini-notiser-kobole-mongol-shobhayatra",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-08-swadhinota-kon-tulya-bostu-noy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-06-manobadhikar-niye-markin-report",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-01-sar-sombodhon-niye-tulkalam-kand",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-04-01-amerikar-banking-khate-songkot",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-25-orokkhito-non-dr-muhammad-yunus",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-23-muktijuddhe-parashoktigulor-bhumika",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-18-adanir-bidyut-niye-bitorko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-11-kadiyanider-biruddhe-joto-kshobh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-09-imf-er-rin-o-shart",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-04-raggingyer-day-kar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-02-18-bir-muktijoddhader-smorone",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-02-11-guzob-thekano-jacche-na-keno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-02-04-khomotar-mohomukto-ek-rajnitik",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-28-pathyo-boite-darwin-er-totto",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-26-bishwo-monday-bangladesh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-23-bharateo-bhirte-pareni-ursa-major",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-21-nirbachon-komishoner-bishshoyjoggyota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-14-rashiar-jahaj-ferot-dewar-siddhanto",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-07-jonmot-gothone-samajik-jogajog-maddhom",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-31-afganistane-nari-shikkha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-29-kutniti-sima-porisima",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-24-bishwo-kap-joyi-argentina",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-17-tottabodhoyok-sorkar-niye-bitorko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-10-islami-bank-niye-shorogol",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-03-americar-moddhoborti-nirbachon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-12-01-roktokkhoi-shadhinota-songram",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-11-26-durnitir-sathe-orth-pacharer-shomporko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-11-19-argentina-brazil-somorthokder-protijogita",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-11-12-sorkari-kormokortar-baddhotamulok-obosor",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-11-09-bnpir-sorkar-birodhi-andolon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-11-05-bhawal-bir-shohid-ahsanullah-master",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-11-03-evm-niye-joto-proshno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-29-kothin-challenge-rishi-sunak",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-26-tista-bandh-niye-mahaporikolpona",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-22-kebinet-sochib-o-mukhyo-sochiber-bari",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-20-uponirbachon-batil-o-kichu-proshno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-15-rajnitir-boro-ostro-tel-gas",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-12-eden-college-proshonge-chhatro-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-08-irane-hijab-birodhi-andolon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-06-bangladesher-shobuj-passport",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-10-01-atmogopon-nikhonj-ar-gum",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-09-24-har-na-mana-lal-shobujer-meyera",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-09-10-mrityudonder-bidhane-ki-dhorshon-komechhe",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-09-03-bilkis-banu-osohay-narir-artanad",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-09-01-cha-shromikder-jibonman",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-08-27-sohojat-rajnaitik-netar-ovab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-08-20-deshe-deshe-durniti-o-arth-pacharer-sworup",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-08-13-jbalani-teler-dam-o-kichu-proshno",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-08-06-bishwo-monday-bangladesher-shokti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-08-04-bangladeshe-bideshi-biniyog",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-07-30-juktorastre-agneyastro-bahoner-sangskriti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-07-23-chikitsa-niye-lobdho-oviggota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-07-21-loadshedding-niye-shorgol",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-07-16-bangladesh-shudhu-manusher-hok",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-07-13-bhumikhompe-biporjosto-afganistan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-07-02-padma-setu-jatir-gorber-protik",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-06-25-bhoy-nei-ami-eshe-gechi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-06-18-nobike-niye-bjp-netar-kotukti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-06-16-prostabito-bcs-bishwobidyaloy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-06-04-ekjon-nitinishtho-sangbadik",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-05-28-mohumatrik-kolomjoddha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-05-21-durniti-o-dosharoper-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-05-19-bangladesher-arthik-shastho-eto-durbal-noy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-05-14-chacha-chowkidar-bidhay-thana-bhatijar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-05-07-bangladeshe-manobadhikar-poristhiti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-30-pakistaner-unpredictable-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-23-bishwas-ar-juktir-dwondo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-21-ponner-bordhito-dor",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-16-srilankar-moto-hobe-na-bangladesh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-09-tip-sojjay-bangali-nari",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-04-puraskar-batil-shobhoniya-noy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-04-02-sunny-leoner-dhaka-sofor-o-protibad",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-03-26-koronay-labh-khoter-hisab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-03-19-dhormiyo-mulyobod-o-noitikotar-songe-dhorshoner-shomporko-ki",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-03-12-sorok-mohasoroke-durghotnar-mohamari",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-03-05-kotha-diyeo-keu-pashe-nei",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-02-26-muktijuddhe-shesob-songit-shubharthi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-02-24-gaser-dam-briddhir-prostab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-02-19-hijab-niye-bitorko",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-02-12-nissongo-jibon-o-attnohottaya",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-02-05-ukraine-rashiar-morjadar-lorai",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-02-03-lutera-rukho-swodesh-bachao",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-29-bisi-ase-bisi-jay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-22-amader-jibon-amader-shontan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-20-kawali-ganer-onushthan-pond",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-15-koronay-srishto-monojogoter-bichchhinnota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-08-chele-bnam-meye-khelowar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-06-manobotar-majhi-milon-khan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-01-02-meyeti-sotti-kharap",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2022-narir-poshak-porar-shadhinota",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-12-25-rohinggader-shibire-htyakand",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-12-23-amerikake-tusht-rakha-kthin-samprotik-deshkal",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-12-23-amerikake-tusht-rakha-kthin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-12-19-mryadapurn-pde-nyuntm-man-chai",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-12-12-haf-bhada-o-nirapd-sdk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-12-05-khaleda-jiyar-bideshe-chiki-sa",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-11-28-khela-bnam-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-11-25-shahrukh-khaner-putrer-madkaskti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-11-21-dhrshn-mamlay-bicharker-prybekshn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-11-14-dijeler-dam-o-dhrmght",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-11-07-kumilla-kander-akrosh-tripuray",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-10-31-bodhshuny-manush",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-10-24-bhonta-anubhuti-chai",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-10-21-bijnapnmukt-bideshi-chyanel",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-10-17-hay-hay-kompanir-fand",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-10-10-rbindrnather-chulo-lmba-chhilo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-10-03-sangbadikder-smpder-hisab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-09-26-bimanbndre-pisiar-lyab-sthapn-prsngg",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-09-25-taleban-shasne-shriya-ain",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-09-18-talebander-srkar-gthn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-09-12-netibachk-khbrer-pradhany",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-09-05-njr-mohammd-ar-primni",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-09-04-bhyaksin-churir-ghtna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-08-29-chhatr-chhatrider-mansik-abstha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-08-22-dbitiy-dfay-talebani-shasn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-08-16-yt-dosh-nnd-ghosh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-08-12-arthnitir-punrgthne-bnggbndhu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-08-08-bhunifod-snggthner-biruddhe-abhiyan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-08-01-prdhanmntrir-ashryn-prklp",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-07-25-jntar-bikshobhe-ashant-kiuba",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-07-18-durghtnar-pr-schetnta-briddhi-pay",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-07-11-lkdaun-na-shatdaun",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-07-04-dhaka-bishbbidyaly-rbindrnath-ebng-birodhitar-kahini",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-06-27-tiktok-soshyal-midiya-platform",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-01-shhid-jnni-jahanara-imam",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-06-20-sada-mner-ek-manush",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-06-18-atirikt-atirnjn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-06-13-bajet",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-06-06-israile-bhrmn-nishedhajna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-05-30-filistin-israiler-yuddh-birti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-05-23-hindu-na-ora-muslim-oi-jijnase-kon-jn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-05-09-iran-o-aprtirodhy-israil",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-05-01-srkar-ubhy-sngkte",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-04-25-pdmryadar-ldai-pulish-bnam-daktar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-04-18-adipatay-bipryst-hefajte-islam-ebng-byktigt-gopniyta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-04-11-hefajt-snggitanggn-grnthagar-ebng-agun",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-04-04-modir-bangladesh-sfr",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-03-28-jhumn-daser-bak-sbadhinta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-03-21-transjendard-tasnubha-nusrat",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-03-14-dijital-ainer-bhiti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-02-28-shohid-minar-prtibader-manch",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-02-21-rashtriyo-khetab-batil",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-02-14-miyanmare-samrik-abhyutthan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-02-07-uighur-muslimder-opor-niryaton",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-02-07-nirbachne-aniym",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-31-priksha-chhada-pas",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-24-monda-edar-safolye-bangladesh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-22-adaloter-porjobekkhone-bangladesh-bank",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-17-capitol-hile-hamla-markin-gonotantrer-sankat",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-10-awami-lige-anuprabeshkari",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-03-kronar-ntun-sngskrn-o-tika",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2021-01-01-taleban-shasne-afgan-nari",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-12-27-bagha-jotiner-bhaskorjo",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-12-20-chor-dhoreo-chor-hoye-jachchi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-12-13-murti-bnam-bhaskry",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-12-06-sakiber-kshma-prarthna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-11-29-munirujjman-asamprdayik-chetnar-prtibhu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-11-22-armeniya-ajarbaijaner-yuddh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-11-15-markin-yuktrashtrer-nirbachn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-11-08-unmtt-jntar-unmadna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-11-01-ghrina-ghrinar-jnm-dey",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-10-25-allahr-duniyay-jmir-abhab-nei",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-10-18-rshid-haydar-tini-ekjni",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-10-11-dhrshne-bipryst-bangladesh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-10-04-dhrshner-brbrta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-09-27-khichudi-niye-matm",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-09-20-msjide-bisforn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-09-13-siti-krporeshner-sarmeyniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-09-06-bhart-bangladesh-chin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-08-30-manush-banche-manusher-jny",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-08-23-krona-bhyaksin-abiskar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-08-17-khal-o-jlabddhtar-rajniti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-08-09-pshu-prem-o-manbikta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-07-26-kronar-bhyaksin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-07-19-shaheder-kishori-meyeo-bibrt",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-07-12-takay-bagher-dudh-mele",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-07-05-mnda-arthnitir-kble-byangk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-06-28-allah-malik-kajemi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-06-21-lkdaune-mansik-dushchinta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-06-14-amra-sbai-brnchora-brnbadi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-06-07-ndbd-lkdaun",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-05-31-pshu-pakhi-htya",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-05-17-tratar-bhumikay-pulish-o-sshstrbahini",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-05-10-gnsbasther-kit",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-05-03-chiki-skder-atngk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-04-26-maolana-ansarir-janaja",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-04-19-basntir-prtyabrtner-pddhbni",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-04-12-amader-chritrer-bichitr-rup",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-04-06-mrite-chahi-na-ami-sundr-bhubne",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-03-29-kronabhairaser-kbirajgn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-03-22-mujibbrsh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-03-15-kronay-bishbayn-bipryst",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-03-08-dillir-shahinbag",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-03-01-asusth-rajnitir-bikar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-02-23-bhaskr-rashar-mujibbrsh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-02-16-jngner-opr-astha-nei",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-02-09-ami-bhot-diyechhi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-02-02-kronabhairaser-chhobl",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-01-26-bu-pitanor-adhikar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-01-19-jj-miya-mane-sajano-natk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-01-12-smr-bishard-soleimani",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2020-01-05-deshe-deshe-nipidit-sngkhyalghu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-12-29-bharter-samprdayik-pdkshep",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-12-22-angg-prtyngg-sngyojne-dhrm",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-12-15-angg-prtyngg-sngyojne-ain",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-12-08-sdk-durghtna-o-ntun-ain",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-12-01-jnmdin-udyapne-jltrngg",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-11-24-piyajer-jhanj",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-11-17-duhkh-prkash-o-bktby-prtyahar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-11-10-anubhutir-khesart",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-11-03-abrarer-mrityu-ebng-chhatr-rajniti-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-10-27-abrarer-mrityu-ebng-chhatr-rajniti-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-10-14-juyar-asr-kyasino-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-10-06-juyar-asr-kyasino-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-09-29-tajiya-michhile-pddln-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-09-22-tajiya-michhile-pddln-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-09-15-asam-kamrup-kamakhya-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-09-08-asam-kamrup-kamakhya-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-09-01-bhusbrg-khyat-kashmir-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-08-25-bhusbrg-khyat-kashmir-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-08-18-atngke-achhi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-07-23-srkarer-jbabdihita",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-08-04-gune-ny-mane-alada",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-07-28-priya-sahar-hyandshek",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-07-21-bhagyban-president-ershad",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-07-14-dhrshner-jny-shytan-dayi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-07-07-kshmar-ayogy-brbrta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-06-30-halal-nait-klab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-06-23-abhibasi-o-udbastu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-06-16-shekh-hasina-nirbhrta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-06-09-badti-u-padner-bidmbna",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-06-02-nrendr-modir-jy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-05-26-imej-sngkte-byangk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-05-19-koutuk-abhineta-anis-bhai",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-05-12-bipnn-bhabmurti-niye-bienpi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-05-05-natker-nam-ami",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-04-28-bidhbngsi-atmghati-boma",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-04-21-dhrshker-pkshe-michhil",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-04-14-madrasar-adhyksher-kamukta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-04-07-agun-agun",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-03-31-eka-ek-nari",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-03-24-upasnalye-jnggi-akrmn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-03-17-chadre-moda-niraptta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-03-10-jitl-imran-khan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-03-03-bangladesh-jamayate-islam",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-02-03-durnitir-matra-bede-gel",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-amader-tankshal",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-01-tablig-jamater-bibhajn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-nana-sngkte-pakistan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-nari-oyajer-akrshniy-upjiby",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-prkiya-shastiyogy-apradh-ny",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-mjuribihin-sangbadik",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-shrnarthi-shibire-ayanjelina-joli",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2019-01-01-soudi-meye-rahaf",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-30-gonotantrik-nirbachon",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-23-mashrafe-vote-prarthi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-16-birprotik-taramon-bibi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-09-aritrir-attohotta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-02-kutniti-sima-prisima",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-11-25-shouchagar-smachar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-11-18-pakistaner-asiya-bibi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-11-04-bhu-bibaher-pkshe-okalti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-10-28-chritrhin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-10-21-soudider-hambda-bhab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-10-14-yuddher-astr-dhrshn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-10-07-abhishpt-meye-sntan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-09-30-banka-kthay-unnyn-mlin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-09-23-jsim-uddiner-pdbi-laibreriyan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-09-16-kishor-mastan",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-09-09-gnpribhne-youn-niryatn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-09-02-grur-guntay-mrityu",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-08-26-alpdrshi-abu-jafr-shamchhuddin",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-08-19-madrasa-shikshay-sbikriti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-08-12-ui-oyant-jastis",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-08-05-beproya-gadichalk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-07-29-sngbad-er-bys-bchhr",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-07-22-bangladesh-machhe-sbyngmbhr",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-07-15-grihkrmira-youndasi-ny",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-07-08-ekjn-smart-krmodyogi-meyr",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-07-01-hyakarder-rajtb",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-06-24-soudi-narider-ekti-bijy",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-06-19-bangladesher-prmila-kheloyad",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-06-10-mrnnesha-iyaba",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-06-03-ma-der-grbhdharn",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-05-27-pani-bidyu-gyas",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-05-20-snaipar-lkshybhedi-bnduk",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-05-13-unnynshil-desh-anunnt-manush",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-05-06-nirmm-nishthurta",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-04-29-prbhman-sngskriti-dbitiy-prb",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-04-22-prbahman-sngskriti-prthm-prb",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-04-16-kotar-mundupat",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-04-08-kauke-chhad-deya-hbe-na",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-04-01-sbjatik-chiki-sa",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-03-25-bharte-kttrpnthider-jyjykar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-03-18-day-mukti-snd",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-03-11-mrityunjyi-jafr-ikbal",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-03-04-biman-atke-dil-msha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-feik-niuj-ayaoyard",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-kmiuniti-pulishing",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-gultir-jny-mrityudnd",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-ftoyabajir-yupkashthe-bli",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-bidyu-sbhytar-mapkathi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-medhar-chakuri",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-ye-deshe-amuslim-bhotar-ny",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-lasher-jimmi-nishiddh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-01-01-shirchchhede-jllader-abhab",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-12-31-nobel-puroshkar",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-12-24-attohonone-bangali",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-12-17-arab-er-lolona-sofia",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-12-10-ishwar-i-shorate-pare",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-12-04-shopnodroshta-anisul-hoq",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-11-26-shomproday-priti-noy-criminal-offense",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-11-19-shoronarthi-rohingya-kukur",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-11-12-hingsro-manush-o-probhubhokto-kukur-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-11-05-hingsro-manush-o-probhubhokto-kukur-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-10-29-shasther-bideshmukhin-michil-3",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-10-22-shasther-bideshmukhin-michil-2",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-10-16-shasther-bideshmukhin-michil-1",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-10-04-shastho-khater-shikriti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-09-17-shonir-kobole-facebook",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-09-10-facebook-er-shuvodik",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-09-05-udbastu-rohingya",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-08-27-choturtho-bishshojuddher-mohora",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-08-20-keshto-betai-chor",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-08-06-lobhatur-drishti",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-07-29-jerusalem-o-al-aqsa-mosjid",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-07-19-dasanudas-o-grihkrmi",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-07-14-issue-er-ovab-nei",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-06-30-bishshayon-o-visa-protha",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-06-19-prokritir-protishodh",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2017-01-01-proshno-kora-mohapap",
+      "status": 200,
+      "ok": true,
+      "category": "internal"
+    }
+  ],
+  "legacy": [
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-09-aritrir-atmhtya",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-16-birprtik-taramn-bibi",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2018-12-23-mashrafi-bhot-prarthi",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-10-tramper-america-first-er-namuna",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-17-iraner-dhormovittik-kortittobadi-shashonbyabostha",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-17-iraner-dhormovittik-kortittobadi-shashonbebostha",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-24-bank-dhwosher-day-kar",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-01-24-bank-dhongsher-day-kar",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-01-mantrir-jonno-bilasi-flat",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-14-ontorborti-sorkar-jatike-ki-dil",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-14-ontorborti-shorkar-jatike-ki-dil",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-21-bnp-pas-jamat-o-pas",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-02-28-july-sonod-niye-bnpir-oshosti",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-03-07-notun-governor-oporiharyo-chhilo",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-03-15-mdhyprachye-shktir-rajniti-pryukti-kshmta-o-muslim-bishber-sngkt",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-04-jbalani-sngkter-cheye-bd-sngkt-asthahinta",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-09-hame-shishu-mrityur-jonno-dayi-ontorborti-sorkarer-dayittojnyanhinota",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-09-hame-shishu-mrittur-jonno-dayi-ontorborti-shorkarer-dayittojnyanhinota",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-18-dhrmer-name-shingsta-kothay-amader-simarekha",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-04-25-rajniti-ny-arthnitii-gurutbpurn",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-02-unnynshiler-pthe-birti-siddhanter-pechhner-prshn",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-09-sngbidhan-sngshodhner-rajniti",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-16-shishuder-niraptta-kothay",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-20-eid-utsab-orthonitir-jiboni-shokti",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-05-23-anar-kiling-sbhytar-andhkar-mukh",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-06-shastir-prdrshn-ny-bichar-nishchit-hok",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-09-islami-bank-niye-rajnaitik-tanaporen-keno",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-13-birodhitahin-rajnitir-bipd",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-20-sbadhin-sangbadiktar-pthe-badha-kothay",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-27-bardhkyer-ntun-bastbta",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-06-29-mamlar-jote-bondi-nayaybichar",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-12-janaja-ek-mnche-u-sb-any-mnche",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-18-haddi-amar-mangs-apnar",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-07-25-abaro-ki-bhangchhe-pakistan",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-01-telapoka-firechhe-karn-ksht-shukayni",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-08-gane-gane-ggnbhedi-prtibad",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-14-sorkarer-6-mash-deshta-bhalo-cholchhe-ki",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-15-arthnitir-lasher-opr-rajnitir-u-sb",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-22-bhaskryer-mukh-thakbe-naki-thakbe-na",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-08-29-jnggibad-niye-jatisnggher-udbeg",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-01-bidyut-yay-ashe-jawab-thake-na",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-27-bagarmborer-arale-jababdihitar-proshno",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2024-12-29-bibhajito-tabligh-jamater-dwondho",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-01-05-shwetpotre-notun-ki-achhe",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-02-02-ontorborti-sorkar-nagorikder-protasha-ki-puron-hobe",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-02-09-prosong-songbidhan-songskar-komishoner-suporish",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-02-16-votadhikar-punoruddharer-songskar",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-03-09-rajnaitik-kormokander-halchal",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-03-29-notun-not-paowar-dinokkhon",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-06-dhorshoner-biruddhe-lorai-ainer-shokti-o-shomajer-durbollota",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-12-bideshi-brand-er-upar-hamla-desher-bhabmurti-nosto-korche",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-20-durnitir-obishshashyo-khatiyan",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-04-27-otiter-chayay-notun-bangladesh-durniti-ugropnthar-o-sorkarer-day",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-09-ontorborti-sorkar-songskare-drishtanto",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-17-rohinggader-prottraborton-adao-hobe",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-05-28-paribarik-shohingsota-protirodhe-druto-bebostha",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-01-chattogram-bondor-terminal-bitorko",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-14-obosheshe-not-bajare-eshechhe",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-22-ekti-sofor-ekadhik-sonket",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-06-26-chenggis-ar-halakhu-khaner-abirbhav",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-07-10-mega-prokolpe-durnitir-sworup",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-07-20-songskar-o-orthonoitik-unnoyoner-poth",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-02-bibhishikamoy-karun-mrityu",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-09-bishwobyapi-markinider-protishodmulok-shulk",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-14-asanno-jatiyo-nirbachone-jor-jar-mulluk-tar",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-22-sorbodoliyo-oikko-kore-pathor-khawa",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-08-28-bibhuranjan-sorkarer-bidayi-ki-shesh-biday",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-09-17-chuanno-bochoreo-ken-bangladesh-shishu",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-09-18-songsode-anuparik-protinidhitto",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-10-09-jatisongher-odhibeshone-sorbochcho-sat-jon",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-10-26-obhelito-shikkhar-durdosha-barchhe",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-01-ncp-chay-obinashi-july-snad",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-09-juddho-biroti-gajabasir-jonno-oporiharjo",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-16-mamdani-dekhalen-netritter-mul-porichoy",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-22-banker-durbostha-thamano-jachchhe-na-keno",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-11-29-tottabdhayok-sorkar-byabosthar-punorjonmo",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-06-sadharon-chuktigulo-o-goponiyo-keno",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-14-begum-rokeya-ekhono-jagrat",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-20-bhikkhabritti-jekhane-onyotomo-pesha",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2025-12-28-charidike-atank-ar-shanka",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-05-niraptta-jote-yog-deoyar-age-chai-sbarther-nirmoh-hisab",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-12-boying-kenar-rajniti",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    },
+    {
+      "url": "https://zeauddinahmed.com/articles/2026-09-19-briks-smmeln-o-bangladesher-kutnoitik-hisab",
+      "status": 301,
+      "ok": true,
+      "category": "internal"
+    }
+  ],
+  "source": [
+    {
+      "url": "https://sangbad.net/news/18804/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/18013/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/17258/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/16588/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/chk44rjhbx8q",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/15800/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/14979/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/14301/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/chsh3q21m2st",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/13399/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/12677/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/11975/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/11418/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/10895/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/10154/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/ch5xdcw8i3fm",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/9440/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/8627/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/7916/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/ch1sqljwbi3q",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/7105/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/5986/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/chupdsqx7nfd",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/5271/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/chwemhab79uq",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/4472/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/3773/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/3164/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/2635/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.chaarcha.com/thoughts/chgktm3eamzd",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/1574/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/news/448/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/178015/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/177459/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/176946/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/176232/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/175272/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/174505/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/173757/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/172993/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/172233",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2026/171412/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/170789/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/170057/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/169235/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/168459/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/166958/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/166119/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/165317/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/164505/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/163051/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/corruption-extortion-part-of-political-culture/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/why-such-large-entourage-when-only-7-can-attend-unga/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/160574/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/others/169079",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/why-bangladesh-still-a-child-even-at-54/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/is-there-still-more-to-come-after-bibhuranjan-sarkars-tragic-departure/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/hillocks-will-be-gobbled-up-also-after-stones-thru-allparty-unity/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/let-might-is-right-policy-end-in-upcoming-national-election/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/where-does-bangladesh-stand-amidst-uss-global-retaliatory-tariffs/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/153433/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/clear-the-path-for-reform-and-economic-progress/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/nature-of-corruption-in-mega-projects/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/others/168658",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/the-notes-finally-reach-the-market/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/if-interim-govt-lacks-authority-countrys-dev-will-be-hindered/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/take-swift-action-to-prevent-domestic-violence/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/doubtful-whether-rohingya-repatriation-will-happen-at-all/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/if-interim-government-doesnt-set-an-example-in-reform-it-wont-happen-again/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net/opinion/post-editorial/2025/141863/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/attacks-on-foreign-brands-have-ruined-the-countrys-image/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/the-date-of-receiving-new-notes/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/irresponsible-statements-about-banks/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/2024/131543/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/was-assads-fall-a-result-of-challenging-israel/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/let-indiabangladesh-ties-be-based-on-justice-not-radical-beliefs/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/ignorance-is-the-root-to-problem/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/bn/the-democracy-practiced-in-bangladesh/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/2024/127987/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/2024/126091/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/bodies-set-adrift-due-to-lack-of-dry-burial-grounds/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://viewsbangladesh.com/tragic-death-of-ismail-haniyeh/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/149050",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/fearless-diplomat-mohiuddin-ahmad/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://bn.viewsbangladesh.com/avantikas-selfimmolation/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/2024/114062/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/111580/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/125832",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/31218/1694833955",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/30693/1694231706",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/104077/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/29685/",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/29151/1692417865",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/27680/1690862305",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/26863/1689995463",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/24868/1687581343",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/97936/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/113525",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/21525/1684036579",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/111507",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/110208",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/108439",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/17547/1680316067",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/107149",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/90519/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/105683",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/14572/1677726293",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/103199",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/101806",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/11100/1674449358",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/100601",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/9552/1672887293",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/99360",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/8291/1671593767",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/96736",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/81654/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/4992/1667969943",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/94069",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/3931/1666755926",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/92950",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/3124/16655456831114",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/91729",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/77137/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.dainikbangla.com.bd/opinion/1977/ভারতের-সঙ্গে-সম্পর্ক-কেন-জরুরি",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/88588",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/73014/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/85933",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/71198/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/84604",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/81484",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/76233",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/74740",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/60514/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/71468",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/59300/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/69916",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/68805",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/45673/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://shampratikdeshkal.com/opinion/news/210957828/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%B6%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%A8?fbclid=IwAR3C6khNbKa2cO6MMdcFdj7DAGyQlXHXM8bHv78gRs_tUT9e0yNU1Xiu7N4",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/44970/?fbclid=IwAR1Jkmp-NzcAHf93StwRQq8RPZhQl0YumHnufGskZGbsTXqYZXnx32eMhXc",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://shampratikdeshkal.com/opinion/news/210955522/%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE?fbclid=IwAR1kplpdt5gUtdf4BlEFqPalDTbSDzuXHhOKpjORWlPQF4pvD-fVzNxFtps",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/52916",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.shampratikdeshkal.com/opinion/48257",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://shampratikdeshkal.com/opinion/news/210647582/%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8?fbclid=IwAR19F8f2vHAUaRBX-Tgdv0OTwiey_VfR2qccL5XvYXQJXOhk_kDrX_YDNnA",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/32483/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.bd-pratidin.com/printnews/615927",
+      "status": 403,
+      "ok": false,
+      "category": "source"
+    },
+    {
+      "url": "https://shampratikdeshkal.com/opinion/news/210751368/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/post-editorial/16614/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://sangbad.net.bd/opinion/sub-editorial/10490/",
+      "status": 301,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://www.prothomalo.com/lifestyle/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B2",
+      "status": 200,
+      "ok": true,
+      "category": "source"
+    },
+    {
+      "url": "https://print.thesangbad.net/opinion/post-editorial/গণতান্ত্রিক+নির্বাচন-42882/",
+      "status": 0,
+      "ok": false,
+      "category": "source",
+      "error": "TypeError"
+    },
+    {
+      "url": "https://print.thesangbad.net/opinion/post-editorial/মাশরাফি+ভোট+প্রার্থী-42361/",
+      "status": 0,
+      "ok": false,
+      "category": "source",
+      "error": "TypeError"
+    },
+    {
+      "url": "https://print.thesangbad.net/opinion/post-editorial/স্বাস্থ্য+খাতের+স্বীকৃতি-9200/",
+      "status": 0,
+      "ok": false,
+      "category": "source",
+      "error": "TypeError"
+    }
+  ]
+}
