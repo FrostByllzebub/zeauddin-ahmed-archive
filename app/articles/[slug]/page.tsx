@@ -3,6 +3,7 @@ import Link from "../../../components/safe-link";
 import { notFound } from "next/navigation";
 import { articles, getArticle } from "../../../lib/articles";
 import { legacyArticleSlugs } from "../../../lib/articleRedirects";
+import ArticleReadingTools from "../../../components/article-reading-tools";
 import { brokenSourceUrls } from "../../../lib/brokenSourceUrls";
 
 const siteOrigin = "https://zeauddinahmed.com";
@@ -43,6 +44,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   return <main className="site-shell">
     <header className="site-header"><Link className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link><nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav><Link className="header-action" href="/archive">আর্কাইভ <span aria-hidden="true">↗</span></Link></header>
     <article className="article-page page-wrap">
+      <ArticleReadingTools title={article.title} />
       <nav className="article-breadcrumb" aria-label="লেখার অবস্থান"><Link href="/archive">← আর্কাইভে ফিরুন</Link><span aria-hidden="true">/</span><span aria-current="page">{article.title}</span></nav>
       <div className="page-heading"><p className="eyebrow">{article.publication} · {article.publishedDateLabel}</p><h1>{article.title}</h1></div>
       <figure className="article-hero"><img src={article.heroImage} alt={article.title} /><figcaption className="sr-only">{article.heroCaption || article.title}</figcaption></figure>
