@@ -49,3 +49,6 @@ backend/wrangler.toml
 /tmp/
 /.playwright-cli/
 /output/
+# local deployment reconciliation artifacts
+/deployment-artifacts/
+/deployment-reconcile/
