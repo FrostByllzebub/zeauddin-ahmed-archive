@@ -6,6 +6,11 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "generate:search-index": "tsx scripts/generate-search-index.ts",
+    "generate:site-meta": "tsx scripts/generate-site-meta.ts",
+    "generate:redirects": "tsx scripts/generate-legacy-redirects.ts",
+    "check:links": "tsx scripts/check-site-links.ts",
+    "audit:data": "tsx scripts/audit-editorial-data.ts",
     "install:ci": "node scripts/install-ci.mjs",
     "dev": "node scripts/run-framework.mjs dev",
     "validate:catalog": "node scripts/validate-article-catalog.mjs",
