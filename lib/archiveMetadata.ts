@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe",
+    "title": "আকাশ যাদের জন্য ছোট হয়ে আসছে",
+    "publication": "চরচা",
+    "publishedAt": "2026-10-10",
+    "publishedDateLabel": "১০ অক্টোবর ২০২৬"
+  },
+  {
     "slug": "2026-09-27-bagaromborer-arale-jobabdihitar-proshno",
     "title": "বাগাড়ম্বরের আড়ালে জবাবদিহিহীনতার প্রশ্ন",
     "publication": "সংবাদ",
