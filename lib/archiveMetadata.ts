@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota",
+    "title": "বিশ্বমঞ্চে ভাষণ: রাজনীতি, অর্থনীতি ও বাস্তবতা",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-10-11",
+    "publishedDateLabel": "১১ অক্টোবর ২০২৬"
+  },
+  {
     "slug": "2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe",
     "title": "আকাশ যাদের জন্য ছোট হয়ে আসছে",
     "publication": "চরচা",
