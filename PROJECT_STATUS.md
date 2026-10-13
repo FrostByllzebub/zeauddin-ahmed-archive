@@ -1,6 +1,17 @@
 # Project status
 
-## Current state
+## Publication quality checkpoint — 2026-10-12
+
+Owner: archive maintainer. Source baseline: Sites commit 074cdb0110535f16823bf5cab91493ea63945116.
+
+- The actual rendering catalog contains 486 articles. Generated metadata/search/sitemap previously contained 485; regeneration now includes the existing October 4 article and existing reviewed title corrections.
+- Ten year shards, metadata, sitemap, image dimensions and 83 redirects derive from one catalog.
+- Bengali normalization preserves consonants/nukta sequences; regenerated bank-topic search returns 274 records, with publication/year filtering validated against source text.
+- The November 29, 2025 hero points to its existing correctly named WebP.
+- Six public page identities and all 486 article titles/canonicals/image dimensions pass rendered-output validation.
+- Source/rights recovery, complete spelling review, remaining editorial-cover production and backend activation remain separate editorial/product queues.
+
+## Historical state
 
 - Public Bengali-first archive shell implemented.
 - Public routes: `/`, `/archive`, `/publications`, `/about`, `/policies`.

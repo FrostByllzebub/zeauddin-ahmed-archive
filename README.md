@@ -2,15 +2,21 @@
 
 Bengali-first public archive site for columnist and writer **Zeauddin Ahmed** (`জিয়াউদ্দীন আহমেদ`).
 
-## Public preview
+## Production and publication validation
 
-The site is deployed from `main` with GitHub Actions and GitHub Pages:
+Production is https://zeauddinahmed.com, published through Sites. GitHub Pages is a separate source/build path; a GitHub commit alone does not update the Sites deployment.
 
-`https://frostbyllzebub.github.io/zeauddin-ahmed-archive/`
+`lib/articles.ts` (including imported folder records and reviewed corrections) is the authoritative rendering catalog. Metadata, search indexes, image dimensions, redirects and sitemap are generated together from that catalog. The root `articles.ts` is only a compatibility export.
 
-The repository currently contains an evidence-safe public shell. Article records, source files, rights decisions, and editorial notes are intentionally not published until they are verified and cleared for publication.
+- `npm run prepare:publication`: validate source assets/dates/rights, regenerate all derived files, then verify agreement and Bengali search/filter behavior.
+- `npm run validate:website`: read-only check; stale or invalid derived output fails.
+- `npm run test:website`: normalization, search, filters and rejection tests.
+- `npm run build`: Sites build with mandatory source, search, test and rendered-HTML gates.
+- `npm run build:pages`: Next.js static export with the same gates, used by GitHub Actions.
 
-See [GITHUB_PAGES_ARCHITECTURE.md](GITHUB_PAGES_ARCHITECTURE.md) for the approved low-cost hybrid model.
+Every canonical built page must have its own correct title/canonical URL. Every article hero must exist and declare its measured dimensions. Publication stops if a gate fails. Node >=22.13 runs maintenance TypeScript through the checked-in loader, without `tsx` or an extra installation.
+
+See EDITORIAL_INTAKE_WORKFLOW.md for editorial approval and publication ownership. Historical source/rights review queues remain in their owner documents.
 
 ## Prerequisites
 

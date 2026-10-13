@@ -6,18 +6,22 @@
     "node": ">=22.13.0"
   },
   "scripts": {
-    "generate:search-index": "tsx scripts/generate-search-index.ts",
-    "generate:site-meta": "tsx scripts/generate-site-meta.ts",
-    "generate:redirects": "tsx scripts/generate-legacy-redirects.ts",
-    "check:links": "tsx scripts/check-site-links.ts",
-    "audit:data": "tsx scripts/audit-editorial-data.ts",
+    "generate:search-index": "node --import ./scripts/register-typescript.mjs scripts/generate-search-index.ts",
+    "generate:site-meta": "node --import ./scripts/register-typescript.mjs scripts/generate-site-meta.ts",
+    "generate:redirects": "node --import ./scripts/register-typescript.mjs scripts/generate-legacy-redirects.ts",
+    "check:links": "node --import ./scripts/register-typescript.mjs scripts/check-site-links.ts",
+    "audit:data": "node --import ./scripts/register-typescript.mjs scripts/audit-editorial-data.ts",
     "install:ci": "node scripts/install-ci.mjs",
     "dev": "node scripts/run-framework.mjs dev",
     "validate:catalog": "node scripts/validate-article-catalog.mjs",
-    "build": "node scripts/validate-article-catalog.mjs && node scripts/run-framework.mjs build",
+    "build": "node scripts/prepare-publication.mjs && node --import ./scripts/register-typescript.mjs --test tests/*.test.ts && node node_modules/typescript/bin/tsc --noEmit --incremental false && node scripts/run-framework.mjs build && node --import ./scripts/register-typescript.mjs scripts/validate-rendered.ts --directory dist/client",
     "start": "node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --inspector-port 0",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "prepare:publication": "node scripts/prepare-publication.mjs",
+    "validate:website": "node --import ./scripts/register-typescript.mjs scripts/validate-website.ts",
+    "test:website": "node --import ./scripts/register-typescript.mjs --test tests/*.test.ts",
+    "build:pages": "node scripts/build-pages.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
