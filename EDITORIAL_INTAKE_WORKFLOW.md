@@ -2,6 +2,16 @@
 
 This is the repeatable weekly workflow for adding Zeauddin Ahmed archive records. The public Cloudflare Sites deployment must only receive records that pass the validation and review gates below. The workflow is intentionally review-first: it can identify duplicates and missing evidence without changing the public archive.
 
+## Mandatory publication gate
+
+Owner: archive maintainer. Added: 2026-10-12.
+
+After approving catalog changes, run `npm run prepare:publication`, review all generated diffs, and run the applicable build. Sites uses `npm run build`; GitHub Pages uses `npm run build:pages`. Both commands run rejection tests and validate the titles, canonical URLs and image dimensions of every rendered canonical page before deployment.
+
+Do not manually patch search shards, archive metadata, image dimensions, redirects or sitemap. All generation entrypoints regenerate the complete consistent set. Search manifests contain content revisions so a new release cannot silently use cached old postings. When a referenced image, source identity, date, generated output or rendered page fails validation, fix the cause and rerun the gate. Unresolved historical dates remain explicitly labelled; the gate validates stored dates without inventing new editorial facts.
+
+For a reopened dirty checkout, preserve existing work and reconcile its catalog against the latest deployed Sites source before generating. The Sites source and GitHub histories are distinct: use a reviewed reconciliation commit for GitHub rather than resetting one history to the other.
+
 ## 1. Create an intake record
 
 - Create a stable `work_id` (for example, `2026-09-19-brics-sangbad`).

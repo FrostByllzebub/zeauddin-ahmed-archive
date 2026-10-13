@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  pull_request:
 
 permissions:
   contents: read
@@ -27,7 +28,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - run: npm ci
-      - run: npx next build
+      - name: Generate, validate and build public archive
+        run: npm run build:pages
         env:
           NEXT_PUBLIC_MEMORY_API_URL: ${{ vars.NEXT_PUBLIC_MEMORY_API_URL }}
           NEXT_PUBLIC_ADMIN_API_URL: ${{ vars.NEXT_PUBLIC_ADMIN_API_URL }}
@@ -35,6 +37,7 @@ jobs:
         with:
           path: ./out
   deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

@@ -14,6 +14,13 @@ export const archiveMetadata = [
     "publishedDateLabel": "১০ অক্টোবর ২০২৬"
   },
   {
+    "slug": "2026-10-04-mrityu-niye-ullasher-amanobik-shongskriti",
+    "title": "মৃত্যু নিয়ে উল্লাসের অমানবিক সংস্কৃতি",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-10-04",
+    "publishedDateLabel": "৪ অক্টোবর ২০২৬"
+  },
+  {
     "slug": "2026-09-27-bagaromborer-arale-jobabdihitar-proshno",
     "title": "বাগাড়ম্বরের আড়ালে জবাবদিহিহীনতার প্রশ্ন",
     "publication": "সংবাদ",
@@ -372,7 +379,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2025-11-09-juddho-biroti-gaja-bashir-jonno-oporiharjo-chilo",
-    "title": "যুদ্ধ বিরতি গাজাবাসীর জন্য অপরিহার্য ছিল",
+    "title": "যুদ্ধবিরতি গাজাবাসীর জন্য অপরিহার্য ছিল",
     "publication": "সংবাদ",
     "publishedAt": "2025-11-09",
     "publishedDateLabel": "০৯ নভেম্বর ২০২৫"
@@ -561,7 +568,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2025-04-06-dhorshoner-biruddhe-lorai-ainer-shokti-o-shomajer-durbolota",
-    "title": "ধর্ষণের বিরুদ্ধে লড়াইঃ আইনের শক্তি ও সমাজের দুর্বলতা",
+    "title": "ধর্ষণের বিরুদ্ধে লড়াই: আইনের শক্তি ও সমাজের দুর্বলতা",
     "publication": "সংবাদ",
     "publishedAt": "2025-04-06",
     "publishedDateLabel": "০৬ এপ্রিল ২০২৫"
@@ -596,21 +603,21 @@ export const archiveMetadata = [
   },
   {
     "slug": "2025-02-09-proshongo-shongbidhan-shongskar-comission-er-shuparish",
-    "title": "প্রসঙ্গঃ সংবিধান সংস্কার কমিশনের সুপারিশ",
+    "title": "প্রসঙ্গ: সংবিধান সংস্কার কমিশনের সুপারিশ",
     "publication": "সংবাদ",
     "publishedAt": "2025-02-09",
     "publishedDateLabel": "০৯ ফেব্রুয়ারি ২০২৫"
   },
   {
     "slug": "2025-02-02-ontorborti-shorkar-nagorikder-prottasha-ki-puron-hobe",
-    "title": "অন্তর্বর্তী সরকারঃ নাগরিকদের প্রত্যাশা কি পূরণ হবে?",
+    "title": "অন্তর্বর্তী সরকার: নাগরিকদের প্রত্যাশা কি পূরণ হবে?",
     "publication": "সংবাদ",
     "publishedAt": "2025-02-02",
     "publishedDateLabel": "০২ ফেব্রুয়ারি ২০২৫"
   },
   {
     "slug": "2025-01-05-shetpotre-notun-ki-ache",
-    "title": "শ্বেতপত্রে নতুন কী আছে ?",
+    "title": "শ্বেতপত্রে নতুন কী আছে?",
     "publication": "সংবাদ",
     "publishedAt": "2025-01-05",
     "publishedDateLabel": "০৫ জানুয়ারি ২০২৫"
@@ -869,7 +876,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2023-12-16-transgender-o-samajer-drishtibhongi",
-    "title": "ট্রান্সজেণ্ডার ও সমাজের দৃষ্টিভঙ্গি",
+    "title": "ট্রান্সজেন্ডার ও সমাজের দৃষ্টিভঙ্গি",
     "publication": "সংবাদ",
     "publishedAt": "2023-12-16",
     "publishedDateLabel": "১৬ ডিসেম্বর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ ডিসেম্বর ২০২৩)"
@@ -904,7 +911,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2023-09-09-amader-ki-dorjigiri-korei-jibondharon",
-    "title": "আমাদের কি দরজিগিরি করেই জীবনধারণ করতে হবে!",
+    "title": "আমাদের কি দর্জিগিরি করেই জীবনধারণ করতে হবে!",
     "publication": "দৈনিক বাংলা",
     "publishedAt": "2023-09-09",
     "publishedDateLabel": "৯ সেপ্টেম্বর ২০২৩"
@@ -1009,7 +1016,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2023-05-06-bidyanonder-jakat-fand",
-    "title": "বিদ্যানন্দের যাকাত ফাণ্ড",
+    "title": "বিদ্যানন্দের যাকাত ফান্ড",
     "publication": "সংবাদ",
     "publishedAt": "2023-05-06",
     "publishedDateLabel": "৬ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৭ মে ২০২৩)"
@@ -1030,7 +1037,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2023-04-15-aini-notiser-kobole-mongol-shobhayatra",
-    "title": "আইনি নোটিসের কবলে মঙ্গল শোভাযাত্রা",
+    "title": "আইনি নোটিশের কবলে মঙ্গল শোভাযাত্রা",
     "publication": "সংবাদ",
     "publishedAt": "2023-04-15",
     "publishedDateLabel": "১৫ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ এপ্রিল ২০২৩)"
@@ -1702,7 +1709,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2022-narir-poshak-porar-shadhinota",
-    "title": "নারীর পোষাক পরার স্বাধীনতা ও কিছু প্রশ্ন",
+    "title": "নারীর পোশাক পরার স্বাধীনতা ও কিছু প্রশ্ন",
     "publication": "সংবাদ",
     "publishedAt": "2022-01-01",
     "publishedDateLabel": "২০২২ (তারিখ অনির্দিষ্ট)"

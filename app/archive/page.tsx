@@ -4,33 +4,14 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "../../components/safe-link";
 import { archiveMetadata } from "../../lib/archiveMetadata";
 import { normalizeSearchText, searchTokens } from "../../lib/search-normalization";
+import { matchingRecordIndexes, filterSearchRecords, loadSearchShard, readArchiveQuery, archiveUrl } from "../../lib/archive-search";
+import type { SearchRecord, SearchShard } from "../../lib/archive-search";
 
 const allPublicationsLabel = "সব প্রকাশনা";
 const allYearsLabel = "সব বছর";
 const bengaliDigits = "০১২৩৪৫৬৭৮৯";
-type SearchRecord = { slug: string; title: string; publication: string; publishedAt: string; publishedDateLabel: string; excerpt: string };
-
-type SearchShard = {
-  records: Array<{ slug: string; title: string; publication: string; publishedAt: string; publishedDateLabel: string; excerpt: string }>;
-  postings: Record<string, number[]>;
-};
-
 function displayYear(year: string) {
   return year.replace(/\d/g, (digit) => bengaliDigits[Number(digit)]);
-}
-
-function matchingRecordIndexes(shard: SearchShard, query: string) {
-  const tokens = searchTokens(query);
-  if (!tokens.length) return [];
-  const sets = tokens.map((token) => {
-    const indexes = new Set<number>();
-    for (const [term, posting] of Object.entries(shard.postings)) {
-      if (term.startsWith(token)) posting.forEach((index) => indexes.add(index));
-    }
-    return indexes;
-  });
-  const [first, ...rest] = sets;
-  return [...first].filter((index) => rest.every((set) => set.has(index)));
 }
 
 function searchScore(record: SearchRecord, query: string) {
@@ -52,6 +33,7 @@ function highlight(text: string, query: string) {
 }
 
 export default function ArchivePage() {
+  const [urlReady, setUrlReady] = useState(false);
   const [query, setQuery] = useState("");
   const [searchRecords, setSearchRecords] = useState<SearchRecord[]>([]);
   const [loadedYears, setLoadedYears] = useState<Set<string>>(new Set());
@@ -61,15 +43,10 @@ export default function ArchivePage() {
   const hasFilters = query.trim().length > 0 || activeFilter.publication !== allPublicationsLabel || activeFilter.year !== allYearsLabel;
 
   useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    // URL query state is external input; initialize it after hydration to keep
-    // the server-rendered archive markup identical to the first client render.
-    setQuery(params.get("q") ?? "");
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    setActiveFilter({
-      publication: params.get("publication") || allPublicationsLabel,
-      year: params.get("year") || allYearsLabel,
-    });
+    const state = readArchiveQuery(new URLSearchParams(window.location.search), archiveMetadata);
+    setQuery(state.query);
+    setActiveFilter({ publication: state.publication || allPublicationsLabel, year: state.year || allYearsLabel });
+    setUrlReady(true);
   }, []);
 
   useEffect(() => {
@@ -78,9 +55,16 @@ export default function ArchivePage() {
     setSearchRecords([]);
     setLoadedYears(new Set());
     const requestedYear = activeFilter.year === allYearsLabel ? "all" : activeFilter.year;
-    const load = requestedYear === "all"
-      ? fetch("/search-manifest.json", { cache: "force-cache" }).then((response) => response.json() as Promise<{ years: string[] }>).then((manifest) => manifest.years.map((year) => fetch(`/search-shards/${year}.json`, { cache: "force-cache" }).then((response) => response.json())))
-      : Promise.resolve([fetch(`/search-shards/${requestedYear}.json`, { cache: "force-cache" }).then((response) => response.json())]);
+    const load = fetch("/search-manifest.json", { cache: "no-cache" })
+      .then(response => {
+        if (!response.ok) throw new Error("Search manifest unavailable");
+        return response.json() as Promise<{ years: string[]; revisions: Record<string, string> }>;
+      })
+      .then(manifest => {
+        const years = requestedYear === "all" ? manifest.years : [requestedYear];
+        if (years.some(year => !manifest.years.includes(year))) throw new Error("Unknown archive year");
+        return years.map(year => loadSearchShard(year, manifest.revisions[year]));
+      });
     void load
       .then((requests) => Promise.all(requests))
       .then((response) => {
@@ -95,20 +79,21 @@ export default function ArchivePage() {
   }, [activeFilter.year, indexError, query]);
 
   useEffect(() => {
-    const params = new URLSearchParams();
-    if (query.trim()) params.set("q", query.trim());
-    if (activeFilter.publication !== allPublicationsLabel) params.set("publication", activeFilter.publication);
-    if (activeFilter.year !== allYearsLabel) params.set("year", activeFilter.year);
-    const next = params.toString() ? `/archive?${params.toString()}` : "/archive";
+    if (!urlReady) return;
+    const next = archiveUrl(query,
+      activeFilter.publication === allPublicationsLabel ? "" : activeFilter.publication,
+      activeFilter.year === allYearsLabel ? "" : activeFilter.year);
     window.history.replaceState(null, "", next);
-  }, [activeFilter, query]);
+  }, [activeFilter, query, urlReady]);
 
   const publications = [...new Set(archiveMetadata.map((article) => article.publication).filter(Boolean))].sort((a, b) => a.localeCompare(b, "bn-BD"));
   const years = [...new Set(archiveMetadata.map((article) => article.publishedAt.slice(0, 4)).filter(Boolean))].sort().reverse();
   const filteredArticles = useMemo(() => {
     const queryActive = Boolean(query.trim());
     if (queryActive && !loadedYears.size) return [];
-    return (queryActive ? searchRecords : archiveMetadata.map((article) => ({ ...article, excerpt: "" })))
+    return filterSearchRecords(queryActive ? searchRecords : archiveMetadata.map((article) => ({ ...article, excerpt: "" })),
+      activeFilter.publication === allPublicationsLabel ? "" : activeFilter.publication,
+      activeFilter.year === allYearsLabel ? "" : activeFilter.year)
       .map((record, index) => {
         const article = archiveMetadata.find((candidate) => candidate.slug === record.slug);
         return article ? { record, article, index } : null;
@@ -124,6 +109,7 @@ export default function ArchivePage() {
 
   const resetFilters = () => {
     if (searchInputRef.current) searchInputRef.current.value = "";
+    setIndexError(false);
     setQuery("");
     setActiveFilter({ publication: allPublicationsLabel, year: allYearsLabel });
   };
@@ -139,11 +125,11 @@ export default function ArchivePage() {
     </header>
     <section className="page-wrap">
       <div className="page-heading"><p className="eyebrow">{resultLabel}</p><h1>প্রকাশিত লেখার<br /><em>আর্কাইভ</em></h1></div>
-      <div className="archive-toolbar" role="search" aria-label="আর্কাইভ অনুসন্ধান">
+      <div className="archive-toolbar" data-ready={urlReady} role="search" aria-label="আর্কাইভ অনুসন্ধান">
         <label className="sr-only" htmlFor="archive-search">বাংলায় খুঁজুন</label>
-        <input ref={searchInputRef} id="archive-search" type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => setQuery(event.target.value)} />
-        <label className="filter-control"><span className="sr-only">প্রকাশনা</span><select aria-label="প্রকাশনা" value={activeFilter.publication} onChange={(event) => setActiveFilter((current) => ({ ...current, publication: event.target.value }))}><option value={allPublicationsLabel}>{allPublicationsLabel}</option>{publications.map((publication) => <option key={publication} value={publication}>{publication}</option>)}</select></label>
-        <label className="filter-control"><span className="sr-only">বছর</span><select aria-label="বছর" value={activeFilter.year} onChange={(event) => setActiveFilter((current) => ({ ...current, year: event.target.value }))}><option value={allYearsLabel}>{allYearsLabel}</option>{years.map((year) => <option key={year} value={year}>{displayYear(year)}</option>)}</select></label>
+        <input ref={searchInputRef} id="archive-search" disabled={!urlReady} type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => { setIndexError(false); setQuery(event.target.value); }} />
+        <label className="filter-control"><span className="sr-only">প্রকাশনা</span><select disabled={!urlReady} aria-label="প্রকাশনা" value={activeFilter.publication} onChange={(event) => setActiveFilter((current) => ({ ...current, publication: event.target.value }))}><option value={allPublicationsLabel}>{allPublicationsLabel}</option>{publications.map((publication) => <option key={publication} value={publication}>{publication}</option>)}</select></label>
+        <label className="filter-control"><span className="sr-only">বছর</span><select disabled={!urlReady} aria-label="বছর" value={activeFilter.year} onChange={(event) => setActiveFilter((current) => ({ ...current, year: event.target.value }))}><option value={allYearsLabel}>{allYearsLabel}</option>{years.map((year) => <option key={year} value={year}>{displayYear(year)}</option>)}</select></label>
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
       </div>
       <div className="archive-status-strip" aria-live="polite"><span className="live-dot" /> <span>{indexError ? "সার্চ ইনডেক্স লোড হয়নি" : loadingSearch ? "লেখাগুলো খোঁজা হচ্ছে…" : "শুধু যে লেখাগুলোতে খোঁজার শব্দ আছে সেগুলো দেখানো হচ্ছে"}</span><span className="status-count">{filteredArticles.length.toLocaleString("bn-BD")}</span></div>
