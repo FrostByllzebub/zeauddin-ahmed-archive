@@ -43,7 +43,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab",
-    "title": "নিরাপত্তা জোটে যোগ দেওয়ার আগে চাই স্বার্থের নির্মোহ হিসাব",
+    "title": "নিরাপত্তা জোটে যোগ দেওয়ার আগে চাই স্বার্থের নির্মোহ হিসাব",
     "publication": "সংবাদ",
     "publishedAt": "2026-09-05",
     "publishedDateLabel": "০৫ সেপ্টেম্বর ২০২৬"
@@ -309,7 +309,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2026-01-17-iran-er-dhormovittik-kortittobadi-shashonbebostha",
-    "title": "ইরানের ধর্মভিত্তিক কর্তৃত্ববাদী শাসনব্যবস্থা চ্যালেঞ্জের মুখোমুখী",
+    "title": "ইরানের ধর্মভিত্তিক কর্তৃত্ববাদী শাসনব্যবস্থা চ্যালেঞ্জের মুখোমুখি",
     "publication": "সংবাদ",
     "publishedAt": "2026-01-17",
     "publishedDateLabel": "১৭ জানুয়ারি ২০২৬"
@@ -498,10 +498,10 @@ export const archiveMetadata = [
   },
   {
     "slug": "2025-06-22-ekti-sofor-ekadhik-shonket",
-    "title": "একটি সফর, একাধিক সংকেতঃ কে পেল কোন বার্তা",
+    "title": "একটি সফর, একাধিক সংকেত: কে পেল কোন বার্তা",
     "publication": "সংবাদ",
-    "publishedAt": "2025-06-22",
-    "publishedDateLabel": "২২ জুন ২০২৫ (অনলাইনে ২১ জুন)"
+    "publishedAt": "2025-06-21",
+    "publishedDateLabel": "২১ জুন ২০২৫"
   },
   {
     "slug": "2025-06-14-obosheshe-note-bazaare-esheche",
@@ -514,8 +514,8 @@ export const archiveMetadata = [
     "slug": "2025-06-01-chottogram-bondor-er-terminal-bitorko",
     "title": "চট্টগ্রাম বন্দরের টার্মিনাল বিতর্ক, নিরাপত্তা ও জাতীয় স্বার্থের প্রশ্ন",
     "publication": "সংবাদ",
-    "publishedAt": "2025-06-01",
-    "publishedDateLabel": "০১ জুন ২০২৫ (অনলাইনে ৩১ মে)"
+    "publishedAt": "2025-05-31",
+    "publishedDateLabel": "৩১ মে ২০২৫"
   },
   {
     "slug": "2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin",
@@ -542,15 +542,15 @@ export const archiveMetadata = [
     "slug": "2025-05-04-bhinnomoter-bhoy-nirbachoner-dolachol",
     "title": "ভিন্নমতের ভয়, নির্বাচনের দোলাচল ও অন্তর্বর্তী সরকারের কৌশলী অবস্থান",
     "publication": "সংবাদ",
-    "publishedAt": "2025-05-04",
-    "publishedDateLabel": "০৪ মে ২০২৫ (অনলাইনে ০৩ মে)"
+    "publishedAt": "2025-05-03",
+    "publishedDateLabel": "০৩ মে ২০২৫"
   },
   {
     "slug": "2025-04-27-otiter-chayay-notun-bangladesh",
-    "title": "অতীতের ছায়ায় নতুন বাংলাদেশ : দুর্নীতি, উগ্রপন্থা ও সরকারের দায়",
+    "title": "অতীতের ছায়ায় নতুন বাংলাদেশ: দুর্নীতি, উগ্রপন্থা ও সরকারের দায়",
     "publication": "সংবাদ",
-    "publishedAt": "2025-04-27",
-    "publishedDateLabel": "২৭ এপ্রিল ২০২৫ (অনলাইনে ২৬ এপ্রিল)"
+    "publishedAt": "2025-04-26",
+    "publishedDateLabel": "২৬ এপ্রিল ২০২৫"
   },
   {
     "slug": "2025-04-20-durnitir-obishshashyo-khotiyan",
@@ -711,7 +711,7 @@ export const archiveMetadata = [
     "title": "বন্যার জন্য ভারত কতটুকু দায়ী",
     "publication": "সংবাদ",
     "publishedAt": "2024-09-07",
-    "publishedDateLabel": "০৭ সেপ্টেম্বর ২০২৪ (অনলাইনে)"
+    "publishedDateLabel": "০৭ সেপ্টেম্বর ২০২৪"
   },
   {
     "slug": "2024-08-31-smoronkaler-bhayaboh-bonna",
@@ -757,7 +757,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad",
-    "title": "অকুতোভয় কূটনীতিক মহিউদ্দিন আহমদ",
+    "title": "অকুতোভয় কূটনীতিক মহিউদ্দিন আহমেদ",
     "publication": "Views Bangladesh",
     "publishedAt": "2024-06-20",
     "publishedDateLabel": "২০ জুন ২০২৪"
@@ -767,42 +767,42 @@ export const archiveMetadata = [
     "title": "বাংলাদেশ ব্যাংকে সাংবাদিকদের প্রবেশ নিয়ে বিতর্ক",
     "publication": "সংবাদ",
     "publishedAt": "2024-06-15",
-    "publishedDateLabel": "১৫ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ জুন)"
+    "publishedDateLabel": "১৫ জুন ২০২৪"
   },
   {
     "slug": "2024-06-08-nojirbihin-benzir",
     "title": "নজিরবিহীন বেনজির",
     "publication": "সংবাদ",
     "publishedAt": "2024-06-08",
-    "publishedDateLabel": "০৮ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ০৯ জুন)"
+    "publishedDateLabel": "০৮ জুন ২০২৪"
   },
   {
     "slug": "2024-06-01-durbal-banker-sadgoti-dorkar",
     "title": "দুর্বল ব্যাংকের সদগতি দরকার",
     "publication": "সংবাদ",
     "publishedAt": "2024-06-01",
-    "publishedDateLabel": "০১ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ০২ জুন)"
+    "publishedDateLabel": "০১ জুন ২০২৪"
   },
   {
     "slug": "2024-05-25-laloner-gan-o-dhormiyo-onubhuti",
     "title": "লালনের গান ও ধর্মীয় অনুভূতি",
     "publication": "সংবাদ",
     "publishedAt": "2024-05-25",
-    "publishedDateLabel": "২৫ মে ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ২৬ মে)"
+    "publishedDateLabel": "২৫ মে ২০২৪"
   },
   {
     "slug": "2024-05-18-takar-obomullayon-ki-joruri-chhilo",
     "title": "টাকার অবমূল্যায়ন কি জরুরি ছিল",
     "publication": "সংবাদ",
     "publishedAt": "2024-05-18",
-    "publishedDateLabel": "১৮ মে ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ মে)"
+    "publishedDateLabel": "১৮ মে ২০২৪"
   },
   {
     "slug": "2024-05-11-khelar-cheye-dhula-beshi",
     "title": "খেলার চেয়ে ‘ধুলা’ বেশি",
     "publication": "সংবাদ",
     "publishedAt": "2024-05-11",
-    "publishedDateLabel": "১১ মে ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১২ মে)"
+    "publishedDateLabel": "১১ মে ২০২৪"
   },
   {
     "slug": "2024-04-15-india-out-campaign",
@@ -823,77 +823,77 @@ export const archiveMetadata = [
     "title": "‘ফ্রি ফিলিস্তিন’",
     "publication": "সংবাদ",
     "publishedAt": "2024-03-02",
-    "publishedDateLabel": "২ মার্চ ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৩ মার্চ ২০২৪)"
+    "publishedDateLabel": "২ মার্চ ২০২৪"
   },
   {
     "slug": "2024-02-24-pakistane-nirdharito-foler-nirbachon",
     "title": "পাকিস্তানে ‘নির্ধারিত ফলের’ নির্বাচন",
     "publication": "সংবাদ",
     "publishedAt": "2024-02-24",
-    "publishedDateLabel": "২৪ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ২৫ ফেব্রুয়ারি ২০২৪)"
+    "publishedDateLabel": "২৪ ফেব্রুয়ারি ২০২৪"
   },
   {
     "slug": "2024-02-17-israyeler-gnhtya-dkshn-afrikar-mamla",
-    "title": "ইসরায়েলের গণহত্যাঃ দক্ষিণ আফ্রিকার মামলা",
+    "title": "ইসরায়েলের গণহত্যা: দক্ষিণ আফ্রিকার মামলা",
     "publication": "সংবাদ",
     "publishedAt": "2024-02-17",
-    "publishedDateLabel": "১৭ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ ফেব্রুয়ারি ২০২৪)"
+    "publishedDateLabel": "১৭ ফেব্রুয়ারি ২০২৪"
   },
   {
     "slug": "2024-02-10-mulyosphiti-kombe-kibhabe",
     "title": "মূল্যস্ফীতি কমবে কীভাবে",
     "publication": "সংবাদ",
     "publishedAt": "2024-02-10",
-    "publishedDateLabel": "১০ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১১ ফেব্রুয়ারি ২০২৪)"
+    "publishedDateLabel": "১০ ফেব্রুয়ারি ২০২৪"
   },
   {
     "slug": "2024-02-03-transgender-niye-joto-hattgol",
     "title": "ট্রান্সজেন্ডার নিয়ে যত হট্টগোল",
     "publication": "সংবাদ",
     "publishedAt": "2024-02-03",
-    "publishedDateLabel": "৩ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৪ ফেব্রুয়ারি ২০২৪)"
+    "publishedDateLabel": "৩ ফেব্রুয়ারি ২০২৪"
   },
   {
     "slug": "2024-01-27-sorkar-notun-challenge-purono",
     "title": "সরকার নতুন চ্যালেঞ্জ পুরানো",
     "publication": "সংবাদ",
     "publishedAt": "2024-01-27",
-    "publishedDateLabel": "২৭ জানুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ২৮ জানুয়ারি ২০২৪)"
+    "publishedDateLabel": "২৭ জানুয়ারি ২০২৪"
   },
   {
     "slug": "2024-01-06-mnda-arthnitih-smpdshali-votprarthi",
-    "title": "মন্দা অর্থনীতিঃ সম্পদশালী ভোটপ্রার্থী",
+    "title": "মন্দা অর্থনীতি: সম্পদশালী ভোটপ্রার্থী",
     "publication": "সংবাদ",
     "publishedAt": "2024-01-06",
-    "publishedDateLabel": "৬ জানুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৭ জানুয়ারি ২০২৪)"
+    "publishedDateLabel": "৬ জানুয়ারি ২০২৪"
   },
   {
     "slug": "2023-12-23-bijoyer-anondo-amake-sprsh-kore-na",
     "title": "বিজয়ের আনন্দ আমাকে স্পর্শ করে না",
     "publication": "সংবাদ",
     "publishedAt": "2023-12-23",
-    "publishedDateLabel": "২৩ ডিসেম্বর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ ডিসেম্বর ২০২৩)"
+    "publishedDateLabel": "২৩ ডিসেম্বর ২০২৩"
   },
   {
     "slug": "2023-12-16-transgender-o-samajer-drishtibhongi",
     "title": "ট্রান্সজেন্ডার ও সমাজের দৃষ্টিভঙ্গি",
     "publication": "সংবাদ",
     "publishedAt": "2023-12-16",
-    "publishedDateLabel": "১৬ ডিসেম্বর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ ডিসেম্বর ২০২৩)"
+    "publishedDateLabel": "১৬ ডিসেম্বর ২০২৩"
   },
   {
     "slug": "2023-10-28-filistine-hamas-ki-chay",
     "title": "ফিলিস্তিনে হামাস কী চায়",
     "publication": "সংবাদ",
     "publishedAt": "2023-10-28",
-    "publishedDateLabel": "২৮ অক্টোবর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৯ অক্টোবর ২০২৩)"
+    "publishedDateLabel": "২৮ অক্টোবর ২০২৩"
   },
   {
     "slug": "2023-10-07-mithyar-noy-aradhna-hok-sotyer",
     "title": "মিথ্যার নয়, আরাধনা হোক সত্যের",
     "publication": "সংবাদ",
     "publishedAt": "2023-10-07",
-    "publishedDateLabel": "৭ অক্টোবর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৮ অক্টোবর ২০২৩)"
+    "publishedDateLabel": "৭ অক্টোবর ২০২৩"
   },
   {
     "slug": "2023-09-23-dengu-rodhe-mansiktar-pryjon",
@@ -963,14 +963,14 @@ export const archiveMetadata = [
     "title": "জাতীয় বাজেট ২০২৩-২০২৪",
     "publication": "সংবাদ",
     "publishedAt": "2023-06-17",
-    "publishedDateLabel": "১৭ জুন ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ জুন ২০২৩)"
+    "publishedDateLabel": "১৭ জুন ২০২৩"
   },
   {
     "slug": "2023-06-10-visaniti-kon-nishedhaggya-noy",
     "title": "ভিসানীতি কোন নিষেধাজ্ঞা নয়",
     "publication": "সংবাদ",
     "publishedAt": "2023-06-10",
-    "publishedDateLabel": "১০ জুন ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১১ জুন ২০২৩)"
+    "publishedDateLabel": "১০ জুন ২০২৩"
   },
   {
     "slug": "2023-06-04-gazipure-awami-lig-keno-harlo",
@@ -991,21 +991,21 @@ export const archiveMetadata = [
     "title": "দূতাবাসের বাড়তি নিরাপত্তা প্রত্যাহার ও অবরোধের আশঙ্কা",
     "publication": "সংবাদ",
     "publishedAt": "2023-05-27",
-    "publishedDateLabel": "২৭ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৮ মে ২০২৩)"
+    "publishedDateLabel": "২৭ মে ২০২৩"
   },
   {
     "slug": "2023-05-20-ansmart-chikitsa-smart-bangladesh",
-    "title": "আনস্মার্ট চিকিৎসা- স্মার্ট বাংলাদেশের স্বপ্ন",
+    "title": "আনস্মার্ট চিকিৎসা— স্মার্ট বাংলাদেশের স্বপ্ন",
     "publication": "সংবাদ",
     "publishedAt": "2023-05-20",
-    "publishedDateLabel": "২০ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২১ মে ২০২৩)"
+    "publishedDateLabel": "২০ মে ২০২৩"
   },
   {
     "slug": "2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh",
     "title": "প্রধানমন্ত্রীর বিদেশ সফর নিয়ে কটাক্ষ",
     "publication": "দৈনিক বাংলা",
     "publishedAt": "2023-05-12",
-    "publishedDateLabel": "১২ মে ২০২৩ (অনলাইনে; রবিবারের মুদ্রিত কলাম)"
+    "publishedDateLabel": "১২ মে ২০২৩"
   },
   {
     "slug": "2023-05-11-sudaner-grihoyuddho",
@@ -1019,14 +1019,14 @@ export const archiveMetadata = [
     "title": "বিদ্যানন্দের যাকাত ফান্ড",
     "publication": "সংবাদ",
     "publishedAt": "2023-05-06",
-    "publishedDateLabel": "৬ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৭ মে ২০২৩)"
+    "publishedDateLabel": "৬ মে ২০২৩"
   },
   {
     "slug": "2023-04-29-sampratik-ognikand-durghotona-na-durbhisondhi",
-    "title": "সাম্প্রতিক অগ্নিকাণ্ডঃ দুর্ঘটনা না দুরভিসন্ধি?",
+    "title": "সাম্প্রতিক অগ্নিকাণ্ড: দুর্ঘটনা না দুরভিসন্ধি?",
     "publication": "সংবাদ",
     "publishedAt": "2023-04-29",
-    "publishedDateLabel": "২৯ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৩০ এপ্রিল ২০২৩)"
+    "publishedDateLabel": "২৯ এপ্রিল ২০২৩"
   },
   {
     "slug": "2023-04-27-joytu-muktijoddha-dr-jaffrullah",
@@ -1040,14 +1040,14 @@ export const archiveMetadata = [
     "title": "আইনি নোটিশের কবলে মঙ্গল শোভাযাত্রা",
     "publication": "সংবাদ",
     "publishedAt": "2023-04-15",
-    "publishedDateLabel": "১৫ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ এপ্রিল ২০২৩)"
+    "publishedDateLabel": "১৫ এপ্রিল ২০২৩"
   },
   {
     "slug": "2023-04-08-swadhinota-kon-tulya-bostu-noy",
     "title": "স্বাধীনতা কোন তুল্য বস্তু নয়",
     "publication": "সংবাদ",
     "publishedAt": "2023-04-08",
-    "publishedDateLabel": "৮ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৯ এপ্রিল ২০২৩)"
+    "publishedDateLabel": "৮ এপ্রিল ২০২৩"
   },
   {
     "slug": "2023-04-06-manobadhikar-niye-markin-report",
@@ -1061,7 +1061,7 @@ export const archiveMetadata = [
     "title": "‘স্যার’ সম্বোধন নিয়ে তুলকালাম কাণ্ড",
     "publication": "সংবাদ",
     "publishedAt": "2023-04-01",
-    "publishedDateLabel": "১ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২ এপ্রিল ২০২৩)"
+    "publishedDateLabel": "১ এপ্রিল ২০২৩"
   },
   {
     "slug": "2023-04-01-amerikar-banking-khate-songkot",
@@ -1075,7 +1075,7 @@ export const archiveMetadata = [
     "title": "অরক্ষিত নন ড. মুহাম্মদ ইউনূস",
     "publication": "সংবাদ",
     "publishedAt": "2023-03-25",
-    "publishedDateLabel": "২৫ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৬ মার্চ ২০২৩)"
+    "publishedDateLabel": "২৫ মার্চ ২০২৩"
   },
   {
     "slug": "2023-03-23-muktijuddhe-parashoktigulor-bhumika",
@@ -1089,14 +1089,14 @@ export const archiveMetadata = [
     "title": "আদানির বিদ্যুৎ নিয়ে বিতর্ক",
     "publication": "সংবাদ",
     "publishedAt": "2023-03-18",
-    "publishedDateLabel": "১৮ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ মার্চ ২০২৩)"
+    "publishedDateLabel": "১৮ মার্চ ২০২৩"
   },
   {
     "slug": "2023-03-11-kadiyanider-biruddhe-joto-kshobh",
     "title": "কাদিয়ানিদের বিরুদ্ধে যত ক্ষোভ",
     "publication": "সংবাদ",
     "publishedAt": "2023-03-11",
-    "publishedDateLabel": "১১ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১২ মার্চ ২০২৩)"
+    "publishedDateLabel": "১১ মার্চ ২০২৩"
   },
   {
     "slug": "2023-03-09-imf-er-rin-o-shart",
@@ -1110,7 +1110,7 @@ export const archiveMetadata = [
     "title": "র‍্যাগিংয়ের দায় কার",
     "publication": "সংবাদ",
     "publishedAt": "2023-03-04",
-    "publishedDateLabel": "৪ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৫ মার্চ ২০২৩)"
+    "publishedDateLabel": "৪ মার্চ ২০২৩"
   },
   {
     "slug": "2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut",
@@ -1124,14 +1124,14 @@ export const archiveMetadata = [
     "title": "বীর মুক্তিযোদ্ধাদের স্মরণে",
     "publication": "সংবাদ",
     "publishedAt": "2023-02-18",
-    "publishedDateLabel": "১৮ ফেব্রুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ ফেব্রুয়ারি ২০২৩)"
+    "publishedDateLabel": "১৮ ফেব্রুয়ারি ২০২৩"
   },
   {
     "slug": "2023-02-11-guzob-thekano-jacche-na-keno",
     "title": "গুজব ঠেকানো যাচ্ছে না কেন",
     "publication": "সংবাদ",
     "publishedAt": "2023-02-11",
-    "publishedDateLabel": "১১ ফেব্রুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১২ ফেব্রুয়ারি ২০২৩)"
+    "publishedDateLabel": "১১ ফেব্রুয়ারি ২০২৩"
   },
   {
     "slug": "2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti",
@@ -1145,25 +1145,25 @@ export const archiveMetadata = [
     "title": "ক্ষমতার মোহমুক্ত এক রাজনীতিক",
     "publication": "সংবাদ",
     "publishedAt": "2023-02-04",
-    "publishedDateLabel": "৪ ফেব্রুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৫ ফেব্রুয়ারি ২০২৩)"
+    "publishedDateLabel": "৪ ফেব্রুয়ারি ২০২৩"
   },
   {
     "slug": "2023-01-28-pathyo-boite-darwin-er-totto",
-    "title": "পাঠ্য বইতে ডারউইনের তত্ত্ব",
+    "title": "পাঠ্যবইতে ডারউইনের তত্ত্ব",
     "publication": "সংবাদ",
     "publishedAt": "2023-01-28",
-    "publishedDateLabel": "২৮ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৯ জানুয়ারি ২০২৩)"
+    "publishedDateLabel": "২৮ জানুয়ারি ২০২৩"
   },
   {
     "slug": "2023-01-26-bishwo-monday-bangladesh",
-    "title": "বিশ্ব মন্দায় বাংলাদেশ",
+    "title": "বিশ্বমন্দায় বাংলাদেশ",
     "publication": "সাম্প্রতিক দেশকাল",
     "publishedAt": "2023-01-26",
     "publishedDateLabel": "২৬ জানুয়ারি ২০২৩"
   },
   {
     "slug": "2023-01-23-bharateo-bhirte-pareni-ursa-major",
-    "title": "ভারতেও ভিড়তে পারেনি ওরসা মেজরঃ হার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের",
+    "title": "ভারতেও ভিড়তে পারেনি উরসা মেজর: হার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের",
     "publication": "দৈনিক বাংলা",
     "publishedAt": "2023-01-23",
     "publishedDateLabel": "২৩ জানুয়ারি ২০২৩"
@@ -1173,14 +1173,14 @@ export const archiveMetadata = [
     "title": "নির্বাচন কমিশনের বিশ্বাসযোগ্যতা",
     "publication": "সংবাদ",
     "publishedAt": "2023-01-21",
-    "publishedDateLabel": "২১ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২২ জানুয়ারি ২০২৩)"
+    "publishedDateLabel": "২১ জানুয়ারি ২০২৩"
   },
   {
     "slug": "2023-01-14-rashiar-jahaj-ferot-dewar-siddhanto",
     "title": "রাশিয়ার জাহাজ ফেরত দেওয়ার সিদ্ধান্ত যুক্তিযুক্ত",
     "publication": "সংবাদ",
     "publishedAt": "2023-01-14",
-    "publishedDateLabel": "১৪ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৫ জানুয়ারি ২০২৩)"
+    "publishedDateLabel": "১৪ জানুয়ারি ২০২৩"
   },
   {
     "slug": "2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa",
@@ -1191,10 +1191,10 @@ export const archiveMetadata = [
   },
   {
     "slug": "2023-01-07-jonmot-gothone-samajik-jogajog-maddhom",
-    "title": "জনমত গঠনে সামাজিক যোগাযোগ মাধ্যম",
+    "title": "জনমত গঠনে সামাজিক যোগাযোগমাধ্যম",
     "publication": "সংবাদ",
     "publishedAt": "2023-01-07",
-    "publishedDateLabel": "৭ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৮ জানুয়ারি ২০২৩)"
+    "publishedDateLabel": "৭ জানুয়ারি ২০২৩"
   },
   {
     "slug": "2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket",
@@ -1205,10 +1205,10 @@ export const archiveMetadata = [
   },
   {
     "slug": "2022-12-31-afganistane-nari-shikkha",
-    "title": "আফগানিস্তানে নারী শিক্ষা",
+    "title": "আফগানিস্তানে নারীশিক্ষা",
     "publication": "সংবাদ",
     "publishedAt": "2022-12-31",
-    "publishedDateLabel": "৩১ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১ জানুয়ারি ২০২৩)"
+    "publishedDateLabel": "৩১ ডিসেম্বর ২০২২"
   },
   {
     "slug": "2022-12-29-kutniti-sima-porisima",
@@ -1219,10 +1219,10 @@ export const archiveMetadata = [
   },
   {
     "slug": "2022-12-24-bishwo-kap-joyi-argentina",
-    "title": "বিশ্ব কাপ জয়ী আর্জেন্টিনা",
+    "title": "বিশ্বকাপজয়ী আর্জেন্টিনা",
     "publication": "সংবাদ",
     "publishedAt": "2022-12-24",
-    "publishedDateLabel": "২৪ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৫ ডিসেম্বর ২০২২)"
+    "publishedDateLabel": "২৪ ডিসেম্বর ২০২২"
   },
   {
     "slug": "2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash",
@@ -1236,21 +1236,21 @@ export const archiveMetadata = [
     "title": "তত্ত্বাবধায়ক সরকার নিয়ে বিতর্ক",
     "publication": "সংবাদ",
     "publishedAt": "2022-12-17",
-    "publishedDateLabel": "১৭ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ ডিসেম্বর ২০২২)"
+    "publishedDateLabel": "১৭ ডিসেম্বর ২০২২"
   },
   {
     "slug": "2022-12-10-islami-bank-niye-shorogol",
     "title": "ইসলামী ব্যাংক নিয়ে শোরগোল",
     "publication": "সংবাদ",
     "publishedAt": "2022-12-10",
-    "publishedDateLabel": "১০ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১১ ডিসেম্বর ২০২২)"
+    "publishedDateLabel": "১০ ডিসেম্বর ২০২২"
   },
   {
     "slug": "2022-12-03-americar-moddhoborti-nirbachon",
     "title": "আমেরিকার মধ্যবর্তী নির্বাচন",
     "publication": "সংবাদ",
     "publishedAt": "2022-12-03",
-    "publishedDateLabel": "৩ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৪ ডিসেম্বর ২০২২)"
+    "publishedDateLabel": "৩ ডিসেম্বর ২০২২"
   },
   {
     "slug": "2022-12-01-roktokkhoi-shadhinota-songram",
@@ -1264,25 +1264,25 @@ export const archiveMetadata = [
     "title": "দুর্নীতির সাথে অর্থ পাচারের সম্পর্ক ঘনিষ্ঠ",
     "publication": "সংবাদ",
     "publishedAt": "2022-11-26",
-    "publishedDateLabel": "২৬ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ নভেম্বর ২০২২)"
+    "publishedDateLabel": "২৬ নভেম্বর ২০২২"
   },
   {
     "slug": "2022-11-19-argentina-brazil-somorthokder-protijogita",
     "title": "আর্জেন্টিনা-ব্রাজিল সমর্থকদের প্রতিযোগিতা",
     "publication": "সংবাদ",
     "publishedAt": "2022-11-19",
-    "publishedDateLabel": "১৯ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ নভেম্বর ২০২২)"
+    "publishedDateLabel": "১৯ নভেম্বর ২০২২"
   },
   {
     "slug": "2022-11-12-sorkari-kormokortar-baddhotamulok-obosor",
     "title": "সরকারি কর্মকর্তার বাধ্যতামূলক অবসর",
     "publication": "সংবাদ",
     "publishedAt": "2022-11-12",
-    "publishedDateLabel": "১২ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৩ নভেম্বর ২০২২)"
+    "publishedDateLabel": "১২ নভেম্বর ২০২২"
   },
   {
     "slug": "2022-11-09-bnpir-sorkar-birodhi-andolon",
-    "title": "বিএনপি’র সরকার বিরোধী আন্দোলন",
+    "title": "বিএনপি’র সরকারবিরোধী আন্দোলন",
     "publication": "দৈনিক বাংলা",
     "publishedAt": "2022-11-09",
     "publishedDateLabel": "৯ নভেম্বর ২০২২"
@@ -1292,7 +1292,7 @@ export const archiveMetadata = [
     "title": "ভাওয়াল বীর শহীদ আহসানউল্লাহ মাস্টার",
     "publication": "সংবাদ",
     "publishedAt": "2022-11-05",
-    "publishedDateLabel": "৫ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ নভেম্বর ২০২২)"
+    "publishedDateLabel": "৫ নভেম্বর ২০২২"
   },
   {
     "slug": "2022-11-03-evm-niye-joto-proshno",
@@ -1306,7 +1306,7 @@ export const archiveMetadata = [
     "title": "কঠিন চ্যালেঞ্জ মোকাবিলা করতে হবে ঋষি সুনাককে",
     "publication": "সংবাদ",
     "publishedAt": "2022-10-29",
-    "publishedDateLabel": "২৯ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩০ অক্টোবর ২০২২)"
+    "publishedDateLabel": "২৯ অক্টোবর ২০২২"
   },
   {
     "slug": "2022-10-26-tista-bandh-niye-mahaporikolpona",
@@ -1320,7 +1320,7 @@ export const archiveMetadata = [
     "title": "কেবিনেট সচিব এবং মুখ্য সচিবের বাড়ি",
     "publication": "সংবাদ",
     "publishedAt": "2022-10-22",
-    "publishedDateLabel": "২২ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৩ অক্টোবর ২০২২)"
+    "publishedDateLabel": "২২ অক্টোবর ২০২২"
   },
   {
     "slug": "2022-10-20-uponirbachon-batil-o-kichu-proshno",
@@ -1334,21 +1334,21 @@ export const archiveMetadata = [
     "title": "রাজনীতির বড় অস্ত্র তেল-গ্যাস",
     "publication": "সংবাদ",
     "publishedAt": "2022-10-15",
-    "publishedDateLabel": "১৫ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ অক্টোবর ২০২২)"
+    "publishedDateLabel": "১৫ অক্টোবর ২০২২"
   },
   {
     "slug": "2022-10-12-eden-college-proshonge-chhatro-rajniti",
-    "title": "ইডেন কলেজ প্রসঙ্গে ছাত্র রাজনীতি",
+    "title": "ইডেন কলেজ প্রসঙ্গে ছাত্ররাজনীতি",
     "publication": "দৈনিক বাংলা",
     "publishedAt": "2022-10-12",
     "publishedDateLabel": "১২ অক্টোবর ২০২২"
   },
   {
     "slug": "2022-10-08-irane-hijab-birodhi-andolon",
-    "title": "ইরানে হিজাব বিরোধী আন্দোলন",
+    "title": "ইরানে হিজাববিরোধী আন্দোলন",
     "publication": "সংবাদ",
     "publishedAt": "2022-10-08",
-    "publishedDateLabel": "৮ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৯ অক্টোবর ২০২২)"
+    "publishedDateLabel": "৮ অক্টোবর ২০২২"
   },
   {
     "slug": "2022-10-06-bangladesher-shobuj-passport",
@@ -1362,35 +1362,35 @@ export const archiveMetadata = [
     "title": "আত্মগোপন, নিখোঁজ আর গুম",
     "publication": "সংবাদ",
     "publishedAt": "2022-10-01",
-    "publishedDateLabel": "১ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২ অক্টোবর ২০২২)"
+    "publishedDateLabel": "১ অক্টোবর ২০২২"
   },
   {
     "slug": "2022-09-24-har-na-mana-lal-shobujer-meyera",
     "title": "হার না মানা লাল-সবুজের মেয়েরা",
     "publication": "সংবাদ",
     "publishedAt": "2022-09-24",
-    "publishedDateLabel": "২৪ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৫ সেপ্টেম্বর ২০২২)"
+    "publishedDateLabel": "২৪ সেপ্টেম্বর ২০২২"
   },
   {
     "slug": "2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen",
     "title": "শেখ হাসিনা ভারত থেকে কী কী এনেছেন",
     "publication": "সংবাদ",
     "publishedAt": "2022-09-17",
-    "publishedDateLabel": "১৭ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ সেপ্টেম্বর ২০২২)"
+    "publishedDateLabel": "১৭ সেপ্টেম্বর ২০২২"
   },
   {
     "slug": "2022-09-10-mrityudonder-bidhane-ki-dhorshon-komechhe",
-    "title": "মৃত্যুদন্ডের বিধানে কি ধর্ষণ কমেছে",
+    "title": "মৃত্যুদণ্ডের বিধানে কি ধর্ষণ কমেছে",
     "publication": "সংবাদ",
     "publishedAt": "2022-09-10",
-    "publishedDateLabel": "১০ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১১ সেপ্টেম্বর ২০২২)"
+    "publishedDateLabel": "১০ সেপ্টেম্বর ২০২২"
   },
   {
     "slug": "2022-09-03-bilkis-banu-osohay-narir-artanad",
-    "title": "বিলকিস বানুঃ অসহায় নারীর আর্তনাদ",
+    "title": "বিলকিস বানু: অসহায় নারীর আর্তনাদ",
     "publication": "সংবাদ",
     "publishedAt": "2022-09-03",
-    "publishedDateLabel": "৩ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৪ সেপ্টেম্বর ২০২২)"
+    "publishedDateLabel": "৩ সেপ্টেম্বর ২০২২"
   },
   {
     "slug": "2022-09-01-cha-shromikder-jibonman",
@@ -1404,28 +1404,28 @@ export const archiveMetadata = [
     "title": "সহজাত রাজনৈতিক নেতার অভাব",
     "publication": "সংবাদ",
     "publishedAt": "2022-08-27",
-    "publishedDateLabel": "২৭ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৮ আগস্ট ২০২২)"
+    "publishedDateLabel": "২৭ আগস্ট ২০২২"
   },
   {
     "slug": "2022-08-20-deshe-deshe-durniti-o-arth-pacharer-sworup",
     "title": "দেশে দেশে দুর্নীতি ও অর্থ পাচারের স্বরূপ",
     "publication": "সংবাদ",
     "publishedAt": "2022-08-20",
-    "publishedDateLabel": "২০ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২১ আগস্ট ২০২২)"
+    "publishedDateLabel": "২০ আগস্ট ২০২২"
   },
   {
     "slug": "2022-08-13-jbalani-teler-dam-o-kichu-proshno",
     "title": "জ্বালানি তেলের দাম ও কিছু প্রশ্ন",
     "publication": "সংবাদ",
     "publishedAt": "2022-08-13",
-    "publishedDateLabel": "১৩ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৪ আগস্ট ২০২২)"
+    "publishedDateLabel": "১৩ আগস্ট ২০২২"
   },
   {
     "slug": "2022-08-06-bishwo-monday-bangladesher-shokti",
-    "title": "বিশ্ব মন্দায় বাংলাদেশের শক্তি",
+    "title": "বিশ্বমন্দায় বাংলাদেশের শক্তি",
     "publication": "সংবাদ",
     "publishedAt": "2022-08-06",
-    "publishedDateLabel": "৬ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৭ আগস্ট ২০২২)"
+    "publishedDateLabel": "৬ আগস্ট ২০২২"
   },
   {
     "slug": "2022-08-04-bangladeshe-bideshi-biniyog",
@@ -1439,14 +1439,14 @@ export const archiveMetadata = [
     "title": "যুক্তরাষ্ট্রে আগ্নেয়াস্ত্র বহনের সংস্কৃতি",
     "publication": "সংবাদ",
     "publishedAt": "2022-07-30",
-    "publishedDateLabel": "৩০ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩১ জুলাই ২০২২)"
+    "publishedDateLabel": "৩০ জুলাই ২০২২"
   },
   {
     "slug": "2022-07-23-chikitsa-niye-lobdho-oviggota",
     "title": "চিকিৎসা নিয়ে লব্ধ অভিজ্ঞতা",
     "publication": "সংবাদ",
     "publishedAt": "2022-07-23",
-    "publishedDateLabel": "২৩ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ জুলাই ২০২২)"
+    "publishedDateLabel": "২৩ জুলাই ২০২২"
   },
   {
     "slug": "2022-07-21-loadshedding-niye-shorgol",
@@ -1460,7 +1460,7 @@ export const archiveMetadata = [
     "title": "বাংলাদেশ শুধু মানুষের হোক",
     "publication": "সংবাদ",
     "publishedAt": "2022-07-16",
-    "publishedDateLabel": "১৬ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ জুলাই ২০২২)"
+    "publishedDateLabel": "১৬ জুলাই ২০২২"
   },
   {
     "slug": "2022-07-13-bhumikhompe-biporjosto-afganistan",
@@ -1471,24 +1471,24 @@ export const archiveMetadata = [
   },
   {
     "slug": "2022-07-02-padma-setu-jatir-gorber-protik",
-    "title": "পদ্মা সেতুঃ জাতির গর্বের প্রতীক",
+    "title": "পদ্মা সেতু: জাতির গর্বের প্রতীক",
     "publication": "সংবাদ",
     "publishedAt": "2022-07-02",
-    "publishedDateLabel": "২ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩ জুলাই ২০২২)"
+    "publishedDateLabel": "২ জুলাই ২০২২"
   },
   {
     "slug": "2022-06-25-bhoy-nei-ami-eshe-gechi",
     "title": "‘ভয় নেই, আমি এসে গেছি’",
     "publication": "সংবাদ",
     "publishedAt": "2022-06-25",
-    "publishedDateLabel": "২৫ জুন ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৬ জুন ২০২২)"
+    "publishedDateLabel": "২৫ জুন ২০২২"
   },
   {
     "slug": "2022-06-18-nobike-niye-bjp-netar-kotukti",
-    "title": "নবীকে নিয়ে বিজেপি নেতার কটুক্তি",
+    "title": "নবীকে নিয়ে বিজেপি নেতার কটূক্তি",
     "publication": "সংবাদ",
     "publishedAt": "2022-06-18",
-    "publishedDateLabel": "১৮ জুন ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ জুন ২০২২)"
+    "publishedDateLabel": "১৮ জুন ২০২২"
   },
   {
     "slug": "2022-06-16-prostabito-bcs-bishwobidyaloy",
@@ -1502,21 +1502,21 @@ export const archiveMetadata = [
     "title": "একজন নীতিনিষ্ঠ সাংবাদিক",
     "publication": "সংবাদ",
     "publishedAt": "2022-06-04",
-    "publishedDateLabel": "৪ জুন ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৫ জুন ২০২২)"
+    "publishedDateLabel": "৪ জুন ২০২২"
   },
   {
     "slug": "2022-05-28-mohumatrik-kolomjoddha",
-    "title": "মহুমাত্রিক কলমযোদ্ধা",
+    "title": "বহুমাত্রিক কলমযোদ্ধা",
     "publication": "সংবাদ",
     "publishedAt": "2022-05-28",
-    "publishedDateLabel": "২৮ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৯ মে ২০২২)"
+    "publishedDateLabel": "২৮ মে ২০২২"
   },
   {
     "slug": "2022-05-21-durniti-o-dosharoper-rajniti",
     "title": "দুর্নীতি ও দোষারোপের রাজনীতি",
     "publication": "সংবাদ",
     "publishedAt": "2022-05-21",
-    "publishedDateLabel": "২১ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২২ মে ২০২২)"
+    "publishedDateLabel": "২১ মে ২০২২"
   },
   {
     "slug": "2022-05-19-bangladesher-arthik-shastho-eto-durbal-noy",
@@ -1530,28 +1530,28 @@ export const archiveMetadata = [
     "title": "‘চাচা চৌকিদার বিধায় থানা ভাতিজার’",
     "publication": "সংবাদ",
     "publishedAt": "2022-05-14",
-    "publishedDateLabel": "১৪ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৫ মে ২০২২)"
+    "publishedDateLabel": "১৪ মে ২০২২"
   },
   {
     "slug": "2022-05-07-bangladeshe-manobadhikar-poristhiti",
     "title": "বাংলাদেশে মানবাধিকার পরিস্থিতি",
     "publication": "সংবাদ",
     "publishedAt": "2022-05-07",
-    "publishedDateLabel": "৭ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৮ মে ২০২২)"
+    "publishedDateLabel": "৭ মে ২০২২"
   },
   {
     "slug": "2022-04-30-pakistaner-unpredictable-rajniti",
     "title": "পাকিস্তানের আনপ্রেডিক্টেবল রাজনীতি",
     "publication": "সংবাদ",
     "publishedAt": "2022-04-30",
-    "publishedDateLabel": "৩০ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১ মে ২০২২)"
+    "publishedDateLabel": "৩০ এপ্রিল ২০২২"
   },
   {
     "slug": "2022-04-23-bishwas-ar-juktir-dwondo",
     "title": "বিশ্বাস আর যুক্তির দ্বন্দ্ব",
     "publication": "সংবাদ",
     "publishedAt": "2022-04-23",
-    "publishedDateLabel": "২৩ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ এপ্রিল ২০২২)"
+    "publishedDateLabel": "২৩ এপ্রিল ২০২২"
   },
   {
     "slug": "2022-04-21-ponner-bordhito-dor",
@@ -1565,14 +1565,14 @@ export const archiveMetadata = [
     "title": "শ্রীলঙ্কার মতো হবে না বাংলাদেশ",
     "publication": "সংবাদ",
     "publishedAt": "2022-04-16",
-    "publishedDateLabel": "১৬ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ এপ্রিল ২০২২)"
+    "publishedDateLabel": "১৬ এপ্রিল ২০২২"
   },
   {
     "slug": "2022-04-09-tip-sojjay-bangali-nari",
-    "title": "টিপ সজ্জায় বাঙ্গালী নারী",
+    "title": "টিপসজ্জায় বাঙ্গালী নারী",
     "publication": "সংবাদ",
     "publishedAt": "2022-04-09",
-    "publishedDateLabel": "৯ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১০ এপ্রিল ২০২২)"
+    "publishedDateLabel": "৯ এপ্রিল ২০২২"
   },
   {
     "slug": "2022-04-04-puraskar-batil-shobhoniya-noy",
@@ -1586,42 +1586,42 @@ export const archiveMetadata = [
     "title": "সানি লিওনের ঢাকা সফর ও প্রতিবাদ সমাচার",
     "publication": "সংবাদ",
     "publishedAt": "2022-04-02",
-    "publishedDateLabel": "২ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩ এপ্রিল ২০২২)"
+    "publishedDateLabel": "২ এপ্রিল ২০২২"
   },
   {
     "slug": "2022-03-26-koronay-labh-khoter-hisab",
     "title": "করোনায় লাভ-ক্ষতির হিসাব",
     "publication": "সংবাদ",
     "publishedAt": "2022-03-26",
-    "publishedDateLabel": "২৬ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ মার্চ ২০২২)"
+    "publishedDateLabel": "২৬ মার্চ ২০২২"
   },
   {
     "slug": "2022-03-19-dhormiyo-mulyobod-o-noitikotar-songe-dhorshoner-shomporko-ki",
     "title": "ধর্মীয় মূল্যবোধ ও নৈতিকতার সঙ্গে ধর্ষণের সম্পর্ক কী",
     "publication": "সংবাদ",
     "publishedAt": "2022-03-19",
-    "publishedDateLabel": "১৯ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ মার্চ ২০২২)"
+    "publishedDateLabel": "১৯ মার্চ ২০২২"
   },
   {
     "slug": "2022-03-12-sorok-mohasoroke-durghotnar-mohamari",
     "title": "সড়ক-মহাসড়কে দুর্ঘটনার মহামারি",
     "publication": "সংবাদ",
     "publishedAt": "2022-03-12",
-    "publishedDateLabel": "১২ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৩ মার্চ ২০২২)"
+    "publishedDateLabel": "১২ মার্চ ২০২২"
   },
   {
     "slug": "2022-03-05-kotha-diyeo-keu-pashe-nei",
     "title": "‘কথা দিয়েও কেউ পাশে নেই’",
     "publication": "সংবাদ",
     "publishedAt": "2022-03-05",
-    "publishedDateLabel": "৫ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ মার্চ ২০২২)"
+    "publishedDateLabel": "৫ মার্চ ২০২২"
   },
   {
     "slug": "2022-02-26-muktijuddhe-shesob-songit-shubharthi",
     "title": "মুক্তিযুদ্ধে সেইসব সংগীত-শুভার্থী",
     "publication": "সংবাদ",
     "publishedAt": "2022-02-26",
-    "publishedDateLabel": "২৬ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ ফেব্রুয়ারি ২০২২)"
+    "publishedDateLabel": "২৬ ফেব্রুয়ারি ২০২২"
   },
   {
     "slug": "2022-02-24-gaser-dam-briddhir-prostab",
@@ -1635,21 +1635,21 @@ export const archiveMetadata = [
     "title": "হিজাব নিয়ে বিতর্ক",
     "publication": "সংবাদ",
     "publishedAt": "2022-02-19",
-    "publishedDateLabel": "১৯ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ ফেব্রুয়ারি ২০২২)"
+    "publishedDateLabel": "১৯ ফেব্রুয়ারি ২০২২"
   },
   {
     "slug": "2022-02-12-nissongo-jibon-o-attnohottaya",
     "title": "নিঃসঙ্গ জীবন ও আত্মহত্যা",
     "publication": "সংবাদ",
     "publishedAt": "2022-02-12",
-    "publishedDateLabel": "১২ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৩ ফেব্রুয়ারি ২০২২)"
+    "publishedDateLabel": "১২ ফেব্রুয়ারি ২০২২"
   },
   {
     "slug": "2022-02-05-ukraine-rashiar-morjadar-lorai",
     "title": "ইউক্রেনে রাশিয়ার মর্যাদার লড়াই",
     "publication": "সংবাদ",
     "publishedAt": "2022-02-05",
-    "publishedDateLabel": "৫ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ ফেব্রুয়ারি ২০২২)"
+    "publishedDateLabel": "৫ ফেব্রুয়ারি ২০২২"
   },
   {
     "slug": "2022-02-03-lutera-rukho-swodesh-bachao",
@@ -1663,14 +1663,14 @@ export const archiveMetadata = [
     "title": "ভিসি আসে ভিসি যায়",
     "publication": "সংবাদ",
     "publishedAt": "2022-01-29",
-    "publishedDateLabel": "২৯ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩০ জানুয়ারি ২০২২)"
+    "publishedDateLabel": "২৯ জানুয়ারি ২০২২"
   },
   {
     "slug": "2022-01-22-amader-jibon-amader-shontan",
     "title": "আমাদের জীবন, আমাদের সন্তান",
     "publication": "সংবাদ",
     "publishedAt": "2022-01-22",
-    "publishedDateLabel": "২২ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৩ জানুয়ারি ২০২২)"
+    "publishedDateLabel": "২২ জানুয়ারি ২০২২"
   },
   {
     "slug": "2022-01-20-kawali-ganer-onushthan-pond",
@@ -1684,14 +1684,14 @@ export const archiveMetadata = [
     "title": "করোনায় সৃষ্ট মনোজগতের বিচ্ছিন্নতা",
     "publication": "সংবাদ",
     "publishedAt": "2022-01-15",
-    "publishedDateLabel": "১৫ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ জানুয়ারি ২০২২)"
+    "publishedDateLabel": "১৫ জানুয়ারি ২০২২"
   },
   {
     "slug": "2022-01-08-chele-bnam-meye-khelowar",
     "title": "ছেলে বনাম মেয়ে খেলোয়াড়",
     "publication": "সংবাদ",
     "publishedAt": "2022-01-08",
-    "publishedDateLabel": "৮ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৯ জানুয়ারি ২০২২)"
+    "publishedDateLabel": "৮ জানুয়ারি ২০২২"
   },
   {
     "slug": "2022-01-06-manobotar-majhi-milon-khan",
@@ -1737,7 +1737,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2021-12-19-mryadapurn-pde-nyuntm-man-chai",
-    "title": "মর্যাদাপূর্ণ পদে ন্যুনতম মান চাই",
+    "title": "মর্যাদাপূর্ণ পদে ন্যূনতম মান চাই",
     "publication": "সংবাদ",
     "publishedAt": "2021-12-19",
     "publishedDateLabel": "১৯ ডিসেম্বর ২০২১"
@@ -1786,7 +1786,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2021-11-07-kumilla-kander-akrosh-tripuray",
-    "title": "কুমিল্লা কান্ডের আক্রোশ ত্রিপুরায়",
+    "title": "কুমিল্লা কাণ্ডের আক্রোশ ত্রিপুরায়",
     "publication": "সংবাদ",
     "publishedAt": "2021-11-07",
     "publishedDateLabel": "৭ নভেম্বর ২০২১"
@@ -1989,14 +1989,14 @@ export const archiveMetadata = [
   },
   {
     "slug": "2021-05-30-filistin-israiler-yuddh-birti",
-    "title": "ফিলিস্তিন-ইসরাইলের যুদ্ধ বিরতি",
+    "title": "ফিলিস্তিন-ইসরাইলের যুদ্ধবিরতি",
     "publication": "সংবাদ",
     "publishedAt": "2021-05-30",
     "publishedDateLabel": "৩০ মে ২০২১"
   },
   {
     "slug": "2021-05-23-hindu-na-ora-muslim-oi-jijnase-kon-jn",
-    "title": "'হিন্দু না ওরা মুসলিম? ওই জিজ্ঞাসে কোন জন?’",
+    "title": "‘হিন্দু না ওরা মুসলিম? ওই জিজ্ঞাসে কোন জন?’",
     "publication": "সংবাদ",
     "publishedAt": "2021-05-23",
     "publishedDateLabel": "২৩ মে ২০২১"
@@ -2045,7 +2045,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2021-03-28-jhumn-daser-bak-sbadhinta",
-    "title": "ঝুমন দাসের বাক স্বাধীনতা",
+    "title": "ঝুমন দাসের বাক্‌স্বাধীনতা",
     "publication": "সংবাদ",
     "publishedAt": "2021-03-28",
     "publishedDateLabel": "২৮ মার্চ ২০২১"
@@ -2164,7 +2164,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-12-13-murti-bnam-bhaskry",
-    "title": "মুর্তি বনাম ভাস্কর্য",
+    "title": "মূর্তি বনাম ভাস্কর্য",
     "publication": "সংবাদ",
     "publishedAt": "2020-12-13",
     "publishedDateLabel": "১৩ ডিসেম্বর ২০২০"
@@ -2178,7 +2178,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-11-29-munirujjman-asamprdayik-chetnar-prtibhu",
-    "title": "মুনীরুজ্জমান  অসাম্প্রদায়িক চেতনার প্রতিভূ",
+    "title": "মুনীরুজ্জামান অসাম্প্রদায়িক চেতনার প্রতিভূ",
     "publication": "সংবাদ",
     "publishedAt": "2020-11-29",
     "publishedDateLabel": "২৯ নভেম্বর ২০২০"
@@ -2220,7 +2220,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-10-18-rshid-haydar-tini-ekjni",
-    "title": "রশীদ হায়দার-‘তিনি, একজনই’",
+    "title": "রশীদ হায়দার—‘তিনি, একজনই’",
     "publication": "সংবাদ",
     "publishedAt": "2020-10-18",
     "publishedDateLabel": "১৮ অক্টোবর ২০২০"
@@ -2276,7 +2276,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-08-23-krona-bhyaksin-abiskar",
-    "title": "করোনা-ভ্যাকসিন আবিস্কার",
+    "title": "করোনা-ভ্যাকসিন আবিষ্কার",
     "publication": "সংবাদ",
     "publishedAt": "2020-08-23",
     "publishedDateLabel": "২৩ আগস্ট ২০২০"
@@ -2290,7 +2290,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-08-09-pshu-prem-o-manbikta",
-    "title": "পশু প্রেম ও মানবিকতা",
+    "title": "পশুপ্রেম ও মানবিকতা",
     "publication": "সংবাদ",
     "publishedAt": "2020-08-09",
     "publishedDateLabel": "৯ আগস্ট ২০২০"
@@ -2367,7 +2367,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-05-10-gnsbasther-kit",
-    "title": "গণস্বাস্থের কিট",
+    "title": "গণস্বাস্থ্যের কিট",
     "publication": "সংবাদ",
     "publishedAt": "2020-05-10",
     "publishedDateLabel": "১০ মে ২০২০"
@@ -2486,7 +2486,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2020-01-12-smr-bishard-soleimani",
-    "title": "সমর বিশারদ সোলেইমানি",
+    "title": "সমরবিশারদ সোলেইমানি",
     "publication": "সংবাদ",
     "publishedAt": "2020-01-12",
     "publishedDateLabel": "১২ জানুয়ারি ২০২০"
@@ -2556,70 +2556,70 @@ export const archiveMetadata = [
   },
   {
     "slug": "2019-11-03-abrarer-mrityu-ebng-chhatr-rajniti-2",
-    "title": "আবরারের মৃত্যু এবং ছাত্র রাজনীতি(2)",
+    "title": "আবরারের মৃত্যু এবং ছাত্ররাজনীতি (2)",
     "publication": "সংবাদ",
     "publishedAt": "2019-11-03",
     "publishedDateLabel": "৩ নভেম্বর ২০১৯"
   },
   {
     "slug": "2019-10-27-abrarer-mrityu-ebng-chhatr-rajniti-1",
-    "title": "আবরারের মৃত্যু এবং ছাত্র রাজনীতি(1)",
+    "title": "আবরারের মৃত্যু এবং ছাত্ররাজনীতি (1)",
     "publication": "সংবাদ",
     "publishedAt": "2019-10-27",
     "publishedDateLabel": "২৭ অক্টোবর ২০১৯"
   },
   {
     "slug": "2019-10-14-juyar-asr-kyasino-2",
-    "title": "জুয়ার আসর ক্যাসিনো(2)",
+    "title": "জুয়ার আসর ক্যাসিনো (2)",
     "publication": "সংবাদ",
     "publishedAt": "2019-10-14",
     "publishedDateLabel": "১৪ অক্টোবর ২০১৯"
   },
   {
     "slug": "2019-10-06-juyar-asr-kyasino-1",
-    "title": "জুয়ার আসর ক্যাসিনো(1)",
+    "title": "জুয়ার আসর ক্যাসিনো (1)",
     "publication": "সংবাদ",
     "publishedAt": "2019-10-06",
     "publishedDateLabel": "৬ অক্টোবর ২০১৯"
   },
   {
     "slug": "2019-09-29-tajiya-michhile-pddln-2",
-    "title": "তাজিয়া মিছিলে পদদলন(2)",
+    "title": "তাজিয়া মিছিলে পদদলন (2)",
     "publication": "সংবাদ",
     "publishedAt": "2019-09-29",
     "publishedDateLabel": "২৯ সেপ্টেম্বর ২০১৯"
   },
   {
     "slug": "2019-09-22-tajiya-michhile-pddln-1",
-    "title": "তাজিয়া মিছিলে পদদলন(1)",
+    "title": "তাজিয়া মিছিলে পদদলন (1)",
     "publication": "সংবাদ",
     "publishedAt": "2019-09-22",
     "publishedDateLabel": "২২ সেপ্টেম্বর ২০১৯"
   },
   {
     "slug": "2019-09-15-asam-kamrup-kamakhya-2",
-    "title": "আসাম  কামরূপ কামাখ্যা(2)",
+    "title": "আসাম কামরূপ কামাখ্যা (2)",
     "publication": "সংবাদ",
     "publishedAt": "2019-09-15",
     "publishedDateLabel": "১৫ সেপ্টেম্বর ২০১৯"
   },
   {
     "slug": "2019-09-08-asam-kamrup-kamakhya-1",
-    "title": "আসাম  কামরূপ কামাখ্যা(1)",
+    "title": "আসাম কামরূপ কামাখ্যা (1)",
     "publication": "সংবাদ",
     "publishedAt": "2019-09-08",
     "publishedDateLabel": "৮ সেপ্টেম্বর ২০১৯"
   },
   {
     "slug": "2019-09-01-bhusbrg-khyat-kashmir-2",
-    "title": "ভূস্বর্গ খ্যাত কাশ্মীর(2)",
+    "title": "ভূস্বর্গখ্যাত কাশ্মীর (2)",
     "publication": "সংবাদ",
     "publishedAt": "2019-09-01",
     "publishedDateLabel": "১ সেপ্টেম্বর ২০১৯"
   },
   {
     "slug": "2019-08-25-bhusbrg-khyat-kashmir-1",
-    "title": "ভূস্বর্গ খ্যাত কাশ্মীর(1)",
+    "title": "ভূস্বর্গখ্যাত কাশ্মীর (1)",
     "publication": "সংবাদ",
     "publishedAt": "2019-08-25",
     "publishedDateLabel": "২৫ আগস্ট ২০১৯"
@@ -2794,7 +2794,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2019-03-03-bangladesh-jamayate-islam",
-    "title": "বাংলাদেশ জামায়াতে ইসলাম",
+    "title": "বাংলাদেশ জামায়াতে ইসলামী",
     "publication": "সংবাদ",
     "publishedAt": "2019-03-03",
     "publishedDateLabel": "৩ মার্চ ২০১৯"
@@ -2885,7 +2885,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-12-09-aritrir-attohotta",
-    "title": "অরিত্রির আত্মহত্যা",
+    "title": "অরিত্রীর আত্মহত্যা",
     "publication": "সংবাদ",
     "publishedAt": "2018-12-09",
     "publishedDateLabel": "৯ ডিসেম্বর ২০১৮"
@@ -2913,7 +2913,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-11-04-bhu-bibaher-pkshe-okalti",
-    "title": "বহু বিবাহের পক্ষে ওকালতি",
+    "title": "বহুবিবাহের পক্ষে ওকালতি",
     "publication": "সংবাদ",
     "publishedAt": "2018-11-04",
     "publishedDateLabel": "৪ নভেম্বর ২০১৮"
@@ -2983,7 +2983,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-08-26-alpdrshi-abu-jafr-shamchhuddin",
-    "title": "অল্পদর্শী-আবু জাফর শামছুদ্দীন",
+    "title": "অল্পদর্শী-আবু জাফর শামসুদ্দীন",
     "publication": "সংবাদ",
     "publishedAt": "2018-08-26",
     "publishedDateLabel": "২৬ আগস্ট ২০১৮"
@@ -3018,7 +3018,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-07-22-bangladesh-machhe-sbyngmbhr",
-    "title": "বাংলাদেশ মাছে স্বয়ংম্ভর",
+    "title": "বাংলাদেশ মাছে স্বয়ম্ভর",
     "publication": "সংবাদ",
     "publishedAt": "2018-07-22",
     "publishedDateLabel": "২২ জুলাই ২০১৮"
@@ -3032,7 +3032,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-07-08-ekjn-smart-krmodyogi-meyr",
-    "title": "একজন স্মার্ট কর্মোদ্যোগী মেয়র",
+    "title": "একজন স্মার্ট কর্মোদ্যোগী মেয়র",
     "publication": "সংবাদ",
     "publishedAt": "2018-07-08",
     "publishedDateLabel": "৮ জুলাই ২০১৮"
@@ -3102,7 +3102,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-04-29-prbhman-sngskriti-dbitiy-prb",
-    "title": "প্রবহমান সংস্কৃতি,দ্বিতীয় পর্ব",
+    "title": "প্রবহমান সংস্কৃতি, দ্বিতীয় পর্ব",
     "publication": "সংবাদ",
     "publishedAt": "2018-04-29",
     "publishedDateLabel": "২৯ এপ্রিল ২০১৮"
@@ -3130,7 +3130,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-04-01-sbjatik-chiki-sa",
-    "title": "স্বজাতিক চিকিৎসা",
+    "title": "স্বাজাতিক চিকিৎসা",
     "publication": "সংবাদ",
     "publishedAt": "2018-04-01",
     "publishedDateLabel": "১ এপ্রিল ২০১৮"
@@ -3168,7 +3168,7 @@ export const archiveMetadata = [
     "title": "‘ফেইক নিউজ অ্যাওয়ার্ড’",
     "publication": "সংবাদ",
     "publishedAt": "2018-02-25",
-    "publishedDateLabel": "২৫ ফেব্রুয়ারি ২০১৮ (Facebook post identifies publication date)"
+    "publishedDateLabel": "২৫ ফেব্রুয়ারি ২০১৮"
   },
   {
     "slug": "2018-01-01-kmiuniti-pulishing",
@@ -3179,7 +3179,7 @@ export const archiveMetadata = [
   },
   {
     "slug": "2018-01-01-gultir-jny-mrityudnd",
-    "title": "গুলতির জন্য মৃত্যুদন্ড",
+    "title": "গুলতির জন্য মৃত্যুদণ্ড",
     "publication": "সংবাদ",
     "publishedAt": "2018-01-01",
     "publishedDateLabel": "২০১৮ (তারিখ অনির্দিষ্ট)"

@@ -7,3 +7,11 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}}
  .archive-reset{min-height:46px;padding:12px 16px;border:1px solid var(--line);background:transparent;color:var(--muted);font:inherit;cursor:pointer}.archive-reset:hover{border-color:var(--accent);color:var(--accent)}
  .search-excerpt{max-width:920px;margin:0 0 16px;color:var(--muted);font-size:15px;line-height:1.7}.search-excerpt mark,.archive-article-link mark{background:#f6d7c9;color:inherit;padding:0 .08em}
+
+/* Keep the archive introduction compact and date guidance optional. */
+.archive-heading{max-width:none}.archive-heading h1{font-size:clamp(34px,5.4vw,72px);color:#a32959}.archive-date-note{margin-top:48px;padding-top:20px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}.archive-date-note summary{cursor:pointer;width:fit-content;text-underline-offset:4px}.archive-date-note summary:hover{text-decoration:underline}.archive-date-note .notice{margin:16px 0 0}
+@media(min-width:761px){.archive-heading h1{white-space:nowrap}}
+
+@media(max-width:760px){.archive-heading h1{font-size:clamp(36px,9.8vw,46px);line-height:1.18}.archive-results .content-card h2{font-size:clamp(24px,6.7vw,30px);line-height:1.4;margin-bottom:12px}}
+
+.archive-search-field{position:relative;flex:1;min-width:220px}.archive-search-field input{width:100%;padding-right:48px}.archive-search-field input::-webkit-search-cancel-button{-webkit-appearance:none}.archive-search-clear{position:absolute;right:4px;top:50%;transform:translateY(-50%);width:40px;height:40px;display:grid;place-items:center;border:0;border-radius:2px;background:transparent;color:var(--muted);font-size:26px;cursor:pointer}.archive-search-clear:hover{color:var(--accent);background:#f2e9df}.archive-search-clear:focus-visible{outline:2px solid var(--accent);outline-offset:1px}

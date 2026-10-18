@@ -1,4 +1,6 @@
+import { withOnlinePublicationDate } from "./publication-dates";
 import { folderArticles } from "./folderArticles";
+import { applyBengaliCopyEdits } from "./bengali-copy-edit";
 
 export type ArchiveArticle = {
   slug: string;
@@ -4229,6 +4231,8 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(correctedBirprotikTaramonBibiArticle)
   .map(correctedArtrirAttohottaArticle)
   .map(withGenerated2024Cover)
+  .map(applyBengaliCopyEdits)
+  .map(withOnlinePublicationDate)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");

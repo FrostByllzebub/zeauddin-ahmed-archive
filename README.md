@@ -140,3 +140,13 @@ The portable build runs Vinext directly without a host `timeout` command. The ma
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
 - [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+
+## Bengali copy review status
+
+Run `node --import ./scripts/register-typescript.mjs scripts/validate-bengali-copy-edits.ts` to validate the recorded spelling and punctuation changes. `remaining` counts columns without a recorded review; it does not count unresolved spelling questions. `unresolvedColumns` lists those questions by column number. `readyForPublication` is false until every column is reviewed and all recorded spelling questions are resolved. A successful validation checks recorded changes and is not, by itself, approval to publish an incomplete review.
+
+Deployment retains original PNG files under `public/` in source. Eighty unused PNG build copies with existing WebP counterparts are moved into ignored `.sites-runtime/deployment-originals-*` folders so the publication archive fits the Sites input limit. Existing PNG URLs redirect to the WebP already used by the catalog. The build refuses this step if the catalog or rendered HTML still references an original PNG, or its WebP is missing.
+
+Publication dates use the online edition throughout the catalog, archive, search and article metadata. `lib/publication-dates.ts` removes edition annotations and selects explicitly recorded online dates. Unknown days remain marked unspecified. `reports/publication-date-review.json` records the date-only changes so the completed spelling audit remains immutable; unrelated metadata and article text still fail its hash checks. Date guidance is available in a collapsed disclosure below the archive results and on the policies page; article-information cards show only article metadata. The archive heading is a single italic phrase, and search status announcements remain available to screen readers without a visible duplicate status strip.
+
+Archive search provides an accessible clear button and Escape shortcut. Clearing the search words keeps the selected publication and year, restores the corresponding results, and returns focus to the search input; “সব মুছুন” still resets every filter.

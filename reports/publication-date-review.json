@@ -1,0 +1,1153 @@
+{
+  "scope": "Owner-requested single online publication date; printed-edition annotations removed from display. Article text, identities and other metadata preserved.",
+  "reviewed": 486,
+  "unspecified": [
+    "2022-narir-poshak-porar-shadhinota",
+    "2021-01-01-taleban-shasne-afgan-nari",
+    "2019-01-01-nana-sngkte-pakistan",
+    "2019-01-01-nari-oyajer-akrshniy-upjiby",
+    "2019-01-01-prkiya-shastiyogy-apradh-ny",
+    "2019-01-01-mjuribihin-sangbadik",
+    "2019-01-01-shrnarthi-shibire-ayanjelina-joli",
+    "2019-01-01-soudi-meye-rahaf",
+    "2018-01-01-kmiuniti-pulishing",
+    "2018-01-01-gultir-jny-mrityudnd",
+    "2018-01-01-ftoyabajir-yupkashthe-bli",
+    "2018-01-01-bidyu-sbhytar-mapkathi",
+    "2018-01-01-medhar-chakuri",
+    "2018-01-01-ye-deshe-amuslim-bhotar-ny",
+    "2018-01-01-lasher-jimmi-nishiddh",
+    "2018-01-01-shirchchhede-jllader-abhab",
+    "2017-01-01-proshno-kora-mohapap"
+  ],
+  "changes": [
+    {
+      "number": 72,
+      "slug": "2025-06-22-ekti-sofor-ekadhik-shonket",
+      "before": {
+        "publishedAt": "2025-06-22",
+        "publishedDateLabel": "২২ জুন ২০২৫ (অনলাইনে ২১ জুন)"
+      },
+      "after": {
+        "publishedAt": "2025-06-21",
+        "publishedDateLabel": "২১ জুন ২০২৫"
+      }
+    },
+    {
+      "number": 74,
+      "slug": "2025-06-01-chottogram-bondor-er-terminal-bitorko",
+      "before": {
+        "publishedAt": "2025-06-01",
+        "publishedDateLabel": "০১ জুন ২০২৫ (অনলাইনে ৩১ মে)"
+      },
+      "after": {
+        "publishedAt": "2025-05-31",
+        "publishedDateLabel": "৩১ মে ২০২৫"
+      }
+    },
+    {
+      "number": 78,
+      "slug": "2025-05-04-bhinnomoter-bhoy-nirbachoner-dolachol",
+      "before": {
+        "publishedAt": "2025-05-04",
+        "publishedDateLabel": "০৪ মে ২০২৫ (অনলাইনে ০৩ মে)"
+      },
+      "after": {
+        "publishedAt": "2025-05-03",
+        "publishedDateLabel": "০৩ মে ২০২৫"
+      }
+    },
+    {
+      "number": 79,
+      "slug": "2025-04-27-otiter-chayay-notun-bangladesh",
+      "before": {
+        "publishedAt": "2025-04-27",
+        "publishedDateLabel": "২৭ এপ্রিল ২০২৫ (অনলাইনে ২৬ এপ্রিল)"
+      },
+      "after": {
+        "publishedAt": "2025-04-26",
+        "publishedDateLabel": "২৬ এপ্রিল ২০২৫"
+      }
+    },
+    {
+      "number": 102,
+      "slug": "2024-09-07-bonyar-jonno-bharat-kototuku-dayi",
+      "before": {
+        "publishedAt": "2024-09-07",
+        "publishedDateLabel": "০৭ সেপ্টেম্বর ২০২৪ (অনলাইনে)"
+      },
+      "after": {
+        "publishedAt": "2024-09-07",
+        "publishedDateLabel": "০৭ সেপ্টেম্বর ২০২৪"
+      }
+    },
+    {
+      "number": 110,
+      "slug": "2024-06-15-bangladesh-bank-e-sangbadikder-probesh-niye-bitorko",
+      "before": {
+        "publishedAt": "2024-06-15",
+        "publishedDateLabel": "১৫ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ জুন)"
+      },
+      "after": {
+        "publishedAt": "2024-06-15",
+        "publishedDateLabel": "১৫ জুন ২০২৪"
+      }
+    },
+    {
+      "number": 111,
+      "slug": "2024-06-08-nojirbihin-benzir",
+      "before": {
+        "publishedAt": "2024-06-08",
+        "publishedDateLabel": "০৮ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ০৯ জুন)"
+      },
+      "after": {
+        "publishedAt": "2024-06-08",
+        "publishedDateLabel": "০৮ জুন ২০২৪"
+      }
+    },
+    {
+      "number": 112,
+      "slug": "2024-06-01-durbal-banker-sadgoti-dorkar",
+      "before": {
+        "publishedAt": "2024-06-01",
+        "publishedDateLabel": "০১ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ০২ জুন)"
+      },
+      "after": {
+        "publishedAt": "2024-06-01",
+        "publishedDateLabel": "০১ জুন ২০২৪"
+      }
+    },
+    {
+      "number": 113,
+      "slug": "2024-05-25-laloner-gan-o-dhormiyo-onubhuti",
+      "before": {
+        "publishedAt": "2024-05-25",
+        "publishedDateLabel": "২৫ মে ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ২৬ মে)"
+      },
+      "after": {
+        "publishedAt": "2024-05-25",
+        "publishedDateLabel": "২৫ মে ২০২৪"
+      }
+    },
+    {
+      "number": 114,
+      "slug": "2024-05-18-takar-obomullayon-ki-joruri-chhilo",
+      "before": {
+        "publishedAt": "2024-05-18",
+        "publishedDateLabel": "১৮ মে ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ মে)"
+      },
+      "after": {
+        "publishedAt": "2024-05-18",
+        "publishedDateLabel": "১৮ মে ২০২৪"
+      }
+    },
+    {
+      "number": 115,
+      "slug": "2024-05-11-khelar-cheye-dhula-beshi",
+      "before": {
+        "publishedAt": "2024-05-11",
+        "publishedDateLabel": "১১ মে ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১২ মে)"
+      },
+      "after": {
+        "publishedAt": "2024-05-11",
+        "publishedDateLabel": "১১ মে ২০২৪"
+      }
+    },
+    {
+      "number": 118,
+      "slug": "2024-03-02-free-palestine",
+      "before": {
+        "publishedAt": "2024-03-02",
+        "publishedDateLabel": "২ মার্চ ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৩ মার্চ ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-03-02",
+        "publishedDateLabel": "২ মার্চ ২০২৪"
+      }
+    },
+    {
+      "number": 119,
+      "slug": "2024-02-24-pakistane-nirdharito-foler-nirbachon",
+      "before": {
+        "publishedAt": "2024-02-24",
+        "publishedDateLabel": "২৪ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ২৫ ফেব্রুয়ারি ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-02-24",
+        "publishedDateLabel": "২৪ ফেব্রুয়ারি ২০২৪"
+      }
+    },
+    {
+      "number": 120,
+      "slug": "2024-02-17-israyeler-gnhtya-dkshn-afrikar-mamla",
+      "before": {
+        "publishedAt": "2024-02-17",
+        "publishedDateLabel": "১৭ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ ফেব্রুয়ারি ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-02-17",
+        "publishedDateLabel": "১৭ ফেব্রুয়ারি ২০২৪"
+      }
+    },
+    {
+      "number": 121,
+      "slug": "2024-02-10-mulyosphiti-kombe-kibhabe",
+      "before": {
+        "publishedAt": "2024-02-10",
+        "publishedDateLabel": "১০ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১১ ফেব্রুয়ারি ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-02-10",
+        "publishedDateLabel": "১০ ফেব্রুয়ারি ২০২৪"
+      }
+    },
+    {
+      "number": 122,
+      "slug": "2024-02-03-transgender-niye-joto-hattgol",
+      "before": {
+        "publishedAt": "2024-02-03",
+        "publishedDateLabel": "৩ ফেব্রুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৪ ফেব্রুয়ারি ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-02-03",
+        "publishedDateLabel": "৩ ফেব্রুয়ারি ২০২৪"
+      }
+    },
+    {
+      "number": 123,
+      "slug": "2024-01-27-sorkar-notun-challenge-purono",
+      "before": {
+        "publishedAt": "2024-01-27",
+        "publishedDateLabel": "২৭ জানুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ২৮ জানুয়ারি ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-01-27",
+        "publishedDateLabel": "২৭ জানুয়ারি ২০২৪"
+      }
+    },
+    {
+      "number": 124,
+      "slug": "2024-01-06-mnda-arthnitih-smpdshali-votprarthi",
+      "before": {
+        "publishedAt": "2024-01-06",
+        "publishedDateLabel": "৬ জানুয়ারি ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ৭ জানুয়ারি ২০২৪)"
+      },
+      "after": {
+        "publishedAt": "2024-01-06",
+        "publishedDateLabel": "৬ জানুয়ারি ২০২৪"
+      }
+    },
+    {
+      "number": 125,
+      "slug": "2023-12-23-bijoyer-anondo-amake-sprsh-kore-na",
+      "before": {
+        "publishedAt": "2023-12-23",
+        "publishedDateLabel": "২৩ ডিসেম্বর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ ডিসেম্বর ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-12-23",
+        "publishedDateLabel": "২৩ ডিসেম্বর ২০২৩"
+      }
+    },
+    {
+      "number": 126,
+      "slug": "2023-12-16-transgender-o-samajer-drishtibhongi",
+      "before": {
+        "publishedAt": "2023-12-16",
+        "publishedDateLabel": "১৬ ডিসেম্বর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ ডিসেম্বর ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-12-16",
+        "publishedDateLabel": "১৬ ডিসেম্বর ২০২৩"
+      }
+    },
+    {
+      "number": 127,
+      "slug": "2023-10-28-filistine-hamas-ki-chay",
+      "before": {
+        "publishedAt": "2023-10-28",
+        "publishedDateLabel": "২৮ অক্টোবর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৯ অক্টোবর ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-10-28",
+        "publishedDateLabel": "২৮ অক্টোবর ২০২৩"
+      }
+    },
+    {
+      "number": 128,
+      "slug": "2023-10-07-mithyar-noy-aradhna-hok-sotyer",
+      "before": {
+        "publishedAt": "2023-10-07",
+        "publishedDateLabel": "৭ অক্টোবর ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৮ অক্টোবর ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-10-07",
+        "publishedDateLabel": "৭ অক্টোবর ২০২৩"
+      }
+    },
+    {
+      "number": 138,
+      "slug": "2023-06-17-jatiyo-bajet-2023-2024",
+      "before": {
+        "publishedAt": "2023-06-17",
+        "publishedDateLabel": "১৭ জুন ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ জুন ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-06-17",
+        "publishedDateLabel": "১৭ জুন ২০২৩"
+      }
+    },
+    {
+      "number": 139,
+      "slug": "2023-06-10-visaniti-kon-nishedhaggya-noy",
+      "before": {
+        "publishedAt": "2023-06-10",
+        "publishedDateLabel": "১০ জুন ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১১ জুন ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-06-10",
+        "publishedDateLabel": "১০ জুন ২০২৩"
+      }
+    },
+    {
+      "number": 142,
+      "slug": "2023-05-27-dutabaser-baroti-nirapotta-prtyahar",
+      "before": {
+        "publishedAt": "2023-05-27",
+        "publishedDateLabel": "২৭ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৮ মে ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-05-27",
+        "publishedDateLabel": "২৭ মে ২০২৩"
+      }
+    },
+    {
+      "number": 143,
+      "slug": "2023-05-20-ansmart-chikitsa-smart-bangladesh",
+      "before": {
+        "publishedAt": "2023-05-20",
+        "publishedDateLabel": "২০ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২১ মে ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-05-20",
+        "publishedDateLabel": "২০ মে ২০২৩"
+      }
+    },
+    {
+      "number": 144,
+      "slug": "2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh",
+      "before": {
+        "publishedAt": "2023-05-12",
+        "publishedDateLabel": "১২ মে ২০২৩ (অনলাইনে; রবিবারের মুদ্রিত কলাম)"
+      },
+      "after": {
+        "publishedAt": "2023-05-12",
+        "publishedDateLabel": "১২ মে ২০২৩"
+      }
+    },
+    {
+      "number": 146,
+      "slug": "2023-05-06-bidyanonder-jakat-fand",
+      "before": {
+        "publishedAt": "2023-05-06",
+        "publishedDateLabel": "৬ মে ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৭ মে ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-05-06",
+        "publishedDateLabel": "৬ মে ২০২৩"
+      }
+    },
+    {
+      "number": 147,
+      "slug": "2023-04-29-sampratik-ognikand-durghotona-na-durbhisondhi",
+      "before": {
+        "publishedAt": "2023-04-29",
+        "publishedDateLabel": "২৯ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৩০ এপ্রিল ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-04-29",
+        "publishedDateLabel": "২৯ এপ্রিল ২০২৩"
+      }
+    },
+    {
+      "number": 149,
+      "slug": "2023-04-15-aini-notiser-kobole-mongol-shobhayatra",
+      "before": {
+        "publishedAt": "2023-04-15",
+        "publishedDateLabel": "১৫ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ এপ্রিল ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-04-15",
+        "publishedDateLabel": "১৫ এপ্রিল ২০২৩"
+      }
+    },
+    {
+      "number": 150,
+      "slug": "2023-04-08-swadhinota-kon-tulya-bostu-noy",
+      "before": {
+        "publishedAt": "2023-04-08",
+        "publishedDateLabel": "৮ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৯ এপ্রিল ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-04-08",
+        "publishedDateLabel": "৮ এপ্রিল ২০২৩"
+      }
+    },
+    {
+      "number": 152,
+      "slug": "2023-04-01-sar-sombodhon-niye-tulkalam-kand",
+      "before": {
+        "publishedAt": "2023-04-01",
+        "publishedDateLabel": "১ এপ্রিল ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২ এপ্রিল ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-04-01",
+        "publishedDateLabel": "১ এপ্রিল ২০২৩"
+      }
+    },
+    {
+      "number": 154,
+      "slug": "2023-03-25-orokkhito-non-dr-muhammad-yunus",
+      "before": {
+        "publishedAt": "2023-03-25",
+        "publishedDateLabel": "২৫ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৬ মার্চ ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-03-25",
+        "publishedDateLabel": "২৫ মার্চ ২০২৩"
+      }
+    },
+    {
+      "number": 156,
+      "slug": "2023-03-18-adanir-bidyut-niye-bitorko",
+      "before": {
+        "publishedAt": "2023-03-18",
+        "publishedDateLabel": "১৮ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ মার্চ ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-03-18",
+        "publishedDateLabel": "১৮ মার্চ ২০২৩"
+      }
+    },
+    {
+      "number": 157,
+      "slug": "2023-03-11-kadiyanider-biruddhe-joto-kshobh",
+      "before": {
+        "publishedAt": "2023-03-11",
+        "publishedDateLabel": "১১ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১২ মার্চ ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-03-11",
+        "publishedDateLabel": "১১ মার্চ ২০২৩"
+      }
+    },
+    {
+      "number": 159,
+      "slug": "2023-03-04-raggingyer-day-kar",
+      "before": {
+        "publishedAt": "2023-03-04",
+        "publishedDateLabel": "৪ মার্চ ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৫ মার্চ ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-03-04",
+        "publishedDateLabel": "৪ মার্চ ২০২৩"
+      }
+    },
+    {
+      "number": 161,
+      "slug": "2023-02-18-bir-muktijoddhader-smorone",
+      "before": {
+        "publishedAt": "2023-02-18",
+        "publishedDateLabel": "১৮ ফেব্রুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ ফেব্রুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-02-18",
+        "publishedDateLabel": "১৮ ফেব্রুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 162,
+      "slug": "2023-02-11-guzob-thekano-jacche-na-keno",
+      "before": {
+        "publishedAt": "2023-02-11",
+        "publishedDateLabel": "১১ ফেব্রুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১২ ফেব্রুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-02-11",
+        "publishedDateLabel": "১১ ফেব্রুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 164,
+      "slug": "2023-02-04-khomotar-mohomukto-ek-rajnitik",
+      "before": {
+        "publishedAt": "2023-02-04",
+        "publishedDateLabel": "৪ ফেব্রুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৫ ফেব্রুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-02-04",
+        "publishedDateLabel": "৪ ফেব্রুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 165,
+      "slug": "2023-01-28-pathyo-boite-darwin-er-totto",
+      "before": {
+        "publishedAt": "2023-01-28",
+        "publishedDateLabel": "২৮ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২৯ জানুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-01-28",
+        "publishedDateLabel": "২৮ জানুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 168,
+      "slug": "2023-01-21-nirbachon-komishoner-bishshoyjoggyota",
+      "before": {
+        "publishedAt": "2023-01-21",
+        "publishedDateLabel": "২১ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ২২ জানুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-01-21",
+        "publishedDateLabel": "২১ জানুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 169,
+      "slug": "2023-01-14-rashiar-jahaj-ferot-dewar-siddhanto",
+      "before": {
+        "publishedAt": "2023-01-14",
+        "publishedDateLabel": "১৪ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ১৫ জানুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-01-14",
+        "publishedDateLabel": "১৪ জানুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 171,
+      "slug": "2023-01-07-jonmot-gothone-samajik-jogajog-maddhom",
+      "before": {
+        "publishedAt": "2023-01-07",
+        "publishedDateLabel": "৭ জানুয়ারি ২০২৩ (অনলাইনে; মুদ্রিত সংস্করণ ৮ জানুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2023-01-07",
+        "publishedDateLabel": "৭ জানুয়ারি ২০২৩"
+      }
+    },
+    {
+      "number": 173,
+      "slug": "2022-12-31-afganistane-nari-shikkha",
+      "before": {
+        "publishedAt": "2022-12-31",
+        "publishedDateLabel": "৩১ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১ জানুয়ারি ২০২৩)"
+      },
+      "after": {
+        "publishedAt": "2022-12-31",
+        "publishedDateLabel": "৩১ ডিসেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 175,
+      "slug": "2022-12-24-bishwo-kap-joyi-argentina",
+      "before": {
+        "publishedAt": "2022-12-24",
+        "publishedDateLabel": "২৪ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৫ ডিসেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-12-24",
+        "publishedDateLabel": "২৪ ডিসেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 177,
+      "slug": "2022-12-17-tottabodhoyok-sorkar-niye-bitorko",
+      "before": {
+        "publishedAt": "2022-12-17",
+        "publishedDateLabel": "১৭ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ ডিসেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-12-17",
+        "publishedDateLabel": "১৭ ডিসেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 178,
+      "slug": "2022-12-10-islami-bank-niye-shorogol",
+      "before": {
+        "publishedAt": "2022-12-10",
+        "publishedDateLabel": "১০ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১১ ডিসেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-12-10",
+        "publishedDateLabel": "১০ ডিসেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 179,
+      "slug": "2022-12-03-americar-moddhoborti-nirbachon",
+      "before": {
+        "publishedAt": "2022-12-03",
+        "publishedDateLabel": "৩ ডিসেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৪ ডিসেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-12-03",
+        "publishedDateLabel": "৩ ডিসেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 181,
+      "slug": "2022-11-26-durnitir-sathe-orth-pacharer-shomporko",
+      "before": {
+        "publishedAt": "2022-11-26",
+        "publishedDateLabel": "২৬ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ নভেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-11-26",
+        "publishedDateLabel": "২৬ নভেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 182,
+      "slug": "2022-11-19-argentina-brazil-somorthokder-protijogita",
+      "before": {
+        "publishedAt": "2022-11-19",
+        "publishedDateLabel": "১৯ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ নভেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-11-19",
+        "publishedDateLabel": "১৯ নভেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 183,
+      "slug": "2022-11-12-sorkari-kormokortar-baddhotamulok-obosor",
+      "before": {
+        "publishedAt": "2022-11-12",
+        "publishedDateLabel": "১২ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৩ নভেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-11-12",
+        "publishedDateLabel": "১২ নভেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 185,
+      "slug": "2022-11-05-bhawal-bir-shohid-ahsanullah-master",
+      "before": {
+        "publishedAt": "2022-11-05",
+        "publishedDateLabel": "৫ নভেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ নভেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-11-05",
+        "publishedDateLabel": "৫ নভেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 187,
+      "slug": "2022-10-29-kothin-challenge-rishi-sunak",
+      "before": {
+        "publishedAt": "2022-10-29",
+        "publishedDateLabel": "২৯ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩০ অক্টোবর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-10-29",
+        "publishedDateLabel": "২৯ অক্টোবর ২০২২"
+      }
+    },
+    {
+      "number": 189,
+      "slug": "2022-10-22-kebinet-sochib-o-mukhyo-sochiber-bari",
+      "before": {
+        "publishedAt": "2022-10-22",
+        "publishedDateLabel": "২২ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৩ অক্টোবর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-10-22",
+        "publishedDateLabel": "২২ অক্টোবর ২০২২"
+      }
+    },
+    {
+      "number": 191,
+      "slug": "2022-10-15-rajnitir-boro-ostro-tel-gas",
+      "before": {
+        "publishedAt": "2022-10-15",
+        "publishedDateLabel": "১৫ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ অক্টোবর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-10-15",
+        "publishedDateLabel": "১৫ অক্টোবর ২০২২"
+      }
+    },
+    {
+      "number": 193,
+      "slug": "2022-10-08-irane-hijab-birodhi-andolon",
+      "before": {
+        "publishedAt": "2022-10-08",
+        "publishedDateLabel": "৮ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৯ অক্টোবর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-10-08",
+        "publishedDateLabel": "৮ অক্টোবর ২০২২"
+      }
+    },
+    {
+      "number": 195,
+      "slug": "2022-10-01-atmogopon-nikhonj-ar-gum",
+      "before": {
+        "publishedAt": "2022-10-01",
+        "publishedDateLabel": "১ অক্টোবর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২ অক্টোবর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-10-01",
+        "publishedDateLabel": "১ অক্টোবর ২০২২"
+      }
+    },
+    {
+      "number": 196,
+      "slug": "2022-09-24-har-na-mana-lal-shobujer-meyera",
+      "before": {
+        "publishedAt": "2022-09-24",
+        "publishedDateLabel": "২৪ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৫ সেপ্টেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-09-24",
+        "publishedDateLabel": "২৪ সেপ্টেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 197,
+      "slug": "2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen",
+      "before": {
+        "publishedAt": "2022-09-17",
+        "publishedDateLabel": "১৭ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৮ সেপ্টেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-09-17",
+        "publishedDateLabel": "১৭ সেপ্টেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 198,
+      "slug": "2022-09-10-mrityudonder-bidhane-ki-dhorshon-komechhe",
+      "before": {
+        "publishedAt": "2022-09-10",
+        "publishedDateLabel": "১০ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১১ সেপ্টেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-09-10",
+        "publishedDateLabel": "১০ সেপ্টেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 199,
+      "slug": "2022-09-03-bilkis-banu-osohay-narir-artanad",
+      "before": {
+        "publishedAt": "2022-09-03",
+        "publishedDateLabel": "৩ সেপ্টেম্বর ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৪ সেপ্টেম্বর ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-09-03",
+        "publishedDateLabel": "৩ সেপ্টেম্বর ২০২২"
+      }
+    },
+    {
+      "number": 201,
+      "slug": "2022-08-27-sohojat-rajnaitik-netar-ovab",
+      "before": {
+        "publishedAt": "2022-08-27",
+        "publishedDateLabel": "২৭ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৮ আগস্ট ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-08-27",
+        "publishedDateLabel": "২৭ আগস্ট ২০২২"
+      }
+    },
+    {
+      "number": 202,
+      "slug": "2022-08-20-deshe-deshe-durniti-o-arth-pacharer-sworup",
+      "before": {
+        "publishedAt": "2022-08-20",
+        "publishedDateLabel": "২০ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২১ আগস্ট ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-08-20",
+        "publishedDateLabel": "২০ আগস্ট ২০২২"
+      }
+    },
+    {
+      "number": 203,
+      "slug": "2022-08-13-jbalani-teler-dam-o-kichu-proshno",
+      "before": {
+        "publishedAt": "2022-08-13",
+        "publishedDateLabel": "১৩ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৪ আগস্ট ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-08-13",
+        "publishedDateLabel": "১৩ আগস্ট ২০২২"
+      }
+    },
+    {
+      "number": 204,
+      "slug": "2022-08-06-bishwo-monday-bangladesher-shokti",
+      "before": {
+        "publishedAt": "2022-08-06",
+        "publishedDateLabel": "৬ আগস্ট ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৭ আগস্ট ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-08-06",
+        "publishedDateLabel": "৬ আগস্ট ২০২২"
+      }
+    },
+    {
+      "number": 206,
+      "slug": "2022-07-30-juktorastre-agneyastro-bahoner-sangskriti",
+      "before": {
+        "publishedAt": "2022-07-30",
+        "publishedDateLabel": "৩০ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩১ জুলাই ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-07-30",
+        "publishedDateLabel": "৩০ জুলাই ২০২২"
+      }
+    },
+    {
+      "number": 207,
+      "slug": "2022-07-23-chikitsa-niye-lobdho-oviggota",
+      "before": {
+        "publishedAt": "2022-07-23",
+        "publishedDateLabel": "২৩ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ জুলাই ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-07-23",
+        "publishedDateLabel": "২৩ জুলাই ২০২২"
+      }
+    },
+    {
+      "number": 209,
+      "slug": "2022-07-16-bangladesh-shudhu-manusher-hok",
+      "before": {
+        "publishedAt": "2022-07-16",
+        "publishedDateLabel": "১৬ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ জুলাই ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-07-16",
+        "publishedDateLabel": "১৬ জুলাই ২০২২"
+      }
+    },
+    {
+      "number": 211,
+      "slug": "2022-07-02-padma-setu-jatir-gorber-protik",
+      "before": {
+        "publishedAt": "2022-07-02",
+        "publishedDateLabel": "২ জুলাই ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩ জুলাই ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-07-02",
+        "publishedDateLabel": "২ জুলাই ২০২২"
+      }
+    },
+    {
+      "number": 212,
+      "slug": "2022-06-25-bhoy-nei-ami-eshe-gechi",
+      "before": {
+        "publishedAt": "2022-06-25",
+        "publishedDateLabel": "২৫ জুন ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৬ জুন ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-06-25",
+        "publishedDateLabel": "২৫ জুন ২০২২"
+      }
+    },
+    {
+      "number": 213,
+      "slug": "2022-06-18-nobike-niye-bjp-netar-kotukti",
+      "before": {
+        "publishedAt": "2022-06-18",
+        "publishedDateLabel": "১৮ জুন ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৯ জুন ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-06-18",
+        "publishedDateLabel": "১৮ জুন ২০২২"
+      }
+    },
+    {
+      "number": 215,
+      "slug": "2022-06-04-ekjon-nitinishtho-sangbadik",
+      "before": {
+        "publishedAt": "2022-06-04",
+        "publishedDateLabel": "৪ জুন ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৫ জুন ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-06-04",
+        "publishedDateLabel": "৪ জুন ২০২২"
+      }
+    },
+    {
+      "number": 216,
+      "slug": "2022-05-28-mohumatrik-kolomjoddha",
+      "before": {
+        "publishedAt": "2022-05-28",
+        "publishedDateLabel": "২৮ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৯ মে ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-05-28",
+        "publishedDateLabel": "২৮ মে ২০২২"
+      }
+    },
+    {
+      "number": 217,
+      "slug": "2022-05-21-durniti-o-dosharoper-rajniti",
+      "before": {
+        "publishedAt": "2022-05-21",
+        "publishedDateLabel": "২১ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২২ মে ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-05-21",
+        "publishedDateLabel": "২১ মে ২০২২"
+      }
+    },
+    {
+      "number": 219,
+      "slug": "2022-05-14-chacha-chowkidar-bidhay-thana-bhatijar",
+      "before": {
+        "publishedAt": "2022-05-14",
+        "publishedDateLabel": "১৪ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৫ মে ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-05-14",
+        "publishedDateLabel": "১৪ মে ২০২২"
+      }
+    },
+    {
+      "number": 220,
+      "slug": "2022-05-07-bangladeshe-manobadhikar-poristhiti",
+      "before": {
+        "publishedAt": "2022-05-07",
+        "publishedDateLabel": "৭ মে ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৮ মে ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-05-07",
+        "publishedDateLabel": "৭ মে ২০২২"
+      }
+    },
+    {
+      "number": 221,
+      "slug": "2022-04-30-pakistaner-unpredictable-rajniti",
+      "before": {
+        "publishedAt": "2022-04-30",
+        "publishedDateLabel": "৩০ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১ মে ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-04-30",
+        "publishedDateLabel": "৩০ এপ্রিল ২০২২"
+      }
+    },
+    {
+      "number": 222,
+      "slug": "2022-04-23-bishwas-ar-juktir-dwondo",
+      "before": {
+        "publishedAt": "2022-04-23",
+        "publishedDateLabel": "২৩ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৪ এপ্রিল ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-04-23",
+        "publishedDateLabel": "২৩ এপ্রিল ২০২২"
+      }
+    },
+    {
+      "number": 224,
+      "slug": "2022-04-16-srilankar-moto-hobe-na-bangladesh",
+      "before": {
+        "publishedAt": "2022-04-16",
+        "publishedDateLabel": "১৬ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৭ এপ্রিল ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-04-16",
+        "publishedDateLabel": "১৬ এপ্রিল ২০২২"
+      }
+    },
+    {
+      "number": 225,
+      "slug": "2022-04-09-tip-sojjay-bangali-nari",
+      "before": {
+        "publishedAt": "2022-04-09",
+        "publishedDateLabel": "৯ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১০ এপ্রিল ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-04-09",
+        "publishedDateLabel": "৯ এপ্রিল ২০২২"
+      }
+    },
+    {
+      "number": 227,
+      "slug": "2022-04-02-sunny-leoner-dhaka-sofor-o-protibad",
+      "before": {
+        "publishedAt": "2022-04-02",
+        "publishedDateLabel": "২ এপ্রিল ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩ এপ্রিল ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-04-02",
+        "publishedDateLabel": "২ এপ্রিল ২০২২"
+      }
+    },
+    {
+      "number": 228,
+      "slug": "2022-03-26-koronay-labh-khoter-hisab",
+      "before": {
+        "publishedAt": "2022-03-26",
+        "publishedDateLabel": "২৬ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ মার্চ ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-03-26",
+        "publishedDateLabel": "২৬ মার্চ ২০২২"
+      }
+    },
+    {
+      "number": 229,
+      "slug": "2022-03-19-dhormiyo-mulyobod-o-noitikotar-songe-dhorshoner-shomporko-ki",
+      "before": {
+        "publishedAt": "2022-03-19",
+        "publishedDateLabel": "১৯ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ মার্চ ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-03-19",
+        "publishedDateLabel": "১৯ মার্চ ২০২২"
+      }
+    },
+    {
+      "number": 230,
+      "slug": "2022-03-12-sorok-mohasoroke-durghotnar-mohamari",
+      "before": {
+        "publishedAt": "2022-03-12",
+        "publishedDateLabel": "১২ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৩ মার্চ ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-03-12",
+        "publishedDateLabel": "১২ মার্চ ২০২২"
+      }
+    },
+    {
+      "number": 231,
+      "slug": "2022-03-05-kotha-diyeo-keu-pashe-nei",
+      "before": {
+        "publishedAt": "2022-03-05",
+        "publishedDateLabel": "৫ মার্চ ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ মার্চ ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-03-05",
+        "publishedDateLabel": "৫ মার্চ ২০২২"
+      }
+    },
+    {
+      "number": 232,
+      "slug": "2022-02-26-muktijuddhe-shesob-songit-shubharthi",
+      "before": {
+        "publishedAt": "2022-02-26",
+        "publishedDateLabel": "২৬ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৭ ফেব্রুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-02-26",
+        "publishedDateLabel": "২৬ ফেব্রুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 234,
+      "slug": "2022-02-19-hijab-niye-bitorko",
+      "before": {
+        "publishedAt": "2022-02-19",
+        "publishedDateLabel": "১৯ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২০ ফেব্রুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-02-19",
+        "publishedDateLabel": "১৯ ফেব্রুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 235,
+      "slug": "2022-02-12-nissongo-jibon-o-attnohottaya",
+      "before": {
+        "publishedAt": "2022-02-12",
+        "publishedDateLabel": "১২ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৩ ফেব্রুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-02-12",
+        "publishedDateLabel": "১২ ফেব্রুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 236,
+      "slug": "2022-02-05-ukraine-rashiar-morjadar-lorai",
+      "before": {
+        "publishedAt": "2022-02-05",
+        "publishedDateLabel": "৫ ফেব্রুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৬ ফেব্রুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-02-05",
+        "publishedDateLabel": "৫ ফেব্রুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 238,
+      "slug": "2022-01-29-bisi-ase-bisi-jay",
+      "before": {
+        "publishedAt": "2022-01-29",
+        "publishedDateLabel": "২৯ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৩০ জানুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-01-29",
+        "publishedDateLabel": "২৯ জানুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 239,
+      "slug": "2022-01-22-amader-jibon-amader-shontan",
+      "before": {
+        "publishedAt": "2022-01-22",
+        "publishedDateLabel": "২২ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ২৩ জানুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-01-22",
+        "publishedDateLabel": "২২ জানুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 241,
+      "slug": "2022-01-15-koronay-srishto-monojogoter-bichchhinnota",
+      "before": {
+        "publishedAt": "2022-01-15",
+        "publishedDateLabel": "১৫ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ জানুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-01-15",
+        "publishedDateLabel": "১৫ জানুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 242,
+      "slug": "2022-01-08-chele-bnam-meye-khelowar",
+      "before": {
+        "publishedAt": "2022-01-08",
+        "publishedDateLabel": "৮ জানুয়ারি ২০২২ (অনলাইনে; মুদ্রিত সংস্করণ ৯ জানুয়ারি ২০২২)"
+      },
+      "after": {
+        "publishedAt": "2022-01-08",
+        "publishedDateLabel": "৮ জানুয়ারি ২০২২"
+      }
+    },
+    {
+      "number": 453,
+      "slug": "2018-01-01-feik-niuj-ayaoyard",
+      "before": {
+        "publishedAt": "2018-02-25",
+        "publishedDateLabel": "২৫ ফেব্রুয়ারি ২০১৮ (Facebook post identifies publication date)"
+      },
+      "after": {
+        "publishedAt": "2018-02-25",
+        "publishedDateLabel": "২৫ ফেব্রুয়ারি ২০১৮"
+      }
+    }
+  ]
+}

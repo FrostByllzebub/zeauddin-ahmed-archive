@@ -14,6 +14,16 @@ For a reopened dirty checkout, preserve existing work and reconcile its catalog 
 
 ## 1. Create an intake record
 
+### Bengali spelling and punctuation review
+
+Owner: archive editorial maintainer. Started: 2026-10-12. Scope: spelling and punctuation only, preserving factual claims, numerical text, author voice and paragraph boundaries.
+
+`reports/bengali-spelling-review.json` records the frozen 486-column review order, individual status, exact edits, reference evidence and before/after hashes. `NOT REVIEWED` means the complete text has not yet been read; automated checks do not count as an editorial review. Dictionary-approved variants and uncertain proper names stay unchanged. Record uncertainty without guessing a replacement.
+
+Approved, paragraph-specific replacements live in `lib/bengaliCopyEdits.json` and apply after earlier catalog corrections. They reject changed source text or invalid fields. Run `node --import ./scripts/register-typescript.mjs scripts/validate-bengali-copy-edits.ts` to check the ledger and preservation of all unedited text, metadata and numerical sequences. This validation also runs in the mandatory build tests. A deliberate later editorial revision to an already-reviewed column requires updating its review evidence; do not silently weaken or bypass the checks.
+
+After each corrected column, report its title and exact corrections to the requester. Regenerate derived files through the publication gate before building. Report local draft status separately from successful live publication.
+
 - Create a stable `work_id` (for example, `2026-09-19-brics-sangbad`).
 - Save the original title exactly as it appears in the source.
 - Record publication name, issue/edition, date, page number, and original URL when available.

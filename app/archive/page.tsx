@@ -1,5 +1,7 @@
 "use client";
 
+import PublicationDateNotice from "../../components/publication-date-notice";
+
 import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "../../components/safe-link";
 import { archiveMetadata } from "../../lib/archiveMetadata";
@@ -107,6 +109,12 @@ export default function ArchivePage() {
         : a.index - b.index);
   }, [activeFilter, loadedYears, query, searchRecords]);
 
+  const clearQuery = () => {
+    setIndexError(false);
+    setQuery("");
+    searchInputRef.current?.focus();
+  };
+
   const resetFilters = () => {
     if (searchInputRef.current) searchInputRef.current.value = "";
     setIndexError(false);
@@ -124,16 +132,20 @@ export default function ArchivePage() {
       <Link className="header-action" href="/">হোম <span>↗</span></Link>
     </header>
     <section className="page-wrap">
-      <div className="page-heading"><p className="eyebrow">{resultLabel}</p><h1>প্রকাশিত লেখার<br /><em>আর্কাইভ</em></h1></div>
+      <div className="page-heading archive-heading"><p className="eyebrow">{resultLabel}</p><h1><em>প্রকাশিত লেখার আর্কাইভ</em></h1></div>
       <div className="archive-toolbar" data-ready={urlReady} role="search" aria-label="আর্কাইভ অনুসন্ধান">
         <label className="sr-only" htmlFor="archive-search">বাংলায় খুঁজুন</label>
-        <input ref={searchInputRef} id="archive-search" disabled={!urlReady} type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => { setIndexError(false); setQuery(event.target.value); }} />
+        <div className="archive-search-field">
+          <input ref={searchInputRef} id="archive-search" disabled={!urlReady} type="search" inputMode="search" aria-label="শিরোনাম বা বিষয় দিয়ে খুঁজুন" placeholder="শিরোনাম বা বিষয় দিয়ে খুঁজুন…" value={query} onChange={(event) => { setIndexError(false); setQuery(event.target.value); }} onKeyDown={(event) => { if (event.key === "Escape" && query) { event.preventDefault(); clearQuery(); } }} />
+          {query && <button type="button" className="archive-search-clear" aria-label="খোঁজার শব্দ মুছুন" onClick={clearQuery}><span aria-hidden="true">×</span></button>}
+        </div>
         <label className="filter-control"><span className="sr-only">প্রকাশনা</span><select disabled={!urlReady} aria-label="প্রকাশনা" value={activeFilter.publication} onChange={(event) => setActiveFilter((current) => ({ ...current, publication: event.target.value }))}><option value={allPublicationsLabel}>{allPublicationsLabel}</option>{publications.map((publication) => <option key={publication} value={publication}>{publication}</option>)}</select></label>
         <label className="filter-control"><span className="sr-only">বছর</span><select disabled={!urlReady} aria-label="বছর" value={activeFilter.year} onChange={(event) => setActiveFilter((current) => ({ ...current, year: event.target.value }))}><option value={allYearsLabel}>{allYearsLabel}</option>{years.map((year) => <option key={year} value={year}>{displayYear(year)}</option>)}</select></label>
         {hasFilters && <button type="button" className="archive-reset" onClick={resetFilters}>সব মুছুন</button>}
       </div>
-      <div className="archive-status-strip" aria-live="polite"><span className="live-dot" /> <span>{indexError ? "সার্চ ইনডেক্স লোড হয়নি" : loadingSearch ? "লেখাগুলো খোঁজা হচ্ছে…" : "শুধু যে লেখাগুলোতে খোঁজার শব্দ আছে সেগুলো দেখানো হচ্ছে"}</span><span className="status-count">{filteredArticles.length.toLocaleString("bn-BD")}</span></div>
+      <div className="sr-only" role="status" aria-live="polite">{loadingSearch ? "লেখাগুলো খোঁজা হচ্ছে" : resultLabel}</div>
       {indexError ? <div className="empty-panel"><div className="empty-stamp" aria-hidden="true">!</div><div><p className="eyebrow">সাময়িক সমস্যা</p><h2>সার্চ প্রস্তুত করা যাচ্ছে না</h2><p>পৃষ্ঠাটি পুনরায় লোড করে আবার চেষ্টা করুন।</p></div></div> : filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp" aria-hidden="true">০</div><div><p className="eyebrow">{loadingSearch ? "খোঁজা হচ্ছে" : "ফলাফল নেই"}</p><h2>{loadingSearch ? "লেখাগুলোতে শব্দটি খোঁজা হচ্ছে" : "এই খোঁজের সঙ্গে কোনো লেখা মেলেনি"}</h2><p>{loadingSearch ? "এক মুহূর্ত অপেক্ষা করুন।" : "অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন।"}</p></div></div> : <div className="archive-results">{filteredArticles.map(({ article, record }) => <article className="content-card" key={article.slug}><h2><Link className="archive-article-link" href={`/articles/${article.slug}`}>{queryActive ? highlight(record.title, query) : article.title}</Link></h2>{queryActive && record.excerpt && <p className="search-excerpt">{highlight(record.excerpt, query)}</p>}<div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
+      <details className="archive-date-note"><summary>প্রকাশের তারিখ সম্পর্কে</summary><PublicationDateNotice /></details>
     </section>
     <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
   </main>;
