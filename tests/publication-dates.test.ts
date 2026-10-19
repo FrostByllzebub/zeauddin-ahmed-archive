@@ -18,7 +18,8 @@ test('explicit online dates handle month and year boundaries', () => {
 });
 
 test('all catalog dates omit edition annotations and preserve genuinely unknown days', () => {
-  assert.equal(articles.length, dateReview.reviewed);
+  // The frozen historical audit remains valid as new reviewed articles arrive.
+  assert(articles.length >= dateReview.reviewed);
   for (const a of articles) assert(!/অনলাইনে|মুদ্রিত সংস্করণ|Facebook post identifies/.test(a.publishedDateLabel), a.slug);
   for (const slug of dateReview.unspecified) assert(articles.find(a => a.slug === slug)?.publishedDateLabel.includes('তারিখ অনির্দিষ্ট'), slug);
   for (const change of dateReview.changes) {

@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-10-18-kali-muchhbe-robi-thakbe",
+    "title": "কালি মুছবে, রবি থাকবে",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-10-18",
+    "publishedDateLabel": "১৮ অক্টোবর ২০২৬"
+  },
+  {
     "slug": "2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota",
     "title": "বিশ্বমঞ্চে ভাষণ: রাজনীতি, অর্থনীতি ও বাস্তবতা",
     "publication": "সংবাদ",
