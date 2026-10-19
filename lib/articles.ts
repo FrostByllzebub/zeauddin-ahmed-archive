@@ -1,3 +1,4 @@
+import { applyArticleMaintenance } from "./article-maintenance";
 import { withOnlinePublicationDate } from "./publication-dates";
 import { folderArticles } from "./folderArticles";
 import { applyBengaliCopyEdits } from "./bengali-copy-edit";
@@ -20,6 +21,7 @@ export type ArchiveArticle = {
   authorNote: string;
   authorCredit: string;
   displayOriginalUrl?: string;
+  printedPublishedAt?: string;
 };
 
 const currentArticles: ArchiveArticle[] = [
@@ -4263,6 +4265,7 @@ export const articles: ArchiveArticle[] = [...currentArticles, ...folderArticles
   .map(withGenerated2024Cover)
   .map(applyBengaliCopyEdits)
   .map(withOnlinePublicationDate)
+  .map(applyArticleMaintenance)
   .sort((a, b) => {
   const dateOrder = b.publishedAt.localeCompare(a.publishedAt);
   return dateOrder || a.title.localeCompare(b.title, "bn");

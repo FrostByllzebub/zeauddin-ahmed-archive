@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import { articles, type ArchiveArticle } from '../lib/articles';
 import ledger from '../reports/bengali-spelling-review.json' with { type: 'json' };
 import dateReview from '../reports/publication-date-review.json' with { type: 'json' };
+import { restoreArticleMaintenance } from '../lib/article-maintenance';
 
 type FieldEvidence = { field: string; before: string; after: string };
 type Review = { number: number; slug: string; status: string; beforeSha256: string; reviewedSha256?: string; fields?: FieldEvidence[]; uncertain?: string[] };
@@ -9,7 +10,7 @@ const hash = (value: unknown) => createHash('sha256').update(JSON.stringify(valu
 
 export function validateBengaliCopyEdits() {
   let reviewed = 0, corrected = 0;
-  const bySlug = new Map(articles.map(article => [article.slug, article]));
+  const bySlug = new Map(articles.map(restoreArticleMaintenance).map(article => [article.slug, article]));
   for (const review of ledger.records as Review[]) {
     if (!review.status.startsWith('REVIEWED')) continue;
     const currentArticle = bySlug.get(review.slug);

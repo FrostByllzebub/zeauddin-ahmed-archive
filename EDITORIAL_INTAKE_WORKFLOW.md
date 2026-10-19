@@ -24,6 +24,8 @@ Approved, paragraph-specific replacements live in `lib/bengaliCopyEdits.json` an
 
 After each corrected column, report its title and exact corrections to the requester. Regenerate derived files through the publication gate before building. Report local draft status separately from successful live publication.
 
+Later owner-approved slug, printed-date and copy corrections are recorded in `reports/article-maintenance.json`. Exact before/after checks apply the supplement and restore the historical identity for the frozen review validator; the original 486-column review remains unchanged. A separate `printedPublishedAt` records print evidence without replacing the displayed online publication date.
+
 - Create a stable `work_id` (for example, `2026-09-19-brics-sangbad`).
 - Save the original title exactly as it appears in the source.
 - Record publication name, issue/edition, date, page number, and original URL when available.

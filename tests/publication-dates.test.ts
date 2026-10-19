@@ -4,6 +4,7 @@ import { articles } from '../lib/articles';
 import { withOnlinePublicationDate } from '../lib/publication-dates';
 import { validateBengaliCopyEdits } from '../scripts/validate-bengali-copy-edits';
 import dateReview from '../reports/publication-date-review.json' with { type: 'json' };
+import { legacyArticleSlugs } from '../lib/articleRedirects';
 
 test('single online date removes printed-edition notes without changing the article', () => {
   const original = { publishedAt: '2024-06-15', publishedDateLabel: '১৫ জুন ২০২৪ (অনলাইনে; মুদ্রিত সংস্করণ ১৬ জুন)', body: ['অপরিবর্তিত পাঠ'] };
@@ -23,7 +24,7 @@ test('all catalog dates omit edition annotations and preserve genuinely unknown 
   for (const a of articles) assert(!/অনলাইনে|মুদ্রিত সংস্করণ|Facebook post identifies/.test(a.publishedDateLabel), a.slug);
   for (const slug of dateReview.unspecified) assert(articles.find(a => a.slug === slug)?.publishedDateLabel.includes('তারিখ অনির্দিষ্ট'), slug);
   for (const change of dateReview.changes) {
-    const a = articles.find(a => a.slug === change.slug)!;
+    const a = articles.find(a => a.slug === (legacyArticleSlugs[change.slug] ?? change.slug))!;
     assert.equal(a.publishedAt, change.after.publishedAt);
     assert.equal(a.publishedDateLabel, change.after.publishedDateLabel);
   }

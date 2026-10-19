@@ -875,7 +875,7 @@ export const archiveMetadata = [
     "publishedDateLabel": "৬ জানুয়ারি ২০২৪"
   },
   {
-    "slug": "2023-12-23-bijoyer-anondo-amake-sprsh-kore-na",
+    "slug": "2023-12-23-bijoyer-anondo-amake-sporsho-kore-na",
     "title": "বিজয়ের আনন্দ আমাকে স্পর্শ করে না",
     "publication": "সংবাদ",
     "publishedAt": "2023-12-23",
