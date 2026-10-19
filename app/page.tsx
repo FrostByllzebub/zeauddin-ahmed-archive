@@ -1,3 +1,4 @@
+import SiteBrand from "../components/site-brand";
 import Link from "../components/safe-link";
 import { articles } from "../lib/articles";
 
@@ -12,7 +13,7 @@ export default function Home() {
   const recentArticles = [...articles].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt) || a.title.localeCompare(b.title, "bn")).slice(0, 3);
   return <main className="site-shell home-page">
     <header className="site-header">
-      <Link className="brand" href="/" aria-label="জিয়ার কলাম আর্কাইভ — হোম"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link>
+      <SiteBrand />
       <nav aria-label="প্রধান নেভিগেশন">{nav.map(([label, href]) => <Link key={href} href={href}>{label}</Link>)}</nav>
     </header>
     <section className="home-hero" aria-labelledby="home-title">
@@ -33,6 +34,6 @@ export default function Home() {
         <p className="home-article-excerpt">{excerpt(article)}</p>
       </article>)}</div>
     </section>
-    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span>© ২০২৬ · <Link href="/policies">নীতি ও যোগাযোগ</Link></span></footer>
+    <footer className="site-footer"><span>জিয়ার দৃষ্টিতে</span><span>© ২০২৬ · <Link href="/policies">নীতি ও যোগাযোগ</Link></span></footer>
   </main>;
 }

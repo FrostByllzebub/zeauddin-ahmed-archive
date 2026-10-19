@@ -10,7 +10,7 @@ const directory = process.argv[process.argv.indexOf('--directory') + 1];
 assert(directory && fs.existsSync(directory), 'A real built HTML directory is required');
 const decode = (s: string) => s.replaceAll('&amp;', '&').replaceAll('&quot;', '"').replaceAll('&#x27;', "'").replaceAll('&lt;', '<').replaceAll('&gt;', '>');
 const routes = [...sitePages.map(page => ({ route: page.path, title: page.title })),
-  ...articles.map(article => ({ route: `/articles/${article.slug}`, title: `${article.title} | জিয়ার কলাম` }))];
+  ...articles.map(article => ({ route: `/articles/${article.slug}`, title: `${article.title} | জিয়ার দৃষ্টিতে` }))];
 for (const { route, title } of routes) {
   const file = path.join(directory, route === '/' ? 'index.html' : route.slice(1) + '.html');
   assert(fs.existsSync(file), `Missing built route: ${route}`);

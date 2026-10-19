@@ -1,3 +1,4 @@
+import SiteBrand from "../../../components/site-brand";
 import type { Metadata } from "next";
 import Link from "../../../components/safe-link";
 import { notFound } from "next/navigation";
@@ -26,7 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const canonical = `/articles/${article.slug}`;
   const description = articleDescription(article);
   const image = editorialCovers[article.slug]?.src ?? article.heroImage;
-  return { title: `${article.title} | জিয়ার কলাম`, description, authors: [{ name: article.author }], alternates: { canonical }, openGraph: { type: "article", url: canonical, title: article.title, description, publishedTime: article.publishedAt, authors: [article.author], section: article.section, images: [{ url: image, alt: editorialCovers[article.slug]?.alt ?? article.title }] }, twitter: { card: "summary", title: article.title, description, images: [image] } };
+  return { title: `${article.title} | জিয়ার দৃষ্টিতে`, description, authors: [{ name: article.author }], alternates: { canonical }, openGraph: { type: "article", url: canonical, title: article.title, description, publishedTime: article.publishedAt, authors: [article.author], section: article.section, images: [{ url: image, alt: editorialCovers[article.slug]?.alt ?? article.title }] }, twitter: { card: "summary", title: article.title, description, images: [image] } };
 }
 
 export default async function ArticlePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -44,11 +45,11 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const sourceUrl = article.displayOriginalUrl || article.originalUrl;
   const sourceUnavailable = brokenSourceUrls.has(article.originalUrl);
   const description = articleDescription(article);
-  const structuredData = { "@context": "https://schema.org", "@type": "Article", headline: article.title, description, image: siteOrigin + heroImage, datePublished: article.publishedAt, author: { "@type": "Person", name: article.author }, publisher: { "@type": "Organization", name: "জিয়ার কলাম", url: siteOrigin }, isPartOf: { "@type": "WebSite", name: "জিয়ার কলাম", url: siteOrigin }, mainEntityOfPage: `${siteOrigin}/articles/${article.slug}` };
+  const structuredData = { "@context": "https://schema.org", "@type": "Article", headline: article.title, description, image: siteOrigin + heroImage, datePublished: article.publishedAt, author: { "@type": "Person", name: article.author }, publisher: { "@type": "Organization", name: "জিয়ার দৃষ্টিতে", url: siteOrigin }, isPartOf: { "@type": "WebSite", name: "জিয়ার দৃষ্টিতে", url: siteOrigin }, mainEntityOfPage: `${siteOrigin}/articles/${article.slug}` };
 
   return <main className="site-shell">
     {legacyArticleSlugs[slug] && <meta httpEquiv="refresh" content={`0;url=/articles/${article.slug}`} />}
-    <header className="site-header"><Link className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link><nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav><Link className="header-action" href="/archive">আর্কাইভ <span aria-hidden="true">↗</span></Link></header>
+    <header className="site-header"><SiteBrand /><nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav><Link className="header-action" href="/archive">আর্কাইভ <span aria-hidden="true">↗</span></Link></header>
     <article className="article-page page-wrap">
       <ArticleReadingTools title={article.title} />
       <nav className="article-breadcrumb" aria-label="লেখার অবস্থান"><Link href="/archive">← আর্কাইভে ফিরুন</Link><span aria-hidden="true">/</span><span aria-current="page">{article.title}</span></nav>
@@ -61,6 +62,6 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <nav className="article-neighbors" aria-label="লেখা পরিবর্তন"><div>{olderArticle && <><span className="eyebrow">আগের লেখা</span><Link href={`/articles/${olderArticle.slug}`}>← {olderArticle.title}</Link></>}</div><div>{newerArticle && <><span className="eyebrow">পরের লেখা</span><Link href={`/articles/${newerArticle.slug}`}>{newerArticle.title} →</Link></>}</div></nav>
     </article>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
-    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
+    <footer className="site-footer"><span>জিয়ার দৃষ্টিতে</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
   </main>;
 }

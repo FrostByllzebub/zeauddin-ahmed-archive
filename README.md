@@ -152,3 +152,5 @@ Publication dates use the online edition throughout the catalog, archive, search
 Archive search provides an accessible clear button and Escape shortcut. Clearing the search words keeps the selected publication and year, restores the corresponding results, and returns focus to the search input; “সব মুছুন” still resets every filter.
 
 The homepage provides a labelled Bengali GET search into the archive and the three newest catalog articles, with publication dates and short excerpts. The collection count follows the catalog automatically; archive policies remain on `/policies`.
+
+The shared `SiteBrand` component displays the জিয়ার দৃষ্টিতে identity and society/time/people tagline on every page; the header and favicon share the letter-free fountain-pen SVG.

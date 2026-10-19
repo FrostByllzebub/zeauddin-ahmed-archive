@@ -1,5 +1,8 @@
 "use client";
 
+import SiteBrand from "../../components/site-brand";
+
+
 import PublicationDateNotice from "../../components/publication-date-notice";
 
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -127,7 +130,7 @@ export default function ArchivePage() {
 
   return <main className="site-shell">
     <header className="site-header">
-      <Link className="brand" href="/"><span className="brand-mark">জে</span><span><strong>জিয়ার কলাম</strong><small>বাংলা লেখার আর্কাইভ</small></span></Link>
+      <SiteBrand />
       <nav aria-label="প্রধান নেভিগেশন"><Link href="/archive">আর্কাইভ</Link><Link href="/memories">স্মৃতির খাতা</Link><Link href="/about">পরিচিতি</Link></nav>
       <Link className="header-action" href="/">হোম <span>↗</span></Link>
     </header>
@@ -147,6 +150,6 @@ export default function ArchivePage() {
       {indexError ? <div className="empty-panel"><div className="empty-stamp" aria-hidden="true">!</div><div><p className="eyebrow">সাময়িক সমস্যা</p><h2>সার্চ প্রস্তুত করা যাচ্ছে না</h2><p>পৃষ্ঠাটি পুনরায় লোড করে আবার চেষ্টা করুন।</p></div></div> : filteredArticles.length === 0 ? <div className="empty-panel"><div className="empty-stamp" aria-hidden="true">০</div><div><p className="eyebrow">{loadingSearch ? "খোঁজা হচ্ছে" : "ফলাফল নেই"}</p><h2>{loadingSearch ? "লেখাগুলোতে শব্দটি খোঁজা হচ্ছে" : "এই খোঁজের সঙ্গে কোনো লেখা মেলেনি"}</h2><p>{loadingSearch ? "এক মুহূর্ত অপেক্ষা করুন।" : "অন্য শব্দ বা ফিল্টার দিয়ে আবার চেষ্টা করুন।"}</p></div></div> : <div className="archive-results">{filteredArticles.map(({ article, record }) => <article className="content-card" key={article.slug}><h2><Link className="archive-article-link" href={`/articles/${article.slug}`}>{queryActive ? highlight(record.title, query) : article.title}</Link></h2>{queryActive && record.excerpt && <p className="search-excerpt">{highlight(record.excerpt, query)}</p>}<div className="article-meta"><time dateTime={article.publishedAt}>{article.publishedDateLabel}</time></div></article>)}</div>}
       <details className="archive-date-note"><summary>প্রকাশের তারিখ সম্পর্কে</summary><PublicationDateNotice /></details>
     </section>
-    <footer className="site-footer"><span>জিয়ার কলাম আর্কাইভ</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
+    <footer className="site-footer"><span>জিয়ার দৃষ্টিতে</span><span><Link href="/policies">কপিরাইট ও যোগাযোগ</Link></span></footer>
   </main>;
 }
