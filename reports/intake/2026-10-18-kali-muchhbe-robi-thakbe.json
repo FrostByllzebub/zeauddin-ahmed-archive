@@ -138,7 +138,20 @@
     "https://sangbad.net/news/20954/",
     "https://bn.wikisource.org/wiki/পাতা:প্রবাসী_(পঞ্চদশ_ভাগ,_প্রথম_খণ্ড).pdf/৮৭"
   ],
-  "pdfStatus": "source-faithful preservation copy generated from publisher HTML; not an original newspaper scan",
+  "pdfStatus": "Original publisher newspaper scan from 18 October 2026, page 9, embedded unchanged in PDF; second PDF page contains publisher-provided article clipping. Replaces the earlier re-typeset online preservation copy. Publisher serves JPG/PNG scans, not a native PDF.",
   "preservationPdf": "/articles/2026-10-18-kali-muchhbe-robi-thakbe.pdf",
-  "sourceImageSha256": "ba3c11c37fce12f074ad060d9f70008546a8afaf83174c3506da619489b9a066"
+  "sourceImageSha256": "ba3c11c37fce12f074ad060d9f70008546a8afaf83174c3506da619489b9a066",
+  "newspaperSource": {
+    "issueDate": "2026-10-18",
+    "page": 9,
+    "issueApi": "https://epaper.sangbad.net/system/api.php?action=get&date=2026-10-18&page=9",
+    "pageImageUrl": "https://epaper.sangbad.net/uploads/2026/October/18Oct26/images/page-9_20261017_211718_5a5bbf9b.jpg",
+    "articleClippingUrl": "https://epaper.sangbad.net/uploads/2026/October/18Oct26/slices/page-9/slice_20261017_211925_887eb2.png",
+    "localClipping": "/articles/2026-10-18-kali-muchhbe-robi-thakbe-newspaper-clipping.png",
+    "pageImageSha256": "36742f1d3eb4ce8594dd5036e1bc4bcb8eda55927781e8ccc6a27d502c9ce06b",
+    "clippingSha256": "219367e2aa164b0e2c7217c86b9bb0aeb7a870d285d8ebcf7c58fc8c7943e449",
+    "pdfSha256": "ea7ac89b2cc1ded300ba114564adb172ac386e90a7fdcddae4298bbf1a9ae9b3",
+    "reviewedAt": "2026-10-18",
+    "reviewNote": "Title, author, date, page number and entire article visually verified against publisher page and clipping. No pixel edits or transcription in replacement PDF."
+  }
 }
