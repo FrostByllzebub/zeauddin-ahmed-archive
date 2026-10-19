@@ -17,3 +17,15 @@ test('corrected slug retains its alias, online date and separate Sunday print da
   changed.body[0].paragraphs[0] += ' অযাচাইকৃত।';
   assert.throws(() => restoreArticleMaintenance(changed), /Reviewed maintenance text changed/);
 });
+
+test('hidden source retains its exact URL and separate next-day print date', () => {
+  const oldSlug = '2023-12-16-transgender-o-samajer-drishtibhongi';
+  const article = articles.find(item => item.slug === legacyArticleSlugs[oldSlug])!;
+  assert.equal(article.slug, '2023-12-16-transgender-o-shomajer-drishtibhongi');
+  assert.equal(article.originalUrl, 'https://sangbad.net.bd/opinion/post-editorial/111580/');
+  assert.equal(article.hideOriginalSource, true);
+  assert.equal(article.publishedAt, '2023-12-16');
+  assert.equal(article.printedPublishedAt, '2023-12-17');
+  assert.equal(new Date(`${article.printedPublishedAt}T12:00:00Z`).getUTCDay(), 0);
+  assert.throws(() => restoreArticleMaintenance({ ...article, hideOriginalSource: false }), /Unrecorded source visibility/);
+});

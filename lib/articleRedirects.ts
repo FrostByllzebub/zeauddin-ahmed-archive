@@ -4,6 +4,7 @@
  * the static route set and redirected by the article page at build time.
  */
 export const legacyArticleSlugs: Record<string, string> = {
+  "2023-12-16-transgender-o-samajer-drishtibhongi": "2023-12-16-transgender-o-shomajer-drishtibhongi",
   "2023-12-23-bijoyer-anondo-amake-sprsh-kore-na": "2023-12-23-bijoyer-anondo-amake-sporsho-kore-na",
   "2018-12-09-aritrir-atmhtya": "2018-12-09-aritrir-attohotta",
   "2018-12-16-birprtik-taramn-bibi": "2018-12-16-birprotik-taramon-bibi",

@@ -7,6 +7,7 @@ export function applyArticleMaintenance(article: ArchiveArticle): ArchiveArticle
   const review = reviews.find(item => item.oldSlug === article.slug);
   if (!review) return article;
   const result = { ...article, slug: review.newSlug, printedPublishedAt: review.printedPublishedAt,
+    ...(review.hideOriginalSource ? { hideOriginalSource: true } : {}),
     body: article.body.map(section => ({ ...section, paragraphs: [...section.paragraphs] })) };
   for (const edit of review.edits) {
     if (result.body[edit.section]?.paragraphs[edit.paragraph] !== edit.before) throw new Error(`Maintenance source drift: ${article.slug}`);
@@ -19,7 +20,8 @@ export function restoreArticleMaintenance(article: ArchiveArticle): ArchiveArtic
   const review = reviews.find(item => item.newSlug === article.slug);
   if (!review) return article;
   if (article.printedPublishedAt !== review.printedPublishedAt) throw new Error(`Unrecorded printed date change: ${article.slug}`);
-  const { printedPublishedAt, ...original } = article;
+  if (article.hideOriginalSource !== review.hideOriginalSource) throw new Error(`Unrecorded source visibility change: ${article.slug}`);
+  const { printedPublishedAt, hideOriginalSource, ...original } = article;
   const result = { ...original, slug: review.oldSlug,
     body: article.body.map(section => ({ ...section, paragraphs: [...section.paragraphs] })) };
   for (const edit of review.edits) {

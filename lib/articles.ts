@@ -22,6 +22,7 @@ export type ArchiveArticle = {
   authorCredit: string;
   displayOriginalUrl?: string;
   printedPublishedAt?: string;
+  hideOriginalSource?: boolean;
 };
 
 const currentArticles: ArchiveArticle[] = [

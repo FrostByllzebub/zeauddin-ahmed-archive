@@ -882,7 +882,7 @@ export const archiveMetadata = [
     "publishedDateLabel": "২৩ ডিসেম্বর ২০২৩"
   },
   {
-    "slug": "2023-12-16-transgender-o-samajer-drishtibhongi",
+    "slug": "2023-12-16-transgender-o-shomajer-drishtibhongi",
     "title": "ট্রান্সজেন্ডার ও সমাজের দৃষ্টিভঙ্গি",
     "publication": "সংবাদ",
     "publishedAt": "2023-12-16",
