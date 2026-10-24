@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-10-24-saudi-arbe-dui-bangladeshir-mrityudondo-rastrer-kutnoitik-byarthota",
+    "title": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড: রাষ্ট্রের কূটনৈতিক ব্যর্থতা",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-10-24",
+    "publishedDateLabel": "২৪ অক্টোবর ২০২৬"
+  },
+  {
     "slug": "2026-10-18-kali-muchhbe-robi-thakbe",
     "title": "কালি মুছবে, রবি থাকবে",
     "publication": "সংবাদ",

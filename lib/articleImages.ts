@@ -187,6 +187,10 @@ export const articleImages: Record<string, { width: number; height: number }> = 
     "width": 1280,
     "height": 720
   },
+  "/articles/2026-10-24-saudi-arbe-dui-bangladeshir-mrityudondo-rastrer-kutnoitik-byarthota.jpg": {
+    "width": 1280,
+    "height": 720
+  },
   "/articles/archive-editorial-default.svg": {
     "width": 1600,
     "height": 900
