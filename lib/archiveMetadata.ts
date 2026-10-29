@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh",
+    "title": "একজন মানিক পশারি ও আজকের বাংলাদেশ",
+    "publication": "চরচা",
+    "publishedAt": "2026-10-28",
+    "publishedDateLabel": "২৮ অক্টোবর ২০২৬"
+  },
+  {
     "slug": "2026-10-24-saudi-arbe-dui-bangladeshir-mrityudondo-rastrer-kutnoitik-byarthota",
     "title": "সৌদি আরবে দুই বাংলাদেশির মৃত্যুদণ্ড: রাষ্ট্রের কূটনৈতিক ব্যর্থতা",
     "publication": "সংবাদ",

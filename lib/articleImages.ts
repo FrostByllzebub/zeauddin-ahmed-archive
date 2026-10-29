@@ -191,6 +191,10 @@ export const articleImages: Record<string, { width: number; height: number }> = 
     "width": 1280,
     "height": 720
   },
+  "/articles/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh.jpg": {
+    "width": 1280,
+    "height": 720
+  },
   "/articles/archive-editorial-default.svg": {
     "width": 1600,
     "height": 900
