@@ -154,3 +154,5 @@ Archive search provides an accessible clear button and Escape shortcut. Clearing
 The homepage provides a labelled Bengali GET search into the archive and the three newest catalog articles, with publication dates and short excerpts. The collection count follows the catalog automatically; archive policies remain on `/policies`.
 
 The shared `SiteBrand` component displays the জিয়ার দৃষ্টিতে identity and society/time/people tagline on every page; the header and favicon share the letter-free fountain-pen SVG.
+
+The memories page uses the Site's D1/R2 service with a protected owner editorial queue, private email/optional phone, separate permissions, contributor management receipts, and a reviewed/published state machine. See `backend/README.md` for the authoritative setup, privacy boundaries and editor workflow. No production example stories are seeded.

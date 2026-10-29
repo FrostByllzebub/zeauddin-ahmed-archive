@@ -1,6 +1,27 @@
 import SiteBrand from "../../components/site-brand";
 import { AdminModerationDashboard } from "../../components/admin-moderation-dashboard";
-
 export default function AdminPage() {
-  return <main className="site-shell"><header className="site-header"><SiteBrand /><a className="header-action" href="/">পাবলিক সাইট <span>↗</span></a></header><section className="page-wrap"><div className="page-heading"><p className="eyebrow">সম্পাদকীয় কর্মক্ষেত্র</p><h1>ব্যক্তিগত<br /><em>সম্পাদকীয় কাজ</em></h1><p>শুধু অনুমোদিত সম্পাদকই Cloudflare Access-এর মাধ্যমে এখানে প্রবেশ করতে পারবেন। এখানে অপেক্ষমাণ স্মৃতি পর্যালোচনা, ব্যক্তিগত যোগাযোগের তথ্য দেখা, ছবির অনুমতি যাচাই এবং প্রকাশের সিদ্ধান্ত নেওয়া হয়।</p></div><AdminModerationDashboard /></section><footer className="site-footer"><span>প্রকাশিত তথ্যের আর্কাইভ</span><span><a href="/policies">নীতি ও যোগাযোগ</a></span></footer></main>;
+  return (
+    <main className="site-shell">
+      <header className="site-header">
+        <SiteBrand />
+        <a className="header-action" href="/memories">
+          স্মৃতির খাতা ↗
+        </a>
+      </header>
+      <section className="memory-admin-page">
+        <p className="eyebrow">সম্পাদকীয় কর্মক্ষেত্র</p>
+        <h1>স্মৃতির পর্যালোচনা</h1>
+        <p>
+          অপেক্ষমাণ → পর্যালোচিত → প্রকাশিত। প্রতিটি সিদ্ধান্ত ব্যক্তিগত ইতিহাসে
+          সংরক্ষিত থাকবে।
+        </p>
+        <AdminModerationDashboard />
+      </section>
+      <footer className="site-footer">
+        <span>জিয়ার দৃষ্টিতে</span>
+        <a href="/policies#memory-privacy">গোপনীয়তা ও প্রকাশের নীতি</a>
+      </footer>
+    </main>
+  );
 }

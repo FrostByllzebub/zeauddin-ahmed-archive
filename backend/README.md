@@ -1,39 +1,41 @@
-# Private memory API
+# Memories: production ownership and operations
 
-The public `zeauddin-memory-api` Worker is the submission boundary for the public memory-book form. A separate `zeauddin-admin-api` Worker serves the editorial queue and is protected as a whole service by Cloudflare Access. This keeps GitHub Pages static while using the free Cloudflare plan for a small D1 queue and private R2 photo storage.
+The active service is the Site Worker at `server/worker.ts`, which routes `/api/memories*` to `server/memories.ts` and delegates ordinary pages to Vinext. Both the Sites and GitHub static frontend use the canonical website API. Existing legacy Worker source in `backend/src/` is retained for history; it is not the active service and should not be deployed for the current memory book.
 
-## Setup
+Owner: the website owner/editor. Last reviewed: 2026-10-29.
 
-1. Create a D1 database and a private R2 bucket in the Cloudflare dashboard.
-2. Copy `wrangler.toml.example` to `wrangler.toml` locally and replace the D1 database ID.
-3. Apply the migration with `npx wrangler d1 migrations apply zeauddin-archive --remote`.
-4. Deploy with `npx wrangler deploy`.
-5. Add the public Worker URL as the GitHub Actions variable `NEXT_PUBLIC_MEMORY_API_URL`.
-6. Deploy the dedicated admin Worker as `zeauddin-admin-api`, with the same D1 and private R2 bindings, attach the custom hostname `admin-api.zeauddinahmed.com`, and add that HTTPS URL as `NEXT_PUBLIC_ADMIN_API_URL`. Using a same-site custom hostname allows the GitHub Pages admin shell to send the Cloudflare Access session to the protected API reliably; do not use the `workers.dev` URL for browser-side admin calls.
-7. Create a Cloudflare Zero Trust organization on the Free plan and protect the entire admin Worker with a Cloudflare Access application. Allow only the editor email.
-8. Add these runtime variables to the admin Worker before using the editorial queue: `ADMIN_EMAIL`, `ACCESS_TEAM_DOMAIN`, and `ACCESS_AUDIENCE`.
+## Data and permission boundaries
 
-Do not commit `wrangler.toml`, API tokens, database IDs, or private R2 URLs. The public form sends only to an explicitly configured HTTPS endpoint.
+- Sites provisions `DB` (D1) and `BUCKET` (private R2) through `.openai/hosting.json`.
+- The `memory_submissions`, `memory_requests`, `memory_events` and `memory_rate_limits` tables own the current workflow. Drizzle migrations are schema-only and ship with publication. No demonstration stories are seeded in production.
+- Private real name, email and optional phone remain server-side and are returned only by the authorized editor API. The public projection is an explicit allowlist. Contributors select a public name or anonymity.
+- Story, photo and optional future-contact permissions are separate. No submission publishes automatically. `pending → reviewed → published` requires two explicit editorial actions. Editing a published story returns it to reviewed. Withdrawal cannot be undone by an editor.
+- Original photos remain in private R2. Only an authorized editor, or a published and photo-consented public memory, can read the image. Responses use `no-store`, including photos, so withdrawal takes effect on subsequent reads.
+- Contributors get an unguessable management receipt. Only its hash is stored. The receipt supports status, correction requests and immediate withdrawal from publication. The source record and audit history remain private after withdrawal. Lost-code requests must be verified manually by the owner using the original email; no unauthenticated reset is implemented.
+- Abuse controls include request-size and file-type limits, file signatures, a honeypot, an hourly limit using a keyed IP digest (raw IPs are not stored), and a unique idempotency key to make network retries safe.
 
-## API
+## Production configuration
 
-- `GET /health` — non-sensitive health check.
-- `POST /api/memories` — accepts multipart form data, validates fields, stores an optional photo privately, and creates a `pending` D1 record.
-- `GET /api/public/memories` — returns only approved, consented memories without private contact fields.
-- `GET /api/admin/memories?status=pending` — Access-JWT-protected editorial queue.
-- `PATCH /api/admin/memories/:id` — Access-JWT-protected approve, reject, restore, or edit action.
-- `GET /api/admin/memories/:id/photo` — Access-JWT-protected private photo review.
-- `GET /api/admin/memories/:id/audit` — Access-JWT-protected audit history for the submission.
+Set `MEMORY_EDITOR_EMAIL` to the verified site owner's ChatGPT identity email and `MEMORY_PRIVACY_KEY` to a random secret through Sites runtime settings. Both are secrets; never commit values or put them in frontend environment variables. Preserve the privacy key across deployments: it also allows retry receipts to be recovered. An authorized identity needs both platform-supplied user ID and the exact owner email. Missing configuration fails closed. Public contribution requires no account; editorial actions require Sites sign-in at `/signin-with-chatgpt?return_to=%2Fadmin`.
 
-The Worker intentionally has no public read endpoint for pending memories. A later authenticated editorial tool should moderate records and publish only approved, consented content.
+The `/admin` HTML is only a public shell. All private reads and writes are authorized server-side. Neither frontend assets nor GitHub contain an editor credential. Do not add a client-side owner bypass.
 
-## Editorial security
+## Local validation
 
-The `/admin/` page is a static GitHub Pages shell; it never contains a database credential or admin token. Private operations are rejected unless the admin Worker verifies a Cloudflare Access RS256 JWT, matching its audience and the configured `ADMIN_EMAIL`. Keep the Access application in front of the entire admin Worker and never expose the D1 or R2 bindings directly. The public Worker remains open only for its validated submission and approved-public-read routes.
+Run `npm run db:generate` after schema edits, review generated SQL, and apply each pending migration once using Wrangler's local D1 command with `--config dist/server/wrangler.json --local --persist-to .wrangler/state --file <migration>`. Sites applies hosted migrations during publication. Never replay or rewrite an applied production migration.
 
-## Storage guardrails
+For a built local preview, put dummy-only local configuration in `dist/server/.dev.vars` after building. It is a disposable build artifact, never an input for publication. Rebuild before packaging; confirm no `.dev.vars*` is included in the artifact. Runtime production secrets live only in Sites settings.
 
-- R2 objects are written through the Worker and are not made public by the bucket configuration.
-- Each uploaded photo is limited to 5 MB and JPG, PNG, or WebP.
-- The application stops accepting photos at 9 GB total, leaving headroom below the 10 GB monthly Standard-storage allowance.
-- Before enabling public photo display, add a Cloudflare billing alert and review R2 usage monthly.
+`tests/memory-workflow.test.ts` runs against real in-memory SQLite with a D1 adapter and private-object fixture. It covers private contact exclusion, anonymous attribution, consent, editor authorization, state transitions, idempotency, uploads, correction history, withdrawal and abuse limits. Browser checks cover desktop/mobile layout, form errors, preview, uploads, submission receipt, approved cards and contributor management. Local QA stories must never be copied into production.
+
+## Editor workflow
+
+1. Open `/admin` and sign in using the existing owner's ChatGPT account.
+2. Review the story, chosen public identity, permissions and any photo. Use the internal note for context.
+3. Mark review complete. Then explicitly approve and publish from the reviewed list, or reject.
+4. Resolve correction requests after reviewing the referenced submission. Use the record ID to find it in the appropriate status list. Story edits retain before/after text in the private event history.
+5. Unpublish when needed. Contributors can independently withdraw with their management code; their withdrawn stories remain private.
+
+## Retention and monitoring
+
+Review the queue and correction requests regularly. No response-time promise is made. Check private file storage usage; uploads stop at a conservative 9 GB application limit. Review rate-limit and rejection behavior if abuse increases. The present public list is bounded to 100 published memories; add server pagination before the collection approaches that size. Do not add filters or search until real content makes them useful.

@@ -53,3 +53,4 @@ backend/wrangler.toml
 # local deployment reconciliation artifacts
 /deployment-artifacts/
 /deployment-reconcile/
+/.dev.vars*
