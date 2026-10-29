@@ -8,6 +8,13 @@
       "when": 1793295735162,
       "tag": "0000_loose_human_cannonball",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1793301964796,
+      "tag": "0001_famous_pet_avengers",
+      "breakpoints": true
     }
   ]
 }

@@ -18,12 +18,12 @@ const origins = new Set([
   "https://www.zeauddinahmed.com",
   "https://zeas-bengali-column-archive.tanvir1990.chatgpt.site",
 ]);
-function allowed(request: Request) {
+export function allowed(request: Request) {
   const u = new URL(request.url),
     o = request.headers.get("origin");
   return !!o && (origins.has(o) || o === u.origin);
 }
-function response(request: Request, data: unknown, status = 200) {
+export function response(request: Request, data: unknown, status = 200) {
   const origin = request.headers.get("origin");
   return new Response(JSON.stringify(data), {
     status,
@@ -100,7 +100,7 @@ async function boundedBody(request: Request) {
     body,
   });
 }
-async function rate(request: Request, env: MemoryEnv, category: string) {
+export async function rate(request: Request, env: MemoryEnv, category: string) {
   const hour = Math.floor(Date.now() / 3600000);
   const key = await digest(
     `${env.MEMORY_PRIVACY_KEY}:${request.headers.get("CF-Connecting-IP") || "unknown"}:${category}:${hour}`,

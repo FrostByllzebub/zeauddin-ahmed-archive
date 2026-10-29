@@ -8,3 +8,5 @@ export const memories = sqliteTable("memories", { id: text("id").primaryKey(), f
 export const auditEvents = sqliteTable("audit_events", { id: integer("id").primaryKey({ autoIncrement: true }), entityType: text("entity_type").notNull(), entityId: text("entity_id").notNull(), action: text("action").notNull(), actorId: text("actor_id"), details: text("details"), createdAt: text("created_at").notNull().default(sql`CURRENT_TIMESTAMP`) });
 
 export * from "./memory-schema";
+
+export * from "./editorial-schema";

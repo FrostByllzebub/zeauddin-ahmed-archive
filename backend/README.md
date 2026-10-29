@@ -39,3 +39,11 @@ For a built local preview, put dummy-only local configuration in `dist/server/.d
 ## Retention and monitoring
 
 Review the queue and correction requests regularly. No response-time promise is made. Check private file storage usage; uploads stop at a conservative 9 GB application limit. Review rate-limit and rejection behavior if abuse increases. The present public list is bounded to 100 published memories; add server pagination before the collection approaches that size. Do not add filters or search until real content makes them useful.
+
+## Private editorial requests (policy page)
+
+`/policies#request-form` accepts corrections, rights/removal and privacy requests at `POST /api/editorial-requests`. Requests require a private email, category, 20–4000 character message and consent; corrections/rights require an archive article URL. An opaque submission key deduplicates network retries. No email is sent automatically. The receipt ID is a reference, not a public lookup capability.
+
+The additive `0001_famous_pet_avengers.sql` migration creates `editorial_requests`. Only the existing owner identity can list pending requests (`GET /api/editorial-requests/admin`) or resolve a request (`POST /api/editorial-requests/admin/:id`, `action: resolve`). The `/admin` queue retains the original private request and resolution identity/time. No public reads, attachments or automatic content changes are available. The same origin check, secret-keyed rate limiter and owner identity check as memories apply; bodies are bounded to 20 KB. Review the queue regularly. No response-time promise is made.
+
+The policy owner is the site owner. Update the visible policy date and section text whenever practice changes; preserve `#memory-privacy` and existing management links.

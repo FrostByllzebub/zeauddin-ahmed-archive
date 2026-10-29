@@ -31,6 +31,11 @@ for (const { route, title } of routes) {
       assert(fs.existsSync(path.join(directory, decode(image[1]).split('?')[0])), `Missing rendered image asset: ${route}: ${image[1]}`);
     }
   }
+  if (route === '/policies') {
+    for (const id of ['about-archive','sources-dates','editing-corrections','copyright','memory-privacy','requests']) assert(html.includes(`id="${id}"`), `Missing policy section: ${id}`);
+    assert(!html.includes('মতামত নীতি'), 'Unavailable public-comment policy returned');
+    assert(html.includes('2026-10-29') && html.includes('request-form'), 'Policy date and private request route required');
+  }
   if (route === '/archive') {
     assert(html.includes('<h1><em>প্রকাশিত লেখার আর্কাইভ</em></h1>'), 'Archive heading must be one italic phrase');
     assert(!html.includes('archive-status-strip'), 'Repetitive archive status strip returned');

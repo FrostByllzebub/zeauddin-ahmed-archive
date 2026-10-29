@@ -1,5 +1,6 @@
 import SiteBrand from "../../components/site-brand";
 import { AdminModerationDashboard } from "../../components/admin-moderation-dashboard";
+import { EditorialRequestQueue } from "../../components/editorial-request-queue";
 export default function AdminPage() {
   return (
     <main className="site-shell">
@@ -17,6 +18,7 @@ export default function AdminPage() {
           সংরক্ষিত থাকবে।
         </p>
         <AdminModerationDashboard />
+        <EditorialRequestQueue />
       </section>
       <footer className="site-footer">
         <span>জিয়ার দৃষ্টিতে</span>
