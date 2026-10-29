@@ -45,7 +45,6 @@ export function MemoryCollection() {
     >
       <div className="memory-section-head">
         <div>
-          <p className="eyebrow">স্মৃতিতে মানুষ</p>
           <h2 id="shared-title">ভাগ করে নেওয়া স্মৃতি</h2>
         </div>
         <a className="text-link" href="#write-memory">

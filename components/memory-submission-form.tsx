@@ -351,16 +351,23 @@ export function MemorySubmissionForm() {
           })}
           <label className="memory-field" htmlFor="memory-story">
             <span>আপনার স্মৃতি বা গল্প *</span>
+            <span id="story-guidance" className="sr-only">
+              বড় লেখা প্রয়োজন নেই। আপনার নিজের দেখা কোনো ঘটনা বা অভিজ্ঞতাই
+              মূল্যবান। প্রথম পরিচয়ের কথা মনে আছে? একসঙ্গে কাজ করার কোনো
+              অভিজ্ঞতা? তাঁর কোনো কথা বা লেখা মনে রয়ে গেছে?
+            </span>
             <textarea
               id="memory-story"
               name="story"
               value={values.story}
-              rows={8}
+              rows={9}
               maxLength={6000}
               required
               aria-invalid={!!errors.story}
-              aria-describedby="story-help story-error"
-              placeholder="কবে পরিচয় হয়েছিল? মনে থাকা একটি মুহূর্ত দিয়ে শুরু করুন…"
+              aria-describedby="story-guidance story-help story-error"
+              placeholder={
+                "বড় লেখা প্রয়োজন নেই। আপনার নিজের দেখা কোনো ঘটনা বা অভিজ্ঞতাই মূল্যবান।\n\n• প্রথম পরিচয়ের কথা মনে আছে?\n• একসঙ্গে কাজ করার কোনো অভিজ্ঞতা?\n• তাঁর কোনো কথা বা লেখা মনে রয়ে গেছে?"
+              }
               onChange={(e) => update("story", e.target.value)}
             />
             <small id="story-help">
@@ -494,8 +501,19 @@ export function MemorySubmissionForm() {
             ))}
           </fieldset>
 
+          <div className="memory-process memory-form-process">
+            <h3>জমার পর কী হয়?</h3>
+            <ol>
+              <li>আপনার জমা ব্যক্তিগতভাবে সংরক্ষিত হয়।</li>
+              <li>সম্পাদক গল্প, অনুমতি ও ছবি পর্যালোচনা করেন।</li>
+              <li>অনুমোদিত স্মৃতি আপনার বেছে নেওয়া পরিচয়ে প্রকাশিত হয়।</li>
+            </ol>
+            <p className="memory-private-note">
+              ব্যক্তিগত যোগাযোগের তথ্য প্রকাশিত হবে না।{" "}
+              <a href="/policies#memory-privacy">গোপনীয়তা ও প্রকাশের নীতি ↗</a>
+            </p>
+          </div>
           <p className="memory-private-note">
-            জমা দিলেই প্রকাশ হবে না। ইমেইল ও ফোন শুধু সম্পাদকীয় যোগাযোগের জন্য।
             জমার পরে পাওয়া গোপন কোড দিয়ে প্রকাশ থেকে প্রত্যাহার বা সংশোধনের
             অনুরোধ করতে পারবেন। <a href="#manage-memory">আরও জানুন</a>
           </p>
