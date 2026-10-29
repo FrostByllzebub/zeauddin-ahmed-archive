@@ -18,6 +18,8 @@ Every canonical built page must have its own correct title/canonical URL. Every 
 
 See EDITORIAL_INTAKE_WORKFLOW.md for editorial approval and publication ownership. Historical source/rights review queues remain in their owner documents.
 
+The retired `/publications` route (including trailing-slash and `.html` variants) permanently redirects to `/archive` on Sites, preserving query parameters. Static exports retain an immediate HTML redirect fallback. It is excluded from navigation and the sitemap; publication filtering remains in the archive.
+
 ## Prerequisites
 
 - Node.js `>=22.13.0`

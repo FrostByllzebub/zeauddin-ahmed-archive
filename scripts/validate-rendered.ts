@@ -15,6 +15,7 @@ for (const { route, title } of routes) {
   const file = path.join(directory, route === '/' ? 'index.html' : route.slice(1) + '.html');
   assert(fs.existsSync(file), `Missing built route: ${route}`);
   const html = fs.readFileSync(file, 'utf8');
+  assert(!/href=["'](?:https:\/\/zeauddinahmed\.com)?\/publications(?:["'?#/])/.test(html), `Retired publications link returned: ${route}`);
   if (route === '/archive' || route === '/policies') {
     assert(html.includes(publicationDateNotice), `Publication date notice missing: ${route}`);
   }
@@ -50,3 +51,7 @@ if (directory === 'out') for (const [alias, canonical] of Object.entries(legacyA
   assert(html.includes(`0;url=/articles/${canonical}`), `Missing static redirect: ${alias}`);
 }
 console.log(`Rendered HTML gate passed for all ${routes.length} canonical routes.`);
+
+const retiredHtml = fs.readFileSync(path.join(directory, 'publications.html'), 'utf8');
+assert(retiredHtml.includes('0;url=/archive'), 'Static publications fallback must redirect to archive');
+assert(!retiredHtml.includes('প্রকাশনা তালিকা প্রস্তুত হচ্ছে'), 'Retired placeholder returned');

@@ -1,12 +1,14 @@
 import { mkdir, writeFile } from "node:fs/promises";
+import { retiredSitePaths } from "../lib/site-redirects";
+import { sitePages } from "../lib/site-pages";
 import { articles } from "../lib/articles";
 import { legacyArticleSlugs } from "../lib/articleRedirects";
 
 const origin = process.env.SITE_ORIGIN ?? "https://zeauddinahmed.com";
 const timeoutMs = 12000;
-const internalPaths = ["/", "/archive", "/memories", "/publications", "/about", "/policies"];
+const internalPaths = sitePages.map(page => page.path);
 const articlePaths = articles.map((article) => `/articles/${article.slug}`);
-const legacyPaths = Object.keys(legacyArticleSlugs).map((slug) => `/articles/${slug}`);
+const legacyPaths = [...retiredSitePaths, ...Object.keys(legacyArticleSlugs).map((slug) => `/articles/${slug}`)];
 const sourceUrls = [...new Set(articles.map((article) => article.originalUrl).filter(Boolean))];
 
 async function checkUrl(url: string, expected: "internal" | "source") {

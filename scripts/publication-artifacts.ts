@@ -1,3 +1,4 @@
+import { retiredSitePaths } from "../lib/site-redirects";
 import { createHash } from 'node:crypto';
 import { articles } from '../lib/articles';
 import { legacyArticleSlugs } from '../lib/articleRedirects';
@@ -40,6 +41,6 @@ export function publicationArtifacts() {
     ...articles.map(article => ({ path: `/articles/${article.slug}`, lastmod: article.publishedAt }))];
   output.set('public/sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(({ path, lastmod }) => `  <url><loc>${escape(siteOrigin + path)}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ''}</url>`).join('\n')}\n</urlset>\n`);
   output.set('public/robots.txt', `User-agent: *\nAllow: /\nDisallow: /admin\nDisallow: /api/\nSitemap: ${siteOrigin}/sitemap.xml\n`);
-  output.set('public/_redirects', Object.entries(legacyArticleSlugs).map(([legacy, canonical]) => `/articles/${legacy} /articles/${canonical} 301`).join('\n') + '\n');
+  output.set('public/_redirects', [...retiredSitePaths.map(route => `${route} /archive 301`), ...Object.entries(legacyArticleSlugs).map(([legacy, canonical]) => `/articles/${legacy} /articles/${canonical} 301`)].join('\n') + '\n');
   return output;
 }
