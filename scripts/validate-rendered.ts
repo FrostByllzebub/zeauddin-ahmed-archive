@@ -52,6 +52,8 @@ if (directory === 'out') for (const [alias, canonical] of Object.entries(legacyA
 }
 console.log(`Rendered HTML gate passed for all ${routes.length} canonical routes.`);
 
+if (directory === 'out') {
 const retiredHtml = fs.readFileSync(path.join(directory, 'publications.html'), 'utf8');
 assert(retiredHtml.includes('0;url=/archive'), 'Static publications fallback must redirect to archive');
 assert(!retiredHtml.includes('প্রকাশনা তালিকা প্রস্তুত হচ্ছে'), 'Retired placeholder returned');
+}
