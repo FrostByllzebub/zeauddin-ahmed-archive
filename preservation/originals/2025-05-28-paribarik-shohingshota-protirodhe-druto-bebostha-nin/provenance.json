@@ -1,0 +1,42 @@
+{
+  "slug": "2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin",
+  "title": "পারিবারিক সহিংসতা প্রতিরোধে দ্রুত ব্যবস্থা নিন",
+  "url": "https://viewsbangladesh.com/bn/take-swift-action-to-prevent-domestic-violence/",
+  "date": "2025-05-28",
+  "checkedAt": "2026-11-01T18:59:35.856Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/take-swift-action-to-prevent-domestic-violence/",
+  "pageTitle": "পারিবারিক সহিংসতা প্রতিরোধে দ্রুত ব্যবস্থা নিন",
+  "headings": [
+    "পারিবারিক সহিংসতা প্রতিরোধে দ্রুত ব্যবস্থা নিন"
+  ],
+  "visibleCharacters": 8244,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin/source.jpg",
+  "visibleText": "preservation/originals/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4559
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin/source.jpg",
+      "bytes": 669358,
+      "sha256": "ee122c452371f842f34c86b40474f7653fe9a9d1ca9c37af069e52308c976cb0"
+    },
+    {
+      "path": "preservation/originals/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin/source.pdf",
+      "bytes": 838908,
+      "sha256": "c52d5b3bbea99d115401451e458b086fb94e3d623dce78d02ef1873aa395dff4"
+    },
+    {
+      "path": "preservation/originals/2025-05-28-paribarik-shohingshota-protirodhe-druto-bebostha-nin/visible-text.txt",
+      "bytes": 21447,
+      "sha256": "5adf38d1116ae70e8a83daae929233c01fb3b6a7fcc1712c0e58ee890844c5ff"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

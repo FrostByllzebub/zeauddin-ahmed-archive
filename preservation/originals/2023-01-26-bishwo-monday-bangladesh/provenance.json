@@ -1,0 +1,42 @@
+{
+  "slug": "2023-01-26-bishwo-monday-bangladesh",
+  "title": "বিশ্বমন্দায় বাংলাদেশ",
+  "url": "https://www.shampratikdeshkal.com/opinion/101806",
+  "date": "2023-01-26",
+  "checkedAt": "2026-11-01T19:02:15.407Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/101806",
+  "pageTitle": "বিশ্ব মন্দায় বাংলাদেশ",
+  "headings": [
+    "বিশ্ব মন্দায় বাংলাদেশ"
+  ],
+  "visibleCharacters": 7988,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-01-26-bishwo-monday-bangladesh/source.jpg",
+  "visibleText": "preservation/originals/2023-01-26-bishwo-monday-bangladesh/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-01-26-bishwo-monday-bangladesh/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4755
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-01-26-bishwo-monday-bangladesh/source.jpg",
+      "bytes": 851498,
+      "sha256": "3c8ca8093fc7ed8971f19f9c6007efd2abce4146dafe2060de223e5a83e11ceb"
+    },
+    {
+      "path": "preservation/originals/2023-01-26-bishwo-monday-bangladesh/source.pdf",
+      "bytes": 1066364,
+      "sha256": "3555dcd11790487f9ecb06d45d2020cf9a5a8c3aea0b1a322019b73e27a2636d"
+    },
+    {
+      "path": "preservation/originals/2023-01-26-bishwo-monday-bangladesh/visible-text.txt",
+      "bytes": 21204,
+      "sha256": "1c9084b3a9daf1526105d81bce4db0e1ea063f5b9ee6fc2e5889bb8b23cb0bf5"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

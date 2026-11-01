@@ -1,0 +1,63 @@
+{
+  "slug": "2026-10-18-kali-muchhbe-robi-thakbe",
+  "title": "কালি মুছবে, রবি থাকবে",
+  "url": "https://sangbad.net/news/20954/",
+  "date": "2026-10-18",
+  "checkedAt": "2026-11-01T18:56:13.114Z",
+  "resolvedUrl": "https://sangbad.net/news/20954/",
+  "pageTitle": "কালি মুছবে, রবি থাকবে | সংবাদ",
+  "headings": [
+    "কালি মুছবে, রবি থাকবে",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’",
+    "রাজনীতি ‘ক্ষমতাকেন্দ্রিক বিজনেস মডেল’ হয়ে উঠছে: ইফতেখারুজ্জামান",
+    "বিমানবাহিনীর সাবেক কর্মকর্তা তাহসিফ হত্যা মামলায় তরুণী রিমান্ডে",
+    "বিজেপি বাংলা লুট করছে, লড়াই চলবে: মমতা",
+    "কাফনের কাপড় পরে আমরণ অনশনে বীর মুক্তিযোদ্ধা",
+    "হটলাইন ১০২ প্রচারে ব্যতিক্রমী উদ্যোগ ফায়ার সার্ভিসের",
+    "‘নবায়নযোগ্য জ্বালানি উৎপাদনে সরকার বিশেষ গুরুত্ব দিচ্ছে’",
+    "পিএসসির নতুন সদস্য হিসেবে শপথ নিলেন অধ্যাপক শামীমা",
+    "‘শ্রমিক আন্দোলনের আড়ালে নাশকতার অপচেষ্টা’: লীগের ১১ নেতাকর্মী আটক",
+    "দেশজুড়ে বর্ণাঢ্য আয়োজনে উদযাপিত হলো ‘জাতীয় যুব দিবস-২০২৬’",
+    "পোশাকশ্রমিকদের ন্যূনতম মজুরি নির্ধারণে ছয় সদস্যের বোর্ড গঠন",
+    "মিরপুরে রণক্ষেত্র, পুলিশের গাড়িতে আগুন, বন্ধ মেট্রোরেল",
+    "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
+    "আটটি ব্যাংকের ঘরে আসেনি কোনো রেমিট্যান্স",
+    "গাজীপুরে দিনভর তাণ্ডব, শতাধিক কারখানায় ছুটি",
+    "পত্রিকা ছিঁড়ে ফেলার ঘটনায় সম্পাদক পরিষদের নিন্দা",
+    "যুব দিবসে ৫ যুবক পেলেন ৫ লাখ টাকার ঋণ",
+    "শেরপুরে ৬৬ লাখ টাকার সড়ক নির্মাণে অনিয়মের অভিযোগ",
+    "ঢাকা-টাঙ্গাইল মহাসড়কে শ্রমিক-পুলিশ সংঘাত, বিজিবি মোতায়েন",
+    "কালি মুছবে, রবি থাকবে"
+  ],
+  "visibleCharacters": 6791,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-10-18-kali-muchhbe-robi-thakbe/source.jpg",
+  "visibleText": "preservation/originals/2026-10-18-kali-muchhbe-robi-thakbe/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2026-10-18-kali-muchhbe-robi-thakbe/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3584
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-10-18-kali-muchhbe-robi-thakbe/source.jpg",
+      "bytes": 764545,
+      "sha256": "781e73dbb2008df434bc04923809252c1cb5e80403e1a3a0c7dab1a981e2a552"
+    },
+    {
+      "path": "preservation/originals/2026-10-18-kali-muchhbe-robi-thakbe/source.pdf",
+      "bytes": 957656,
+      "sha256": "7ea9d1ca4a72944cdcaa42d347149a3a6ef7d23d79169fa59105c22d62578ce3"
+    },
+    {
+      "path": "preservation/originals/2026-10-18-kali-muchhbe-robi-thakbe/visible-text.txt",
+      "bytes": 17983,
+      "sha256": "6c0425936483e621fd7944ea41fd2aa5138af0f531ab1d5ba9c8608c720574d1"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

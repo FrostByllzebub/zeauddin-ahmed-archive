@@ -1,0 +1,42 @@
+{
+  "slug": "2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh",
+  "title": "একজন মানিক পশারি ও আজকের বাংলাদেশ",
+  "url": "https://www.chaarcha.com/thoughts/chcsrk62xwxp",
+  "date": "2026-10-28",
+  "checkedAt": "2026-11-01T18:56:08.145Z",
+  "resolvedUrl": "https://www.chaarcha.com/thoughts/chcsrk62xwxp",
+  "pageTitle": "একজন মানিক পশারী ও আজকের বাংলাদেশ",
+  "headings": [
+    "একজন মানিক পশারী ও আজকের বাংলাদেশ"
+  ],
+  "visibleCharacters": 6787,
+  "titleScore": 0.8,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh/source.jpg",
+  "visibleText": "preservation/originals/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 5005
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh/source.jpg",
+      "bytes": 755569,
+      "sha256": "07fde2c9ae1104dd29c4a8fefbdc150e970416a08b18c42d9c9fbbf6ddb4c2bf"
+    },
+    {
+      "path": "preservation/originals/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh/source.pdf",
+      "bytes": 946532,
+      "sha256": "3f73b7182b1d9238c10f12878cfc677088d6dd9284485a4113eb56fe562fcb5c"
+    },
+    {
+      "path": "preservation/originals/2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh/visible-text.txt",
+      "bytes": 18065,
+      "sha256": "b49fdd56c72e8e71158b1f96a9bf99a62f2416972d2476affbd7330e5098728a"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

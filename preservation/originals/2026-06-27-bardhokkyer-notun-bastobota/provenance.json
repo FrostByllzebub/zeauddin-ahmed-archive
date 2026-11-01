@@ -1,0 +1,46 @@
+{
+  "slug": "2026-06-27-bardhokkyer-notun-bastobota",
+  "title": "বার্ধক্যের নতুন বাস্তবতা",
+  "url": "https://sangbad.net/news/9440/",
+  "date": "2026-06-27",
+  "checkedAt": "2026-11-01T18:57:21.815Z",
+  "resolvedUrl": "https://sangbad.net/news/9440/",
+  "pageTitle": "বার্ধক্যের নতুন বাস্তবতা | সংবাদ",
+  "headings": [
+    "বার্ধক্যের নতুন বাস্তবতা",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6161,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:05:10.389Z",
+  "bodyMatches": 7,
+  "screenshot": "preservation/originals/2026-06-27-bardhokkyer-notun-bastobota/source.jpg",
+  "visibleText": "preservation/originals/2026-06-27-bardhokkyer-notun-bastobota/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-06-27-bardhokkyer-notun-bastobota/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 3509
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-06-27-bardhokkyer-notun-bastobota/source.jpg",
+      "bytes": 720585,
+      "sha256": "ab4d98767c3d1a81a1ae73a7356081ce4b3501c69a2fe92215a4dbd4ada178ab"
+    },
+    {
+      "path": "preservation/originals/2026-06-27-bardhokkyer-notun-bastobota/source.pdf",
+      "bytes": 902612,
+      "sha256": "938642db781eb77399fafae19780a5186d22e6b55adf0b697f627101daf1a32a"
+    },
+    {
+      "path": "preservation/originals/2026-06-27-bardhokkyer-notun-bastobota/visible-text.txt",
+      "bytes": 16249,
+      "sha256": "7239a6bbd40faf8ffa0a7cbf7ee2187a5a16d3d4e9337ac3ec6a0b8be32c7f30"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

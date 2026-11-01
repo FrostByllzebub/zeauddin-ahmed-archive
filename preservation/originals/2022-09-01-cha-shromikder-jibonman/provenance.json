@@ -1,0 +1,42 @@
+{
+  "slug": "2022-09-01-cha-shromikder-jibonman",
+  "title": "চা শ্রমিকদের জীবনমান",
+  "url": "https://www.shampratikdeshkal.com/opinion/88588",
+  "date": "2022-09-01",
+  "checkedAt": "2026-11-01T19:03:04.548Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/88588",
+  "pageTitle": "চা শ্রমিকদের জীবনমান",
+  "headings": [
+    "চা শ্রমিকদের জীবনমান"
+  ],
+  "visibleCharacters": 7662,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-09-01-cha-shromikder-jibonman/source.jpg",
+  "visibleText": "preservation/originals/2022-09-01-cha-shromikder-jibonman/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2022-09-01-cha-shromikder-jibonman/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4015
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-09-01-cha-shromikder-jibonman/source.jpg",
+      "bytes": 724069,
+      "sha256": "d657f8fe137671489f10126f661fe8ff927e76e84a6cca4c9ece71c56dcf6274"
+    },
+    {
+      "path": "preservation/originals/2022-09-01-cha-shromikder-jibonman/source.pdf",
+      "bytes": 907066,
+      "sha256": "404de8d1fc25bde21600cfb077cfcf2338e041be34d480128cdc545c72f3847b"
+    },
+    {
+      "path": "preservation/originals/2022-09-01-cha-shromikder-jibonman/visible-text.txt",
+      "bytes": 20243,
+      "sha256": "7a09ee0925968c52242eb1acabe619e982c9fdf14db12ccb22002874fe1940ef"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

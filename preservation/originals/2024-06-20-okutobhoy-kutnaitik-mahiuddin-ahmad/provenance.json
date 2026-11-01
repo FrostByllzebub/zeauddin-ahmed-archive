@@ -1,0 +1,42 @@
+{
+  "slug": "2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad",
+  "title": "অকুতোভয় কূটনীতিক মহিউদ্দিন আহমেদ",
+  "url": "https://bn.viewsbangladesh.com/fearless-diplomat-mohiuddin-ahmad/",
+  "date": "2024-06-20",
+  "checkedAt": "2026-11-01T19:00:18.750Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/fearless-diplomat-mohiuddin-ahmad/",
+  "pageTitle": "অকুতোভয় কূটনীতিক মহিউদ্দিন আহমদ",
+  "headings": [
+    "অকুতোভয় কূটনীতিক মহিউদ্দিন আহমদ"
+  ],
+  "visibleCharacters": 9011,
+  "titleScore": 0.75,
+  "status": "captured",
+  "screenshot": "preservation/originals/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad/source.jpg",
+  "visibleText": "preservation/originals/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4802
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad/source.jpg",
+      "bytes": 805561,
+      "sha256": "87164c11eb107d2ef9b850d1765f8ae457655f3b4d5829ec1c29265d838197f6"
+    },
+    {
+      "path": "preservation/originals/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad/source.pdf",
+      "bytes": 1009037,
+      "sha256": "4728c2e5b0adda792ec4ed217fe45d90bf0d25784e2218098d793386fe1034cd"
+    },
+    {
+      "path": "preservation/originals/2024-06-20-okutobhoy-kutnaitik-mahiuddin-ahmad/visible-text.txt",
+      "bytes": 23666,
+      "sha256": "3abd512984a9f20f51341844c95e7f6133378e838f85dd90b90bcb782873a1dc"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

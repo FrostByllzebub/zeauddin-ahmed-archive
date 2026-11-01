@@ -1,0 +1,42 @@
+{
+  "slug": "2024-07-31-shobai-shofolotar-bhagidar-hote-chay",
+  "title": "সবাই সফলতার ভাগীদার হতে চায়",
+  "url": "https://www.shampratikdeshkal.com/opinion/149050",
+  "date": "2024-07-31",
+  "checkedAt": "2026-11-01T19:00:17.692Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/149050",
+  "pageTitle": "সবাই কেবল সফলতার ভাগীদার হতে চায়",
+  "headings": [
+    "সবাই কেবল সফলতার ভাগীদার হতে চায়"
+  ],
+  "visibleCharacters": 7964,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2024-07-31-shobai-shofolotar-bhagidar-hote-chay/source.jpg",
+  "visibleText": "preservation/originals/2024-07-31-shobai-shofolotar-bhagidar-hote-chay/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2024-07-31-shobai-shofolotar-bhagidar-hote-chay/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4175
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2024-07-31-shobai-shofolotar-bhagidar-hote-chay/source.jpg",
+      "bytes": 763523,
+      "sha256": "69d38f2e6cf933528be10de5e163f1d50cc668a810a45d0c69e5b05887089f92"
+    },
+    {
+      "path": "preservation/originals/2024-07-31-shobai-shofolotar-bhagidar-hote-chay/source.pdf",
+      "bytes": 956440,
+      "sha256": "a25e031546b8a04ca8f93cfe3d5f831cb16cbf093ac1116d280370214a4e0a9b"
+    },
+    {
+      "path": "preservation/originals/2024-07-31-shobai-shofolotar-bhagidar-hote-chay/visible-text.txt",
+      "bytes": 21190,
+      "sha256": "a372e1c077e3227265d5559916dc2bdf3324794ec0878f1e875290a21fd3c3e1"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-29-jongibad-niye-jatishongher-udbeg",
+  "title": "জঙ্গিবাদ নিয়ে জাতিসংঘের উদ্বেগ",
+  "url": "https://sangbad.net/news/15800/",
+  "date": "2026-08-29",
+  "checkedAt": "2026-11-01T18:56:42.060Z",
+  "resolvedUrl": "https://sangbad.net/news/15800/",
+  "pageTitle": "জঙ্গিবাদ নিয়ে জাতিসংঘের উদ্বেগ | সংবাদ",
+  "headings": [
+    "জঙ্গিবাদ নিয়ে জাতিসংঘের উদ্বেগ",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6066,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-08-29-jongibad-niye-jatishongher-udbeg/source.jpg",
+  "visibleText": "preservation/originals/2026-08-29-jongibad-niye-jatishongher-udbeg/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-08-29-jongibad-niye-jatishongher-udbeg/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3168
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-08-29-jongibad-niye-jatishongher-udbeg/source.jpg",
+      "bytes": 658159,
+      "sha256": "5c0947b40b37945f9576cbfcb279213119ceb3e9f750ba009bf4a5cbc4b2e518"
+    },
+    {
+      "path": "preservation/originals/2026-08-29-jongibad-niye-jatishongher-udbeg/source.pdf",
+      "bytes": 824734,
+      "sha256": "2a81a4405bc2cca9acae8963c1824779cab0dbfa2326053b51f8326c497bb95a"
+    },
+    {
+      "path": "preservation/originals/2026-08-29-jongibad-niye-jatishongher-udbeg/visible-text.txt",
+      "bytes": 16091,
+      "sha256": "7b63dbf557b1f33e3feb377ff5c34d16ca30d0eac2ba8ba1a1e15462ed09cf00"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

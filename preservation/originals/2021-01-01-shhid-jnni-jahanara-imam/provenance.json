@@ -1,0 +1,42 @@
+{
+  "slug": "2021-01-01-shhid-jnni-jahanara-imam",
+  "title": "শহীদ জননী জাহানারা ইমাম",
+  "url": "https://www.shampratikdeshkal.com/opinion/48257",
+  "date": "2021-06-26",
+  "checkedAt": "2026-11-01T19:03:35.409Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/48257",
+  "pageTitle": "শহীদ জননী জাহানারা ইমাম",
+  "headings": [
+    "শহীদ জননী জাহানারা ইমাম"
+  ],
+  "visibleCharacters": 6849,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2021-01-01-shhid-jnni-jahanara-imam/source.jpg",
+  "visibleText": "preservation/originals/2021-01-01-shhid-jnni-jahanara-imam/visible-text.txt",
+  "bodyEvidenceMatches": 11,
+  "pdf": "preservation/originals/2021-01-01-shhid-jnni-jahanara-imam/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3705
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2021-01-01-shhid-jnni-jahanara-imam/source.jpg",
+      "bytes": 640055,
+      "sha256": "1d8f65be6fc39ba0fe9390dad2e781c571a8c535ca7fd1e98e2130e9418d0206"
+    },
+    {
+      "path": "preservation/originals/2021-01-01-shhid-jnni-jahanara-imam/source.pdf",
+      "bytes": 802075,
+      "sha256": "6642763a915e7ef10dbaa1eec37641db082d50851a6335c9a603b117c8d58f23"
+    },
+    {
+      "path": "preservation/originals/2021-01-01-shhid-jnni-jahanara-imam/visible-text.txt",
+      "bytes": 18363,
+      "sha256": "45e2cec203b33c6813c620cf3e62c319fc58fa7dedd424358c6fd9d4c690106d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

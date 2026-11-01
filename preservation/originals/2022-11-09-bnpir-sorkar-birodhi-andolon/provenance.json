@@ -1,0 +1,46 @@
+{
+  "slug": "2022-11-09-bnpir-sorkar-birodhi-andolon",
+  "title": "বিএনপি’র সরকারবিরোধী আন্দোলন",
+  "url": "https://www.dainikbangla.com.bd/opinion/4992/1667969943",
+  "date": "2022-11-09",
+  "checkedAt": "2026-11-01T19:02:39.516Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/4992/1667969943",
+  "pageTitle": "বিএনপির সরকারবিরোধী আন্দোলন",
+  "headings": [
+    "বিএনপির সরকারবিরোধী আন্দোলন"
+  ],
+  "visibleCharacters": 102516,
+  "titleScore": 1,
+  "status": "captured",
+  "excerpt": "সর্বশেষ\nজাতীয়\nসারাবাংলা\nরাজধানী\nআন্তর্জাতিক\nরাজনীতি\nঅর্থ-বাণিজ্য\nখেলা\nকর্পোরেট\nআইন ও বিচার\nতথ্যপ্রযুক্তি\nঅন্যান্য\nসোমবার, ২ নভেম্বর ২০২৬\n১৭ কার্তিক ১৪৩৩\nই-পেপার",
+  "retriedAt": "2026-11-01T19:11:57.339Z",
+  "bodyMatches": 3,
+  "screenshot": "preservation/originals/2022-11-09-bnpir-sorkar-birodhi-andolon/source.jpg",
+  "visibleText": "preservation/originals/2022-11-09-bnpir-sorkar-birodhi-andolon/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2022-11-09-bnpir-sorkar-birodhi-andolon/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6597
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-11-09-bnpir-sorkar-birodhi-andolon/source.jpg",
+      "bytes": 1104596,
+      "sha256": "dfbcf4cbd0940de5374e9572949a65cdebce174e2f1376fb3479bac53d5abc3f"
+    },
+    {
+      "path": "preservation/originals/2022-11-09-bnpir-sorkar-birodhi-andolon/source.pdf",
+      "bytes": 1382676,
+      "sha256": "0d8b8523a47cdceac4ad6fa061e0846d38d5366e155d2daae37a26a4c42d2bb6"
+    },
+    {
+      "path": "preservation/originals/2022-11-09-bnpir-sorkar-birodhi-andolon/visible-text.txt",
+      "bytes": 23282,
+      "sha256": "e1866669e3e892d571bca094c08698551ac9dbecd66090633b133a98587d44fb"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

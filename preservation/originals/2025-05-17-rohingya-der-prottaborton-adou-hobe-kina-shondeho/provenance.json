@@ -1,0 +1,42 @@
+{
+  "slug": "2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho",
+  "title": "রোহিঙ্গাদের প্রত্যাবর্তন আদৌ হবে কি না সন্দেহ",
+  "url": "https://viewsbangladesh.com/bn/doubtful-whether-rohingya-repatriation-will-happen-at-all/",
+  "date": "2025-05-17",
+  "checkedAt": "2026-11-01T18:59:37.998Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/doubtful-whether-rohingya-repatriation-will-happen-at-all/",
+  "pageTitle": "রোহিঙ্গাদের প্রত্যাবর্তন আদৌ হবে কি না সন্দেহ",
+  "headings": [
+    "রোহিঙ্গাদের প্রত্যাবর্তন আদৌ হবে কি না সন্দেহ"
+  ],
+  "visibleCharacters": 8656,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho/source.jpg",
+  "visibleText": "preservation/originals/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4598
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho/source.jpg",
+      "bytes": 792706,
+      "sha256": "f7f8c89f66d670567029dd36420a57f03b061c34f7907378205f608590771849"
+    },
+    {
+      "path": "preservation/originals/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho/source.pdf",
+      "bytes": 993090,
+      "sha256": "4b3c1168aaa8696f1059e438d6cb39a1952b987b444009d781b8a973955e9350"
+    },
+    {
+      "path": "preservation/originals/2025-05-17-rohingya-der-prottaborton-adou-hobe-kina-shondeho/visible-text.txt",
+      "bytes": 22821,
+      "sha256": "c112fd973f46cae9b94b3db1b89617011ff427af071b8e3ba62ea3d3b01c30f0"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

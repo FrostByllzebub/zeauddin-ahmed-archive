@@ -1,0 +1,42 @@
+{
+  "slug": "2021-09-04-bhyaksin-churir-ghtna",
+  "title": "ভ্যাকসিন চুরির ঘটনা",
+  "url": "https://shampratikdeshkal.com/opinion/news/210955522/%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE?fbclid=IwAR1kplpdt5gUtdf4BlEFqPalDTbSDzuXHhOKpjORWlPQF4pvD-fVzNxFtps",
+  "date": "2021-09-04",
+  "checkedAt": "2026-11-01T19:03:33.082Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/news/210955522/%E0%A6%AD%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B8%E0%A6%BF%E0%A6%A8-%E0%A6%9A%E0%A7%81%E0%A6%B0%E0%A6%BF%E0%A6%B0-%E0%A6%98%E0%A6%9F%E0%A6%A8%E0%A6%BE?fbclid=IwAR1kplpdt5gUtdf4BlEFqPalDTbSDzuXHhOKpjORWlPQF4pvD-fVzNxFtps",
+  "pageTitle": "ভ্যাকসিন চুরির ঘটনা",
+  "headings": [
+    "ভ্যাকসিন চুরির ঘটনা"
+  ],
+  "visibleCharacters": 6867,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2021-09-04-bhyaksin-churir-ghtna/source.jpg",
+  "visibleText": "preservation/originals/2021-09-04-bhyaksin-churir-ghtna/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2021-09-04-bhyaksin-churir-ghtna/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3825
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2021-09-04-bhyaksin-churir-ghtna/source.jpg",
+      "bytes": 658002,
+      "sha256": "373bbaf1f8be534f6511686fb4452f7d0b401499b3175fd5f2bddc9bf0290011"
+    },
+    {
+      "path": "preservation/originals/2021-09-04-bhyaksin-churir-ghtna/source.pdf",
+      "bytes": 824709,
+      "sha256": "ee2b63f6a8481421c63aed9a714d390a2691d3562528fe4b5c2252a53e51cde2"
+    },
+    {
+      "path": "preservation/originals/2021-09-04-bhyaksin-churir-ghtna/visible-text.txt",
+      "bytes": 18225,
+      "sha256": "9547920660a12e51b3d974cd6a2a1be3857b751052a3c0e04b7edc88e7a10da8"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

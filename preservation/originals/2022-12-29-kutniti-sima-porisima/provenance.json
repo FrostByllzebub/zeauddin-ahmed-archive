@@ -1,0 +1,42 @@
+{
+  "slug": "2022-12-29-kutniti-sima-porisima",
+  "title": "কূটনীতি: সীমা-পরিসীমা",
+  "url": "https://www.shampratikdeshkal.com/opinion/99360",
+  "date": "2022-12-29",
+  "checkedAt": "2026-11-01T19:02:28.079Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/99360",
+  "pageTitle": "কূটনীতি : সীমা-পরিসীমা",
+  "headings": [
+    "কূটনীতি : সীমা-পরিসীমা"
+  ],
+  "visibleCharacters": 8662,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-12-29-kutniti-sima-porisima/source.jpg",
+  "visibleText": "preservation/originals/2022-12-29-kutniti-sima-porisima/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2022-12-29-kutniti-sima-porisima/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4355
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-12-29-kutniti-sima-porisima/source.jpg",
+      "bytes": 830680,
+      "sha256": "ee12cc14a96895ab3c87542572c24b874b12e2b768353ea4233d15a46cd9b48f"
+    },
+    {
+      "path": "preservation/originals/2022-12-29-kutniti-sima-porisima/source.pdf",
+      "bytes": 1040337,
+      "sha256": "a679115d0e6e658d52e9503562816eb47ce7503f66d560fbb1991daf433e596b"
+    },
+    {
+      "path": "preservation/originals/2022-12-29-kutniti-sima-porisima/visible-text.txt",
+      "bytes": 23199,
+      "sha256": "30019166714688f790850a9ddebc8192e9e2462c3f5d744e3df2694fcd6a10cd"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

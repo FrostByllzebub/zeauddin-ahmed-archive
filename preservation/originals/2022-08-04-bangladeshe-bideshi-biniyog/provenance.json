@@ -1,0 +1,42 @@
+{
+  "slug": "2022-08-04-bangladeshe-bideshi-biniyog",
+  "title": "বাংলাদেশে বিদেশি বিনিয়োগ",
+  "url": "https://www.shampratikdeshkal.com/opinion/85933",
+  "date": "2022-08-04",
+  "checkedAt": "2026-11-01T19:03:06.617Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/85933",
+  "pageTitle": "বাংলাদেশে বিদেশি বিনিয়োগ",
+  "headings": [
+    "বাংলাদেশে বিদেশি বিনিয়োগ"
+  ],
+  "visibleCharacters": 6834,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-08-04-bangladeshe-bideshi-biniyog/source.jpg",
+  "visibleText": "preservation/originals/2022-08-04-bangladeshe-bideshi-biniyog/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2022-08-04-bangladeshe-bideshi-biniyog/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3705
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-08-04-bangladeshe-bideshi-biniyog/source.jpg",
+      "bytes": 649618,
+      "sha256": "239f4027d2570b44a548aa94856ec74448bf3462b23c17897aea9002f3629124"
+    },
+    {
+      "path": "preservation/originals/2022-08-04-bangladeshe-bideshi-biniyog/source.pdf",
+      "bytes": 814035,
+      "sha256": "651909268f228c134d52c79b45f7871c3f65a9bc9642430411c1f8c923904240"
+    },
+    {
+      "path": "preservation/originals/2022-08-04-bangladeshe-bideshi-biniyog/visible-text.txt",
+      "bytes": 18260,
+      "sha256": "a1251b3e8c88ba9eface5a7beb92ae65a2b14997296af65c758c3a3fb1472a19"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

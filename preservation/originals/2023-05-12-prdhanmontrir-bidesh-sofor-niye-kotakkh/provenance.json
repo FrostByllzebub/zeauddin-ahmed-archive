@@ -1,0 +1,45 @@
+{
+  "slug": "2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh",
+  "title": "প্রধানমন্ত্রীর বিদেশ সফর নিয়ে কটাক্ষ",
+  "url": "https://www.dainikbangla.com.bd/opinion/21525/1684036579",
+  "date": "2023-05-12",
+  "checkedAt": "2026-11-01T19:01:32.429Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/21525/1684036579",
+  "pageTitle": "প্রধানমন্ত্রীর বিদেশ সফর নিয়ে কেন কটাক্ষ?",
+  "headings": [
+    "প্রধানমন্ত্রীর বিদেশ সফর নিয়ে কেন কটাক্ষ?"
+  ],
+  "visibleCharacters": 116619,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:10:51.302Z",
+  "bodyMatches": 2,
+  "screenshot": "preservation/originals/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh/source.jpg",
+  "visibleText": "preservation/originals/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 5897
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh/source.jpg",
+      "bytes": 897791,
+      "sha256": "e51cd9ff2e717c26783892147b919a17a79f616654623900d712d5b6f5206434"
+    },
+    {
+      "path": "preservation/originals/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh/source.pdf",
+      "bytes": 1124241,
+      "sha256": "ea0d156814bd7f174182ed93d9a7f9c774102c210642ad0d45a347fc3f8c9cce"
+    },
+    {
+      "path": "preservation/originals/2023-05-12-prdhanmontrir-bidesh-sofor-niye-kotakkh/visible-text.txt",
+      "bytes": 17180,
+      "sha256": "149e655a64a71ef061f635ae6b97b4f3d63866d9bf5fd41bf453b79c88a133c7"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

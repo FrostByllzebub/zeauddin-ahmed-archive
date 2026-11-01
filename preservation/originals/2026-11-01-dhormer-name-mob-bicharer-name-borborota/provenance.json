@@ -1,0 +1,63 @@
+{
+  "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
+  "title": "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
+  "url": "https://sangbad.net/news/22250/",
+  "date": "2026-11-01",
+  "checkedAt": "2026-11-01T18:56:05.450Z",
+  "resolvedUrl": "https://sangbad.net/news/22250/",
+  "pageTitle": "ধর্মের নামে মব, বিচারের নামে বর্বরতা | সংবাদ",
+  "headings": [
+    "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’",
+    "রাজনীতি ‘ক্ষমতাকেন্দ্রিক বিজনেস মডেল’ হয়ে উঠছে: ইফতেখারুজ্জামান",
+    "বিমানবাহিনীর সাবেক কর্মকর্তা তাহসিফ হত্যা মামলায় তরুণী রিমান্ডে",
+    "বিজেপি বাংলা লুট করছে, লড়াই চলবে: মমতা",
+    "কাফনের কাপড় পরে আমরণ অনশনে বীর মুক্তিযোদ্ধা",
+    "হটলাইন ১০২ প্রচারে ব্যতিক্রমী উদ্যোগ ফায়ার সার্ভিসের",
+    "‘নবায়নযোগ্য জ্বালানি উৎপাদনে সরকার বিশেষ গুরুত্ব দিচ্ছে’",
+    "পিএসসির নতুন সদস্য হিসেবে শপথ নিলেন অধ্যাপক শামীমা",
+    "‘শ্রমিক আন্দোলনের আড়ালে নাশকতার অপচেষ্টা’: লীগের ১১ নেতাকর্মী আটক",
+    "দেশজুড়ে বর্ণাঢ্য আয়োজনে উদযাপিত হলো ‘জাতীয় যুব দিবস-২০২৬’",
+    "পোশাকশ্রমিকদের ন্যূনতম মজুরি নির্ধারণে ছয় সদস্যের বোর্ড গঠন",
+    "মিরপুরে রণক্ষেত্র, পুলিশের গাড়িতে আগুন, বন্ধ মেট্রোরেল",
+    "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
+    "আটটি ব্যাংকের ঘরে আসেনি কোনো রেমিট্যান্স",
+    "গাজীপুরে দিনভর তাণ্ডব, শতাধিক কারখানায় ছুটি",
+    "পত্রিকা ছিঁড়ে ফেলার ঘটনায় সম্পাদক পরিষদের নিন্দা",
+    "যুব দিবসে ৫ যুবক পেলেন ৫ লাখ টাকার ঋণ",
+    "শেরপুরে ৬৬ লাখ টাকার সড়ক নির্মাণে অনিয়মের অভিযোগ",
+    "ঢাকা-টাঙ্গাইল মহাসড়কে শ্রমিক-পুলিশ সংঘাত, বিজিবি মোতায়েন",
+    "ধর্মের নামে মব, বিচারের নামে বর্বরতা"
+  ],
+  "visibleCharacters": 6719,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-11-01-dhormer-name-mob-bicharer-name-borborota/source.jpg",
+  "visibleText": "preservation/originals/2026-11-01-dhormer-name-mob-bicharer-name-borborota/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2026-11-01-dhormer-name-mob-bicharer-name-borborota/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3554
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-11-01-dhormer-name-mob-bicharer-name-borborota/source.jpg",
+      "bytes": 789592,
+      "sha256": "fffc101fb44028202a85f61c82ece924311c4bf0ce18abf94844e5e02ed163b8"
+    },
+    {
+      "path": "preservation/originals/2026-11-01-dhormer-name-mob-bicharer-name-borborota/source.pdf",
+      "bytes": 989068,
+      "sha256": "9a27d08206d2cc69991d27d684d4471c2bbc5ed5317023f1c4a33ec06b656464"
+    },
+    {
+      "path": "preservation/originals/2026-11-01-dhormer-name-mob-bicharer-name-borborota/visible-text.txt",
+      "bytes": 17767,
+      "sha256": "07bf42d2c12f1dfe02339745574722683655772f98ddb9741901d4a7b3ca8501"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

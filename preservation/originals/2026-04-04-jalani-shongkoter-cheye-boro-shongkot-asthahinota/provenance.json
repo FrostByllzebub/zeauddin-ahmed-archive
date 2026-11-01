@@ -1,0 +1,44 @@
+{
+  "slug": "2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota",
+  "title": "জ্বালানি সংকটের চেয়ে বড় সংকট আস্থাহীনতা",
+  "url": "https://sangbad.net/news/1574/",
+  "date": "2026-04-04",
+  "checkedAt": "2026-11-01T18:58:18.144Z",
+  "resolvedUrl": "https://sangbad.net/news/1574/",
+  "pageTitle": "জ্বালানি সংকটের চেয়ে বড় সংকট আস্থাহীনতা | সংবাদ",
+  "headings": [
+    "জ্বালানি সংকটের চেয়ে বড় সংকট আস্থাহীনতা",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 8852,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota/source.jpg",
+  "visibleText": "preservation/originals/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4094
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota/source.jpg",
+      "bytes": 949138,
+      "sha256": "a7cda6a6e408062de4eca45907c88e1ae34eb12cb8874151a3f0e57f20c53923"
+    },
+    {
+      "path": "preservation/originals/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota/source.pdf",
+      "bytes": 1188528,
+      "sha256": "b56a1db5c806fb86da094192280549f37f8a99f4e7d43b0e51a4e2ff56a69e83"
+    },
+    {
+      "path": "preservation/originals/2026-04-04-jalani-shongkoter-cheye-boro-shongkot-asthahinota/visible-text.txt",
+      "bytes": 23488,
+      "sha256": "f284d2b667f1dd19c51c5eecebc2718897368332ab48c8450d4ccd41e7adf552"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

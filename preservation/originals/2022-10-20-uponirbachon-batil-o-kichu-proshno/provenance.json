@@ -1,0 +1,42 @@
+{
+  "slug": "2022-10-20-uponirbachon-batil-o-kichu-proshno",
+  "title": "উপনির্বাচন বাতিল ও কিছু প্রশ্ন",
+  "url": "https://www.shampratikdeshkal.com/opinion/92950",
+  "date": "2022-10-20",
+  "checkedAt": "2026-11-01T19:02:47.615Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/92950",
+  "pageTitle": "উপনির্বাচন বাতিল ও কিছু প্রশ্ন",
+  "headings": [
+    "উপনির্বাচন বাতিল ও কিছু প্রশ্ন"
+  ],
+  "visibleCharacters": 8151,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-10-20-uponirbachon-batil-o-kichu-proshno/source.jpg",
+  "visibleText": "preservation/originals/2022-10-20-uponirbachon-batil-o-kichu-proshno/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2022-10-20-uponirbachon-batil-o-kichu-proshno/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4305
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-10-20-uponirbachon-batil-o-kichu-proshno/source.jpg",
+      "bytes": 763843,
+      "sha256": "e9b447c1f23887f0a96939cb2287a942f4112b47e738dda628faf6cf7516b213"
+    },
+    {
+      "path": "preservation/originals/2022-10-20-uponirbachon-batil-o-kichu-proshno/source.pdf",
+      "bytes": 956862,
+      "sha256": "b512cb473be37c371cc9ee84e1c3085981ad28b44c141e846aed03e7a7b5657f"
+    },
+    {
+      "path": "preservation/originals/2022-10-20-uponirbachon-batil-o-kichu-proshno/visible-text.txt",
+      "bytes": 21772,
+      "sha256": "4ff0a6c2692b4356dd304bfdfbaf98b207ba5c619290fec905eeae39666f5828"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

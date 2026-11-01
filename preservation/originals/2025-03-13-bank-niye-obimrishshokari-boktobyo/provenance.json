@@ -1,0 +1,42 @@
+{
+  "slug": "2025-03-13-bank-niye-obimrishshokari-boktobyo",
+  "title": "ব্যাংক নিয়ে অবিমৃষ্যকারী বক্তব্য",
+  "url": "https://viewsbangladesh.com/bn/irresponsible-statements-about-banks/",
+  "date": "2025-03-13",
+  "checkedAt": "2026-11-01T18:59:52.147Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/irresponsible-statements-about-banks/",
+  "pageTitle": "ব্যাংক নিয়ে অবিমৃষ্যকারী বক্তব্য",
+  "headings": [
+    "ব্যাংক নিয়ে অবিমৃষ্যকারী বক্তব্য"
+  ],
+  "visibleCharacters": 10565,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-03-13-bank-niye-obimrishshokari-boktobyo/source.jpg",
+  "visibleText": "preservation/originals/2025-03-13-bank-niye-obimrishshokari-boktobyo/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-03-13-bank-niye-obimrishshokari-boktobyo/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5270
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-03-13-bank-niye-obimrishshokari-boktobyo/source.jpg",
+      "bytes": 950034,
+      "sha256": "a0f23376e97e0efc7cc9409b7c77797446a061cbaf3432a526f6abf7607f63d3"
+    },
+    {
+      "path": "preservation/originals/2025-03-13-bank-niye-obimrishshokari-boktobyo/source.pdf",
+      "bytes": 1189636,
+      "sha256": "aa1ef8fd046d53c89f0ff73488652dc5bc2cb350fa5b5c2f1191b7e4c230e307"
+    },
+    {
+      "path": "preservation/originals/2025-03-13-bank-niye-obimrishshokari-boktobyo/visible-text.txt",
+      "bytes": 27576,
+      "sha256": "66e977ad2f204ba6b2709055c036bd8d6ac2bc245c60dcf1e096ffac92e76625"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

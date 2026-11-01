@@ -1,0 +1,44 @@
+{
+  "slug": "2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha",
+  "title": "ধর্মের নামে সহিংসতা: কোথায় আমাদের সীমারেখা?",
+  "url": "https://sangbad.net/news/2635/",
+  "date": "2026-04-18",
+  "checkedAt": "2026-11-01T18:58:12.847Z",
+  "resolvedUrl": "https://sangbad.net/news/2635/",
+  "pageTitle": "ধর্মের নামে সহিংসতা: কোথায় আমাদের সীমারেখা? | সংবাদ",
+  "headings": [
+    "ধর্মের নামে সহিংসতা: কোথায় আমাদের সীমারেখা?",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 9621,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha/source.jpg",
+  "visibleText": "preservation/originals/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4630
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha/source.jpg",
+      "bytes": 1025651,
+      "sha256": "7650042c64f7ea7293969c8b90d99c37ccbcedb923326f270b57f26c79c1136c"
+    },
+    {
+      "path": "preservation/originals/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha/source.pdf",
+      "bytes": 1284199,
+      "sha256": "25fe451500f4f6f693505385e9c0a3c3f9fae53781dc50141413b2e087ee1c3e"
+    },
+    {
+      "path": "preservation/originals/2026-04-18-dhormer-name-sohingshota-kothay-amader-shimarekha/visible-text.txt",
+      "bytes": 25425,
+      "sha256": "d1ce082d585b34afba41fd5340f0f367458055d6ff79d931bcf8e8f7f1b39302"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

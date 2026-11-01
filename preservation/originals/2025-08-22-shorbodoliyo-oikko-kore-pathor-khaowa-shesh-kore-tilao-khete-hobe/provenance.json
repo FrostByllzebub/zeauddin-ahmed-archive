@@ -1,0 +1,42 @@
+{
+  "slug": "2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe",
+  "title": "সর্বদলীয় ঐক্য করে পাথর খাওয়া শেষ করে টিলাও খেতে হবে!",
+  "url": "https://bn.viewsbangladesh.com/hillocks-will-be-gobbled-up-also-after-stones-thru-allparty-unity/",
+  "date": "2025-08-22",
+  "checkedAt": "2026-11-01T18:59:13.952Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/hillocks-will-be-gobbled-up-also-after-stones-thru-allparty-unity/",
+  "pageTitle": "সর্বদলীয় ঐক্য করে পাথর খাওয়া শেষ করে টিলাও খেতে হবে!",
+  "headings": [
+    "সর্বদলীয় ঐক্য করে পাথর খাওয়া শেষ করে টিলাও খেতে হবে!"
+  ],
+  "visibleCharacters": 9174,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe/source.jpg",
+  "visibleText": "preservation/originals/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5208
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe/source.jpg",
+      "bytes": 831269,
+      "sha256": "c6128b2114fb501aa36fedf1cce6ee79bfa94d5fc156c8154ab5d1894cf02293"
+    },
+    {
+      "path": "preservation/originals/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe/source.pdf",
+      "bytes": 1041359,
+      "sha256": "b2fe14f4ae09dbcd47e82a4b86bd0e12470506a778ffd5bd388b8cf070d1ad43"
+    },
+    {
+      "path": "preservation/originals/2025-08-22-shorbodoliyo-oikko-kore-pathor-khaowa-shesh-kore-tilao-khete-hobe/visible-text.txt",
+      "bytes": 23893,
+      "sha256": "30420e70c348e2637cc0b805e0014996c611feeb2d2b86a832fadb71777371d6"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

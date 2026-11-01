@@ -1,0 +1,44 @@
+{
+  "slug": "2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok",
+  "title": "শাস্তির প্রদর্শন নয়, বিচার নিশ্চিত হোক",
+  "url": "https://sangbad.net/news/7105/",
+  "date": "2026-06-06",
+  "checkedAt": "2026-11-01T18:57:47.840Z",
+  "resolvedUrl": "https://sangbad.net/news/7105/",
+  "pageTitle": "শাস্তির প্রদর্শন নয়, বিচার নিশ্চিত হোক | সংবাদ",
+  "headings": [
+    "শাস্তির প্রদর্শন নয়, বিচার নিশ্চিত হোক",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7260,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok/source.jpg",
+  "visibleText": "preservation/originals/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3919
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok/source.jpg",
+      "bytes": 790023,
+      "sha256": "c0a7587a756e12c195b94f05973b0263adf0d800841445efd116b20d9cff78cb"
+    },
+    {
+      "path": "preservation/originals/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok/source.pdf",
+      "bytes": 989628,
+      "sha256": "afa6c0f97d5a31ebeea66f885e033b67f4c17e0dd50290406ed82e9dacbae794"
+    },
+    {
+      "path": "preservation/originals/2026-06-06-shastir-prodorshon-noy-bichar-nishchito-hok/visible-text.txt",
+      "bytes": 19153,
+      "sha256": "9b41752caf7e94def3a815d8d61ea6b31d2c5e0a52573d54955c7ab4041623f7"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2025-03-29-notun-note-paowar-dinkhon",
+  "title": "নতুন নোট পাওয়ার দিনক্ষণ",
+  "url": "https://viewsbangladesh.com/bn/the-date-of-receiving-new-notes/",
+  "date": "2025-03-29",
+  "checkedAt": "2026-11-01T18:59:50.084Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/the-date-of-receiving-new-notes/",
+  "pageTitle": "নতুন নোট পাওয়ার দিনক্ষণ",
+  "headings": [
+    "নতুন নোট পাওয়ার দিনক্ষণ"
+  ],
+  "visibleCharacters": 9902,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-03-29-notun-note-paowar-dinkhon/source.jpg",
+  "visibleText": "preservation/originals/2025-03-29-notun-note-paowar-dinkhon/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-03-29-notun-note-paowar-dinkhon/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4962
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-03-29-notun-note-paowar-dinkhon/source.jpg",
+      "bytes": 898317,
+      "sha256": "ba26ced45cb3c18b84509506988b2bdfde705dd660dc61d01ef29145948aae42"
+    },
+    {
+      "path": "preservation/originals/2025-03-29-notun-note-paowar-dinkhon/source.pdf",
+      "bytes": 1124919,
+      "sha256": "b123cb54b7071551ca0be0cd819a47951211ff450fb449dfe9e26edf1df55bc3"
+    },
+    {
+      "path": "preservation/originals/2025-03-29-notun-note-paowar-dinkhon/visible-text.txt",
+      "bytes": 25873,
+      "sha256": "9de961bafdb8bbea9158441b9a5f87398d237ed00307d6421245c385acc74854"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

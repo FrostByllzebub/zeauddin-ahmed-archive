@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-12-boeing-kenar-rajniti",
+  "title": "বোয়িং কেনার রাজনীতি",
+  "url": "https://sangbad.net/news/17258/",
+  "date": "2026-09-12",
+  "checkedAt": "2026-11-01T18:56:38.890Z",
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:04:45.632Z",
+  "resolvedUrl": "https://sangbad.net/news/17258/",
+  "pageTitle": "বোয়িং কেনার রাজনীতি | সংবাদ",
+  "headings": [
+    "বোয়িং কেনার রাজনীতি",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 5118,
+  "bodyMatches": 6,
+  "titleScore": 1,
+  "screenshot": "preservation/originals/2026-09-12-boeing-kenar-rajniti/source.jpg",
+  "visibleText": "preservation/originals/2026-09-12-boeing-kenar-rajniti/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-09-12-boeing-kenar-rajniti/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 3036
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-09-12-boeing-kenar-rajniti/source.jpg",
+      "bytes": 605824,
+      "sha256": "4a900f29c1f2e5ac0cb7cb54440aadb74bf15ce085a7e980705c6e8b745dc727"
+    },
+    {
+      "path": "preservation/originals/2026-09-12-boeing-kenar-rajniti/source.pdf",
+      "bytes": 759124,
+      "sha256": "500c212a75faaff30a35e2170048a66cf48b157e973ebc84a77050c7d4e09818"
+    },
+    {
+      "path": "preservation/originals/2026-09-12-boeing-kenar-rajniti/visible-text.txt",
+      "bytes": 13524,
+      "sha256": "38fd085ebaee949a769043de8fecf33000f1d4f8a2d0082ae14d57c9d4b891a6"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

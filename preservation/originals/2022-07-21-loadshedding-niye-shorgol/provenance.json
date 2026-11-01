@@ -1,0 +1,42 @@
+{
+  "slug": "2022-07-21-loadshedding-niye-shorgol",
+  "title": "লোডশেডিং নিয়ে শোরগোল",
+  "url": "https://www.shampratikdeshkal.com/opinion/84604",
+  "date": "2022-07-21",
+  "checkedAt": "2026-11-01T19:03:08.601Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/84604",
+  "pageTitle": "লোডশেডিং নিয়ে শোরগোল",
+  "headings": [
+    "লোডশেডিং নিয়ে শোরগোল"
+  ],
+  "visibleCharacters": 7116,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-07-21-loadshedding-niye-shorgol/source.jpg",
+  "visibleText": "preservation/originals/2022-07-21-loadshedding-niye-shorgol/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2022-07-21-loadshedding-niye-shorgol/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4005
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-07-21-loadshedding-niye-shorgol/source.jpg",
+      "bytes": 682794,
+      "sha256": "b1e2494c6a4ebdb0c52474f145c3e99cec3eaa4fe70db4ca0a9ea59645f46d91"
+    },
+    {
+      "path": "preservation/originals/2022-07-21-loadshedding-niye-shorgol/source.pdf",
+      "bytes": 855478,
+      "sha256": "856a182463ffaf947b8976db55028912dd0ad7aa65ed777c7fd379145a61734c"
+    },
+    {
+      "path": "preservation/originals/2022-07-21-loadshedding-niye-shorgol/visible-text.txt",
+      "bytes": 18908,
+      "sha256": "89c6b6042a218e6a8820b0d7b3721a64f8d5e6dc6b2d51b5eb17842d0a90e3fd"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

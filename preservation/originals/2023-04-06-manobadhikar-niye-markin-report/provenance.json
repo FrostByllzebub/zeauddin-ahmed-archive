@@ -1,0 +1,42 @@
+{
+  "slug": "2023-04-06-manobadhikar-niye-markin-report",
+  "title": "মানবাধিকার নিয়ে মার্কিন রিপোর্ট",
+  "url": "https://www.shampratikdeshkal.com/opinion/108439",
+  "date": "2023-04-06",
+  "checkedAt": "2026-11-01T19:01:41.437Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/108439",
+  "pageTitle": "মানবাধিকার নিয়ে মার্কিন রিপোর্ট",
+  "headings": [
+    "মানবাধিকার নিয়ে মার্কিন রিপোর্ট"
+  ],
+  "visibleCharacters": 8469,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-04-06-manobadhikar-niye-markin-report/source.jpg",
+  "visibleText": "preservation/originals/2023-04-06-manobadhikar-niye-markin-report/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2023-04-06-manobadhikar-niye-markin-report/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4475
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-04-06-manobadhikar-niye-markin-report/source.jpg",
+      "bytes": 789980,
+      "sha256": "67e76775fa13bf187fe3fbe247ddd80c0ec379bc9fcf49ac9ff3d64fc79b5a81"
+    },
+    {
+      "path": "preservation/originals/2023-04-06-manobadhikar-niye-markin-report/source.pdf",
+      "bytes": 989542,
+      "sha256": "87962b1179dd31804470fc93227de4df7dd629d68b1ae9f8093661bfa9071e61"
+    },
+    {
+      "path": "preservation/originals/2023-04-06-manobadhikar-niye-markin-report/visible-text.txt",
+      "bytes": 22642,
+      "sha256": "c6e8ef694fac951eeba8d8985c12dbd0c05b4b19bf7dbc092aa2259ad403dddf"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

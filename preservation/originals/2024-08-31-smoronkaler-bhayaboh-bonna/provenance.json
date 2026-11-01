@@ -1,0 +1,45 @@
+{
+  "slug": "2024-08-31-smoronkaler-bhayaboh-bonna",
+  "title": "স্মরণকালের ভয়াবহ বন্যা",
+  "url": "https://bn.viewsbangladesh.com/bodies-set-adrift-due-to-lack-of-dry-burial-grounds/",
+  "date": "2024-08-31",
+  "checkedAt": "2026-11-01T19:00:05.390Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/bodies-set-adrift-due-to-lack-of-dry-burial-grounds/",
+  "pageTitle": "কবরের শুকনো জায়গা না থাকায় লাশ পানিতে ভাসিয়ে দেয়া হয়েছে",
+  "headings": [
+    "কবরের শুকনো জায়গা না থাকায় লাশ পানিতে ভাসিয়ে দেয়া হয়েছে"
+  ],
+  "visibleCharacters": 9132,
+  "titleScore": 0,
+  "status": "captured",
+  "excerpt": "All Columnist\nসার্চ\n\nসার্চ\nকলামিস্ট\nEnglish\nলগইন\nসব\nপরিবেশ ও জলবায়ু\n\nস্মরণকালের ভয়াবহ বন্যা\n\nকবরের শুকনো জায়গা না থাকায় লাশ পানিতে ভাসিয়ে দেয়া হয়েছে\n\nজিয়াউদ্দীন আহমেদ\n\n2024-09-01T06:45:31.106Z\n\nসংরক্ষণ করুন\n\n২০২৪ সালে স্মরণকালের ভয়াবহ বন্যা প্রত্যক্ষ করল ফেনীবাসী। আকস্মিক আবির্ভূত এই বন্যা ফেনীবাসীর কাছে ছিল অকল্পনীয়। বন্যার এই আগ্রাসী রূপ শুধু ফেনী নয়, ফেনীর আশপাশের জেলাগুলোতেও ছড়িয়ে পড়েছিল। উজ",
+  "retriedAt": "2026-11-01T19:06:31.455Z",
+  "bodyMatches": 7,
+  "screenshot": "preservation/originals/2024-08-31-smoronkaler-bhayaboh-bonna/source.jpg",
+  "visibleText": "preservation/originals/2024-08-31-smoronkaler-bhayaboh-bonna/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2024-08-31-smoronkaler-bhayaboh-bonna/source.pdf",
+  "imageDimensions": {
+    "width": 1620,
+    "height": 4430
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2024-08-31-smoronkaler-bhayaboh-bonna/source.jpg",
+      "bytes": 747789,
+      "sha256": "62ec659754ee544bdb6775bea214b0fe1664071bd417f890cdccb8d7e8e98e0f"
+    },
+    {
+      "path": "preservation/originals/2024-08-31-smoronkaler-bhayaboh-bonna/source.pdf",
+      "bytes": 936661,
+      "sha256": "0f82a377656614d7b35c99e396001413dd8284c346404e77b4d9bdaa1876aadb"
+    },
+    {
+      "path": "preservation/originals/2024-08-31-smoronkaler-bhayaboh-bonna/visible-text.txt",
+      "bytes": 23815,
+      "sha256": "3da322fb5a8bb60b8ed4721ce78cdaa5e2091fc972d81c62a2cef1f4a2e972fc"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

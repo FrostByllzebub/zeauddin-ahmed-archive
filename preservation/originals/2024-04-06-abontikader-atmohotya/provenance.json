@@ -1,0 +1,42 @@
+{
+  "slug": "2024-04-06-abontikader-atmohotya",
+  "title": "অবন্তিকাদের আত্মহনন",
+  "url": "https://bn.viewsbangladesh.com/avantikas-selfimmolation/",
+  "date": "2024-04-06",
+  "checkedAt": "2026-11-01T19:00:21.719Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/avantikas-selfimmolation/",
+  "pageTitle": "অবন্তিকাদের আত্মহনন",
+  "headings": [
+    "অবন্তিকাদের আত্মহনন"
+  ],
+  "visibleCharacters": 9350,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2024-04-06-abontikader-atmohotya/source.jpg",
+  "visibleText": "preservation/originals/2024-04-06-abontikader-atmohotya/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2024-04-06-abontikader-atmohotya/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5123
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2024-04-06-abontikader-atmohotya/source.jpg",
+      "bytes": 840011,
+      "sha256": "5fe82d06694e0d4841ff45fa10898b7cb44555135c49fee3acc741bf1da15ff1"
+    },
+    {
+      "path": "preservation/originals/2024-04-06-abontikader-atmohotya/source.pdf",
+      "bytes": 1052004,
+      "sha256": "7cc44675a4acab5d7ebd76d226f9620979e4491d633875d0278ba8195d277926"
+    },
+    {
+      "path": "preservation/originals/2024-04-06-abontikader-atmohotya/visible-text.txt",
+      "bytes": 24647,
+      "sha256": "6c1ea32156265ef7fb19bbb27a5b6b524ae955c9b267f743449ebf185b2c963f"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa",
+  "title": "রাষ্ট্র-কাঠামো মেরামতে বিএনপি’র ২৭ দফা",
+  "url": "https://www.shampratikdeshkal.com/opinion/100601",
+  "date": "2023-01-12",
+  "checkedAt": "2026-11-01T19:02:19.980Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/100601",
+  "pageTitle": "রাষ্ট্রকাঠামো মেরামতে বিএনপির ২৭ দফা",
+  "headings": [
+    "রাষ্ট্রকাঠামো মেরামতে বিএনপির ২৭ দফা"
+  ],
+  "visibleCharacters": 7953,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa/source.jpg",
+  "visibleText": "preservation/originals/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4285
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa/source.jpg",
+      "bytes": 774345,
+      "sha256": "41fb35278093987943e525852d70e6541d1381ec8595c8c34e0a33a3f9c1e6cf"
+    },
+    {
+      "path": "preservation/originals/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa/source.pdf",
+      "bytes": 970046,
+      "sha256": "6dc7988dbf807b8a6b2d642aec9b1056a16a23828a1d8427267f91401bdbd0e4"
+    },
+    {
+      "path": "preservation/originals/2023-01-12-rashtra-kathamo-meramote-bnpir-27-dofa/visible-text.txt",
+      "bytes": 21247,
+      "sha256": "75bbecff8615ded59c4d7acb6bd6c9a994d22a12d4d58254cebf02c588f05af6"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

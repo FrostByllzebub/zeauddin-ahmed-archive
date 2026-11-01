@@ -1,0 +1,42 @@
+{
+  "slug": "2021-01-01-taleban-shasne-afgan-nari",
+  "title": "তালেবান শাসনে আফগান নারী",
+  "url": "https://shampratikdeshkal.com/opinion/news/210751368/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80",
+  "date": "2021-01-01",
+  "checkedAt": "2026-11-01T19:03:38.455Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/news/210751368/%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%AC%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B8%E0%A6%A8%E0%A7%87-%E0%A6%86%E0%A6%AB%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%80",
+  "pageTitle": "তালেবান শাসনে আফগান নারী",
+  "headings": [
+    "তালেবান শাসনে আফগান নারী"
+  ],
+  "visibleCharacters": 7397,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2021-01-01-taleban-shasne-afgan-nari/source.jpg",
+  "visibleText": "preservation/originals/2021-01-01-taleban-shasne-afgan-nari/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2021-01-01-taleban-shasne-afgan-nari/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3925
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2021-01-01-taleban-shasne-afgan-nari/source.jpg",
+      "bytes": 700155,
+      "sha256": "3dc131c70bb1fe264abcfc8fe4ea8f1d72fd720c35298316ed87230c973c9e8d"
+    },
+    {
+      "path": "preservation/originals/2021-01-01-taleban-shasne-afgan-nari/source.pdf",
+      "bytes": 877405,
+      "sha256": "bbc5d90c8af5cb30d1f88e351ad223603ac6aa006e56cb8e47eaee3715dbeec5"
+    },
+    {
+      "path": "preservation/originals/2021-01-01-taleban-shasne-afgan-nari/visible-text.txt",
+      "bytes": 19738,
+      "sha256": "48d2cc2fa5bb8a5ee71676eb7569e1ab116505fef8ae983aae94dbd02f9f3816"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

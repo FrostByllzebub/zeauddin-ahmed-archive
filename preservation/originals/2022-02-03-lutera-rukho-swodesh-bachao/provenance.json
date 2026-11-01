@@ -1,0 +1,42 @@
+{
+  "slug": "2022-02-03-lutera-rukho-swodesh-bachao",
+  "title": "‘লুটেরা রুখো, স্বদেশ বাঁচাও’",
+  "url": "https://www.shampratikdeshkal.com/opinion/69916",
+  "date": "2022-02-03",
+  "checkedAt": "2026-11-01T19:03:15.065Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/69916",
+  "pageTitle": "রুখো লুটেরা, বাঁচাও স্বদেশ",
+  "headings": [
+    "রুখো লুটেরা, বাঁচাও স্বদেশ"
+  ],
+  "visibleCharacters": 7765,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-02-03-lutera-rukho-swodesh-bachao/source.jpg",
+  "visibleText": "preservation/originals/2022-02-03-lutera-rukho-swodesh-bachao/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2022-02-03-lutera-rukho-swodesh-bachao/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4295
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-02-03-lutera-rukho-swodesh-bachao/source.jpg",
+      "bytes": 738268,
+      "sha256": "8eaa21dcaaef599eca4d62b30a16e9a33f9b865c878017210ecb7dd7599d8293"
+    },
+    {
+      "path": "preservation/originals/2022-02-03-lutera-rukho-swodesh-bachao/source.pdf",
+      "bytes": 924871,
+      "sha256": "628596aece02d603709c705061fd4a808e23bed59de1191d6fe05e91492f27a6"
+    },
+    {
+      "path": "preservation/originals/2022-02-03-lutera-rukho-swodesh-bachao/visible-text.txt",
+      "bytes": 20647,
+      "sha256": "753062a4cacf7d902174147e3324ece4f6a6a9154bff44a834933de098a7e43b"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

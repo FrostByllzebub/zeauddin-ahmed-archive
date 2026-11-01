@@ -1,0 +1,42 @@
+{
+  "slug": "2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na",
+  "title": "অন্তর্বর্তী সরকার সংস্কারে দৃষ্টান্ত স্থাপন না করলে, আর হবে না!",
+  "url": "https://viewsbangladesh.com/bn/if-interim-government-doesnt-set-an-example-in-reform-it-wont-happen-again/",
+  "date": "2025-05-09",
+  "checkedAt": "2026-11-01T18:59:44.033Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/if-interim-government-doesnt-set-an-example-in-reform-it-wont-happen-again/",
+  "pageTitle": "অন্তর্বর্তী সরকার সংস্কারে দৃষ্টান্ত স্থাপন না করলে, আর হবে না!",
+  "headings": [
+    "অন্তর্বর্তী সরকার সংস্কারে দৃষ্টান্ত স্থাপন না করলে, আর হবে না!"
+  ],
+  "visibleCharacters": 8424,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na/source.jpg",
+  "visibleText": "preservation/originals/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4648
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na/source.jpg",
+      "bytes": 761843,
+      "sha256": "09e652ce67af28372dd5d30d495789f34dcc74e7f02c0d1205c98c8c710ec672"
+    },
+    {
+      "path": "preservation/originals/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na/source.pdf",
+      "bytes": 954665,
+      "sha256": "90d603692a52333ed9b9e82d12cad2ed1a4c2b9da3f4a6da42925c4083ba07bd"
+    },
+    {
+      "path": "preservation/originals/2025-05-09-ontorborti-shorkar-shongskare-drishtanto-sthapon-na-korle-ar-hobe-na/visible-text.txt",
+      "bytes": 21965,
+      "sha256": "73f7011d41614beb121d84d872814b0bc0ed929e44956b7592ff9e297c0ba326"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

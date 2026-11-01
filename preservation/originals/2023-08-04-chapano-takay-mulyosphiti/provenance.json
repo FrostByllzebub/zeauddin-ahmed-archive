@@ -1,0 +1,45 @@
+{
+  "slug": "2023-08-04-chapano-takay-mulyosphiti",
+  "title": "ছাপানো টাকায় মূল্যস্ফীতি",
+  "url": "https://www.dainikbangla.com.bd/opinion/27680/1690862305",
+  "date": "2023-08-04",
+  "checkedAt": "2026-11-01T19:00:52.808Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/27680/1690862305",
+  "pageTitle": "ছাপানো টাকায় মূল্যস্ফীতি",
+  "headings": [
+    "ছাপানো টাকায় মূল্যস্ফীতি"
+  ],
+  "visibleCharacters": 119660,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:10:23.768Z",
+  "bodyMatches": 6,
+  "screenshot": "preservation/originals/2023-08-04-chapano-takay-mulyosphiti/source.jpg",
+  "visibleText": "preservation/originals/2023-08-04-chapano-takay-mulyosphiti/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2023-08-04-chapano-takay-mulyosphiti/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6712
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-08-04-chapano-takay-mulyosphiti/source.jpg",
+      "bytes": 1092174,
+      "sha256": "4360ec26c4ec3bff946fab190f77b01cb5cbd28e1dcfc047aa55c7e3857a9647"
+    },
+    {
+      "path": "preservation/originals/2023-08-04-chapano-takay-mulyosphiti/source.pdf",
+      "bytes": 1367133,
+      "sha256": "4cc3c189b769c6ede11ba7255f46589c0dca77234495789f25cc57e46cae3a49"
+    },
+    {
+      "path": "preservation/originals/2023-08-04-chapano-takay-mulyosphiti/visible-text.txt",
+      "bytes": 25236,
+      "sha256": "5811d40f45a948099aa8762b6240a921a2e6a5902eb08c03d27878aed0de529a"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

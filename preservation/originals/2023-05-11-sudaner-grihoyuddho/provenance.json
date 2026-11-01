@@ -1,0 +1,42 @@
+{
+  "slug": "2023-05-11-sudaner-grihoyuddho",
+  "title": "সুদানের গৃহযুদ্ধ",
+  "url": "https://www.shampratikdeshkal.com/opinion/111507",
+  "date": "2023-05-11",
+  "checkedAt": "2026-11-01T19:01:39.699Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/111507",
+  "pageTitle": "সুদানের গৃহযুদ্ধ",
+  "headings": [
+    "সুদানের গৃহযুদ্ধ"
+  ],
+  "visibleCharacters": 6544,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-05-11-sudaner-grihoyuddho/source.jpg",
+  "visibleText": "preservation/originals/2023-05-11-sudaner-grihoyuddho/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2023-05-11-sudaner-grihoyuddho/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3615
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-05-11-sudaner-grihoyuddho/source.jpg",
+      "bytes": 615849,
+      "sha256": "f58b59b4e1dccc419743823d715106f0698a62e9f621988144669210ad10d6b1"
+    },
+    {
+      "path": "preservation/originals/2023-05-11-sudaner-grihoyuddho/source.pdf",
+      "bytes": 771768,
+      "sha256": "8859075748c153ce6519ba966b31070faeb72b1a1786b1ee03609fa9636bd33e"
+    },
+    {
+      "path": "preservation/originals/2023-05-11-sudaner-grihoyuddho/visible-text.txt",
+      "bytes": 17509,
+      "sha256": "bacddbda7aec138a15bd62db5f2251165b035788eafa664abf460fcd6ba548eb"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

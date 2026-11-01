@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na",
+  "title": "ভাস্কর্যের মুখ থাকবে নাকি থাকবে না",
+  "url": "https://sangbad.net/news/14979/",
+  "date": "2026-08-22",
+  "checkedAt": "2026-11-01T18:56:54.275Z",
+  "resolvedUrl": "https://sangbad.net/news/14979/",
+  "pageTitle": "ভাস্কর্যের মুখ থাকবে নাকি থাকবে না | সংবাদ",
+  "headings": [
+    "ভাস্কর্যের মুখ থাকবে নাকি থাকবে না",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 4991,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na/source.jpg",
+  "visibleText": "preservation/originals/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 2954
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na/source.jpg",
+      "bytes": 645986,
+      "sha256": "ab8a7c07f94409d843544aaaa1e2bcf29b5f0c248e097a7d67eb2742d4977def"
+    },
+    {
+      "path": "preservation/originals/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na/source.pdf",
+      "bytes": 809550,
+      "sha256": "b300f4673534375029d22ea2de0c9454a057f8f07d47f75579faaa4a25614b2a"
+    },
+    {
+      "path": "preservation/originals/2026-08-22-bhaskorjer-mukh-thakbe-naki-thakbe-na/visible-text.txt",
+      "bytes": 13128,
+      "sha256": "59038976b66d0c4600c74d4c197da060618cc298291c6156b4afa5fe49498095"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

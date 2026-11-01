@@ -1,0 +1,42 @@
+{
+  "slug": "2023-04-27-joytu-muktijoddha-dr-jaffrullah",
+  "title": "জয়তু মুক্তিযোদ্ধা ডা. জাফরুল্লাহ",
+  "url": "https://www.shampratikdeshkal.com/opinion/110208",
+  "date": "2023-04-27",
+  "checkedAt": "2026-11-01T19:01:40.668Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/110208",
+  "pageTitle": "জয়তু মুক্তিযোদ্ধা ডা. জাফরুল্লাহ",
+  "headings": [
+    "জয়তু মুক্তিযোদ্ধা ডা. জাফরুল্লাহ"
+  ],
+  "visibleCharacters": 9043,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-04-27-joytu-muktijoddha-dr-jaffrullah/source.jpg",
+  "visibleText": "preservation/originals/2023-04-27-joytu-muktijoddha-dr-jaffrullah/visible-text.txt",
+  "bodyEvidenceMatches": 9,
+  "pdf": "preservation/originals/2023-04-27-joytu-muktijoddha-dr-jaffrullah/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4760
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-04-27-joytu-muktijoddha-dr-jaffrullah/source.jpg",
+      "bytes": 873419,
+      "sha256": "2e257a19ffb9856d9d5a216d3fc639d89a555a08a49af29ad483ff2218465da6"
+    },
+    {
+      "path": "preservation/originals/2023-04-27-joytu-muktijoddha-dr-jaffrullah/source.pdf",
+      "bytes": 1093852,
+      "sha256": "a01bcc6e9f833875c96f8c2d5e26e6d5be34fd6e4ada5b09a6a194b64599f986"
+    },
+    {
+      "path": "preservation/originals/2023-04-27-joytu-muktijoddha-dr-jaffrullah/visible-text.txt",
+      "bytes": 24186,
+      "sha256": "699e09bc81b505aebbd7622c3723659b8dbd4404653ab7a85c640d11448377f9"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

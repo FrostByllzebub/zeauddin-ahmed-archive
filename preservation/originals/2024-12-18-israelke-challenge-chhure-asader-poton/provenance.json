@@ -1,0 +1,42 @@
+{
+  "slug": "2024-12-18-israelke-challenge-chhure-asader-poton",
+  "title": "তাহলে কি ইসরায়েলকে চ্যালেঞ্জ ছুড়ে আসাদের পতন হলো",
+  "url": "https://bn.viewsbangladesh.com/was-assads-fall-a-result-of-challenging-israel/",
+  "date": "2024-12-18",
+  "checkedAt": "2026-11-01T18:59:56.630Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/was-assads-fall-a-result-of-challenging-israel/",
+  "pageTitle": "তাহলে কি ইসরায়েলকে চ্যালেঞ্জ ছুড়ে আসাদের পতন হলো",
+  "headings": [
+    "তাহলে কি ইসরায়েলকে চ্যালেঞ্জ ছুড়ে আসাদের পতন হলো"
+  ],
+  "visibleCharacters": 9131,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2024-12-18-israelke-challenge-chhure-asader-poton/source.jpg",
+  "visibleText": "preservation/originals/2024-12-18-israelke-challenge-chhure-asader-poton/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2024-12-18-israelke-challenge-chhure-asader-poton/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4790
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2024-12-18-israelke-challenge-chhure-asader-poton/source.jpg",
+      "bytes": 836495,
+      "sha256": "3c5915d1beca41bdda39b566abda083246b03de3797969a01083280afe277621"
+    },
+    {
+      "path": "preservation/originals/2024-12-18-israelke-challenge-chhure-asader-poton/source.pdf",
+      "bytes": 1047848,
+      "sha256": "f0a5b88d42fafaf3ddeca2184dd35825be266a3d977d40d84193cce6784a984b"
+    },
+    {
+      "path": "preservation/originals/2024-12-18-israelke-challenge-chhure-asader-poton/visible-text.txt",
+      "bytes": 23968,
+      "sha256": "1fdf1bac323258baf655971097981cefe6a35db3c76e2194ad87877d960ee917"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

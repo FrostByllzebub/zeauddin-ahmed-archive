@@ -1,0 +1,42 @@
+{
+  "slug": "2025-07-10-mega-prokolpe-durnitir-shorup",
+  "title": "মেগা প্রকল্পে দুর্নীতির স্বরূপ",
+  "url": "https://bn.viewsbangladesh.com/nature-of-corruption-in-mega-projects/",
+  "date": "2025-07-10",
+  "checkedAt": "2026-11-01T18:59:26.371Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/nature-of-corruption-in-mega-projects/",
+  "pageTitle": "মেগা প্রকল্পে দুর্নীতির স্বরূপ",
+  "headings": [
+    "মেগা প্রকল্পে দুর্নীতির স্বরূপ"
+  ],
+  "visibleCharacters": 8870,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-07-10-mega-prokolpe-durnitir-shorup/source.jpg",
+  "visibleText": "preservation/originals/2025-07-10-mega-prokolpe-durnitir-shorup/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2025-07-10-mega-prokolpe-durnitir-shorup/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4792
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-07-10-mega-prokolpe-durnitir-shorup/source.jpg",
+      "bytes": 787566,
+      "sha256": "af8951a15fc75ea7d47c91b54bd57a94c30975f4faba0fd4747746143e49dbea"
+    },
+    {
+      "path": "preservation/originals/2025-07-10-mega-prokolpe-durnitir-shorup/source.pdf",
+      "bytes": 986542,
+      "sha256": "87388f6fbb441de42172f4b03635bcd135a60ef31cac5d76a2cf3ba65040485c"
+    },
+    {
+      "path": "preservation/originals/2025-07-10-mega-prokolpe-durnitir-shorup/visible-text.txt",
+      "bytes": 23191,
+      "sha256": "6de87cb94043ae39dc2fcb265cdfb165f9c2e8948ff44ac21ddc9fe83fdb5398"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

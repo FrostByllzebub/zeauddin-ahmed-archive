@@ -1,0 +1,42 @@
+{
+  "slug": "2024-11-16-bangladeshe-onushrito-gonotontroer-shorup",
+  "title": "বাংলাদেশে অনুসৃত গণতন্ত্রের স্বরূপ",
+  "url": "https://viewsbangladesh.com/bn/the-democracy-practiced-in-bangladesh/",
+  "date": "2024-11-16",
+  "checkedAt": "2026-11-01T19:00:00.484Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/the-democracy-practiced-in-bangladesh/",
+  "pageTitle": "বাংলাদেশে অনুসৃত গণতন্ত্রের স্বরূপ",
+  "headings": [
+    "বাংলাদেশে অনুসৃত গণতন্ত্রের স্বরূপ"
+  ],
+  "visibleCharacters": 7259,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup/source.jpg",
+  "visibleText": "preservation/originals/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4096
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup/source.jpg",
+      "bytes": 671289,
+      "sha256": "52f18be910aea60e9c615cfb0c8b1ef3e5b994ce3b7c0931987514585c158c44"
+    },
+    {
+      "path": "preservation/originals/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup/source.pdf",
+      "bytes": 841228,
+      "sha256": "0e519d677febf8befd416088c467acb2484cd7a839294a2264af21d440940c89"
+    },
+    {
+      "path": "preservation/originals/2024-11-16-bangladeshe-onushrito-gonotontroer-shorup/visible-text.txt",
+      "bytes": 18922,
+      "sha256": "8eb35076501f8cb934cbed6d767b6a0752d07ad23f78d4d4d629754aa0507bce"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

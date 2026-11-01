@@ -1,0 +1,45 @@
+{
+  "slug": "2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom",
+  "title": "রাজনীতির মাঠে ‘ছক্কা’ ছয়ফুর থেকে হিরো আলম",
+  "url": "https://www.dainikbangla.com.bd/opinion/26863/1689995463",
+  "date": "2023-07-22",
+  "checkedAt": "2026-11-01T19:00:58.930Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/26863/1689995463",
+  "pageTitle": "রাজনীতির মাঠে ‘ছক্কা’ ছয়ফুর থেকে হিরো আলম",
+  "headings": [
+    "রাজনীতির মাঠে ‘ছক্কা’ ছয়ফুর থেকে হিরো আলম"
+  ],
+  "visibleCharacters": 119129,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:10:29.683Z",
+  "bodyMatches": 7,
+  "screenshot": "preservation/originals/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom/source.jpg",
+  "visibleText": "preservation/originals/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6556
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom/source.jpg",
+      "bytes": 1067628,
+      "sha256": "c86d2f85e6319b31551ffce6274d45ad651dc4698494cc3b6bcde8adb7ce2aad"
+    },
+    {
+      "path": "preservation/originals/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom/source.pdf",
+      "bytes": 1336559,
+      "sha256": "67b9ba63273aaea03c6941a8d410741c27df2004feac05f5e78462f60cb15e00"
+    },
+    {
+      "path": "preservation/originals/2023-07-22-rajnitir-mathe-chokka-chaifur-theke-hiro-alom/visible-text.txt",
+      "bytes": 23887,
+      "sha256": "f22708324b2f518f72fdba9f12aeda551f4caa0d8b2d70fec37e24a35cd8e36d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

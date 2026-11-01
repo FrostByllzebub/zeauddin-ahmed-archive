@@ -47,3 +47,7 @@ Review the queue and correction requests regularly. No response-time promise is 
 The additive `0001_famous_pet_avengers.sql` migration creates `editorial_requests`. Only the existing owner identity can list pending requests (`GET /api/editorial-requests/admin`) or resolve a request (`POST /api/editorial-requests/admin/:id`, `action: resolve`). The `/admin` queue retains the original private request and resolution identity/time. No public reads, attachments or automatic content changes are available. The same origin check, secret-keyed rate limiter and owner identity check as memories apply; bodies are bounded to 20 KB. Review the queue regularly. No response-time promise is made.
 
 The policy owner is the site owner. Update the visible policy date and section text whenever practice changes; preserve `#memory-privacy` and existing management links.
+
+## Original publisher source preservation
+
+See [the preservation workflow](../preservation/README.md) for the 159-URL audit, 114 source screenshot/PDF pairs, integrity checks and Reference Library backup. These backend source assets are separate from the reader-facing article text.

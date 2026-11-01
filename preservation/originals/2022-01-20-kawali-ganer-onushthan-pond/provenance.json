@@ -1,0 +1,42 @@
+{
+  "slug": "2022-01-20-kawali-ganer-onushthan-pond",
+  "title": "কাওয়ালি গানের অনুষ্ঠান পণ্ড",
+  "url": "https://www.shampratikdeshkal.com/opinion/68805",
+  "date": "2022-01-20",
+  "checkedAt": "2026-11-01T19:03:23.839Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/68805",
+  "pageTitle": "কাওয়ালি গানের অনুষ্ঠান পণ্ড",
+  "headings": [
+    "কাওয়ালি গানের অনুষ্ঠান পণ্ড"
+  ],
+  "visibleCharacters": 7146,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-01-20-kawali-ganer-onushthan-pond/source.jpg",
+  "visibleText": "preservation/originals/2022-01-20-kawali-ganer-onushthan-pond/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2022-01-20-kawali-ganer-onushthan-pond/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4075
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-01-20-kawali-ganer-onushthan-pond/source.jpg",
+      "bytes": 767971,
+      "sha256": "372a469003348e9d70710bc47e88a8d35bad7a9b7e03647bc97d5f7d2bf112f6"
+    },
+    {
+      "path": "preservation/originals/2022-01-20-kawali-ganer-onushthan-pond/source.pdf",
+      "bytes": 962006,
+      "sha256": "dd9877b28485e254f290dac9f365b42c8181f2dfeb988345194e18189ff3a1c7"
+    },
+    {
+      "path": "preservation/originals/2022-01-20-kawali-ganer-onushthan-pond/visible-text.txt",
+      "bytes": 18968,
+      "sha256": "2b9fafdda8fe9e9ec75541814c194c18605b5215d2ac1967de3161149734af1d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

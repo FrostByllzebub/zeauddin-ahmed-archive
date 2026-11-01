@@ -1,0 +1,44 @@
+{
+  "slug": "2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab",
+  "title": "নিরাপত্তা জোটে যোগ দেওয়ার আগে চাই স্বার্থের নির্মোহ হিসাব",
+  "url": "https://sangbad.net/news/16588/",
+  "date": "2026-09-05",
+  "checkedAt": "2026-11-01T18:56:39.489Z",
+  "resolvedUrl": "https://sangbad.net/news/16588/",
+  "pageTitle": "নিরাপত্তা জোটে যোগ দেওয়ার আগে চাই স্বার্থের নির্মোহ হিসাব | সংবাদ",
+  "headings": [
+    "নিরাপত্তা জোটে যোগ দেওয়ার আগে চাই স্বার্থের নির্মোহ হিসাব",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6358,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab/source.jpg",
+  "visibleText": "preservation/originals/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 2939
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab/source.jpg",
+      "bytes": 683478,
+      "sha256": "8126a762e264cb7fa08265bd973550e82596bcc9b983a765cc1074cf43c865c7"
+    },
+    {
+      "path": "preservation/originals/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab/source.pdf",
+      "bytes": 856594,
+      "sha256": "8826a4f730d92adb9e9e1f5c43f6d8ca2c7ea0f656f5d897f8a867033bf1bf73"
+    },
+    {
+      "path": "preservation/originals/2026-09-05-nirapotta-jote-jog-deyar-age-chai-sharther-nirmoho-hishab/visible-text.txt",
+      "bytes": 16856,
+      "sha256": "24fb028f40c2643444552b04ddab688cc9fee28a674e4b534f5106e4712e3d83"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

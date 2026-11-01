@@ -1,0 +1,44 @@
+{
+  "slug": "2026-05-09-shongbidhan-shongshodhoner-rajniti",
+  "title": "সংবিধান সংশোধনের রাজনীতি",
+  "url": "https://sangbad.net/news/4472/",
+  "date": "2026-05-09",
+  "checkedAt": "2026-11-01T18:57:56.636Z",
+  "resolvedUrl": "https://sangbad.net/news/4472/",
+  "pageTitle": "সংবিধান সংশোধনের রাজনীতি | সংবাদ",
+  "headings": [
+    "সংবিধান সংশোধনের রাজনীতি",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7385,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-05-09-shongbidhan-shongshodhoner-rajniti/source.jpg",
+  "visibleText": "preservation/originals/2026-05-09-shongbidhan-shongshodhoner-rajniti/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2026-05-09-shongbidhan-shongshodhoner-rajniti/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3999
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-05-09-shongbidhan-shongshodhoner-rajniti/source.jpg",
+      "bytes": 803045,
+      "sha256": "d2370957ccfb48e90f1fddc17d988b7d81af6ff2ce46f617e593bc1069512875"
+    },
+    {
+      "path": "preservation/originals/2026-05-09-shongbidhan-shongshodhoner-rajniti/source.pdf",
+      "bytes": 1005808,
+      "sha256": "cd14d644d3999d3b9db72ca5edcc8caa2bb4f9b5fe12fbf1f4ad314ac46e8f7d"
+    },
+    {
+      "path": "preservation/originals/2026-05-09-shongbidhan-shongshodhoner-rajniti/visible-text.txt",
+      "bytes": 19654,
+      "sha256": "c4ce45eaaed576eed6d45106cfd8d551a10cf8332aa0891aad4998bab45fb52b"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

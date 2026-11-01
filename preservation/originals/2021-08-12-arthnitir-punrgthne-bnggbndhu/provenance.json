@@ -1,0 +1,42 @@
+{
+  "slug": "2021-08-12-arthnitir-punrgthne-bnggbndhu",
+  "title": "অর্থনীতির পুনর্গঠনে বঙ্গবন্ধু",
+  "url": "https://www.shampratikdeshkal.com/opinion/52916",
+  "date": "2021-08-12",
+  "checkedAt": "2026-11-01T19:03:33.803Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/52916",
+  "pageTitle": "অর্থনীতি পুনর্গঠনে বঙ্গবন্ধু",
+  "headings": [
+    "অর্থনীতি পুনর্গঠনে বঙ্গবন্ধু"
+  ],
+  "visibleCharacters": 8714,
+  "titleScore": 0.6666666666666666,
+  "status": "captured",
+  "screenshot": "preservation/originals/2021-08-12-arthnitir-punrgthne-bnggbndhu/source.jpg",
+  "visibleText": "preservation/originals/2021-08-12-arthnitir-punrgthne-bnggbndhu/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2021-08-12-arthnitir-punrgthne-bnggbndhu/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4375
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2021-08-12-arthnitir-punrgthne-bnggbndhu/source.jpg",
+      "bytes": 868789,
+      "sha256": "5b296cd93aba7d01b0e0a4ce2273d27b6120ec6ca24a3fd206babceaf7eb9fba"
+    },
+    {
+      "path": "preservation/originals/2021-08-12-arthnitir-punrgthne-bnggbndhu/source.pdf",
+      "bytes": 1088046,
+      "sha256": "c9ea69fc8b63acbc9ce0adc1f3ad6c66f84804618561db2fa2dbf2ea39d7c790"
+    },
+    {
+      "path": "preservation/originals/2021-08-12-arthnitir-punrgthne-bnggbndhu/visible-text.txt",
+      "bytes": 23339,
+      "sha256": "aecaaa89ee9b7f9b38cf830f7968809bdee3ad1b9d067a2794e7e0223dc99a93"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

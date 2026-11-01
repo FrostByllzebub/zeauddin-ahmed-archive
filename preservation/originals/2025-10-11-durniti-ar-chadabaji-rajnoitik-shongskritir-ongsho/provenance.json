@@ -1,0 +1,42 @@
+{
+  "slug": "2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho",
+  "title": "দুর্নীতি আর চাঁদাবাজি রাজনৈতিক-সংস্কৃতির অংশ",
+  "url": "https://bn.viewsbangladesh.com/corruption-extortion-part-of-political-culture/",
+  "date": "2025-10-11",
+  "checkedAt": "2026-11-01T18:58:46.205Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/corruption-extortion-part-of-political-culture/",
+  "pageTitle": "দুর্নীতি আর চাঁদাবাজি রাজনৈতিক-সংস্কৃতির অংশ",
+  "headings": [
+    "দুর্নীতি আর চাঁদাবাজি রাজনৈতিক-সংস্কৃতির অংশ"
+  ],
+  "visibleCharacters": 7493,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho/source.jpg",
+  "visibleText": "preservation/originals/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4261
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho/source.jpg",
+      "bytes": 597114,
+      "sha256": "265cbca24db713f523d5efa6cfb0cdd8be5dc51aff52f8a8e50725de47736ae8"
+    },
+    {
+      "path": "preservation/originals/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho/source.pdf",
+      "bytes": 748592,
+      "sha256": "f7e96caacd82168511a00b0279ad7cb251ae17e625a0410bf3039a815b20a978"
+    },
+    {
+      "path": "preservation/originals/2025-10-11-durniti-ar-chadabaji-rajnoitik-shongskritir-ongsho/visible-text.txt",
+      "bytes": 19406,
+      "sha256": "062a31d30ad0dd3261b8fafcd0c1fa7795fbaa6aabbe380da5320dab3d50a6e9"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

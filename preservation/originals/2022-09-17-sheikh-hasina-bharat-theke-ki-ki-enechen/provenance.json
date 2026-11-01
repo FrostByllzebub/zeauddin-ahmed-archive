@@ -1,0 +1,46 @@
+{
+  "slug": "2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen",
+  "title": "শেখ হাসিনা ভারত থেকে কী কী এনেছেন",
+  "url": "https://www.dainikbangla.com.bd/opinion/1977/ভারতের-সঙ্গে-সম্পর্ক-কেন-জরুরি",
+  "date": "2022-09-17",
+  "checkedAt": "2026-11-01T19:03:03.560Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/1977/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%B0%E0%A7%81%E0%A6%B0%E0%A6%BF",
+  "pageTitle": "ভারতের সঙ্গে সম্পর্ক কেন জরুরি",
+  "headings": [
+    "ভারতের সঙ্গে সম্পর্ক কেন জরুরি"
+  ],
+  "visibleCharacters": 119339,
+  "titleScore": 0.2,
+  "status": "captured",
+  "excerpt": "সর্বশেষ\nজাতীয়\nসারাবাংলা\nরাজধানী\nআন্তর্জাতিক\nরাজনীতি\nঅর্থ-বাণিজ্য\nখেলা\nকর্পোরেট\nআইন ও বিচার\nতথ্যপ্রযুক্তি\nঅন্যান্য\nসোমবার, ২ নভেম্বর ২০২৬\n১৭ কার্তিক ১৪৩৩\nই-পেপার",
+  "retriedAt": "2026-11-01T19:12:26.363Z",
+  "bodyMatches": 4,
+  "screenshot": "preservation/originals/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen/source.jpg",
+  "visibleText": "preservation/originals/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6615
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen/source.jpg",
+      "bytes": 1114398,
+      "sha256": "d2f06cbee541148cbdd658d8b6b839560f9aec6eff8cfacc823df1eab391015f"
+    },
+    {
+      "path": "preservation/originals/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen/source.pdf",
+      "bytes": 1395886,
+      "sha256": "6cef6ca6b31c2837bb686effac14154c2fcb4bab3694cda6cac1f23bcb707fc7"
+    },
+    {
+      "path": "preservation/originals/2022-09-17-sheikh-hasina-bharat-theke-ki-ki-enechen/visible-text.txt",
+      "bytes": 24577,
+      "sha256": "a9ddae3f33c9a2482b18773cdda90ca509771a2e3d6c1a1172138c30ad116bad"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

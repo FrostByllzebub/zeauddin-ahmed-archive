@@ -1,0 +1,46 @@
+{
+  "slug": "2023-01-23-bharateo-bhirte-pareni-ursa-major",
+  "title": "ভারতেও ভিড়তে পারেনি উরসা মেজর: হার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের",
+  "url": "https://www.dainikbangla.com.bd/opinion/11100/1674449358",
+  "date": "2023-01-23",
+  "checkedAt": "2026-11-01T19:02:17.349Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/11100/1674449358",
+  "pageTitle": "হার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের",
+  "headings": [
+    "হার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের"
+  ],
+  "visibleCharacters": 117719,
+  "titleScore": 0.5454545454545454,
+  "status": "captured",
+  "excerpt": "সর্বশেষ\nজাতীয়\nসারাবাংলা\nরাজধানী\nআন্তর্জাতিক\nরাজনীতি\nঅর্থ-বাণিজ্য\nখেলা\nকর্পোরেট\nআইন ও বিচার\nতথ্যপ্রযুক্তি\nঅন্যান্য\nসোমবার, ২ নভেম্বর ২০২৬\n১৭ কার্তিক ১৪৩৩\nই-পেপার\nসর্বশেষ\nজাতীয়\nসারাবাংলা\nরাজধানী\nআন্তর্জাতিক\nরাজনীতি\nঅর্থ-বাণিজ্য\nখেলা\nকর্পোরেট\nআইন ও বিচার\nতথ্যপ্রযুক্তি\nঅন্যান্য\nমতামত\nভারতেও ভিড়তে পারেনি উরসা মেজর\nহার রাশিয়ার, জিত আমেরিকার, ক্ষতি বাংলাদেশের\nজিয়াউদ্দীন আহমেদ\nআপডেটেড\n২৩ জানুয়ারি, ২০২৩ ১",
+  "retriedAt": "2026-11-01T19:11:14.956Z",
+  "bodyMatches": 4,
+  "screenshot": "preservation/originals/2023-01-23-bharateo-bhirte-pareni-ursa-major/source.jpg",
+  "visibleText": "preservation/originals/2023-01-23-bharateo-bhirte-pareni-ursa-major/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2023-01-23-bharateo-bhirte-pareni-ursa-major/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 5638
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-01-23-bharateo-bhirte-pareni-ursa-major/source.jpg",
+      "bytes": 919408,
+      "sha256": "9d9462e7989135e8fb2b25122f0560fcdb247f349c0edf287d4c73955a7c3d12"
+    },
+    {
+      "path": "preservation/originals/2023-01-23-bharateo-bhirte-pareni-ursa-major/source.pdf",
+      "bytes": 1151543,
+      "sha256": "a2bc7be8d8ddb728e040916accf4a7d1311d753f7c51268b9a48f054435a7b72"
+    },
+    {
+      "path": "preservation/originals/2023-01-23-bharateo-bhirte-pareni-ursa-major/visible-text.txt",
+      "bytes": 20250,
+      "sha256": "3c87c9b945ad22c3e8fcbe81cae108978e277e458d603e2f51614c12ca82ee3c"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "2026-05-23-honor-killing-sobhyotar-ondhokar-mukh",
+  "title": "অনার কিলিং: সভ্যতার অন্ধকার মুখ",
+  "url": "https://sangbad.net/news/5986/",
+  "date": "2026-05-23",
+  "checkedAt": "2026-11-01T18:57:50.350Z",
+  "resolvedUrl": "https://sangbad.net/news/5986/",
+  "pageTitle": "অনার কিলিং: সভ্যতার অন্ধকার মুখ | সংবাদ",
+  "headings": [
+    "অনার কিলিং: সভ্যতার অন্ধকার মুখ",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7615,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh/source.jpg",
+  "visibleText": "preservation/originals/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4073
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh/source.jpg",
+      "bytes": 808042,
+      "sha256": "f6a0735e3d694a3def6a19197091ad0594d829aae61fab189281c2d058f53058"
+    },
+    {
+      "path": "preservation/originals/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh/source.pdf",
+      "bytes": 1012093,
+      "sha256": "b305fac6d748d6039a2c6e05fb7167c1c11eb0ae9db63ccbafb4a27f22c0e7f0"
+    },
+    {
+      "path": "preservation/originals/2026-05-23-honor-killing-sobhyotar-ondhokar-mukh/visible-text.txt",
+      "bytes": 20093,
+      "sha256": "78adbc7b286841a5d85424a512fb9470c93f6500e499a9f79883b92b27e0133a"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2025-06-26-genghis-ar-halagu-khan-er-abirbhav",
+  "title": "চেঙ্গিস আর হালাকু খানের আবির্ভাব",
+  "url": "https://www.shampratikdeshkal.com/others/168658",
+  "date": "2025-06-26",
+  "checkedAt": "2026-11-01T18:59:29.099Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/others/168658",
+  "pageTitle": "চেঙ্গিস আর হালাকু খানের আবির্ভাব",
+  "headings": [
+    "চেঙ্গিস আর হালাকু খানের আবির্ভাব"
+  ],
+  "visibleCharacters": 8867,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-06-26-genghis-ar-halagu-khan-er-abirbhav/source.jpg",
+  "visibleText": "preservation/originals/2025-06-26-genghis-ar-halagu-khan-er-abirbhav/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2025-06-26-genghis-ar-halagu-khan-er-abirbhav/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4700
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-06-26-genghis-ar-halagu-khan-er-abirbhav/source.jpg",
+      "bytes": 873204,
+      "sha256": "9c1d6f2c767d911d7b341fd7d35bfabace8b9483526277fbce42adfcbc766122"
+    },
+    {
+      "path": "preservation/originals/2025-06-26-genghis-ar-halagu-khan-er-abirbhav/source.pdf",
+      "bytes": 1093581,
+      "sha256": "33bf808c9861026d95f7f7e805511183d9f64dc5b28205a48e63b8bef4d39ede"
+    },
+    {
+      "path": "preservation/originals/2025-06-26-genghis-ar-halagu-khan-er-abirbhav/visible-text.txt",
+      "bytes": 23705,
+      "sha256": "d6ad723a40c0e90acedb665d67cda535108e95e10cf621ab42d33b4fd9ae2996"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

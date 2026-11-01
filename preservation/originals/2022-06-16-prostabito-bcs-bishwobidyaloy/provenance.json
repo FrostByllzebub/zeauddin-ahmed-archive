@@ -1,0 +1,42 @@
+{
+  "slug": "2022-06-16-prostabito-bcs-bishwobidyaloy",
+  "title": "প্রস্তাবিত বিসিএস বিশ্ববিদ্যালয়",
+  "url": "https://www.shampratikdeshkal.com/opinion/81484",
+  "date": "2022-06-16",
+  "checkedAt": "2026-11-01T19:03:09.333Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/81484",
+  "pageTitle": "প্রস্তাবিত বিসিএস বিশ্ববিদ্যালয়",
+  "headings": [
+    "প্রস্তাবিত বিসিএস বিশ্ববিদ্যালয়"
+  ],
+  "visibleCharacters": 6522,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-06-16-prostabito-bcs-bishwobidyaloy/source.jpg",
+  "visibleText": "preservation/originals/2022-06-16-prostabito-bcs-bishwobidyaloy/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2022-06-16-prostabito-bcs-bishwobidyaloy/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3695
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-06-16-prostabito-bcs-bishwobidyaloy/source.jpg",
+      "bytes": 636173,
+      "sha256": "338e6edc33177d39f0aafde630dbd44b639b7e7d1c69642e6f3811e5949cf447"
+    },
+    {
+      "path": "preservation/originals/2022-06-16-prostabito-bcs-bishwobidyaloy/source.pdf",
+      "bytes": 797298,
+      "sha256": "15d41f310c0b02d673088dab014c517cacbd13b13f355dcae4d0001bc6b420d3"
+    },
+    {
+      "path": "preservation/originals/2022-06-16-prostabito-bcs-bishwobidyaloy/visible-text.txt",
+      "bytes": 17356,
+      "sha256": "d626fcd9a71a224dcf311bfe9cc51357723704b6515537a3c81cfab4218a0e56"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

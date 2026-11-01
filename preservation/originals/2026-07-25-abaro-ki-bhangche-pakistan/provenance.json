@@ -1,0 +1,44 @@
+{
+  "slug": "2026-07-25-abaro-ki-bhangche-pakistan",
+  "title": "আবারও কি ভাঙছে পাকিস্তান",
+  "url": "https://sangbad.net/news/11975/",
+  "date": "2026-07-25",
+  "checkedAt": "2026-11-01T18:57:04.986Z",
+  "resolvedUrl": "https://sangbad.net/news/11975/",
+  "pageTitle": "আবারও কি ভাঙছে পাকিস্তান | সংবাদ",
+  "headings": [
+    "আবারও কি ভাঙছে পাকিস্তান",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7287,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-07-25-abaro-ki-bhangche-pakistan/source.jpg",
+  "visibleText": "preservation/originals/2026-07-25-abaro-ki-bhangche-pakistan/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2026-07-25-abaro-ki-bhangche-pakistan/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3614
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-07-25-abaro-ki-bhangche-pakistan/source.jpg",
+      "bytes": 844269,
+      "sha256": "bdefd871cadb96f1bdd81553d6eff5b92bd409c71db42c2ddb193a2011c2cd68"
+    },
+    {
+      "path": "preservation/originals/2026-07-25-abaro-ki-bhangche-pakistan/source.pdf",
+      "bytes": 1057339,
+      "sha256": "98c1d061bd323d3009152c87e4e82ee9b0be1a6d9e5a97d82d571ed3b8642a76"
+    },
+    {
+      "path": "preservation/originals/2026-07-25-abaro-ki-bhangche-pakistan/visible-text.txt",
+      "bytes": 19421,
+      "sha256": "edeaef635e20fbee6346728cc1a2ac68ab4b543b6fef10de5743ae2b31772e0c"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

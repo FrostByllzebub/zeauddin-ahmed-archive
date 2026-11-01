@@ -1,0 +1,42 @@
+{
+  "slug": "2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno",
+  "title": "যুক্তরাষ্ট্রের সঙ্গে শুল্ক চুক্তি: তারা নীরব কেন?",
+  "url": "https://www.chaarcha.com/thoughts/chwemhab79uq",
+  "date": "2026-05-10",
+  "checkedAt": "2026-11-01T18:57:54.522Z",
+  "resolvedUrl": "https://www.chaarcha.com/thoughts/chwemhab79uq",
+  "pageTitle": "যুক্তরাষ্ট্রের সঙ্গে শুল্ক চুক্তি: তারা নীরব কেন?",
+  "headings": [
+    "যুক্তরাষ্ট্রের সঙ্গে শুল্ক চুক্তি: তারা নীরব কেন?"
+  ],
+  "visibleCharacters": 7173,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno/source.jpg",
+  "visibleText": "preservation/originals/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 5321
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno/source.jpg",
+      "bytes": 881543,
+      "sha256": "227d075fc9cf8360cca5a7a13d6024aa78ec10987da7c258110768b15a91cd48"
+    },
+    {
+      "path": "preservation/originals/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno/source.pdf",
+      "bytes": 1104127,
+      "sha256": "fb6120b2f26d15f276ba8c9ebc8ac59572dbaf912956ac03641ac06d88c799ec"
+    },
+    {
+      "path": "preservation/originals/2026-05-10-juktorashtrer-shonge-shulko-chukti-tara-nirob-keno/visible-text.txt",
+      "bytes": 19205,
+      "sha256": "f242236d29b128b41ec7515312ebb29856e18df1f722c87764c5089244d9faf5"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

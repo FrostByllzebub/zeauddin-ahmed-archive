@@ -1,0 +1,42 @@
+{
+  "slug": "2022-10-06-bangladesher-shobuj-passport",
+  "title": "বাংলাদেশের সবুজ পাসপোর্ট",
+  "url": "https://www.shampratikdeshkal.com/opinion/91729",
+  "date": "2022-10-06",
+  "checkedAt": "2026-11-01T19:02:56.174Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/91729",
+  "pageTitle": "বাংলাদেশের সবুজ পাসপোর্ট",
+  "headings": [
+    "বাংলাদেশের সবুজ পাসপোর্ট"
+  ],
+  "visibleCharacters": 7870,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-10-06-bangladesher-shobuj-passport/source.jpg",
+  "visibleText": "preservation/originals/2022-10-06-bangladesher-shobuj-passport/visible-text.txt",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2022-10-06-bangladesher-shobuj-passport/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4345
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-10-06-bangladesher-shobuj-passport/source.jpg",
+      "bytes": 795065,
+      "sha256": "d4e9706b72f6a6ea796bd38c2714724c4a7f61bcd3149a7f1187079258306234"
+    },
+    {
+      "path": "preservation/originals/2022-10-06-bangladesher-shobuj-passport/source.pdf",
+      "bytes": 995853,
+      "sha256": "76218dad9c2aa5748064b4bf24a98349b347faba3f8bde21ff539e1d94704596"
+    },
+    {
+      "path": "preservation/originals/2022-10-06-bangladesher-shobuj-passport/visible-text.txt",
+      "bytes": 20972,
+      "sha256": "0bcb5414c4310fd1b915dc0da2927ff151492227280c84323ac36693740cc602"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

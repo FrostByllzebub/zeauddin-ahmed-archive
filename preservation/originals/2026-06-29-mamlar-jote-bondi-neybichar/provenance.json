@@ -1,0 +1,45 @@
+{
+  "slug": "2026-06-29-mamlar-jote-bondi-neybichar",
+  "title": "মামলার জটে বন্দী ন্যায়বিচার",
+  "url": "https://www.chaarcha.com/thoughts/ch5xdcw8i3fm",
+  "date": "2026-06-29",
+  "checkedAt": "2026-11-01T18:57:21.281Z",
+  "resolvedUrl": "https://www.chaarcha.com/thoughts/ch5xdcw8i3fm",
+  "pageTitle": "মামলার জটে বন্দী ন্যায়বিচার",
+  "headings": [
+    "মামলার জটে বন্দী ন্যায়বিচার"
+  ],
+  "visibleCharacters": 6817,
+  "titleScore": 1,
+  "status": "captured",
+  "excerpt": "সর্বশেষ\nবিশেষ\nএক্সপ্লেইনার\nবিশ্লেষণ\nভাবনা\nভিডিও\nশর্টস\nজীবনচরচা\nম্যাগাজিন\nপ্রবাস\n০২ নভেম্বর, ২০২৬\n×\nসংক্ষেপে\nকানেক্ট\nম্যাগাজিন\n\nআমরা\n\nআমাদের সম্পর্কে\nযোগাযোগ\nবিধিনিষেধ ও শর্তাবলি\nগোপনীয়তার নীতি\nসর্বশেষ\nবিশেষ\nএক্সপ্লেইনার\nবিশ্লেষণ\nভাবনা\nভিডিও\nশর্টস\nজীবনচরচা\nম্যাগাজিন\nপ্রবাস\n০২ নভেম্বর, ২০২৬\nসর্বশেষ\nএক্সপ্লেইনার\nবিশ্লেষণ\nভাবনা\nভিডিও\nশর্টস\nজীবনচরচা\nম্যাগাজিন\nপ্রবাস\nআমরা\n\nসম্পাদক: সোহরাব হাসান, প্রিন্",
+  "retriedAt": "2026-11-01T19:04:57.030Z",
+  "bodyMatches": 1,
+  "screenshot": "preservation/originals/2026-06-29-mamlar-jote-bondi-neybichar/source.jpg",
+  "visibleText": "preservation/originals/2026-06-29-mamlar-jote-bondi-neybichar/visible-text.txt",
+  "bodyEvidenceMatches": 1,
+  "pdf": "preservation/originals/2026-06-29-mamlar-jote-bondi-neybichar/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 4039
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-06-29-mamlar-jote-bondi-neybichar/source.jpg",
+      "bytes": 784961,
+      "sha256": "32c462a7ddffa51bd358e8e3721fc851475791dbacc4b35778cb08dab34e7d92"
+    },
+    {
+      "path": "preservation/originals/2026-06-29-mamlar-jote-bondi-neybichar/source.pdf",
+      "bytes": 983113,
+      "sha256": "ec6bbe54e68be9bc18eef20b09860141ea759997d7066e8d3c0271806fa7e17e"
+    },
+    {
+      "path": "preservation/originals/2026-06-29-mamlar-jote-bondi-neybichar/visible-text.txt",
+      "bytes": 18101,
+      "sha256": "f9d910ca62f039bb3ea5a8e61f1b2e6d4f5f3aee3cc0914f560898eee38aaba2"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

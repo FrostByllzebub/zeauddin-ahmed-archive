@@ -1,0 +1,44 @@
+{
+  "slug": "2026-04-25-rajniti-noy-orthoniti-guruttopurno",
+  "title": "রাজনীতি নয়, অর্থনীতিই গুরুত্বপূর্ণ",
+  "url": "https://sangbad.net/news/3164/",
+  "date": "2026-04-25",
+  "checkedAt": "2026-11-01T18:58:01.526Z",
+  "resolvedUrl": "https://sangbad.net/news/3164/",
+  "pageTitle": "রাজনীতি নয়, অর্থনীতিই গুরুত্বপূর্ণ | সংবাদ",
+  "headings": [
+    "রাজনীতি নয়, অর্থনীতিই গুরুত্বপূর্ণ",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 9539,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-04-25-rajniti-noy-orthoniti-guruttopurno/source.jpg",
+  "visibleText": "preservation/originals/2026-04-25-rajniti-noy-orthoniti-guruttopurno/visible-text.txt",
+  "bodyEvidenceMatches": 9,
+  "pdf": "preservation/originals/2026-04-25-rajniti-noy-orthoniti-guruttopurno/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4048
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-04-25-rajniti-noy-orthoniti-guruttopurno/source.jpg",
+      "bytes": 1053060,
+      "sha256": "2d3282e84c76005b9f4de7802bf968c95e57280b1ea060faf238a51dc7997944"
+    },
+    {
+      "path": "preservation/originals/2026-04-25-rajniti-noy-orthoniti-guruttopurno/source.pdf",
+      "bytes": 1318390,
+      "sha256": "a2fff34dafed9e10f9177c091ddfe05053d133e815e6b504d263b50d990123a8"
+    },
+    {
+      "path": "preservation/originals/2026-04-25-rajniti-noy-orthoniti-guruttopurno/visible-text.txt",
+      "bytes": 25321,
+      "sha256": "920b172da826e90bbb3b5d77e40ef775308b59f375b2a80278f2a1ae5a61ad8d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

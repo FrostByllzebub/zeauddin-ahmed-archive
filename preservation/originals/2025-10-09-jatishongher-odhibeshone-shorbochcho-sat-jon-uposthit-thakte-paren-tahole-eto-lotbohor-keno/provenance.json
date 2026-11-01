@@ -1,0 +1,42 @@
+{
+  "slug": "2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno",
+  "title": "জাতিসংঘের অধিবেশনে সর্বোচ্চ ৭ জন উপস্থিত থাকতে পারেন, তাহলে এত লটবহর কেন?",
+  "url": "https://bn.viewsbangladesh.com/why-such-large-entourage-when-only-7-can-attend-unga/",
+  "date": "2025-10-09",
+  "checkedAt": "2026-11-01T18:58:49.534Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/why-such-large-entourage-when-only-7-can-attend-unga/",
+  "pageTitle": "জাতিসংঘের অধিবেশনে সর্বোচ্চ ৭ জন উপস্থিত থাকতে পারেন, তাহলে বিরাট",
+  "headings": [
+    "জাতিসংঘের অধিবেশনে সর্বোচ্চ ৭ জন উপস্থিত থাকতে পারেন, তাহলে বিরাট লটবহর কেন?"
+  ],
+  "visibleCharacters": 9693,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno/source.jpg",
+  "visibleText": "preservation/originals/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5040
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno/source.jpg",
+      "bytes": 809034,
+      "sha256": "f615e618a4a7e54f20e76e068783051447ce68fce9655aa963502f7a47fc8b0b"
+    },
+    {
+      "path": "preservation/originals/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno/source.pdf",
+      "bytes": 1013699,
+      "sha256": "c6a68c80e9234743af774464da87bfa09c2d39e8c9dcb86d790044fe61c9c312"
+    },
+    {
+      "path": "preservation/originals/2025-10-09-jatishongher-odhibeshone-shorbochcho-sat-jon-uposthit-thakte-paren-tahole-eto-lotbohor-keno/visible-text.txt",
+      "bytes": 25366,
+      "sha256": "0d867f4ffe8ad9f836265baac396f8883e8ab1f4b31eb5e1ddc25c0302e5354b"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

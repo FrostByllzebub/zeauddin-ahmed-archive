@@ -1,0 +1,44 @@
+{
+  "slug": "2026-03-15-modhyoprachchye-shoktir-rajniti",
+  "title": "মধ্যপ্রাচ্যে শক্তির রাজনীতি: প্রযুক্তি, ক্ষমতা ও মুসলিম বিশ্বের সংকট",
+  "url": "https://sangbad.net/news/448/",
+  "date": "2026-03-15",
+  "checkedAt": "2026-11-01T18:58:21.304Z",
+  "resolvedUrl": "https://sangbad.net/news/448/",
+  "pageTitle": "মধ্যপ্রাচ্যে শক্তির রাজনীতি: প্রযুক্তি, ক্ষমতা ও মুসলিম বিশ্বের সংকট | সংবাদ",
+  "headings": [
+    "মধ্যপ্রাচ্যে শক্তির রাজনীতি: প্রযুক্তি, ক্ষমতা ও মুসলিম বিশ্বের সংকট",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 8778,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-03-15-modhyoprachchye-shoktir-rajniti/source.jpg",
+  "visibleText": "preservation/originals/2026-03-15-modhyoprachchye-shoktir-rajniti/visible-text.txt",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2026-03-15-modhyoprachchye-shoktir-rajniti/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4048
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-03-15-modhyoprachchye-shoktir-rajniti/source.jpg",
+      "bytes": 976837,
+      "sha256": "614ab21f2c346a14a96a30fa4db7dec8b8872698336ab1af763d5ebcb54181f6"
+    },
+    {
+      "path": "preservation/originals/2026-03-15-modhyoprachchye-shoktir-rajniti/source.pdf",
+      "bytes": 1223359,
+      "sha256": "29e643ccfa61bdd0cec38a5586a63751ae0dd58c01ee3ec4e2c8696eeae9282c"
+    },
+    {
+      "path": "preservation/originals/2026-03-15-modhyoprachchye-shoktir-rajniti/visible-text.txt",
+      "bytes": 23363,
+      "sha256": "487f97a873e3d95f0d0fe54b207f524d7a0aef097db5b0e257f9bd5e4b3f8d13"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

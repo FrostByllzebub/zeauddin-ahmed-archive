@@ -1,0 +1,44 @@
+{
+  "slug": "2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno",
+  "title": "উন্নয়নশীলের পথে বিরতি: সিদ্ধান্তের পেছনের প্রশ্ন",
+  "url": "https://sangbad.net/news/3773/",
+  "date": "2026-05-02",
+  "checkedAt": "2026-11-01T18:57:59.131Z",
+  "resolvedUrl": "https://sangbad.net/news/3773/",
+  "pageTitle": "উন্নয়নশীলের পথে বিরতি: সিদ্ধান্তের পেছনের প্রশ্ন | সংবাদ",
+  "headings": [
+    "উন্নয়নশীলের পথে বিরতি: সিদ্ধান্তের পেছনের প্রশ্ন",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7484,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno/source.jpg",
+  "visibleText": "preservation/originals/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4028
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno/source.jpg",
+      "bytes": 808386,
+      "sha256": "5475ac686db43f7a9ddcfd7141678aaabee7dae8151388e2951a5f750cd574e1"
+    },
+    {
+      "path": "preservation/originals/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno/source.pdf",
+      "bytes": 1012656,
+      "sha256": "e7ff949c0802faeb63b0d585b7bbbeaf4b9c2cfc28dd2eeb336d23fec12b27dd"
+    },
+    {
+      "path": "preservation/originals/2026-05-02-unnoyonshiler-pothe-biroti-siddhanter-pechoner-proshno/visible-text.txt",
+      "bytes": 19900,
+      "sha256": "9709f8f4fbabe74ae8fc30e7ebd67ca64b2b81a6d5f8b9bda038aab4032179be"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

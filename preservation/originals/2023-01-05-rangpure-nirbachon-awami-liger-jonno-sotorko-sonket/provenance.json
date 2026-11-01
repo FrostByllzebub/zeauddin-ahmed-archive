@@ -1,0 +1,44 @@
+{
+  "slug": "2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket",
+  "title": "রংপুরে নির্বাচন আওয়ামী লীগের জন্য সতর্ক সঙ্কেত",
+  "url": "https://www.dainikbangla.com.bd/opinion/9552/1672887293",
+  "date": "2023-01-05",
+  "checkedAt": "2026-11-01T19:02:20.975Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/9552/1672887293",
+  "pageTitle": "রংপুরের নির্বাচন আ. লীগের জন্য সতর্কসংকেত",
+  "headings": [
+    "রংপুরের নির্বাচন আ. লীগের জন্য সতর্কসংকেত"
+  ],
+  "visibleCharacters": 118048,
+  "titleScore": 0.7142857142857143,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:11:26.544Z",
+  "screenshot": "preservation/originals/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket/source.jpg",
+  "visibleText": "preservation/originals/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite feed excluded",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6291
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket/source.jpg",
+      "bytes": 1013589,
+      "sha256": "3207ed78ace20a1b30118b7f0076634ae64226b429ed7a45d0c6cf54d1930b92"
+    },
+    {
+      "path": "preservation/originals/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket/source.pdf",
+      "bytes": 1269061,
+      "sha256": "8c2fe07a36e0a1114a52d755e0a70c76eecdedccb0e2035c5a3295bc05936d27"
+    },
+    {
+      "path": "preservation/originals/2023-01-05-rangpure-nirbachon-awami-liger-jonno-sotorko-sonket/visible-text.txt",
+      "bytes": 22670,
+      "sha256": "5067dbc42e3fd65072ef0f8647931e79feba11dfd922ae98f241bf95bc96e23a"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

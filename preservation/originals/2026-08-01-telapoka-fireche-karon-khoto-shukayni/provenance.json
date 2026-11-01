@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-01-telapoka-fireche-karon-khoto-shukayni",
+  "title": "তেলাপোকা ফিরেছে, কারণ ক্ষত শুকায়নি",
+  "url": "https://sangbad.net/news/12677/",
+  "date": "2026-08-01",
+  "checkedAt": "2026-11-01T18:57:02.909Z",
+  "resolvedUrl": "https://sangbad.net/news/12677/",
+  "pageTitle": "তেলাপোকা ফিরেছে, কারণ ক্ষত শুকায়নি | সংবাদ",
+  "headings": [
+    "তেলাপোকা ফিরেছে, কারণ ক্ষত শুকায়নি",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6050,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-08-01-telapoka-fireche-karon-khoto-shukayni/source.jpg",
+  "visibleText": "preservation/originals/2026-08-01-telapoka-fireche-karon-khoto-shukayni/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-08-01-telapoka-fireche-karon-khoto-shukayni/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3336
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-08-01-telapoka-fireche-karon-khoto-shukayni/source.jpg",
+      "bytes": 706256,
+      "sha256": "4baa58606812d0e41652031443c6552920ae0106b003ee7792275f79a08cfa9a"
+    },
+    {
+      "path": "preservation/originals/2026-08-01-telapoka-fireche-karon-khoto-shukayni/source.pdf",
+      "bytes": 884894,
+      "sha256": "46c446ce89353f38fbb718053aafa783189428a7e975efbf14ee549564c78067"
+    },
+    {
+      "path": "preservation/originals/2026-08-01-telapoka-fireche-karon-khoto-shukayni/visible-text.txt",
+      "bytes": 15960,
+      "sha256": "fe4dbf479b8d6d8e7ea040ae525bfa520bfee34349872eca84126043ee7dcc6d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

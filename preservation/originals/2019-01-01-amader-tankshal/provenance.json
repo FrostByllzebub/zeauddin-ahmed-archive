@@ -1,0 +1,43 @@
+{
+  "slug": "2019-01-01-amader-tankshal",
+  "title": "‘আমাদের টাঁকশাল’",
+  "url": "https://www.prothomalo.com/lifestyle/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B2",
+  "date": "2019-02-02",
+  "checkedAt": "2026-11-01T19:03:41.510Z",
+  "resolvedUrl": "https://www.prothomalo.com/lifestyle/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9F%E0%A6%BE%E0%A6%81%E0%A6%95%E0%A6%B6%E0%A6%BE%E0%A6%B2",
+  "pageTitle": "আমাদের টাঁকশাল | প্রথম আলো",
+  "headings": [
+    "আমাদের টাঁকশাল"
+  ],
+  "visibleCharacters": 8272,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2019-01-01-amader-tankshal/source.jpg",
+  "visibleText": "preservation/originals/2019-01-01-amader-tankshal/visible-text.txt",
+  "bodyEvidenceMatches": 0,
+  "pdf": "preservation/originals/2019-01-01-amader-tankshal/source.pdf",
+  "imageDimensions": {
+    "width": 1273,
+    "height": 5275
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2019-01-01-amader-tankshal/source.jpg",
+      "bytes": 710621,
+      "sha256": "1cbbb177df57153fc9bf714452cc2f24e8ec56e9d9b4f20334e05aae061b795e"
+    },
+    {
+      "path": "preservation/originals/2019-01-01-amader-tankshal/source.pdf",
+      "bytes": 890318,
+      "sha256": "3b3001596edc6d4c5d069e889bf874e89dee1514b25de19788061bf58f5e646b"
+    },
+    {
+      "path": "preservation/originals/2019-01-01-amader-tankshal/visible-text.txt",
+      "bytes": 22096,
+      "sha256": "481f19910fd46b0c60335c213a4357ef30eee79753c07e5410628edf7222c058"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "identityReview": "Manually confirmed publisher title, byline জিয়াউদ্দীন আহমেদ, 2 February 2019 date and complete mint article. Exact body-prefix comparison differs because publisher includes an introductory standfirst and section headings.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

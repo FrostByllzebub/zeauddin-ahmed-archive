@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-15-orthonitir-lasher-upor-rajnitir-utsob",
+  "title": "অর্থনীতির লাশের ওপর রাজনীতির উৎসব",
+  "url": "https://sangbad.net/news/14301/",
+  "date": "2026-08-15",
+  "checkedAt": "2026-11-01T18:56:56.537Z",
+  "resolvedUrl": "https://sangbad.net/news/14301/",
+  "pageTitle": "অর্থনীতির লাশের ওপর রাজনীতির উৎসব | সংবাদ",
+  "headings": [
+    "অর্থনীতির লাশের ওপর রাজনীতির উৎসব",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6153,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob/source.jpg",
+  "visibleText": "preservation/originals/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3390
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob/source.jpg",
+      "bytes": 713233,
+      "sha256": "a35d76ce0f67e6e2c8b4d1d2c6f3078c565e079eade4436e635ead80e0a5d337"
+    },
+    {
+      "path": "preservation/originals/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob/source.pdf",
+      "bytes": 893611,
+      "sha256": "8c4499320b31b549a04df159bdcf5fdb5397f5bbe6a924a1048fe01dfb0c05ed"
+    },
+    {
+      "path": "preservation/originals/2026-08-15-orthonitir-lasher-upor-rajnitir-utsob/visible-text.txt",
+      "bytes": 16269,
+      "sha256": "5ea179fd05c420fe8f969c37cca9771af1ac158e5f392cfbbd677a11e331bfd8"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

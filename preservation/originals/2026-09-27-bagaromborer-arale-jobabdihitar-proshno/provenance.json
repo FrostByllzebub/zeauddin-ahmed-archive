@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-27-bagaromborer-arale-jobabdihitar-proshno",
+  "title": "বাগাড়ম্বরের আড়ালে জবাবদিহিহীনতার প্রশ্ন",
+  "url": "https://sangbad.net/news/18804/",
+  "date": "2026-09-27",
+  "checkedAt": "2026-11-01T18:56:37.366Z",
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:04:35.811Z",
+  "resolvedUrl": "https://sangbad.net/news/18804/",
+  "pageTitle": "বাগাড়ম্বরের আড়ালে জবাবদিহিহীনতার প্রশ্ন | সংবাদ",
+  "headings": [
+    "বাগাড়ম্বরের আড়ালে জবাবদিহিহীনতার প্রশ্ন",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6532,
+  "bodyMatches": 10,
+  "titleScore": 1,
+  "screenshot": "preservation/originals/2026-09-27-bagaromborer-arale-jobabdihitar-proshno/source.jpg",
+  "visibleText": "preservation/originals/2026-09-27-bagaromborer-arale-jobabdihitar-proshno/visible-text.txt",
+  "bodyEvidenceMatches": 10,
+  "pdf": "preservation/originals/2026-09-27-bagaromborer-arale-jobabdihitar-proshno/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 3458
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-09-27-bagaromborer-arale-jobabdihitar-proshno/source.jpg",
+      "bytes": 766270,
+      "sha256": "a6b1c4ec6f899e3a0ce45cd09586baebd19239ce799f69e9aadde21c9fc646d1"
+    },
+    {
+      "path": "preservation/originals/2026-09-27-bagaromborer-arale-jobabdihitar-proshno/source.pdf",
+      "bytes": 959844,
+      "sha256": "1425f02e68ea4b9c773f9c19eb8bd019bf95154817f8bb9e7d7e7c8ba5e7f1c7"
+    },
+    {
+      "path": "preservation/originals/2026-09-27-bagaromborer-arale-jobabdihitar-proshno/visible-text.txt",
+      "bytes": 17338,
+      "sha256": "0d38a52866b6b3190b0bf6aef17eb5240af76a9a74f45c2ed3a1b19820234fae"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

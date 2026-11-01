@@ -1,0 +1,42 @@
+{
+  "slug": "2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache",
+  "title": "বিভুরঞ্জন সরকারের বিদায়ই কি শেষ বিদায়, নাকি তারপরও আছে!",
+  "url": "https://bn.viewsbangladesh.com/is-there-still-more-to-come-after-bibhuranjan-sarkars-tragic-departure/",
+  "date": "2025-08-28",
+  "checkedAt": "2026-11-01T18:59:11.202Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/is-there-still-more-to-come-after-bibhuranjan-sarkars-tragic-departure/",
+  "pageTitle": "বিভুরঞ্জন সরকারের বিদায়ই কি শেষ বিদায়, নাকি তারপরও আছে!",
+  "headings": [
+    "বিভুরঞ্জন সরকারের বিদায়ই কি শেষ বিদায়, নাকি তারপরও আছে!"
+  ],
+  "visibleCharacters": 8478,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache/source.jpg",
+  "visibleText": "preservation/originals/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4872
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache/source.jpg",
+      "bytes": 771605,
+      "sha256": "73b3f2f3f7700a7a3174bc65964860d8adb3e278d2c55318011582c6b6147fc4"
+    },
+    {
+      "path": "preservation/originals/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache/source.pdf",
+      "bytes": 966794,
+      "sha256": "c633cdc8e75380e201303e499e2d26036fe6fcf516799d348214d8fd3d808a37"
+    },
+    {
+      "path": "preservation/originals/2025-08-28-bibhuranjan-shorkarer-biday-i-ki-shesh-biday-naki-tarpor-o-ache/visible-text.txt",
+      "bytes": 22117,
+      "sha256": "48db04f99366deb69a0df937e1f0c3a5fc474705031777e339a345e55deac536"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

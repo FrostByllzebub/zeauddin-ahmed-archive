@@ -1,0 +1,42 @@
+{
+  "slug": "2022-02-24-gaser-dam-briddhir-prostab",
+  "title": "গ্যাসের দাম বৃদ্ধির প্রস্তাব",
+  "url": "https://www.shampratikdeshkal.com/opinion/71468",
+  "date": "2022-02-24",
+  "checkedAt": "2026-11-01T19:03:13.041Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/71468",
+  "pageTitle": "গ্যাসের দাম বৃদ্ধির প্রস্তাব",
+  "headings": [
+    "গ্যাসের দাম বৃদ্ধির প্রস্তাব"
+  ],
+  "visibleCharacters": 7066,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-02-24-gaser-dam-briddhir-prostab/source.jpg",
+  "visibleText": "preservation/originals/2022-02-24-gaser-dam-briddhir-prostab/visible-text.txt",
+  "bodyEvidenceMatches": 1,
+  "pdf": "preservation/originals/2022-02-24-gaser-dam-briddhir-prostab/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3710
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-02-24-gaser-dam-briddhir-prostab/source.jpg",
+      "bytes": 675688,
+      "sha256": "7c6b86cdf1fac3c51b59a231a6c4f2d547b0cc95f22f20305053c8dda35d7108"
+    },
+    {
+      "path": "preservation/originals/2022-02-24-gaser-dam-briddhir-prostab/source.pdf",
+      "bytes": 846655,
+      "sha256": "c318d963014dfee650995f9f674ab456bfd19527f7bd478ece16279e384e367b"
+    },
+    {
+      "path": "preservation/originals/2022-02-24-gaser-dam-briddhir-prostab/visible-text.txt",
+      "bytes": 18666,
+      "sha256": "d5cbb4a3f87ccd1bd0643230ae6588047a8cd1f8093e51602b9642246070b1cb"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

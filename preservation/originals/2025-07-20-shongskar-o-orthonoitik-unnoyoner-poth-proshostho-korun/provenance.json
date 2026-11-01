@@ -1,0 +1,42 @@
+{
+  "slug": "2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun",
+  "title": "সংস্কার ও অর্থনৈতিক উন্নয়নের পথ প্রশস্ত করুন",
+  "url": "https://bn.viewsbangladesh.com/clear-the-path-for-reform-and-economic-progress/",
+  "date": "2025-07-20",
+  "checkedAt": "2026-11-01T18:59:23.514Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/clear-the-path-for-reform-and-economic-progress/",
+  "pageTitle": "সংস্কার ও অর্থনৈতিক উন্নয়নের পথ প্রশস্ত করুন",
+  "headings": [
+    "সংস্কার ও অর্থনৈতিক উন্নয়নের পথ প্রশস্ত করুন"
+  ],
+  "visibleCharacters": 8698,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun/source.jpg",
+  "visibleText": "preservation/originals/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4699
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun/source.jpg",
+      "bytes": 782432,
+      "sha256": "f6f26b01b318a9a4f7de92ffa46ede398db30c4ce424376892635e1809f2d2e0"
+    },
+    {
+      "path": "preservation/originals/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun/source.pdf",
+      "bytes": 980233,
+      "sha256": "9cb71f7bb41235b971a7af2007657a21ad3e1304901721b8701aa190777f5920"
+    },
+    {
+      "path": "preservation/originals/2025-07-20-shongskar-o-orthonoitik-unnoyoner-poth-proshostho-korun/visible-text.txt",
+      "bytes": 22607,
+      "sha256": "0f2106942c43692abb75837aa3cd6cd343eef81a5e27d0e196cbeb27b89b3c75"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

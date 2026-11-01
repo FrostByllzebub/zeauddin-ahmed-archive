@@ -1,0 +1,46 @@
+{
+  "slug": "2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab",
+  "title": "ব্রিকস সম্মেলন ও বাংলাদেশের কূটনৈতিক হিসাব",
+  "url": "https://sangbad.net/news/18013/",
+  "date": "2026-09-19",
+  "checkedAt": "2026-11-01T18:56:38.163Z",
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:04:39.728Z",
+  "resolvedUrl": "https://sangbad.net/news/18013/",
+  "pageTitle": "ব্রিকস সম্মেলন ও বাংলাদেশের কূটনৈতিক হিসাব | সংবাদ",
+  "headings": [
+    "ব্রিকস সম্মেলন ও বাংলাদেশের কূটনৈতিক হিসাব",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6225,
+  "bodyMatches": 7,
+  "titleScore": 1,
+  "screenshot": "preservation/originals/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab/source.jpg",
+  "visibleText": "preservation/originals/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 3260
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab/source.jpg",
+      "bytes": 724492,
+      "sha256": "15eb194428a68fd1898b114f3806ebc70e83b2fc8f4b43bd5617e5244c5423b2"
+    },
+    {
+      "path": "preservation/originals/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab/source.pdf",
+      "bytes": 907625,
+      "sha256": "baa04c26eb3cac1d19dbea0f3afd7973307db2ed6542bc3d56b427144094bd4d"
+    },
+    {
+      "path": "preservation/originals/2026-09-19-brics-shommelon-o-bangladesher-kutnoitik-hishab/visible-text.txt",
+      "bytes": 16551,
+      "sha256": "08c970c829937eeae18139316477925269d8e1a521394fd63f924e20503172db"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

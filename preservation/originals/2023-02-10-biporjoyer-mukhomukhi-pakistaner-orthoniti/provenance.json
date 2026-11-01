@@ -1,0 +1,42 @@
+{
+  "slug": "2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti",
+  "title": "বিপর্যয়ের মুখোমুখি পাকিস্তানের অর্থনীতি",
+  "url": "https://www.shampratikdeshkal.com/opinion/103199",
+  "date": "2023-02-10",
+  "checkedAt": "2026-11-01T19:02:00.269Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/103199",
+  "pageTitle": "বিপর্যয়ের মুখোমুখি পাকিস্তানের অর্থনীতি",
+  "headings": [
+    "বিপর্যয়ের মুখোমুখি পাকিস্তানের অর্থনীতি"
+  ],
+  "visibleCharacters": 9377,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti/source.jpg",
+  "visibleText": "preservation/originals/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti/visible-text.txt",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 5275
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti/source.jpg",
+      "bytes": 893172,
+      "sha256": "245e2428daffe52c6c90c115f7f2e5f2aaa93f10ce4722b942f79b5961564f41"
+    },
+    {
+      "path": "preservation/originals/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti/source.pdf",
+      "bytes": 1118605,
+      "sha256": "4ad1ecd9dd070ed65ac3485b4e298746446b552ab9b2956685211fc3e49d7303"
+    },
+    {
+      "path": "preservation/originals/2023-02-10-biporjoyer-mukhomukhi-pakistaner-orthoniti/visible-text.txt",
+      "bytes": 25077,
+      "sha256": "250425b415ccebedb38487362a78e783b518b7b9bcc9ce56a0882af3c646b15c"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo",
+  "title": "বিশ্বব্যাপী মার্কিনিদের প্রতিশোধমূলক শুল্কারোপে বাংলাদেশের অবস্থান কেমন হলো!",
+  "url": "https://bn.viewsbangladesh.com/where-does-bangladesh-stand-amidst-uss-global-retaliatory-tariffs/",
+  "date": "2025-08-09",
+  "checkedAt": "2026-11-01T18:59:19.486Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/where-does-bangladesh-stand-amidst-uss-global-retaliatory-tariffs/",
+  "pageTitle": "বিশ্বব্যাপী মার্কিনিদের প্রতিশোধমূলক শুল্কারোপে বাংলাদেশের অবস্থান",
+  "headings": [
+    "বিশ্বব্যাপী মার্কিনিদের প্রতিশোধমূলক শুল্কারোপে বাংলাদেশের অবস্থান কেমন হলো!"
+  ],
+  "visibleCharacters": 9950,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo/source.jpg",
+  "visibleText": "preservation/originals/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5292
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo/source.jpg",
+      "bytes": 897243,
+      "sha256": "52361f2b5780c5752fdcff386e56eb2b8208929ab9a334da725d8b9ad00ddd0e"
+    },
+    {
+      "path": "preservation/originals/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo/source.pdf",
+      "bytes": 1124016,
+      "sha256": "4f3c13cd0f92941b7a1193f24decc8a163eb5524cadabeeba97591d7f8b2720f"
+    },
+    {
+      "path": "preservation/originals/2025-08-09-bishshobyapi-markinider-protishodhmulok-shulko-arope-bangladesher-obosthan-kemon-holo/visible-text.txt",
+      "bytes": 25997,
+      "sha256": "843d063f9956d74011a83e01629e666da0f6ed957c8fc7c1fcb8e9e8f6554fe9"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

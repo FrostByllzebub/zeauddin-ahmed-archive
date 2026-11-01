@@ -1,0 +1,45 @@
+{
+  "slug": "2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash",
+  "title": "বিএনপির ১০ দফা দাবী, রাজনীতির হিসাব-নিকাশ",
+  "url": "https://www.dainikbangla.com.bd/opinion/8291/1671593767",
+  "date": "2022-12-21",
+  "checkedAt": "2026-11-01T19:02:28.948Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/8291/1671593767",
+  "pageTitle": "বিএনপির ১০ দফা দাবি, রাজনীতির হিসাব-নিকাশ",
+  "headings": [
+    "বিএনপির ১০ দফা দাবি, রাজনীতির হিসাব-নিকাশ"
+  ],
+  "visibleCharacters": 118566,
+  "titleScore": 0.8,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:11:49.012Z",
+  "bodyMatches": 1,
+  "screenshot": "preservation/originals/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash/source.jpg",
+  "visibleText": "preservation/originals/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6354
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash/source.jpg",
+      "bytes": 1069221,
+      "sha256": "ca9ac66436a2455108dc3bd589ddb2b05cc6170383f979f643772806bd5ce6f9"
+    },
+    {
+      "path": "preservation/originals/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash/source.pdf",
+      "bytes": 1338547,
+      "sha256": "e7ea08743583e88beedbf4bc528af0f6854f5f4f4c2d75f6daa0004c65589376"
+    },
+    {
+      "path": "preservation/originals/2022-12-21-bnpir-10-dofa-rajnitir-hisab-nikash/visible-text.txt",
+      "bytes": 22454,
+      "sha256": "9d5fede441d009bb809abd65296d2745aa58841c527c749ae56ca38c39e899f1"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

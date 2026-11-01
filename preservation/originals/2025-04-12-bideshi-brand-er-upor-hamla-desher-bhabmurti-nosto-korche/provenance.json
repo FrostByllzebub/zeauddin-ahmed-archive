@@ -1,0 +1,42 @@
+{
+  "slug": "2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche",
+  "title": "বিদেশি ব্র্যান্ডের উপর হামলা দেশের ভাবমূর্তি নষ্ট করছে",
+  "url": "https://viewsbangladesh.com/bn/attacks-on-foreign-brands-have-ruined-the-countrys-image/",
+  "date": "2025-04-12",
+  "checkedAt": "2026-11-01T18:59:47.952Z",
+  "resolvedUrl": "https://viewsbangladesh.com/bn/attacks-on-foreign-brands-have-ruined-the-countrys-image/",
+  "pageTitle": "বিদেশি ব্র্যান্ডের ওপর হামলা দেশের ভাবমূর্তি নষ্ট করেছে",
+  "headings": [
+    "বিদেশি ব্র্যান্ডের ওপর হামলা দেশের ভাবমূর্তি নষ্ট করেছে"
+  ],
+  "visibleCharacters": 8227,
+  "titleScore": 0.75,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche/source.jpg",
+  "visibleText": "preservation/originals/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4594
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche/source.jpg",
+      "bytes": 790619,
+      "sha256": "fcb9869f2952b8e6d463113df4477d764f4afc13c6035a96cb7eb3df0c6d6783"
+    },
+    {
+      "path": "preservation/originals/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche/source.pdf",
+      "bytes": 990553,
+      "sha256": "2f67dcb014922cc3e899c3d6fe9722bc4c5665922787d7c893ae1694d4e4f222"
+    },
+    {
+      "path": "preservation/originals/2025-04-12-bideshi-brand-er-upor-hamla-desher-bhabmurti-nosto-korche/visible-text.txt",
+      "bytes": 21412,
+      "sha256": "5c414b598ef4c3eb067eeb16e3bbb5eec47c838716651f6ca00769d027f27960"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

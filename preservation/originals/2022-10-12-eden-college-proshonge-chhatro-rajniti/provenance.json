@@ -1,0 +1,45 @@
+{
+  "slug": "2022-10-12-eden-college-proshonge-chhatro-rajniti",
+  "title": "ইডেন কলেজ প্রসঙ্গে ছাত্ররাজনীতি",
+  "url": "https://www.dainikbangla.com.bd/opinion/3124/16655456831114",
+  "date": "2022-10-12",
+  "checkedAt": "2026-11-01T19:02:48.541Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/3124/16655456831114",
+  "pageTitle": "ইডেন কলেজ প্রসঙ্গে ছাত্ররাজনীতি",
+  "headings": [
+    "ইডেন কলেজ প্রসঙ্গে ছাত্ররাজনীতি"
+  ],
+  "visibleCharacters": 117183,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:12:11.661Z",
+  "bodyMatches": 2,
+  "screenshot": "preservation/originals/2022-10-12-eden-college-proshonge-chhatro-rajniti/source.jpg",
+  "visibleText": "preservation/originals/2022-10-12-eden-college-proshonge-chhatro-rajniti/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 1,
+  "pdf": "preservation/originals/2022-10-12-eden-college-proshonge-chhatro-rajniti/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 5564
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-10-12-eden-college-proshonge-chhatro-rajniti/source.jpg",
+      "bytes": 897532,
+      "sha256": "9589bfad75887ce5635602beefd1075233bd9041a74a23276f14994ad47b315e"
+    },
+    {
+      "path": "preservation/originals/2022-10-12-eden-college-proshonge-chhatro-rajniti/source.pdf",
+      "bytes": 1123881,
+      "sha256": "5321bd3202ff80f6d723317d24042c78689cf79337e14da5a5c0b191e2cbfd6f"
+    },
+    {
+      "path": "preservation/originals/2022-10-12-eden-college-proshonge-chhatro-rajniti/visible-text.txt",
+      "bytes": 18705,
+      "sha256": "a00c140acf94874c257b1220f554602065eceded21d862807fc7af684d243c7d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

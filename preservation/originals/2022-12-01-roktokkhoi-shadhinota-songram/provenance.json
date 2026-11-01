@@ -1,0 +1,42 @@
+{
+  "slug": "2022-12-01-roktokkhoi-shadhinota-songram",
+  "title": "রক্তক্ষয়ী স্বাধীনতা-সংগ্রাম",
+  "url": "https://www.shampratikdeshkal.com/opinion/96736",
+  "date": "2022-12-01",
+  "checkedAt": "2026-11-01T19:02:36.300Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/96736",
+  "pageTitle": "রক্তক্ষয়ী স্বাধীনতা-সংগ্রাম",
+  "headings": [
+    "রক্তক্ষয়ী স্বাধীনতা-সংগ্রাম"
+  ],
+  "visibleCharacters": 10824,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-12-01-roktokkhoi-shadhinota-songram/source.jpg",
+  "visibleText": "preservation/originals/2022-12-01-roktokkhoi-shadhinota-songram/visible-text.txt",
+  "bodyEvidenceMatches": 1,
+  "pdf": "preservation/originals/2022-12-01-roktokkhoi-shadhinota-songram/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 5515
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-12-01-roktokkhoi-shadhinota-songram/source.jpg",
+      "bytes": 1003908,
+      "sha256": "85bfcb91c4dd02a4366e9b94b576f5ad3e3680825f3f956f5d35abccb766a6dd"
+    },
+    {
+      "path": "preservation/originals/2022-12-01-roktokkhoi-shadhinota-songram/source.pdf",
+      "bytes": 1256924,
+      "sha256": "1a30e1b724f5327192de0af96e0847b26ce078b1d74057b1ddf08bb0e78669fe"
+    },
+    {
+      "path": "preservation/originals/2022-12-01-roktokkhoi-shadhinota-songram/visible-text.txt",
+      "bytes": 29012,
+      "sha256": "6c6c39ac444e721cb2f7edc8043a7b4e3f5f2ddef25f9312ebd0524f1bde2984"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

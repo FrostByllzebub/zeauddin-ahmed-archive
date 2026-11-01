@@ -1,0 +1,42 @@
+{
+  "slug": "2023-06-01-banking-khater-khelapi-rin",
+  "title": "ব্যাংকিং খাতের খেলাপি ঋণ",
+  "url": "https://www.shampratikdeshkal.com/opinion/113525",
+  "date": "2023-06-01",
+  "checkedAt": "2026-11-01T19:01:31.496Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/113525",
+  "pageTitle": "ব্যাংকিং খাতের দুরবস্থা",
+  "headings": [
+    "ব্যাংকিং খাতের দুরবস্থা"
+  ],
+  "visibleCharacters": 7927,
+  "titleScore": 0.6666666666666666,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-06-01-banking-khater-khelapi-rin/source.jpg",
+  "visibleText": "preservation/originals/2023-06-01-banking-khater-khelapi-rin/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2023-06-01-banking-khater-khelapi-rin/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4155
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-06-01-banking-khater-khelapi-rin/source.jpg",
+      "bytes": 737054,
+      "sha256": "e61fce237c97ea537bf1818cefb7a1c6e7af37ab533d47da283ceb5dee842539"
+    },
+    {
+      "path": "preservation/originals/2023-06-01-banking-khater-khelapi-rin/source.pdf",
+      "bytes": 923328,
+      "sha256": "0f66e8126370c9071a176ecbad606caa6f031d7fd2a7ca502c98352c3aa9141b"
+    },
+    {
+      "path": "preservation/originals/2023-06-01-banking-khater-khelapi-rin/visible-text.txt",
+      "bytes": 21156,
+      "sha256": "c74bd7cc1919a3e2e95a20e043a5c4dcc0dc7c635b6659d2ee000b40895c50fd"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

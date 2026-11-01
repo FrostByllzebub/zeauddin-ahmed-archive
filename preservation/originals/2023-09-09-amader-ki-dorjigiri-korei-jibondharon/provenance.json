@@ -1,0 +1,45 @@
+{
+  "slug": "2023-09-09-amader-ki-dorjigiri-korei-jibondharon",
+  "title": "আমাদের কি দর্জিগিরি করেই জীবনধারণ করতে হবে!",
+  "url": "https://www.dainikbangla.com.bd/opinion/30693/1694231706",
+  "date": "2023-09-09",
+  "checkedAt": "2026-11-01T19:00:36.555Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/30693/1694231706",
+  "pageTitle": "আমাদের কি দরজিগিরি করেই জীবন ধারণ করতে হবে",
+  "headings": [
+    "আমাদের কি দরজিগিরি করেই জীবন ধারণ করতে হবে"
+  ],
+  "visibleCharacters": 119135,
+  "titleScore": 0.8333333333333334,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:09:48.852Z",
+  "bodyMatches": 4,
+  "screenshot": "preservation/originals/2023-09-09-amader-ki-dorjigiri-korei-jibondharon/source.jpg",
+  "visibleText": "preservation/originals/2023-09-09-amader-ki-dorjigiri-korei-jibondharon/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2023-09-09-amader-ki-dorjigiri-korei-jibondharon/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6575
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-09-09-amader-ki-dorjigiri-korei-jibondharon/source.jpg",
+      "bytes": 1126105,
+      "sha256": "6e543bcb19ad492dd37e3e96ac5075adc5c462c16bf8d33f4890a47e017841b1"
+    },
+    {
+      "path": "preservation/originals/2023-09-09-amader-ki-dorjigiri-korei-jibondharon/source.pdf",
+      "bytes": 1409676,
+      "sha256": "1d3bf3f1a059d9df8c1ab0a07e6906374841054b289c0fb1fd8b3bed922a1da8"
+    },
+    {
+      "path": "preservation/originals/2023-09-09-amader-ki-dorjigiri-korei-jibondharon/visible-text.txt",
+      "bytes": 25426,
+      "sha256": "2da60cfbec62f25438e00ce99f93e7a22def1beb28adac10a3e1421fcd1ecb25"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

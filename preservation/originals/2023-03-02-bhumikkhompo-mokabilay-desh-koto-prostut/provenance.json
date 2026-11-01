@@ -1,0 +1,45 @@
+{
+  "slug": "2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut",
+  "title": "ভূমিকম্প মোকাবিলায় দেশ কতটা প্রস্তুত",
+  "url": "https://www.dainikbangla.com.bd/opinion/14572/1677726293",
+  "date": "2023-03-02",
+  "checkedAt": "2026-11-01T19:01:53.142Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/14572/1677726293",
+  "pageTitle": "ভূমিকম্প মোকাবিলায় দেশ কতটা প্রস্তুত",
+  "headings": [
+    "ভূমিকম্প মোকাবিলায় দেশ কতটা প্রস্তুত"
+  ],
+  "visibleCharacters": 118096,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:11:10.013Z",
+  "bodyMatches": 3,
+  "screenshot": "preservation/originals/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut/source.jpg",
+  "visibleText": "preservation/originals/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 6699
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut/source.jpg",
+      "bytes": 971512,
+      "sha256": "ff1491035063a12b54d36d160029904dba04d26cda122c2a7abb154c26b0834d"
+    },
+    {
+      "path": "preservation/originals/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut/source.pdf",
+      "bytes": 1216392,
+      "sha256": "340bd425b62c09f5e16e4d321564ad4c6f793628b2b85ee63a796c911fe3df80"
+    },
+    {
+      "path": "preservation/originals/2023-03-02-bhumikkhompo-mokabilay-desh-koto-prostut/visible-text.txt",
+      "bytes": 21061,
+      "sha256": "16871082b005dafa705ce5f1ff8ec69f176f1968c27e2d09328b7586e1e5a62d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

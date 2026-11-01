@@ -1,0 +1,46 @@
+{
+  "slug": "2026-07-12-janaja-ek-monche-utshob-onno-monche",
+  "title": "জানাজা এক মঞ্চে, উৎসব অন্য মঞ্চে",
+  "url": "https://sangbad.net/news/10895/",
+  "date": "2026-07-12",
+  "checkedAt": "2026-11-01T18:57:09.317Z",
+  "resolvedUrl": "https://sangbad.net/news/10895/",
+  "pageTitle": "জানাজা এক মঞ্চে, উৎসব অন্য মঞ্চে | সংবাদ",
+  "headings": [
+    "জানাজা এক মঞ্চে, উৎসব অন্য মঞ্চে",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7881,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:04:51.470Z",
+  "bodyMatches": 8,
+  "screenshot": "preservation/originals/2026-07-12-janaja-ek-monche-utshob-onno-monche/source.jpg",
+  "visibleText": "preservation/originals/2026-07-12-janaja-ek-monche-utshob-onno-monche/visible-text.txt",
+  "bodyEvidenceMatches": 8,
+  "pdf": "preservation/originals/2026-07-12-janaja-ek-monche-utshob-onno-monche/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 3650
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-07-12-janaja-ek-monche-utshob-onno-monche/source.jpg",
+      "bytes": 968441,
+      "sha256": "568b2e3a58c182be3b3494e30a61fb5512b40d05a7032e2b1ce2210b27862f1c"
+    },
+    {
+      "path": "preservation/originals/2026-07-12-janaja-ek-monche-utshob-onno-monche/source.pdf",
+      "bytes": 1212477,
+      "sha256": "6ce4450a9e2f01a105784bb8ea425c1ba4335de6ac8fe9c60e3d9197e578e107"
+    },
+    {
+      "path": "preservation/originals/2026-07-12-janaja-ek-monche-utshob-onno-monche/visible-text.txt",
+      "bytes": 21000,
+      "sha256": "9d69c0f6411a492e70f20311c4bf0d614964ca7ff05110a59476747b5ea304c5"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

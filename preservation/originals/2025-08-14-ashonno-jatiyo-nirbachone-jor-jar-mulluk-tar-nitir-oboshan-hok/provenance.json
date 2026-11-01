@@ -1,0 +1,42 @@
+{
+  "slug": "2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok",
+  "title": "আসন্ন জাতীয় নির্বাচনে ‘জোর যার মুলুক তার’ নীতির অবসান হোক",
+  "url": "https://bn.viewsbangladesh.com/let-might-is-right-policy-end-in-upcoming-national-election/",
+  "date": "2025-08-14",
+  "checkedAt": "2026-11-01T18:59:16.780Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/let-might-is-right-policy-end-in-upcoming-national-election/",
+  "pageTitle": "আসন্ন জাতীয় নির্বাচনে ‘জোর যার মুল্লুক তার’ নীতির অবসান হোক",
+  "headings": [
+    "আসন্ন জাতীয় নির্বাচনে ‘জোর যার মুল্লুক তার’ নীতির অবসান হোক"
+  ],
+  "visibleCharacters": 9327,
+  "titleScore": 0.9,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok/source.jpg",
+  "visibleText": "preservation/originals/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5040
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok/source.jpg",
+      "bytes": 842570,
+      "sha256": "0f3b02e28bcd89d9eb35ec90ad86e77d171d779a923d17dbec0d8f7ed7a9be3e"
+    },
+    {
+      "path": "preservation/originals/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok/source.pdf",
+      "bytes": 1055509,
+      "sha256": "6ea052ff1ffdee27196041b2103382db6bf098c23742a877387209b37bd2f2cb"
+    },
+    {
+      "path": "preservation/originals/2025-08-14-ashonno-jatiyo-nirbachone-jor-jar-mulluk-tar-nitir-oboshan-hok/visible-text.txt",
+      "bytes": 24454,
+      "sha256": "637b4fd7428abfe763a410474612638494b800afac8adf6ea80c5f4eecccf2fd"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

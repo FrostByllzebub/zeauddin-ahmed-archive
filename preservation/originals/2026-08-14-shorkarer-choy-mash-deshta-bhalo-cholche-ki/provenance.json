@@ -1,0 +1,42 @@
+{
+  "slug": "2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki",
+  "title": "সরকারের ৬ মাস: দেশটা ভালো চলছে কি?",
+  "url": "https://www.chaarcha.com/thoughts/chsh3q21m2st",
+  "date": "2026-08-14",
+  "checkedAt": "2026-11-01T18:56:58.661Z",
+  "resolvedUrl": "https://www.chaarcha.com/thoughts/chsh3q21m2st",
+  "pageTitle": "সরকারের ৬ মাস: দেশটা ভালো চলছে কি?",
+  "headings": [
+    "সরকারের ৬ মাস: দেশটা ভালো চলছে কি?"
+  ],
+  "visibleCharacters": 5619,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki/source.jpg",
+  "visibleText": "preservation/originals/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3364
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki/source.jpg",
+      "bytes": 563116,
+      "sha256": "14c9b7a71c45d7fd5daaac9bbd18e94fa509f9af8b00255788a12cf0c77a2163"
+    },
+    {
+      "path": "preservation/originals/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki/source.pdf",
+      "bytes": 705969,
+      "sha256": "2566691d3e005776f991850de459897c1e7798a57e0b9018cee836953cf9f020"
+    },
+    {
+      "path": "preservation/originals/2026-08-14-shorkarer-choy-mash-deshta-bhalo-cholche-ki/visible-text.txt",
+      "bytes": 14855,
+      "sha256": "16d5052edf7076be0c096b9dae7a9189666eaaea9d51ef72f56b3eb2ba3d73b3"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

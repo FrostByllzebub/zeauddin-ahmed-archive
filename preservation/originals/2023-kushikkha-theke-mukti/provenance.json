@@ -1,0 +1,45 @@
+{
+  "slug": "2023-kushikkha-theke-mukti",
+  "title": "কুশিক্ষা থেকে মুক্তি পেতে বিজ্ঞান শিক্ষার বিকল্প নেই",
+  "url": "https://www.dainikbangla.com.bd/opinion/29151/1692417865",
+  "date": "2023-08-19",
+  "checkedAt": "2026-11-01T19:00:45.830Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/29151/1692417865",
+  "pageTitle": "কুশিক্ষা থেকে মুক্তি পেতে বিজ্ঞান শিক্ষার বিকল্প নেই",
+  "headings": [
+    "কুশিক্ষা থেকে মুক্তি পেতে বিজ্ঞান শিক্ষার বিকল্প নেই"
+  ],
+  "visibleCharacters": 117436,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:10:03.507Z",
+  "bodyMatches": 5,
+  "screenshot": "preservation/originals/2023-kushikkha-theke-mukti/source.jpg",
+  "visibleText": "preservation/originals/2023-kushikkha-theke-mukti/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-kushikkha-theke-mukti/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 5616
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-kushikkha-theke-mukti/source.jpg",
+      "bytes": 914199,
+      "sha256": "fddf0c12a3963452756b2530da6cc1a270c0859be7b1ae6ffefef210747e8391"
+    },
+    {
+      "path": "preservation/originals/2023-kushikkha-theke-mukti/source.pdf",
+      "bytes": 1144860,
+      "sha256": "b83e935f21514ad8172711238a20e2f248c6d20ab73b4698e241f0682631597c"
+    },
+    {
+      "path": "preservation/originals/2023-kushikkha-theke-mukti/visible-text.txt",
+      "bytes": 19244,
+      "sha256": "bed30fda9bbd18b10740110e19ca39cd682ecd764a925c8d74cf162ceadab011"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

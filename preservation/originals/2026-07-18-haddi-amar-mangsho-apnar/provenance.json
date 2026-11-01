@@ -1,0 +1,44 @@
+{
+  "slug": "2026-07-18-haddi-amar-mangsho-apnar",
+  "title": "হাড্ডি আমার, মাংস আপনার",
+  "url": "https://sangbad.net/news/11418/",
+  "date": "2026-07-18",
+  "checkedAt": "2026-11-01T18:57:07.173Z",
+  "resolvedUrl": "https://sangbad.net/news/11418/",
+  "pageTitle": "হাড্ডি আমার, মাংস আপনার | সংবাদ",
+  "headings": [
+    "হাড্ডি আমার, মাংস আপনার",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6742,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-07-18-haddi-amar-mangsho-apnar/source.jpg",
+  "visibleText": "preservation/originals/2026-07-18-haddi-amar-mangsho-apnar/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-07-18-haddi-amar-mangsho-apnar/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3813
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-07-18-haddi-amar-mangsho-apnar/source.jpg",
+      "bytes": 732371,
+      "sha256": "537667beaadbb6e40fc944e612897adbbc6553ff37d1f280f2c6f1220552b07f"
+    },
+    {
+      "path": "preservation/originals/2026-07-18-haddi-amar-mangsho-apnar/source.pdf",
+      "bytes": 917454,
+      "sha256": "f350b7e08ab47f97a8b3a0ebdd31f55e2ae198f03bbd631ffe163b2a0585b19b"
+    },
+    {
+      "path": "preservation/originals/2026-07-18-haddi-amar-mangsho-apnar/visible-text.txt",
+      "bytes": 17742,
+      "sha256": "12430764f6fad9326f1ad307711a33c80a86c2029513a002b54b38f320d468de"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

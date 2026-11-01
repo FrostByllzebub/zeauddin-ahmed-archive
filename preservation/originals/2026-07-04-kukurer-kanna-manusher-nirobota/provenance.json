@@ -1,0 +1,46 @@
+{
+  "slug": "2026-07-04-kukurer-kanna-manusher-nirobota",
+  "title": "কুকুরের কান্না, মানুষের নীরবতা",
+  "url": "https://sangbad.net/news/10154/",
+  "date": "2026-07-04",
+  "checkedAt": "2026-11-01T18:57:15.235Z",
+  "resolvedUrl": "https://sangbad.net/news/10154/",
+  "pageTitle": "কুকুরের কান্না, মানুষের নীরবতা | সংবাদ",
+  "headings": [
+    "কুকুরের কান্না, মানুষের নীরবতা",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6933,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:04:54.736Z",
+  "bodyMatches": 8,
+  "screenshot": "preservation/originals/2026-07-04-kukurer-kanna-manusher-nirobota/source.jpg",
+  "visibleText": "preservation/originals/2026-07-04-kukurer-kanna-manusher-nirobota/visible-text.txt",
+  "bodyEvidenceMatches": 7,
+  "pdf": "preservation/originals/2026-07-04-kukurer-kanna-manusher-nirobota/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 3677
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-07-04-kukurer-kanna-manusher-nirobota/source.jpg",
+      "bytes": 744202,
+      "sha256": "45a456b747c344f5014ddf9491b3f443e8328421694cc2a467d0f3379b2cddc0"
+    },
+    {
+      "path": "preservation/originals/2026-07-04-kukurer-kanna-manusher-nirobota/source.pdf",
+      "bytes": 932174,
+      "sha256": "16ca9b042b3e8765371eb6df8182bfcb75201405c1216698c1a72bbdceed5eae"
+    },
+    {
+      "path": "preservation/originals/2026-07-04-kukurer-kanna-manusher-nirobota/visible-text.txt",
+      "bytes": 18181,
+      "sha256": "320133490e1113c8a902294bf3bd61dbe9b18ebfd809c615a97b7ecc228967ba"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

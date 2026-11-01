@@ -1,0 +1,42 @@
+{
+  "slug": "2022-04-04-puraskar-batil-shobhoniya-noy",
+  "title": "পুরস্কার বাতিল শোভনীয় নয়",
+  "url": "https://www.shampratikdeshkal.com/opinion/74740",
+  "date": "2022-04-04",
+  "checkedAt": "2026-11-01T19:03:10.964Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/74740",
+  "pageTitle": "পুরস্কার বাতিল শোভনীয় নয়",
+  "headings": [
+    "পুরস্কার বাতিল শোভনীয় নয়"
+  ],
+  "visibleCharacters": 6579,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-04-04-puraskar-batil-shobhoniya-noy/source.jpg",
+  "visibleText": "preservation/originals/2022-04-04-puraskar-batil-shobhoniya-noy/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2022-04-04-puraskar-batil-shobhoniya-noy/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3515
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-04-04-puraskar-batil-shobhoniya-noy/source.jpg",
+      "bytes": 607503,
+      "sha256": "1edbd10d0165d9577fe87d6850a5523e39da26552ea9a41557e7880a7a280010"
+    },
+    {
+      "path": "preservation/originals/2022-04-04-puraskar-batil-shobhoniya-noy/source.pdf",
+      "bytes": 761391,
+      "sha256": "debb897b3f1eac921edce2c0cff452b9ee71343381c11eefcc829ef8c5b72abe"
+    },
+    {
+      "path": "preservation/originals/2022-04-04-puraskar-batil-shobhoniya-noy/visible-text.txt",
+      "bytes": 17537,
+      "sha256": "1e8987b9dc9ae343a8d0bbf8d364034896f4f39be5b102a4e8bcdf514ef463ff"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

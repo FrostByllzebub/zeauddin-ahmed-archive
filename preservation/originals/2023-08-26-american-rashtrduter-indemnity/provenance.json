@@ -1,0 +1,46 @@
+{
+  "slug": "2023-08-26-american-rashtrduter-indemnity",
+  "title": "আমেরিকান রাষ্ট্রদূতের ইনডেমনিটি",
+  "url": "https://www.dainikbangla.com.bd/opinion/29685/",
+  "date": "2023-08-26",
+  "checkedAt": "2026-11-01T19:00:44.930Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/29685/",
+  "pageTitle": "আমেরিকান রাষ্ট্রদূতের ইনডেমনিটি",
+  "headings": [
+    "আমেরিকান রাষ্ট্রদূতের ইনডেমনিটি"
+  ],
+  "visibleCharacters": 117307,
+  "titleScore": 1,
+  "status": "captured",
+  "excerpt": "সর্বশেষ\nজাতীয়\nসারাবাংলা\nরাজধানী\nআন্তর্জাতিক\nরাজনীতি\nঅর্থ-বাণিজ্য\nখেলা\nকর্পোরেট\nআইন ও বিচার\nতথ্যপ্রযুক্তি\nঅন্যান্য\nসোমবার, ২ নভেম্বর ২০২৬\n১৭ কার্তিক ১৪৩৩\nই-পেপার",
+  "retriedAt": "2026-11-01T19:09:59.140Z",
+  "bodyMatches": 4,
+  "screenshot": "preservation/originals/2023-08-26-american-rashtrduter-indemnity/source.jpg",
+  "visibleText": "preservation/originals/2023-08-26-american-rashtrduter-indemnity/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-08-26-american-rashtrduter-indemnity/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 5668
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-08-26-american-rashtrduter-indemnity/source.jpg",
+      "bytes": 905107,
+      "sha256": "d8291478f8e1b427b7a487e182d7120020a96b2998c3b670eeb3e2374eb2b842"
+    },
+    {
+      "path": "preservation/originals/2023-08-26-american-rashtrduter-indemnity/source.pdf",
+      "bytes": 1133339,
+      "sha256": "97dc513a3606e2a60d1ac4d26def7df269e1f73c15a58f06e9b2cba78049de82"
+    },
+    {
+      "path": "preservation/originals/2023-08-26-american-rashtrduter-indemnity/visible-text.txt",
+      "bytes": 18997,
+      "sha256": "1d9a2b92c72f15316b95d8bfacd16f6bf03c7273b4440efd3b96435014f98bed"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

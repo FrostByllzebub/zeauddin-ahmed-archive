@@ -1,0 +1,45 @@
+{
+  "slug": "2023-03-09-imf-er-rin-o-shart",
+  "title": "আইএমএফ-এর ঋণ ও শর্ত",
+  "url": "https://www.shampratikdeshkal.com/opinion/105683",
+  "date": "2023-03-09",
+  "checkedAt": "2026-11-01T19:01:52.671Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/105683",
+  "pageTitle": "আইএমএফের ঋণ ও শর্ত",
+  "headings": [
+    "আইএমএফের ঋণ ও শর্ত"
+  ],
+  "visibleCharacters": 9466,
+  "titleScore": 0.5,
+  "status": "captured",
+  "excerpt": " \n সোমবার, ০২ নভেম্বর ২০২৬\n    \nআর্কাইভ  কনভার্টার  ই-পেপার\nসর্বশেষ প্রচ্ছদ প্রতিবেদন রাজনীতি আন্তর্জাতিক বিনোদন শিল্প-সাহিত্য খেলাধুলা ফিচার অন্যান্য\n×\n হোম\n সর্বশেষ\n সব বিভাগ\n আর্কাইভ\n কনভার্টার\n ই-পেপার\n\nFollow Us\n\n    \n\nমতামত\n\nআইএমএফের ঋণ ও শর্ত\n \n\nজিয়াউদ্দীন আহমেদ\n\nপ্রকাশ: ০৯ মার্চ ২০২৩, ১১:৫৭\n\n \n\nজিয়াউদ্দীন আহমেদ। ফাইল ছবি\n\n﻿বাংলাদেশের জন্য ৪৭০ কোটি ডলারের ঋণ অনুমোদন করেছে আন্তর্জাতিক মুদ্রা",
+  "retriedAt": "2026-11-01T19:08:50.211Z",
+  "bodyMatches": 4,
+  "screenshot": "preservation/originals/2023-03-09-imf-er-rin-o-shart/source.jpg",
+  "visibleText": "preservation/originals/2023-03-09-imf-er-rin-o-shart/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-03-09-imf-er-rin-o-shart/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 5117
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-03-09-imf-er-rin-o-shart/source.jpg",
+      "bytes": 1004634,
+      "sha256": "f5f5c713b58db890f802eedd3064d60b809e25c8924770cf8e7400c3b571d7a0"
+    },
+    {
+      "path": "preservation/originals/2023-03-09-imf-er-rin-o-shart/source.pdf",
+      "bytes": 1257650,
+      "sha256": "506f4009c0e2363b2cdd6b5f49c2ddd00eb46c764c3874bce4ca3a1d3429b2e7"
+    },
+    {
+      "path": "preservation/originals/2023-03-09-imf-er-rin-o-shart/visible-text.txt",
+      "bytes": 25102,
+      "sha256": "2144912aef6f864dcfcfa8193361f9e3b6ddf1548d33c30461c9ad320870ca0e"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "2023-04-01-amerikar-banking-khate-songkot",
+  "title": "আমেরিকার ব্যাংকিং খাতে সঙ্কট",
+  "url": "https://www.dainikbangla.com.bd/opinion/17547/1680316067",
+  "date": "2023-04-01",
+  "checkedAt": "2026-11-01T19:01:42.169Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/17547/1680316067",
+  "pageTitle": "আমেরিকার ব্যাংকিং খাতে সংকট",
+  "headings": [
+    "আমেরিকার ব্যাংকিং খাতে সংকট"
+  ],
+  "visibleCharacters": 117634,
+  "titleScore": 0.75,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:11:05.979Z",
+  "bodyMatches": 4,
+  "screenshot": "preservation/originals/2023-04-01-amerikar-banking-khate-songkot/source.jpg",
+  "visibleText": "preservation/originals/2023-04-01-amerikar-banking-khate-songkot/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-04-01-amerikar-banking-khate-songkot/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 5737
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-04-01-amerikar-banking-khate-songkot/source.jpg",
+      "bytes": 943048,
+      "sha256": "41efd1f4df67af955d099bbbfcde4f9dd46bc5b00c1859d402dd338652dfd7bf"
+    },
+    {
+      "path": "preservation/originals/2023-04-01-amerikar-banking-khate-songkot/source.pdf",
+      "bytes": 1180749,
+      "sha256": "5ecfb3c16462783886dba814eaf31662095c1fd1b35e387d38393a229c191627"
+    },
+    {
+      "path": "preservation/originals/2023-04-01-amerikar-banking-khate-songkot/visible-text.txt",
+      "bytes": 19988,
+      "sha256": "47cf93ac48eeae0274e717040334cc00c1fbc33c04ac22d1bf8d8418dace49d9"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

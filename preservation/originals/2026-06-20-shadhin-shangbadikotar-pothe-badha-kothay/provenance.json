@@ -1,0 +1,46 @@
+{
+  "slug": "2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay",
+  "title": "স্বাধীন সাংবাদিকতার পথে বাধা কোথায়",
+  "url": "https://sangbad.net/news/8627/",
+  "date": "2026-06-20",
+  "checkedAt": "2026-11-01T18:57:28.317Z",
+  "resolvedUrl": "https://sangbad.net/news/8627/",
+  "pageTitle": "স্বাধীন সাংবাদিকতার পথে বাধা কোথায় | সংবাদ",
+  "headings": [
+    "স্বাধীন সাংবাদিকতার পথে বাধা কোথায়",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 8736,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:05:14.118Z",
+  "bodyMatches": 7,
+  "screenshot": "preservation/originals/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay/source.jpg",
+  "visibleText": "preservation/originals/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay/visible-text.txt",
+  "bodyEvidenceMatches": 9,
+  "pdf": "preservation/originals/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 4227
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay/source.jpg",
+      "bytes": 953635,
+      "sha256": "b9796f8cf72c0fef5210dbbc96deb9496e891c6bf9e67d3d266555b4a4c2f66d"
+    },
+    {
+      "path": "preservation/originals/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay/source.pdf",
+      "bytes": 1194002,
+      "sha256": "73e5c2bf0c3ce59bbf803499337f5355699f440e2c36be214e315aa5263b602c"
+    },
+    {
+      "path": "preservation/originals/2026-06-20-shadhin-shangbadikotar-pothe-badha-kothay/visible-text.txt",
+      "bytes": 23226,
+      "sha256": "a10b5bb3e47c1758541a9be42b57f501aa989714b061bac1eae6399dc1c18f24"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

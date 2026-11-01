@@ -1,0 +1,42 @@
+{
+  "slug": "2023-03-23-muktijuddhe-parashoktigulor-bhumika",
+  "title": "মুক্তিযুদ্ধে পরাশক্তিগুলোর ভূমিকা",
+  "url": "https://www.shampratikdeshkal.com/opinion/107149",
+  "date": "2023-03-23",
+  "checkedAt": "2026-11-01T19:01:49.469Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/107149",
+  "pageTitle": "মুক্তিযুদ্ধে পরাশক্তিগুলোর ভূমিকা",
+  "headings": [
+    "মুক্তিযুদ্ধে পরাশক্তিগুলোর ভূমিকা"
+  ],
+  "visibleCharacters": 7977,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-03-23-muktijuddhe-parashoktigulor-bhumika/source.jpg",
+  "visibleText": "preservation/originals/2023-03-23-muktijuddhe-parashoktigulor-bhumika/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2023-03-23-muktijuddhe-parashoktigulor-bhumika/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4235
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-03-23-muktijuddhe-parashoktigulor-bhumika/source.jpg",
+      "bytes": 779121,
+      "sha256": "ddaf2f76cc6f33d70ca98aa7afc3fce887c91c52254d96bd97462ba00dd6e02c"
+    },
+    {
+      "path": "preservation/originals/2023-03-23-muktijuddhe-parashoktigulor-bhumika/source.pdf",
+      "bytes": 975988,
+      "sha256": "8bc479e898cd134d7390b001c929f7b62904451a51102a994f6655b8b002e024"
+    },
+    {
+      "path": "preservation/originals/2023-03-23-muktijuddhe-parashoktigulor-bhumika/visible-text.txt",
+      "bytes": 21363,
+      "sha256": "bfca08cf8cbe90ed8d53abfbef25bf0cdf84b42ef9125a989ec7cbdf858f0234"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

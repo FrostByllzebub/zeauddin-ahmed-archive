@@ -1,0 +1,45 @@
+{
+  "slug": "2023-09-16-abar-dr-yunuske-niye-bibriti",
+  "title": "আবার ড. ইউনূসকে নিয়ে বিবৃতি",
+  "url": "https://www.dainikbangla.com.bd/opinion/31218/1694833955",
+  "date": "2023-09-16",
+  "checkedAt": "2026-11-01T19:00:28.531Z",
+  "resolvedUrl": "https://www.dainikbangla.com.bd/opinion/31218/1694833955",
+  "pageTitle": "আবার ড. ইউনূসকে নিয়ে বিবৃতি",
+  "headings": [
+    "আবার ড. ইউনূসকে নিয়ে বিবৃতি"
+  ],
+  "visibleCharacters": 121753,
+  "titleScore": 1,
+  "status": "captured",
+  "retriedAt": "2026-11-01T19:09:37.332Z",
+  "bodyMatches": 7,
+  "screenshot": "preservation/originals/2023-09-16-abar-dr-yunuske-niye-bibriti/source.jpg",
+  "visibleText": "preservation/originals/2023-09-16-abar-dr-yunuske-niye-bibriti/visible-text.txt",
+  "captureRegion": "Publisher header and complete first article column; unrelated infinite related-article feed excluded",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2023-09-16-abar-dr-yunuske-niye-bibriti/source.pdf",
+  "imageDimensions": {
+    "width": 1625,
+    "height": 7525
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-09-16-abar-dr-yunuske-niye-bibriti/source.jpg",
+      "bytes": 1291697,
+      "sha256": "23432265c984f7b0f2c6455dc8883a99bc34e56f6e920576f63ebcff51ba8366"
+    },
+    {
+      "path": "preservation/originals/2023-09-16-abar-dr-yunuske-niye-bibriti/source.pdf",
+      "bytes": 1616544,
+      "sha256": "0981e71cdb2c409bce7924a146865ef98d6fe215d6ba966c6bce15db69d9a6e7"
+    },
+    {
+      "path": "preservation/originals/2023-09-16-abar-dr-yunuske-niye-bibriti/visible-text.txt",
+      "bytes": 30929,
+      "sha256": "074e042b4b9913cf9e7ce69a8de1b5bc5e98244ce5658fb3967572ef7122c5ed"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

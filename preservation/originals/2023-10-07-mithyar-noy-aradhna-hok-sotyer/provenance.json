@@ -1,0 +1,42 @@
+{
+  "slug": "2023-10-07-mithyar-noy-aradhna-hok-sotyer",
+  "title": "মিথ্যার নয়, আরাধনা হোক সত্যের",
+  "url": "https://www.shampratikdeshkal.com/opinion/125832",
+  "date": "2023-10-07",
+  "checkedAt": "2026-11-01T19:00:27.615Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/125832",
+  "pageTitle": "মিথ্যা নয়, আরাধনা হোক সত্যের",
+  "headings": [
+    "মিথ্যা নয়, আরাধনা হোক সত্যের"
+  ],
+  "visibleCharacters": 8163,
+  "titleScore": 0.75,
+  "status": "captured",
+  "screenshot": "preservation/originals/2023-10-07-mithyar-noy-aradhna-hok-sotyer/source.jpg",
+  "visibleText": "preservation/originals/2023-10-07-mithyar-noy-aradhna-hok-sotyer/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2023-10-07-mithyar-noy-aradhna-hok-sotyer/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4475
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2023-10-07-mithyar-noy-aradhna-hok-sotyer/source.jpg",
+      "bytes": 785155,
+      "sha256": "0a931c79ccda3febaf5092ca6a5cee3288d431706cdaf90ba9529ed8ca7d6102"
+    },
+    {
+      "path": "preservation/originals/2023-10-07-mithyar-noy-aradhna-hok-sotyer/source.pdf",
+      "bytes": 983489,
+      "sha256": "5e19e7abb9ab0e24645045635f2103d15787d4b054a53aa555a880bcd7292397"
+    },
+    {
+      "path": "preservation/originals/2023-10-07-mithyar-noy-aradhna-hok-sotyer/visible-text.txt",
+      "bytes": 21769,
+      "sha256": "b38c346c85605044f369d14335f97269a1db26118bff7b723efe8de044d7b1d2"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe",
+  "title": "আকাশ যাদের জন্য ছোট হয়ে আসছে",
+  "url": "https://www.chaarcha.com/thoughts/chnhs96918wx",
+  "date": "2026-10-10",
+  "checkedAt": "2026-11-01T18:56:36.737Z",
+  "resolvedUrl": "https://www.chaarcha.com/thoughts/chnhs96918wx",
+  "pageTitle": "আকাশ যাদের জন্য ছোট হয়ে আসছে",
+  "headings": [
+    "আকাশ যাদের জন্য ছোট হয়ে আসছে"
+  ],
+  "visibleCharacters": 7166,
+  "titleScore": 1,
+  "status": "captured",
+  "excerpt": "সর্বশেষ\nবিশেষ\nএক্সপ্লেইনার\nবিশ্লেষণ\nভাবনা\nভিডিও\nশর্টস\nজীবনচরচা\nম্যাগাজিন\nপ্রবাস\n০২ নভেম্বর, ২০২৬\n×\nসংক্ষেপে\nকানেক্ট\nম্যাগাজিন\n\nআমরা\n\nআমাদের সম্পর্কে\nযোগাযোগ\nবিধিনিষেধ ও শর্তাবলি\nগোপনীয়তার নীতি\nসর্বশেষ\nবিশেষ\nএক্সপ্লেইনার\nবিশ্লেষণ\nভাবনা\nভিডিও\nশর্টস\nজীবনচরচা\nম্যাগাজিন\nপ্রবাস\n০২ নভেম্বর, ২০২৬\nসর্বশেষ\nএক্সপ্লেইনার\nবিশ্লেষণ\nভাবনা\nভিডিও\nশর্টস\nজীবনচরচা\nম্যাগাজিন\nপ্রবাস\nআমরা\n\nসম্পাদক: সোহরাব হাসান, প্রিন্",
+  "retriedAt": "2026-11-01T19:04:35.005Z",
+  "bodyMatches": 7,
+  "screenshot": "preservation/originals/2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe/source.jpg",
+  "visibleText": "preservation/originals/2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe/source.pdf",
+  "imageDimensions": {
+    "width": 1610,
+    "height": 4081
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe/source.jpg",
+      "bytes": 814705,
+      "sha256": "da03cd6bcaeb4fa54cf449bd8c0df43631dc4e47519a702533c2bd1595da4fa8"
+    },
+    {
+      "path": "preservation/originals/2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe/source.pdf",
+      "bytes": 1020314,
+      "sha256": "7014271b28e7a64cb69ec057d81675af968cd7356dcb1d9687d2fedcd115c334"
+    },
+    {
+      "path": "preservation/originals/2026-10-10-akash-jader-jonno-chhoto-hoye-aschhe/visible-text.txt",
+      "bytes": 19084,
+      "sha256": "2c56914ff036294bbcafc4e547469fa51feb906bb566ec8fae4578f5f07f0e86"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

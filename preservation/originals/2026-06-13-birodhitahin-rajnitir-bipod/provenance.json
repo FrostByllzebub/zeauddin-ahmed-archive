@@ -1,0 +1,44 @@
+{
+  "slug": "2026-06-13-birodhitahin-rajnitir-bipod",
+  "title": "বিরোধিতাহীন রাজনীতির বিপদ",
+  "url": "https://sangbad.net/news/7916/",
+  "date": "2026-06-13",
+  "checkedAt": "2026-11-01T18:57:40.382Z",
+  "resolvedUrl": "https://sangbad.net/news/7916/",
+  "pageTitle": "বিরোধিতাহীন রাজনীতির বিপদ | সংবাদ",
+  "headings": [
+    "বিরোধিতাহীন রাজনীতির বিপদ",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 6796,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-06-13-birodhitahin-rajnitir-bipod/source.jpg",
+  "visibleText": "preservation/originals/2026-06-13-birodhitahin-rajnitir-bipod/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2026-06-13-birodhitahin-rajnitir-bipod/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3822
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-06-13-birodhitahin-rajnitir-bipod/source.jpg",
+      "bytes": 781011,
+      "sha256": "76a5957f5ed23b3656cebae7f36af59e3a829a96dd883b8efdb73929089fbfb2"
+    },
+    {
+      "path": "preservation/originals/2026-06-13-birodhitahin-rajnitir-bipod/source.pdf",
+      "bytes": 978271,
+      "sha256": "ac4eda6825c4db2f472d81b283a7a5ee84cec59bebf4ebfb53cc7a78da04ac97"
+    },
+    {
+      "path": "preservation/originals/2026-06-13-birodhitahin-rajnitir-bipod/visible-text.txt",
+      "bytes": 17971,
+      "sha256": "3fcb495d9ebb7a46cd7e6740c848a04cb483e3fba2fb4c6d3dad3513159c23f4"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

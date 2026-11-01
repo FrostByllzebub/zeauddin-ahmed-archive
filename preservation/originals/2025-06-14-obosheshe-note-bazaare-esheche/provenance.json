@@ -1,0 +1,42 @@
+{
+  "slug": "2025-06-14-obosheshe-note-bazaare-esheche",
+  "title": "অবশেষে নোট বাজারে এসেছে",
+  "url": "https://bn.viewsbangladesh.com/the-notes-finally-reach-the-market/",
+  "date": "2025-06-14",
+  "checkedAt": "2026-11-01T18:59:30.491Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/the-notes-finally-reach-the-market/",
+  "pageTitle": "অবশেষে নোট বাজারে এসেছে",
+  "headings": [
+    "অবশেষে নোট বাজারে এসেছে"
+  ],
+  "visibleCharacters": 9362,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-06-14-obosheshe-note-bazaare-esheche/source.jpg",
+  "visibleText": "preservation/originals/2025-06-14-obosheshe-note-bazaare-esheche/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-06-14-obosheshe-note-bazaare-esheche/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 5100
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-06-14-obosheshe-note-bazaare-esheche/source.jpg",
+      "bytes": 841302,
+      "sha256": "d009f2ee577fa3f92b9cc02db09a791ee63d51d489397410a2452528bc819b80"
+    },
+    {
+      "path": "preservation/originals/2025-06-14-obosheshe-note-bazaare-esheche/source.pdf",
+      "bytes": 1053647,
+      "sha256": "248b268a3717291f7933083a9e214e100c3e6ca51d6dd5e4a7d2e9e40a0b1432"
+    },
+    {
+      "path": "preservation/originals/2025-06-14-obosheshe-note-bazaare-esheche/visible-text.txt",
+      "bytes": 24515,
+      "sha256": "9ab0346ff1b2418effcedf63fde87100d5c9f725de935d85ed9e341fc1e71e71"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

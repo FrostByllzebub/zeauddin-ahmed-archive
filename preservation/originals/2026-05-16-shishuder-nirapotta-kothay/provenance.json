@@ -1,0 +1,44 @@
+{
+  "slug": "2026-05-16-shishuder-nirapotta-kothay",
+  "title": "শিশুদের নিরাপত্তা কোথায়",
+  "url": "https://sangbad.net/news/5271/",
+  "date": "2026-05-16",
+  "checkedAt": "2026-11-01T18:57:52.204Z",
+  "resolvedUrl": "https://sangbad.net/news/5271/",
+  "pageTitle": "শিশুদের নিরাপত্তা কোথায় | সংবাদ",
+  "headings": [
+    "শিশুদের নিরাপত্তা কোথায়",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 8620,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-05-16-shishuder-nirapotta-kothay/source.jpg",
+  "visibleText": "preservation/originals/2026-05-16-shishuder-nirapotta-kothay/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2026-05-16-shishuder-nirapotta-kothay/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4465
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-05-16-shishuder-nirapotta-kothay/source.jpg",
+      "bytes": 914622,
+      "sha256": "d6979556f94c3f472a06d52070b1df50a6ea5a31550de1856fab3458d7d4793e"
+    },
+    {
+      "path": "preservation/originals/2026-05-16-shishuder-nirapotta-kothay/source.pdf",
+      "bytes": 1145268,
+      "sha256": "352df4a49410411d08cb97cca1d0c00f3a803b421ea22853f48ce25381340528"
+    },
+    {
+      "path": "preservation/originals/2026-05-16-shishuder-nirapotta-kothay/visible-text.txt",
+      "bytes": 22818,
+      "sha256": "f794b5783ac5a335b4a5b69a3f29d9bd67f7c87cd99953775423d19f07111155"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

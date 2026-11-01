@@ -1,0 +1,42 @@
+{
+  "slug": "2025-09-18-shongshode-anupatik-protinidhitto",
+  "title": "সংসদে আনুপাতিক প্রতিনিধিত্ব",
+  "url": "https://www.shampratikdeshkal.com/others/169079",
+  "date": "2025-09-18",
+  "checkedAt": "2026-11-01T18:59:05.350Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/others/169079",
+  "pageTitle": "সংসদে আনুপাতিক প্রতিনিধিত্ব",
+  "headings": [
+    "সংসদে আনুপাতিক প্রতিনিধিত্ব"
+  ],
+  "visibleCharacters": 9637,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-09-18-shongshode-anupatik-protinidhitto/source.jpg",
+  "visibleText": "preservation/originals/2025-09-18-shongshode-anupatik-protinidhitto/visible-text.txt",
+  "bodyEvidenceMatches": 4,
+  "pdf": "preservation/originals/2025-09-18-shongshode-anupatik-protinidhitto/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 5057
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-09-18-shongshode-anupatik-protinidhitto/source.jpg",
+      "bytes": 953560,
+      "sha256": "cb6de55486a5f0260ee94718e3fc2d169cad44cab2843c721801a037255bfbd8"
+    },
+    {
+      "path": "preservation/originals/2025-09-18-shongshode-anupatik-protinidhitto/source.pdf",
+      "bytes": 1193992,
+      "sha256": "df5183a8d3aa81429a3dcbe26aa370b3be1449f7b722bc5fa0b6748f89664118"
+    },
+    {
+      "path": "preservation/originals/2025-09-18-shongshode-anupatik-protinidhitto/visible-text.txt",
+      "bytes": 25636,
+      "sha256": "c427100e9775e6232d791e1aecf21121d1f677c8b4268423637aa41dbef27590"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

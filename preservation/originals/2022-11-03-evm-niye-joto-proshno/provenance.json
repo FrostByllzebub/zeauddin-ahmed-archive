@@ -1,0 +1,42 @@
+{
+  "slug": "2022-11-03-evm-niye-joto-proshno",
+  "title": "ইভিএম নিয়ে যত প্রশ্ন",
+  "url": "https://www.shampratikdeshkal.com/opinion/94069",
+  "date": "2022-11-03",
+  "checkedAt": "2026-11-01T19:02:40.373Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/94069",
+  "pageTitle": "ইভিএম নিয়ে যত প্রশ্ন",
+  "headings": [
+    "ইভিএম নিয়ে যত প্রশ্ন"
+  ],
+  "visibleCharacters": 7577,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-11-03-evm-niye-joto-proshno/source.jpg",
+  "visibleText": "preservation/originals/2022-11-03-evm-niye-joto-proshno/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2022-11-03-evm-niye-joto-proshno/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4055
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-11-03-evm-niye-joto-proshno/source.jpg",
+      "bytes": 727362,
+      "sha256": "0d3b28448c891f1d34aee2663ac82dd2cc8d7a72172eb61e4c88ea8516c6c3bf"
+    },
+    {
+      "path": "preservation/originals/2022-11-03-evm-niye-joto-proshno/source.pdf",
+      "bytes": 911184,
+      "sha256": "bf8dd5164716d378b4b0ea22c3c7677a3ef5750bc0c4449f51eadaa6c1dff1b1"
+    },
+    {
+      "path": "preservation/originals/2022-11-03-evm-niye-joto-proshno/visible-text.txt",
+      "bytes": 20026,
+      "sha256": "e7174abf0ea1504ac967484e74c122309e1c3cf788e20ffb017e7891950b381d"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

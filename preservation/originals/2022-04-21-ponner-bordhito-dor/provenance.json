@@ -1,0 +1,42 @@
+{
+  "slug": "2022-04-21-ponner-bordhito-dor",
+  "title": "পণ্যের বর্ধিত দর",
+  "url": "https://www.shampratikdeshkal.com/opinion/76233",
+  "date": "2022-04-21",
+  "checkedAt": "2026-11-01T19:03:10.145Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/76233",
+  "pageTitle": "পণ্যের বর্ধিত দর",
+  "headings": [
+    "পণ্যের বর্ধিত দর"
+  ],
+  "visibleCharacters": 7470,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2022-04-21-ponner-bordhito-dor/source.jpg",
+  "visibleText": "preservation/originals/2022-04-21-ponner-bordhito-dor/visible-text.txt",
+  "bodyEvidenceMatches": 3,
+  "pdf": "preservation/originals/2022-04-21-ponner-bordhito-dor/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 4185
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2022-04-21-ponner-bordhito-dor/source.jpg",
+      "bytes": 730779,
+      "sha256": "fd66f5dae31fd23ac946870d3c687af658cfcd184966556b6490fa36450d2c4d"
+    },
+    {
+      "path": "preservation/originals/2022-04-21-ponner-bordhito-dor/source.pdf",
+      "bytes": 915431,
+      "sha256": "d39afd419b3f68302ccd053a65b67a0e33980876acf9925d48d0cfb6781dd487"
+    },
+    {
+      "path": "preservation/originals/2022-04-21-ponner-bordhito-dor/visible-text.txt",
+      "bytes": 19747,
+      "sha256": "30660d4d1f8e4e45f52df82eb65f74ce0194a14d2647720bb163cb26ded6e4c6"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

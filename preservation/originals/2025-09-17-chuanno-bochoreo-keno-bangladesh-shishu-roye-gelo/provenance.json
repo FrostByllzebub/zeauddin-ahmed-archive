@@ -1,0 +1,42 @@
+{
+  "slug": "2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo",
+  "title": "চুয়ান্ন বছর বয়সেও কেন বাংলাদেশ শিশু রয়ে গেল?",
+  "url": "https://bn.viewsbangladesh.com/why-bangladesh-still-a-child-even-at-54/",
+  "date": "2025-09-17",
+  "checkedAt": "2026-11-01T18:59:07.847Z",
+  "resolvedUrl": "https://bn.viewsbangladesh.com/why-bangladesh-still-a-child-even-at-54/",
+  "pageTitle": "চুয়ান্ন বছর বয়সেও কেন বাংলাদেশ শিশু রয়ে গেল?",
+  "headings": [
+    "চুয়ান্ন বছর বয়সেও কেন বাংলাদেশ শিশু রয়ে গেল?"
+  ],
+  "visibleCharacters": 8391,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo/source.jpg",
+  "visibleText": "preservation/originals/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo/visible-text.txt",
+  "bodyEvidenceMatches": 5,
+  "pdf": "preservation/originals/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo/source.pdf",
+  "imageDimensions": {
+    "width": 1275,
+    "height": 4732
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo/source.jpg",
+      "bytes": 762805,
+      "sha256": "da821d4e63450b7f9e74a7359f2f7fd323ef1e73fdc6c4178396d97dcd3af8a8"
+    },
+    {
+      "path": "preservation/originals/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo/source.pdf",
+      "bytes": 955685,
+      "sha256": "0753dd45b12fff469d3e66171cdbd1305860cff13f7cf8db5496a36ec398b370"
+    },
+    {
+      "path": "preservation/originals/2025-09-17-chuanno-bochoreo-keno-bangladesh-shishu-roye-gelo/visible-text.txt",
+      "bytes": 21924,
+      "sha256": "5ed5d61c5eb262007a6fe028791c5f9637b7c19be1d3888ca247700103e0fb42"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

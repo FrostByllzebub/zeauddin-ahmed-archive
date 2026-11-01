@@ -1,0 +1,42 @@
+{
+  "slug": "2021-06-18-atirikt-atirnjn",
+  "title": "অতিরিক্ত-অতিরঞ্জন",
+  "url": "https://shampratikdeshkal.com/opinion/news/210647582/%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8?fbclid=IwAR19F8f2vHAUaRBX-Tgdv0OTwiey_VfR2qccL5XvYXQJXOhk_kDrX_YDNnA",
+  "date": "2021-06-18",
+  "checkedAt": "2026-11-01T19:03:36.028Z",
+  "resolvedUrl": "https://www.shampratikdeshkal.com/opinion/news/210647582/%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%85%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%A8?fbclid=IwAR19F8f2vHAUaRBX-Tgdv0OTwiey_VfR2qccL5XvYXQJXOhk_kDrX_YDNnA",
+  "pageTitle": "অতিরিক্ত-অতিরঞ্জন",
+  "headings": [
+    "অতিরিক্ত-অতিরঞ্জন"
+  ],
+  "visibleCharacters": 6362,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2021-06-18-atirikt-atirnjn/source.jpg",
+  "visibleText": "preservation/originals/2021-06-18-atirikt-atirnjn/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2021-06-18-atirikt-atirnjn/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3465
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2021-06-18-atirikt-atirnjn/source.jpg",
+      "bytes": 608321,
+      "sha256": "28e71ac74072bf6095278c636f01ed7d2c7240fbf267565b9e3c6ddaafaa3ab9"
+    },
+    {
+      "path": "preservation/originals/2021-06-18-atirikt-atirnjn/source.pdf",
+      "bytes": 762584,
+      "sha256": "b9fd358c6cad327ce4d51b414e68652d36f68c59fc4c622481c636b4730756ee"
+    },
+    {
+      "path": "preservation/originals/2021-06-18-atirikt-atirnjn/visible-text.txt",
+      "bytes": 16831,
+      "sha256": "5988058f4b9b988745ddc0bc7359879b1ecdd0a0eab82bb66144cba408650077"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

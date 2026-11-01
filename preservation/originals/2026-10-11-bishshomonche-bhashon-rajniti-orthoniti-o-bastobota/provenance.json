@@ -1,0 +1,44 @@
+{
+  "slug": "2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota",
+  "title": "বিশ্বমঞ্চে ভাষণ: রাজনীতি, অর্থনীতি ও বাস্তবতা",
+  "url": "https://sangbad.net/news/20255/",
+  "date": "2026-10-11",
+  "checkedAt": "2026-11-01T18:56:33.598Z",
+  "resolvedUrl": "https://sangbad.net/news/20255/",
+  "pageTitle": "বিশ্বমঞ্চে ভাষণ: রাজনীতি, অর্থনীতি ও বাস্তবতা | সংবাদ",
+  "headings": [
+    "বিশ্বমঞ্চে ভাষণ: রাজনীতি, অর্থনীতি ও বাস্তবতা",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7202,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota/source.jpg",
+  "visibleText": "preservation/originals/2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota/visible-text.txt",
+  "bodyEvidenceMatches": 2,
+  "pdf": "preservation/originals/2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3706
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota/source.jpg",
+      "bytes": 857711,
+      "sha256": "55d522ae5629de56cbbda96ca076e228ff9d7fc1e967f956f4926e57e8b0a923"
+    },
+    {
+      "path": "preservation/originals/2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota/source.pdf",
+      "bytes": 1074290,
+      "sha256": "e98f39adc9ad42acf487d40100aaaa5b4de6c19c5c519ada4b2fcbe9ea127e14"
+    },
+    {
+      "path": "preservation/originals/2026-10-11-bishshomonche-bhashon-rajniti-orthoniti-o-bastobota/visible-text.txt",
+      "bytes": 19166,
+      "sha256": "1d3920351f9e1d3e99d33953c024c984958ce33861bea1a2311a57a9c4efdd0c"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}

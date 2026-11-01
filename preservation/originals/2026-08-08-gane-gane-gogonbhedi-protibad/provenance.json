@@ -1,0 +1,44 @@
+{
+  "slug": "2026-08-08-gane-gane-gogonbhedi-protibad",
+  "title": "গানে গানে গগনভেদী প্রতিবাদ",
+  "url": "https://sangbad.net/news/13399/",
+  "date": "2026-08-08",
+  "checkedAt": "2026-11-01T18:57:00.365Z",
+  "resolvedUrl": "https://sangbad.net/news/13399/",
+  "pageTitle": "গানে গানে গগনভেদী প্রতিবাদ | সংবাদ",
+  "headings": [
+    "গানে গানে গগনভেদী প্রতিবাদ",
+    "দুর্গম পাহাড়ে যেভাবে শুরু হচ্ছে কমান্ডো প্রশিক্ষণ",
+    "এলডিসি: তিন বছর বাড়ানো ‘ব্যতিক্রমী সিদ্ধান্ত’"
+  ],
+  "visibleCharacters": 7489,
+  "titleScore": 1,
+  "status": "captured",
+  "screenshot": "preservation/originals/2026-08-08-gane-gane-gogonbhedi-protibad/source.jpg",
+  "visibleText": "preservation/originals/2026-08-08-gane-gane-gogonbhedi-protibad/visible-text.txt",
+  "bodyEvidenceMatches": 6,
+  "pdf": "preservation/originals/2026-08-08-gane-gane-gogonbhedi-protibad/source.pdf",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3720
+  },
+  "assets": [
+    {
+      "path": "preservation/originals/2026-08-08-gane-gane-gogonbhedi-protibad/source.jpg",
+      "bytes": 825978,
+      "sha256": "b246b8383b337ceac12161aae0f2891ae46a5e2635667807405c4d74d12dabab"
+    },
+    {
+      "path": "preservation/originals/2026-08-08-gane-gane-gogonbhedi-protibad/source.pdf",
+      "bytes": 1034484,
+      "sha256": "ab67b6fe20e2e7ccb895a7b12078a47345c219458d150c734260790143e9ab84"
+    },
+    {
+      "path": "preservation/originals/2026-08-08-gane-gane-gogonbhedi-protibad/visible-text.txt",
+      "bytes": 19782,
+      "sha256": "fa1229247f3f60bd9ea6c2edf7ddcb03441416ccf6d7f27d9ed998abb7f141e2"
+    }
+  ],
+  "captureMethod": "Unchanged browser screenshot embedded in a visual PDF; no text reconstruction.",
+  "visualReview": "Screenshot contact-sheet layout reviewed; source text and title identity checked; PDF contains the unchanged screenshot pixels."
+}
