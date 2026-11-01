@@ -1,1 +1,2 @@
 *.pdf binary
+preservation/originals/**/visible-text.txt -text
