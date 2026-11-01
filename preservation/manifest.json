@@ -4,9 +4,9 @@
   "articlesWithoutOriginalUrl": 331,
   "checkedSourceUrls": 159,
   "summary": {
-    "captured": 114,
+    "captured": 115,
     "article_not_visible": 44,
-    "blocked": 1,
+    "blocked": 0,
     "capture_failed": 0
   },
   "captureDescription": "Source-faithful screenshots and visual PDFs of publisher pages. Article-region capture excludes unrelated infinite feeds where necessary. Not publisher-issued PDFs. Original URLs are retained even when unavailable.",
@@ -5708,18 +5708,54 @@
       "title": "উইঘুর মুসলিমদের ওপর নির্যাতন",
       "url": "https://www.bd-pratidin.com/printnews/615927",
       "date": "2021-02-07",
-      "checkedAt": "2026-11-01T19:03:37.992Z",
+      "checkedAt": "2026-11-01T19:50:28.393Z",
       "resolvedUrl": "https://www.bd-pratidin.com/printnews/615927",
-      "pageTitle": "Just a moment...",
+      "pageTitle": "উইঘুর মুসলিমদের ওপর নির্যাতন|615927| Bangladesh Pratidin",
       "headings": [
-        "www.bd-pratidin.com"
+        "উইঘুর মুসলিমদের ওপর নির্যাতন"
       ],
-      "visibleCharacters": 267,
-      "titleScore": 0,
-      "status": "blocked",
-      "excerpt": "www.bd-pratidin.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a53d291f4890aae2\nPerformance and Security by Cloudflare\nPrivacy",
-      "retriedAt": "2026-11-01T19:13:01.241Z",
-      "bodyMatches": 0
+      "visibleCharacters": 5344,
+      "titleScore": 1,
+      "status": "captured",
+      "excerpt": "আপডেট : ০৭ ফেব্রুয়ারি, ২০২১ ০০:০০\n\nউইঘুর মুসলিমদের ওপর নির্যাতন\n\nজিয়াউদ্দীন আহমেদ\n\nচীনের জিনজিয়াং প্রদেশের উইঘুর মুসলমান ও অন্য সংখ্যালঘুদের বিরুদ্ধে চীন গণহত্যা চালাচ্ছে বলে মার্কিন পররাষ্ট্রমন্ত্রী মাইক পম্পেও ডোনাল্ড ট্রাম্প প্রশাসনের শেষ মুহূর্তে উল্লেখ করেছেন। চীনের এমন আচরণকে তিনি মানবতার বিরুদ্ধে অপরাধ হিসেবে অভিহিত করেন। উইঘুর মুসলিমদের বলপূর্বক দাসে পরিণত করার অভিযোগ তুলেছে মার্কিন গবেষণা সংস্থা সেন্টার ফর গ্লোবাল পলিসি। উইঘুর মুসলমানদের বিরুদ্ধে আচরণের জন্য ট্রাম্প প্রশাসন অপরাধের সঙ্",
+      "retriedAt": "2026-11-01T19:50:28.393Z",
+      "bodyMatches": 3,
+      "previousChecks": [
+        {
+          "checkedAt": "2026-11-01T19:03:37.992Z",
+          "retriedAt": "2026-11-01T19:13:01.241Z",
+          "status": "blocked",
+          "excerpt": "www.bd-pratidin.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a53d291f4890aae2\nPerformance and Security by Cloudflare\nPrivacy",
+          "pageTitle": "Just a moment..."
+        }
+      ],
+      "screenshot": "preservation/originals/2021-02-07-uighur-muslimder-opor-niryaton/source.jpg",
+      "pdf": "preservation/originals/2021-02-07-uighur-muslimder-opor-niryaton/source.pdf",
+      "visibleText": "preservation/originals/2021-02-07-uighur-muslimder-opor-niryaton/visible-text.txt",
+      "captureMethod": "Microsoft Edge native Capture full page screenshot and Save as PDF of the original publisher print page; no article reconstruction or editing.",
+      "textCaptureMethod": "Visible accessibility text, excluding browser-extension status text.",
+      "imageDimensions": {
+        "width": 1507,
+        "height": 2282
+      },
+      "pdfPages": 3,
+      "assets": [
+        {
+          "path": "preservation/originals/2021-02-07-uighur-muslimder-opor-niryaton/source.jpg",
+          "bytes": 688037,
+          "sha256": "95866b352a991d001bce590a9803131f90b869746d6e407f11de868369519e65"
+        },
+        {
+          "path": "preservation/originals/2021-02-07-uighur-muslimder-opor-niryaton/source.pdf",
+          "bytes": 135829,
+          "sha256": "e971f9c371c2756bde70a6ef32262d5983e8373383904e669abeef133ef21bf2"
+        },
+        {
+          "path": "preservation/originals/2021-02-07-uighur-muslimder-opor-niryaton/visible-text.txt",
+          "bytes": 14362,
+          "sha256": "a7ff90218eb6ba9db20be8d9ed22245d41060355de3b45f380684993411cf033"
+        }
+      ]
     },
     {
       "slug": "2021-01-01-taleban-shasne-afgan-nari",

@@ -3,9 +3,9 @@
   "catalogArticles": 490,
   "originalUrls": 159,
   "withoutOriginalUrl": 331,
-  "preserved": 114,
+  "preserved": 115,
   "articleNotVisible": 44,
-  "blocked": 1,
+  "blocked": 0,
   "records": [
     {
       "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
@@ -1219,9 +1219,9 @@
       "slug": "2021-02-07-uighur-muslimder-opor-niryaton",
       "url": "https://www.bd-pratidin.com/printnews/615927",
       "resolvedUrl": "https://www.bd-pratidin.com/printnews/615927",
-      "status": "blocked",
-      "checkedAt": "2026-11-01T19:03:37.992Z",
-      "retriedAt": "2026-11-01T19:13:01.241Z"
+      "status": "captured",
+      "checkedAt": "2026-11-01T19:50:28.393Z",
+      "retriedAt": "2026-11-01T19:50:28.393Z"
     },
     {
       "slug": "2021-01-01-taleban-shasne-afgan-nari",
