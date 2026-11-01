@@ -195,6 +195,10 @@ export const articleImages: Record<string, { width: number; height: number }> = 
     "width": 1280,
     "height": 720
   },
+  "/articles/2026-11-01-dhormer-name-mob-bicharer-name-borborota.jpg": {
+    "width": 1280,
+    "height": 720
+  },
   "/articles/archive-editorial-default.svg": {
     "width": 1600,
     "height": 900

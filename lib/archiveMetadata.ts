@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
+    "title": "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-11-01",
+    "publishedDateLabel": "১ নভেম্বর ২০২৬"
+  },
+  {
     "slug": "2026-10-28-ekjon-manik-poshari-o-ajker-bangladesh",
     "title": "একজন মানিক পশারি ও আজকের বাংলাদেশ",
     "publication": "চরচা",
