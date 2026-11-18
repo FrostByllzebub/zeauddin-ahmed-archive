@@ -199,6 +199,10 @@ export const articleImages: Record<string, { width: number; height: number }> = 
     "width": 1280,
     "height": 720
   },
+  "/articles/2026-11-13-saudi-jot-bonam-houthi-protirodh.webp": {
+    "width": 1366,
+    "height": 768
+  },
   "/articles/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande.jpg": {
     "width": 1280,
     "height": 720

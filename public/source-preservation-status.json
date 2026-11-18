@@ -1,12 +1,20 @@
 {
   "checkedAt": "2026-11-18",
-  "catalogArticles": 491,
-  "originalUrls": 160,
+  "catalogArticles": 492,
+  "originalUrls": 161,
   "withoutOriginalUrl": 331,
-  "preserved": 116,
+  "preserved": 117,
   "articleNotVisible": 44,
   "blocked": 0,
   "records": [
+    {
+      "slug": "2026-11-13-saudi-jot-bonam-houthi-protirodh",
+      "url": "https://www.chaarcha.com/thoughts/chlallri80ii",
+      "resolvedUrl": "https://www.chaarcha.com/thoughts/chlallri80ii",
+      "status": "captured",
+      "checkedAt": "2026-11-18T17:30:10.995548+00:00",
+      "retriedAt": null
+    },
     {
       "slug": "2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande",
       "url": "https://sangbad.net/news/23343/",

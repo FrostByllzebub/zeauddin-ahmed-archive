@@ -7,6 +7,13 @@ export const archiveMetadata = [
     "publishedDateLabel": "১৫ নভেম্বর ২০২৬"
   },
   {
+    "slug": "2026-11-13-saudi-jot-bonam-houthi-protirodh",
+    "title": "সৌদি জোট বনাম হুতি প্রতিরোধ",
+    "publication": "চরচা",
+    "publishedAt": "2026-11-13",
+    "publishedDateLabel": "১৩ নভেম্বর ২০২৬"
+  },
+  {
     "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
     "title": "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
     "publication": "সংবাদ",

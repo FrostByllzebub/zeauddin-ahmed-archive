@@ -1,0 +1,37 @@
+{
+  "slug": "2026-11-13-saudi-jot-bonam-houthi-protirodh",
+  "title": "সৌদি জোট বনাম হুতি প্রতিরোধ",
+  "url": "https://www.chaarcha.com/thoughts/chlallri80ii",
+  "date": "2026-11-13",
+  "checkedAt": "2026-11-18T17:30:10.995548+00:00",
+  "resolvedUrl": "https://www.chaarcha.com/thoughts/chlallri80ii",
+  "status": "captured",
+  "headings": [
+    "সৌদি জোট বনাম হুতি প্রতিরোধ"
+  ],
+  "screenshot": "preservation/originals/2026-11-13-saudi-jot-bonam-houthi-protirodh/source.jpg",
+  "pdf": "preservation/originals/2026-11-13-saudi-jot-bonam-houthi-protirodh/source.pdf",
+  "visibleText": "preservation/originals/2026-11-13-saudi-jot-bonam-houthi-protirodh/visible-text.txt",
+  "imageDimensions": {
+    "width": 2536,
+    "height": 6230
+  },
+  "captureMethod": "Unchanged full-page browser screenshot embedded in a visual PDF; original publisher article, no text reconstruction.",
+  "assets": [
+    {
+      "path": "preservation/originals/2026-11-13-saudi-jot-bonam-houthi-protirodh/source.jpg",
+      "bytes": 977585,
+      "sha256": "7459111b34fb90ee10bea8367e5e7c742d17330ab87bf742999391b3cae93a1b"
+    },
+    {
+      "path": "preservation/originals/2026-11-13-saudi-jot-bonam-houthi-protirodh/source.pdf",
+      "bytes": 1124472,
+      "sha256": "b5ff981c131823c0c981b5bd7590f5776e005913e27e9c08e00c329796acf695"
+    },
+    {
+      "path": "preservation/originals/2026-11-13-saudi-jot-bonam-houthi-protirodh/visible-text.txt",
+      "bytes": 12287,
+      "sha256": "6d7f580de011ff1392da4755c41f67ab8d696d88705ce6b08e09c6da6e17e27a"
+    }
+  ]
+}
