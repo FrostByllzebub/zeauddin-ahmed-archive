@@ -14,6 +14,13 @@ export const archiveMetadata = [
     "publishedDateLabel": "১৩ নভেম্বর ২০২৬"
   },
   {
+    "slug": "2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan",
+    "title": "পোশাক খাতে অস্থিরতা: প্রয়োজন বাস্তবসম্মত সমাধান",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-11-08",
+    "publishedDateLabel": "৮ নভেম্বর ২০২৬"
+  },
+  {
     "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
     "title": "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
     "publication": "সংবাদ",

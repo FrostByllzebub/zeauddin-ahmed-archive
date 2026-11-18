@@ -1,12 +1,20 @@
 {
   "checkedAt": "2026-11-18",
-  "catalogArticles": 492,
-  "originalUrls": 161,
+  "catalogArticles": 493,
+  "originalUrls": 162,
   "withoutOriginalUrl": 331,
-  "preserved": 117,
+  "preserved": 118,
   "articleNotVisible": 44,
   "blocked": 0,
   "records": [
+    {
+      "slug": "2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan",
+      "url": "https://sangbad.net/news/22791/",
+      "resolvedUrl": "https://sangbad.net/news/22791/",
+      "status": "captured",
+      "checkedAt": "2026-11-18T17:45:42.385389+00:00",
+      "retriedAt": null
+    },
     {
       "slug": "2026-11-13-saudi-jot-bonam-houthi-protirodh",
       "url": "https://www.chaarcha.com/thoughts/chlallri80ii",

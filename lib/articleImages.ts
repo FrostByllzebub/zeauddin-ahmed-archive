@@ -199,6 +199,10 @@ export const articleImages: Record<string, { width: number; height: number }> = 
     "width": 1280,
     "height": 720
   },
+  "/articles/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan.jpg": {
+    "width": 1280,
+    "height": 720
+  },
   "/articles/2026-11-13-saudi-jot-bonam-houthi-protirodh.webp": {
     "width": 1366,
     "height": 768

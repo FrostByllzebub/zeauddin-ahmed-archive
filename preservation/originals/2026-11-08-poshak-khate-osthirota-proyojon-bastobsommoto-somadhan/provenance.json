@@ -1,0 +1,37 @@
+{
+  "slug": "2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan",
+  "title": "পোশাক খাতে অস্থিরতা: প্রয়োজন বাস্তবসম্মত সমাধান",
+  "url": "https://sangbad.net/news/22791/",
+  "date": "2026-11-08",
+  "checkedAt": "2026-11-18T17:45:42.385389+00:00",
+  "resolvedUrl": "https://sangbad.net/news/22791/",
+  "status": "captured",
+  "headings": [
+    "পোশাক খাতে অস্থিরতা: প্রয়োজন বাস্তবসম্মত সমাধান"
+  ],
+  "screenshot": "preservation/originals/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan/source.jpg",
+  "pdf": "preservation/originals/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan/source.pdf",
+  "visibleText": "preservation/originals/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan/visible-text.txt",
+  "imageDimensions": {
+    "width": 1265,
+    "height": 3758
+  },
+  "captureMethod": "Unchanged full-page browser screenshot embedded in a visual PDF; original publisher page, no article reconstruction.",
+  "assets": [
+    {
+      "path": "preservation/originals/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan/source.jpg",
+      "bytes": 818229,
+      "sha256": "b4045887943c23e89612acda13706a5d89389d7a712b1c2ae824fa367ccd5d15"
+    },
+    {
+      "path": "preservation/originals/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan/source.pdf",
+      "bytes": 1024905,
+      "sha256": "42243ebd62d37e1abfa609390099a7e4ebf3fdaf2a427d13ad5f0192fa3f5de0"
+    },
+    {
+      "path": "preservation/originals/2026-11-08-poshak-khate-osthirota-proyojon-bastobsommoto-somadhan/visible-text.txt",
+      "bytes": 14569,
+      "sha256": "69a1cd30a608e2572f88dc8b35752210171f9a16142a5baae7d1adfe8ad643fa"
+    }
+  ]
+}
