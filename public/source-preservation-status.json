@@ -1,12 +1,20 @@
 {
-  "checkedAt": "2026-11-01",
-  "catalogArticles": 490,
-  "originalUrls": 159,
+  "checkedAt": "2026-11-18",
+  "catalogArticles": 491,
+  "originalUrls": 160,
   "withoutOriginalUrl": 331,
-  "preserved": 115,
+  "preserved": 116,
   "articleNotVisible": 44,
   "blocked": 0,
   "records": [
+    {
+      "slug": "2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande",
+      "url": "https://sangbad.net/news/23343/",
+      "resolvedUrl": "https://sangbad.net/news/23343/",
+      "status": "captured",
+      "checkedAt": "2026-11-18T17:07:39.007268+00:00",
+      "retriedAt": null
+    },
     {
       "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
       "url": "https://sangbad.net/news/22250/",

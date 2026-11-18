@@ -1,16 +1,53 @@
 {
   "schemaVersion": 1,
-  "catalogArticles": 490,
+  "catalogArticles": 491,
   "articlesWithoutOriginalUrl": 331,
-  "checkedSourceUrls": 159,
+  "checkedSourceUrls": 160,
   "summary": {
-    "captured": 115,
+    "captured": 116,
     "article_not_visible": 44,
     "blocked": 0,
     "capture_failed": 0
   },
   "captureDescription": "Source-faithful screenshots and visual PDFs of publisher pages. Article-region capture excludes unrelated infinite feeds where necessary. Not publisher-issued PDFs. Original URLs are retained even when unavailable.",
   "records": [
+    {
+      "slug": "2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande",
+      "title": "উন্নয়নের রোল মডেল এখন স্থবিরতার ফাঁদে",
+      "url": "https://sangbad.net/news/23343/",
+      "date": "2026-11-15",
+      "checkedAt": "2026-11-18T17:07:39.007268+00:00",
+      "resolvedUrl": "https://sangbad.net/news/23343/",
+      "status": "captured",
+      "headings": [
+        "উন্নয়নের রোল মডেল এখন স্থবিরতার ফাঁদে"
+      ],
+      "screenshot": "preservation/originals/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande/source.jpg",
+      "pdf": "preservation/originals/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande/source.pdf",
+      "visibleText": "preservation/originals/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande/visible-text.txt",
+      "imageDimensions": {
+        "width": 2536,
+        "height": 3913
+      },
+      "captureMethod": "Unchanged full-page browser screenshot embedded in a visual PDF; original publisher article, no text reconstruction.",
+      "assets": [
+        {
+          "path": "preservation/originals/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande/source.jpg",
+          "bytes": 1031886,
+          "sha256": "47fb8bf0ca7e8445197f4136e04350a3013da4c5a082cc129e4c8177c9cf91b3"
+        },
+        {
+          "path": "preservation/originals/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande/source.pdf",
+          "bytes": 1291912,
+          "sha256": "4123727cc87cf8e359e67ea9daa38edcbc560a86350d5d35bbd7ad8e82e6806d"
+        },
+        {
+          "path": "preservation/originals/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande/visible-text.txt",
+          "bytes": 17795,
+          "sha256": "f6d1a753820a525351ecbe131bd1fa25c8770d605534db5628d96da44e2c59d1"
+        }
+      ]
+    },
     {
       "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
       "title": "ধর্মের নামে মব, বিচারের নামে বর্বরতা",

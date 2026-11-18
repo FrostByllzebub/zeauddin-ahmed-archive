@@ -199,6 +199,10 @@ export const articleImages: Record<string, { width: number; height: number }> = 
     "width": 1280,
     "height": 720
   },
+  "/articles/2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande.jpg": {
+    "width": 1280,
+    "height": 720
+  },
   "/articles/archive-editorial-default.svg": {
     "width": 1600,
     "height": 900

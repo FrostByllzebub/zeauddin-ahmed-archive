@@ -1,5 +1,12 @@
 export const archiveMetadata = [
   {
+    "slug": "2026-11-15-unnoyoner-rol-model-ekhon-sthobirotar-fande",
+    "title": "উন্নয়নের রোল মডেল এখন স্থবিরতার ফাঁদে",
+    "publication": "সংবাদ",
+    "publishedAt": "2026-11-15",
+    "publishedDateLabel": "১৫ নভেম্বর ২০২৬"
+  },
+  {
     "slug": "2026-11-01-dhormer-name-mob-bicharer-name-borborota",
     "title": "ধর্মের নামে মব, বিচারের নামে বর্বরতা",
     "publication": "সংবাদ",
